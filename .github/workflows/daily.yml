@@ -1,0 +1,41 @@
+name: Daily AI News
+
+on:
+  schedule:
+    # 每天北京时间 9:00 运行（UTC 1:00）
+    - cron: '0 1 * * *'
+  # 支持手动触发（调试用）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate daily news
+        run: python generate_news.py
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "ai-daily-bot"
+          git config user.email "bot@ai-daily.local"
+          git add docs/
+          git diff --cached --quiet || (git commit -m "update daily AI news $(date +%Y-%m-%d)" && git push)
