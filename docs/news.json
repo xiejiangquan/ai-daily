@@ -1,0 +1,105 @@
+{
+  "days": [
+    {
+      "id": "31b2b36c",
+      "date": "2026-04-08",
+      "generated_at": "2026-04-08T08:06:30.413942+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Report: Meta developing open-source versions of upcoming AI models",
+              "summary": "Meta Platforms Inc. plans to release open-source versions of its next-generation artificial intelligence models, Axios reported today. The company debuted its most capable neural network last April. L",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/04/06/report-meta-developing-open-source-versions-upcoming-ai-models/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ChatGPT maker OpenAI calls for investigation into Elon Musk for anti-competitive behaviour",
+              "summary": "In a trial set to open in weeks, Mr Musk is seeking as much as US$134 billion in damages from OpenAI and Microsoft. Read more at straitstimes.com. Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-calls-for-investigation-into-elon-musk-for-anti-competitive-behaviour",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☑️ It’s official now! Corinthians confirm Fernando Diniz",
+              "summary": "Corinthians did not go even 24 hours without a head coach.Fernando Diniz will, in fact, be Dorival Júnior’s replacement at Timão.At 52, he signed a contract until the end of this season.A video on...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/its-official-now-corinthians-confirm-fernando-diniz-42672154",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AIPro360 Introduces an All-in-One AI Marketing and Sales Platform for Local Business Owners",
+              "summary": "Las Vegas, NV, April 06, 2026 (GLOBE NEWSWIRE) -- As artificial intelligence continues to reshape how businesses operate, AIPro360 announces its all-in-one marketing and sales platform for local busin",
+              "source": "Associated Press",
+              "url": "https://apnews.com/press-release/globenewswire-mobile/aipro360-introduces-an-all-in-one-ai-marketing-and-sales-platform-for-local-business-owners-ed620f0430bc21c0ec6c9edf7271ec72",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The “Good News” Is Always the Same: the Stock Market Is Up–Until It Isn’t",
+              "summary": "Cloaking a fake “market” with artifice to maintain its asymmetrical distribution of wealth and income also cloaks its detachment from the real world. I often refer to the dynamics of self-correction a",
+              "source": "Activistpost.com",
+              "url": "https://www.activistpost.com/the-good-news-is-always-the-same-the-stock-market-is-up-until-it-isnt/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Scalable Ni‑driven synthesis of Pt single‑site catalysts for hydrogen evolution",
+              "summary": "Platinum-based catalysts are essential for sustainable hydrogen production. Here, the authors report a scalable synthesis of a low-platinum catalyst supported on Ni-N-doped carbon nanotubes that maint",
+              "source": "Nature.com",
+              "url": "https://www.nature.com/articles/s41467-026-71498-6",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Whole genome analysis of selection associated with resistance to heat stress in chickens",
+              "summary": "Following their domestication, chickens were translocated around the world to novel environments. Through a combination of natural and artificial selection, chickens adapted to these local conditions,",
+              "source": "Nature.com",
+              "url": "https://www.nature.com/articles/s41598-026-41813-8",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Modeling of fractional order DPG model insight global warming and pollution effect on desertification for control mechanism",
+              "summary": "Scientific Reports - Modeling of fractional order DPG model insight global warming and pollution effect on desertification for control mechanism",
+              "source": "Nature.com",
+              "url": "https://www.nature.com/articles/s41598-026-47606-3",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Grammarly for tweet reach – 36 rules from X's source: Article URL: https://github.com/Aytun",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Local-first agent memory loop 48hrs before the Claude Code leak: We spent the last year arc",
+          "summary": ""
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-04-08T08:06:30.413942+08:00",
+  "total_days": 1
+}
