@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c65e7e6c",
+      "date": "2026-04-09",
+      "generated_at": "2026-04-09T11:46:07.999665+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "ARTDINK GAME LOG: Aquanaut’s Holiday launches April 23 in Japan",
+              "summary": "ARTDINK GAME LOG: Aquanaut’s Holiday will launch for Switch and PC via Steam on April 23 in Japan for 2,420 yen, Artdink Corporation announced. It will only support Japanese as a language opt…",
+              "source": "Gematsu",
+              "url": "https://www.gematsu.com/2026/04/artdink-game-log-aquanauts-holiday-launches-april-23-in-japan",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "pymaise-dev 2.1.0",
+              "summary": "Michigan Artificial Intelligence Standard Environment",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/pymaise-dev/2.1.0/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Brooklyn Nets out-tanked by Milwaukee Bucks, win 96-90",
+              "summary": "The Nets won their second straight game at the worst possible moment, as the Bucks taught ‘em a lesson in futility.",
+              "source": "NetsDaily",
+              "url": "https://www.netsdaily.com/nets-scores-results/108587/nets-vs-bucks-96-90-ej-liddell-aj-green",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The ‘human exception’ in AI governance: Are we serious or just ticking boxes?",
+              "summary": "AI regulations heavily scrutinise algorithms while blindly trusting the humans in the loop. To achieve systemic safety, we must subject both human and AI decision-makers to the same rigorous standards",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/opinion/The-human-exception-in-AI-governance-Are-we-serious-or-just-ticking-boxes",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump acknowledges Canadian annexation unlikely – author",
+              "summary": "President Donald Trump allegedly conceded that Canada is unlikely to become a US state, despite his previous taunts, according to British journalist Robert Hardman’s book",
+              "source": "RT",
+              "url": "https://www.rt.com/news/637617-trump-canadian-annexation-unlikely-book/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "\"Productive meeting on US-India commercial roadmap\": Sergio Gor meets US Commerce Secretary",
+              "summary": "US Ambassador Sergio Gor met with US Secretary of Commerce Howard Lutnick in Washington DC. They discussed boosting cooperation in Artificial Intelligence and Indian pharmaceutical investment in the U",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/productive-meeting-on-us-india-commercial-roadmap-sergio-gor-meets-us-commerce-secretary/articleshow/130100174.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "“Productive talks on US-India ties”: Sergio Gor meets Commerce Secretary Lutnick",
+              "summary": "US Ambassador to India Sergio Gor discussed a commercial roadmap with Commerce Secretary Howard Lutnick, including a proposed AI partnership and increased Indian pharma investment in the US.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/economy/productive-talks-on-us-india-ties-sergio-gor-meets-commerce-secretary-lutnick/article70836888.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Digital Realty Opens First Asia Pacific Innovation Lab in Japan to Help Accelerate AI and Hybrid Cloud Deployment",
+              "summary": "Digital Realty today announced the opening of the first Digital Realty Innovation Lab (DRIL) in Asia Pacific, located at the NRT12 in Japan....",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/04/08/3269783/0/en/Digital-Realty-Opens-First-Asia-Pacific-Innovation-Lab-in-Japan-to-Help-Accelerate-AI-and-Hybrid-Cloud-Deployment.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Grammarly for tweet reach – 36 rules from X's source: Article URL: https://github.com/Aytun",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Local-first agent memory loop 48hrs before the Claude Code leak: We spent the last year arc",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "31b2b36c",
       "date": "2026-04-08",
       "generated_at": "2026-04-08T08:06:30.413942+08:00",
@@ -100,6 +199,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-08T08:06:30.413942+08:00",
-  "total_days": 1
+  "last_updated": "2026-04-09T11:46:07.999665+08:00",
+  "total_days": 2
 }
