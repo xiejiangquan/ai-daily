@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b6fa2680",
+      "date": "2026-04-10",
+      "generated_at": "2026-04-10T11:58:48.885323+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "CATL invests in China's Zhongheng Electric as AI demand surges",
+              "summary": "As artificial intelligence (AI) accelerates the buildout of data centers, the race to supply their enormous energy demands is drawing new alliances between China's technology and industrial giants.",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260409VL205/catl-investment-power-components-electricity-demand.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TCS shares in focus ahead of IT firm’s Q4 earnings announcement. What to expect?",
+              "summary": "Investors are keenly watching TCS's earnings announcement following a significant IT stock plunge. Analysts anticipate moderate revenue and profit growth, with BFSI and technology verticals driving pe",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-ahead-of-it-firms-q4-earnings-announcement-what-to-expect/articleshow/130128834.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sounds of silence: Israeli sports return, but minus fans who define them",
+              "summary": "As the Israel Soccer League resumed play across the country this week, the atmosphere was eerie. It evoked the empty-stadium days of the COVID-19 pandemic in 2020.",
+              "source": "The Jerusalem Post",
+              "url": "https://www.jpost.com/israel-news/sports/article-892405",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Alibaba and Meta retreat from open-source AI",
+              "summary": "Alibaba and Meta are both recalibrating their artificial intelligence strategies, with recent product decisions pointing to a broader industry shift toward closed or hybrid models — even among compani",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260408PD201/alibaba-meta-flagship.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vathos Mercenza Review: Scam or Legit Trading Platform? Truth Revealed",
+              "summary": "Vathos Mercenza is introduced as a newly launched online trading program designed to smooth and enhance the overall user experience for individuals interested in digital asset investors. The platform ",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/vathos-mercenza-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI-generated doctors in health ads must be labelled: S. Korean govt",
+              "summary": "Current guidelines have no provisions covering AI-generated characters. Read more at straitstimes.com. Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/asia/east-asia/ai-generated-doctors-in-health-ads-must-be-labelled-s-korean-govt",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "BofA sees upside in bank stocks, cautious on IT sector outlook",
+              "summary": "BofA sees Indian bank stocks as attractive buys after recent correction, while remaining cautious on IT sector due to AI disruption and weaker demand outlook.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/markets/bofa-sees-upside-in-bank-stocks-cautious-on-it-sector-outlook/article70841045.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pura Custodier Review: Trusted Trading System or Fraud? Results Exposed",
+              "summary": "Pura Custodier emerges as a newly developed crypto trading system built to simplify and upgrade the overall trading experience for individuals interested in cryptocurrency markets. The platform sugges",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/pura-custodier-review/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
+          "summary": ""
+        },
+        {
+          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
+          "summary": ""
+        },
+        {
+          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c65e7e6c",
       "date": "2026-04-09",
       "generated_at": "2026-04-09T11:46:07.999665+08:00",
@@ -199,6 +298,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-09T11:46:07.999665+08:00",
-  "total_days": 2
+  "last_updated": "2026-04-10T11:58:48.885323+08:00",
+  "total_days": 3
 }
