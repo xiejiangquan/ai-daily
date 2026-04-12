@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "07151d28",
+      "date": "2026-04-12",
+      "generated_at": "2026-04-12T12:09:52.253223+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Indian Ocean must prepare for turbulent world, deepen cooperation: EAM outlines 5 priorities at 9th IOC",
+              "summary": "India's External Affairs Minister S. Jaishankar has presented five key priorities for Indian Ocean nations. He stressed the need for regional cooperation amid rising global uncertainty. The minister h",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/indian-ocean-must-prepare-for-turbulent-world-deepen-cooperation-eam-outlines-5-priorities-at-9th-ioc/articleshow/130184067.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s state media turns to social media and AI to tell its story — and often mock the US",
+              "summary": "The messaging from China’s Communist government may once have been rigid, but not anymore",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/Technology/wireStory/chinas-state-media-turns-social-media-ai-story-131938620",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Mexico cruised in the qualifier for the 2027 World Cup",
+              "summary": "Mexico’s women’s team keeps up its perfect run in the tournament that will award spots for the 2027 World Cup and the 2028 Olympic Games.A festive atmosphere was on display at Estadio Carlos Vega ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/mexico-cruised-in-the-qualifier-for-the-2027-world-cup-42692571",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Show HN: Lmscan – Detect AI text and fingerprint which LLM wrote it (zero deps)",
+              "summary": " Detect AI-generated text and fingerprint which LLM wrote it. Open-source GPTZero alternative. Zero dependencies, works offline. - stef41/lmscan",
+              "source": "Github.com",
+              "url": "https://github.com/stef41/lmscan",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CFTC unveils innovation task force members in crypto clarity push",
+              "summary": "The CFTC's new innovation task force will focus on crypto, blockchain, AI and prediction markets as the agency awaits the Clarity Act's potential passage.",
+              "source": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Brazil U17 coach celebrates win over Argentina and World Cup spot",
+              "summary": "Carlos Eduardo Patetuci, coach of the Brazil U-17 National TeamCredits: Nelson Terme / CBFBrazil’s U-17 National Team beat Argentina 3-0 this Friday (10) at Estádio Ameliano Villeta in Paraguay, se...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/brazil-u17-coach-celebrates-win-over-argentina-and-world-cup-spot-42692549",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google secured discom licence for Vizag data centre hub",
+              "summary": "Google has received a power distribution license for its upcoming 1 GW data centre hub in Visakhapatnam. This is a significant step for the $15 billion project, the largest single foreign direct inves",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/google-secured-discom-licence-for-vizag-data-centre-hub/articleshow/130183476.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Cris Gambaré and Diogo Pécora meet Mato Grosso governor, MPs",
+              "summary": "This Friday (10), CBF Women’s National Teams coordinator Cris Gambaré and the president of the Mato Grosso Football Federation (FMF) and head of delegation for the Women’s National Team, Diogo P�...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/cris-gambare-and-diogo-pecora-meet-mato-grosso-governor-and-mps-42692480",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
+          "summary": ""
+        },
+        {
+          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
+          "summary": ""
+        },
+        {
+          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2fe06d1e",
       "date": "2026-04-11",
       "generated_at": "2026-04-11T11:35:22.936673+08:00",
@@ -397,6 +496,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-11T11:35:22.936673+08:00",
-  "total_days": 4
+  "last_updated": "2026-04-12T12:09:52.253223+08:00",
+  "total_days": 5
 }
