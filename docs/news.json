@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9a09ffa6",
+      "date": "2026-04-13",
+      "generated_at": "2026-04-13T12:19:09.789524+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
+              "summary": "AI experts at HumanX conference advise workers to code smarter and embrace human skills. Companies are increasingly citing AI for job cuts, sparking anxiety. While some dismiss AI as a pretext for lay",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stop-hiring-humans-silicon-valley-confronts-ai-job-panic/articleshow/130202371.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX Will Have Static Fire Testing of All 33 Engines",
+              "summary": "Starlink V3 launches with Starship will carry 25 to 50 times more bandwidth than a Falcon flight with V2, depending on how you count it. Starship will also launch 100+ times more per year than Falcon ",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/04/spacex-will-have-static-fire-testing-of-all-33-engines.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TV guide: the best new shows to watch, starting tonight",
+              "summary": "Young Forever: The Death of Ageing?, Gordon Ramsay’s Secret Service, Margo’s Got Money Troubles and more",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/culture/tv-radio/2026/04/12/tv-guide-the-best-new-shows-to-watch-starting-tonight/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple TV’s Upcoming Cyberpunk Show Will Redeem 2025’s Biggest Sci-Fi Failure",
+              "summary": "Apple TV’s highly-anticipated cyberpunk show seems to have the perfect opportunity to make up for one of 2025’s biggest failed science fiction movies.",
+              "source": "Screen Rant",
+              "url": "https://screenrant.com/apple-tv-cyberpunk-neuromancer-tron-ares/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI generated the animation for this TV show. Is it 'cool' or 'messed up'?",
+              "summary": "A television show that uses generative artificial intelligence to animate Indonesian folktales is creating a stir.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-04-12/indonesias-first-fully-animated-ai-television-program/106536048",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Brazil beaten by the United States in first friendly in Kansas",
+              "summary": "Brazil’s Women’s Under-20 National Team was beaten 2-0 by the United States this Saturday (11) at CPKC Stadium in Kansas (USA), in a friendly serving as preparation for the FIFA U-20 Women’s Wor...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/brazil-beaten-by-the-united-states-in-first-friendly-in-kansas-42697852",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Hulk turns tables on reporter over Neymar Copa question, watch",
+              "summary": "At Vila Belmiro, Santos beat Atlético-MG 1-0 this Saturday (11), in the 11th round of the 2026 Brasileirão.+ New second-placed team without playing and more changes in the Brasileirão tableThe matc...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/hulk-turns-tables-on-reporter-over-neymar-copa-question-watch-42697833",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tigres thrash and outclass Chivas at El Volcán!",
+              "summary": "Tigres made a statement at El Volcán, thrashing Chivas 4-1. The felines controlled much of the match, handing the Liga MX leaders one of their most painful defeats of the Clausura 2026. The party st..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/tigres-thrash-and-outclass-chivas-at-el-volcan-42697650",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
+          "summary": ""
+        },
+        {
+          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
+          "summary": ""
+        },
+        {
+          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "07151d28",
       "date": "2026-04-12",
       "generated_at": "2026-04-12T12:09:52.253223+08:00",
@@ -496,6 +595,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-12T12:09:52.253223+08:00",
-  "total_days": 5
+  "last_updated": "2026-04-13T12:19:09.789524+08:00",
+  "total_days": 6
 }
