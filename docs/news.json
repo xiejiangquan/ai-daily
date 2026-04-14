@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "30431463",
+      "date": "2026-04-14",
+      "generated_at": "2026-04-14T12:08:43.344764+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "3 ASX 200 shares I would buy immediately if the market dips again",
+              "summary": "These quality shares could be worth a look if they pull back further.\nThe post 3 ASX 200 shares I would buy immediately if the market dips again appeared first on The Motley Fool Australia.",
+              "source": "Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/04/13/3-asx-200-shares-i-would-buy-immediately-if-the-market-dips-again/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can This Tool Predict Where Your City’s Next Car Crash Will Happen?",
+              "summary": "But will U.S. transportation leaders use it to take preemptive action to make roadways safer?",
+              "source": "Streetsblog.org",
+              "url": "https://usa.streetsblog.org/2026/04/13/ai-artificial-intelligence-tool-predict-car-crash-cellphone-data-cambridge-mobile-telematics",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "If we can’t kick the habit, how do we manage AI’s energy needs?",
+              "summary": "One can only hope that OpenAI’s Sam Altman was joking when he sought to justify the immense energy consumption of artificial intelligence",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/feature/If-we-cant-kick-the-habit-how-do-we-manage-AIs-energy-needs",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK Startups Come to London to Rumble With Policymakers",
+              "summary": "More than 30 Founders and Entrepreneurs to Meet with MPs, Peers, and Civil Service on the Needs of the UK's Small Tech Communit More than 30 Founders and Entrepreneurs to Meet with MPs, Peers, and Civ",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/04/13/3272181/0/en/UK-Startups-Come-to-London-to-Rumble-With-Policymakers.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI vs Elon: AI Giant Accuses Musk's Proposal as 'Legal Ambush' Ahead of Trial",
+              "summary": "Elon Musk's $134B lawsuit against OpenAI and Microsoft intensifies, with new claims, leadership challenges, and a high-stakes trial set for April 27.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/openai-vs-elon-ai-giant-accuses-musks-proposal-legal-ambush-ahead-trial-1866294",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK regulators rush to assess risks of latest Anthropic AI model: Report",
+              "summary": "AI startup Anthropic ‌has said the ​model ​is being ​deployed as part of \"Project Glasswing\".",
+              "source": "The Indian Express",
+              "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-report-10633422/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India’s push for sovereign AI to lift Asia’s tech ecosystem",
+              "summary": "A landmark AI infrastructure deal between Yotta and Gorilla Technology aims to deploy up to 36,000 GPUs in India, creating a blueprint for commercially viable AI at scale across the region",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366641695/Indias-push-for-sovereign-AI-to-lift-Asias-tech-ecosystem",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+              "summary": "On Thursday, ​TSMC is expected to report a net profit of $17.1 billion for the quarter, according to an LSEG SmartEstimate compiled from 19 analysts. The war in the Middle East threatens to disrupt th",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand/articleshow/130224219.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
+          "summary": ""
+        },
+        {
+          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
+          "summary": ""
+        },
+        {
+          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9a09ffa6",
       "date": "2026-04-13",
       "generated_at": "2026-04-13T12:19:09.789524+08:00",
@@ -595,6 +694,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-13T12:19:09.789524+08:00",
-  "total_days": 6
+  "last_updated": "2026-04-14T12:08:43.344764+08:00",
+  "total_days": 7
 }
