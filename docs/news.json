@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "2d35d424",
+      "date": "2026-04-15",
+      "generated_at": "2026-04-15T11:58:49.422439+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China's March exports slow as Iran war wipes out AI-driven gains",
+              "summary": "China’s export growth slowed sharply in March to 2.5%, a five-month low, as the impact of the Middle East conflict and rising energy costs offset strong demand driven by artificial intelligence-relate",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/chinas-march-exports-slow-as-iran-war-wipes-out-ai-driven-gains/articleshow/130250394.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Address causes, not symptoms: Industry warns RBI’s new anti-fraud proposals are insufficient and disruptive",
+              "summary": "RBI's recent proposals to prevent digital fraud could harm small merchants by introducing payment delays. Industry leaders suggest that a more tailored, technology-driven approach is needed to combat ",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/industry/banking/address-causes-not-symptoms-industry-warns-rbi-anti-fraud-proposals-insufficient-disruptive-digital-fraud-payment-delays-11776069342577.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘Spider-Verse,’ ‘Resident Evil,’ and an Inspired Jeremy Strong as Mark Zuckerberg Steal the Show in Sony’s CinemaCon Presentation",
+              "summary": "Sony's CinemaCon presentation showed first looks at 'Spider-Man: Beyond the Spider-Verse,\" 'The Social Reckoning,' and 'Resident Evil.'",
+              "source": "IndieWire",
+              "url": "https://www.indiewire.com/news/breaking-news/spider-verse-resident-evil-social-reckoning-sony-cinemacon-1235188808/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Man charged after Molotov cocktail attack on OpenAI CEO's home",
+              "summary": "A man accused of throwing a Molotov cocktail at the home of OpenAI's CEO is charged with attempted murder. Authorities say he had written about AI's purported risk to humanity and \"our impending extin",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-04-14/man-accused-of-attack-on-openai-ceo-home-charged/106562276",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The IRS Is Weaker and Taxpayers Know It",
+              "summary": "As the April 15 tax deadline approaches, a quiet but significant shift is taking place across the United States tax system. Fewer audits. Fewer enforcement agents. And a growing perception among some ",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4374818/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Advertising to the distressed: The commodification of mental health data in AI chatbots",
+              "summary": "By Nicole Gross and Hannah van Kolfschooten Generative Artificial Intelligence (genAI) chatbots have become an important outlet for many people around the world who are experiencing mental health issu",
+              "source": "The BMJ",
+              "url": "https://blogs.bmj.com/medical-ethics/?p=4774",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nissan to trim global car lineup, boost use of AI driving tech",
+              "summary": "Nissan is set to simplify its car models globally. The company aims to use artificial intelligence in most of its vehicles. Sales targets are set for the United States, China, and Japan by 2030. Nissa",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/business/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech/articleshow/130249980.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "​ Barça chase a miracle against Atlético in the Champions",
+              "summary": "After suffering a 2-0 defeat in the first leg, the Blaugrana side will arrive at the Metropolitano aiming to produce a dream night and secure their place in the Champions League semifinals.  Statisti.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/barca-chase-a-miracle-against-atletico-in-the-champions-42707434",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Hong Kong Web3 Festival Unveils 2026 Full Schedule: 4 Days of Insight-Driven Forums with Vitalik, Yi",
+          "summary": ""
+        },
+        {
+          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
+          "summary": ""
+        },
+        {
+          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "30431463",
       "date": "2026-04-14",
       "generated_at": "2026-04-14T12:08:43.344764+08:00",
@@ -694,6 +793,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-14T12:08:43.344764+08:00",
-  "total_days": 7
+  "last_updated": "2026-04-15T11:58:49.422439+08:00",
+  "total_days": 8
 }
