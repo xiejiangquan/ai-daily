@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "6db76002",
+      "date": "2026-04-16",
+      "generated_at": "2026-04-16T12:13:47.420781+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Iconic moments this Tuesday in the Copa Libertadores",
+              "summary": "Matchday 2 of this Tuesday’s Copa Libertadores action has come to an end!A day full of excitement, milestones, but above all, plenty of goals. Join us for a roundup of the best moments from the day...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/iconic-moments-this-tuesday-in-the-copa-libertadores-42712798",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Southern Taiwan Science Park eyes US$94 billion on AI tailwinds",
+              "summary": "Riding the artificial intelligence (AI) boom and strong demand for advanced semiconductor processes, the Southern Taiwan Science Park (STSP) posted record-high revenue of NT$2.97 trillion (approx. US$",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260415PD201/revenue-2026-southern-taiwan-science-park-demand-ai-applications.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "After the Spy Girl controversy, where does publishing’s AI problem leave authors and readers?",
+              "summary": "Publishers risk unwittingly putting out books generated with artificial-intelligence tools. Authors and readers are frustrated, nervous and grasping for solutions",
+              "source": "Irishtimes.comhttps",
+              "url": "https://www.irishtimes.comhttps://www.nytimes.com/2026/04/10/books/shy-girl-ai-publishing.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Iris Ventures Leads Multimillion-dollar Investment Into Lucille, Maker of Nutritious Shakes",
+              "summary": "Iris is putting even more money behind wellness, leading a round of investment in Lucille, which makes healthy high-protein, high-fiber shakes for older people.",
+              "source": "WWD",
+              "url": "http://wwd.com/beauty-industry-news/wellness/iris-leads-multimillion-dollar-round-lucille-shakes-healthy-1238914577/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A La Carte (April 15)",
+              "summary": "Take that risk for Jesus / Have you eliminated submission? / Evaluating your tech usage / Not everything needs to be useful / 10 intercessory prayer points / Before you decree and declare / Book revie",
+              "source": "Challies.com",
+              "url": "https://www.challies.com/a-la-carte/a-la-carte-april-15-2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Americans Turning to AI to Supplement Healthcare Visits",
+              "summary": "One in four Americans use AI for health information. Most do so to supplement care, but some are using AI in place of a provider visit when barriers arise.",
+              "source": "Gallup.com",
+              "url": "https://news.gallup.com/poll/707789/americans-turning-supplement-healthcare-visits.aspx",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US: Maine pushes for first statewide pause on AI data centers",
+              "summary": "While the move by the US state is temporary, it reflects mounting public fears over electricity costs, land use and environmental risks.",
+              "source": "DW (English)",
+              "url": "https://www.dw.com/en/us-maine-pushes-for-first-statewide-pause-on-ai-data-centers/a-76784015",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Neymar in more controversy! Best of the day in the Sudamericana",
+              "summary": "A night of great intensity in the Copa Sudamericana, with Neymar and Santos taking center stage after a major achievement and an incredible draw!This was the best of Tuesday’s cup action:Neymar shin..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/neymar-in-more-controversy-best-of-the-day-in-the-sudamericana-42712727",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "AEO Insights: Building an Informed Answer Engine Strategy: By now, you know that everyone’s buzzing ",
+          "summary": ""
+        },
+        {
+          "topic": "TAN Allegory Font Duo by TanType: Let’s Talk About How TanType’s Allegory Font Duo Brings Editorial ",
+          "summary": ""
+        },
+        {
+          "topic": "Hong Kong Web3 Festival Unveils 2026 Full Schedule: 4 Days of Insight-Driven Forums with Vitalik, Yi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2d35d424",
       "date": "2026-04-15",
       "generated_at": "2026-04-15T11:58:49.422439+08:00",
@@ -793,6 +892,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-15T11:58:49.422439+08:00",
-  "total_days": 8
+  "last_updated": "2026-04-16T12:13:47.420781+08:00",
+  "total_days": 9
 }
