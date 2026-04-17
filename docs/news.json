@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "a688a336",
+      "date": "2026-04-17",
+      "generated_at": "2026-04-17T12:10:55.839480+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Terafab Equipment and Chip Orders",
+              "summary": "Elon Musk is ordering equipment for the Terafab with the capacity to process 3,000 wafers per month. 36,000 wafers per year. 3-4 million chips per year. There could be similar numbers from Intel fabs ",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/04/terafab-equipment-and-chip-orders.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
+              "summary": "OpenAI executives say they will introduce a new artificial intelligence model for “high-value professional work” as the company faces heightened competition with rival Anthropic in attracting corporat",
+              "source": "seattlepi.com",
+              "url": "https://www.seattlepi.com/business/article/chatgpt-maker-openai-shifts-its-focus-to-business-22209288.php",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Misinformation becomes a tool of protest and an erosion of trust in our society",
+              "summary": "Artificial intelligence stokes rumour mill and fuels the spread of false information",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/innovation/2026/04/16/misinformation-becomes-a-tool-of-protest-and-an-erosion-of-trust-in-our-society/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Boil Orange Peels for 10 Minutes – The Easy Trick That Makes Your Whole House Smell Fresh Naturally",
+              "summary": "Boiling orange peels for just 10 minutes offers a natural and cost-effective way to refresh interior spaces. This simple kitchen practice releases D-limonene, an organic compound found in citrus peels",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/us/boil-orange-peels-for-10-minutes-the-easy-trick-that-makes-your-whole-house-smell-fresh-naturally/articleshow/130297282.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX Successfully Static Fires V3 Booster",
+              "summary": "Successful static fires of SpaceX V3 booster follows yesterdays successful V3 starship static fire. Hopefully go for a launch in 2 weeks. First 33-engine static fire for Super Heavy V3 pic.twitter.com",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/04/spacex-successfully-static-fires-v3-booster.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Including a mass brawl: Wednesday’s Copa Sudamericana highlights",
+              "summary": "The Copa Sudamericana also grabbed attention this Wednesday with big wins, but also fights and even injuries. Join us for the best of today in the competition. All-out brawl!Olimpia vs. Barracas Cen..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/including-a-mass-brawl-wednesdays-copa-sudamericana-highlights-42718378",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wexford pupil Alfie (11) takes on Education Minister over system that ‘reinforces 1950s gender stereotypes’",
+              "summary": "As Education Minister Hildegarde Naughton took questions from the media at the ASTI conference in White’s Hotel on Tuesday, 11 year-old Alfie Kearney and his mam Cathriona watched on, awaiting their o",
+              "source": "Independent.ie",
+              "url": "https://www.independent.ie/irish-news/wexford-pupil-alfie-11-takes-on-education-minister-over-system-that-reinforces-1950s-gender-stereotypes/a1967232310.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mythos AI model triggers global financial and regulatory scrutiny amid cybersecurity concerns",
+              "summary": "Financial and monetary authorities in the US and other major economies are increasingly focused on Anthropic PBC's new artificial intelligence model, Mythos, amid concerns that its advanced cybersecur",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260415VL201/cybersecurity-anthropic-technology.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "AEO Insights: Building an Informed Answer Engine Strategy: By now, you know that everyone’s buzzing ",
+          "summary": ""
+        },
+        {
+          "topic": "TAN Allegory Font Duo by TanType: Let’s Talk About How TanType’s Allegory Font Duo Brings Editorial ",
+          "summary": ""
+        },
+        {
+          "topic": "Hong Kong Web3 Festival Unveils 2026 Full Schedule: 4 Days of Insight-Driven Forums with Vitalik, Yi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "6db76002",
       "date": "2026-04-16",
       "generated_at": "2026-04-16T12:13:47.420781+08:00",
@@ -892,6 +991,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-16T12:13:47.420781+08:00",
-  "total_days": 9
+  "last_updated": "2026-04-17T12:10:55.839480+08:00",
+  "total_days": 10
 }
