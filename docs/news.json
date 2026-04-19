@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "7c56476a",
+      "date": "2026-04-19",
+      "generated_at": "2026-04-19T12:13:33.609953+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Emergent Ventures India, 16th cohort",
+              "summary": "Roumak Das, a grade 11 student from West Bengal, and Samik Goyal, a 12th grader from Patiala, received their grants to travel to the International Olympiad in Artificial Intelligence 2025 in Beijing, ",
+              "source": "Marginalrevolution.com",
+              "url": "https://marginalrevolution.com/marginalrevolution/2026/04/emergent-ventures-india-16th-cohort.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "llmcachex-ai added to PyPI",
+              "summary": "Drop-in semantic + exact caching layer for LLM applications",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/llmcachex-ai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How AI is powering elections across Tamil Nadu, Kerala, Assam and West Bengal",
+              "summary": "From hyperlocal WhatsApp outreach to cloned voices, AI is transforming political communication-while raising fresh concerns around trust, ethics and control.",
+              "source": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/startup/how-ai-is-powering-elections-across-tamil-nadu-kerala-assam-and-west-bengal-13892471.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Quantum AI just got shockingly good at predicting chaos",
+              "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ",
+              "source": "Science Daily",
+              "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US, Philippines unveil 4,000-acre supply chain zone in the Island of Luzon under Pax Silica push",
+              "summary": "MANILA: The United States and the Philippines have announced plans for a 4,000-acre “Economic Security Zone” in Luzon (ESZ), a new industrial hub meant to strengthen supply chains for critical goods a",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4375384/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google’s Gemini app lands on Mac",
+              "summary": "Mac users now have access to Gemini, which enables them to utilize artificial intelligence directly from their desktop. Google has...\nThe post Google’s Gemini app lands on Mac appeared first on YugaTe",
+              "source": "Yugatech.com",
+              "url": "https://www.yugatech.com/news/googles-gemini-app-lands-on-mac/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bill Maher Slams Sam Altman, Mark Zuckerberg and Other Tech Leaders in Scathing Rebuke of AI: ‘Practically Robots Themselves’",
+              "summary": "\"I wouldn't let these guys around a mixed drink, let alone my personal data,\" the late night host adds\nThe post Bill Maher Slams Sam Altman, Mark Zuckerberg and Other Tech Leaders in Scathing Rebuke o",
+              "source": "TheWrap",
+              "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-slams-ai-leaders-elon-musk-sam-altman-mark-zuckerberg/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sergio Bueno ban confirmed after row with Katia Itzel",
+              "summary": "Through its social media channels, the Mexican Football Federation confirmed the sanction against Sergio Bueno following the controversy involving referee Katia Itzel on Matchday 14 of the Clausura 20",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/sergio-bueno-ban-confirmed-after-row-with-katia-itzel-42728339",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Tim Ferriss Show Transcripts: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to ",
+          "summary": ""
+        },
+        {
+          "topic": "AEO Insights: Building an Informed Answer Engine Strategy: By now, you know that everyone’s buzzing ",
+          "summary": ""
+        },
+        {
+          "topic": "TAN Allegory Font Duo by TanType: Let’s Talk About How TanType’s Allegory Font Duo Brings Editorial ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "157bc2d2",
       "date": "2026-04-18",
       "generated_at": "2026-04-18T11:47:06.514540+08:00",
@@ -1090,6 +1189,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-18T11:47:06.514540+08:00",
-  "total_days": 11
+  "last_updated": "2026-04-19T12:13:33.609953+08:00",
+  "total_days": 12
 }
