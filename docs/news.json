@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e5737d4c",
+      "date": "2026-04-20",
+      "generated_at": "2026-04-20T12:18:38.617828+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Referees' committee clears up VAR row with Horacio Elizondo",
+              "summary": "Through a statement, the Referees’ Commission revealed its position on the controversy over an alleged violation of the rules in the VAR booth. \"The Referees’ Commission clarifies that there was ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/referees-committee-clears-up-var-row-with-horacio-elizondo-42733970",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "BIOptimizers MassZymes 120-Capsule Digestive Enzyme Supplement + Magnesium Breakthrough and Biological Optimization eBook Gifts for $24 w/ Subscription + $7 shipping",
+              "summary": "BIOptimizers is offering its Digestive Enzyme Supplement MassZymes at 30% off for $28 (reduced from $40) + a best-selling Magnesium Breakthrough and Biological Optimization eBook for the first month f",
+              "source": "Dealnews.com",
+              "url": "https://www.dealnews.com/BIOptimizers-Mass-Zymes-120-Capsule-Digestive-Enzyme-Supplement-Magnesium-Breakthrough-and-Biological-Optimization-eBook-Gifts-for-24-w-Subscription-7-shipping/21822757.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stars and science align at annual Breakthrough Prize Ceremony with Anne Hathaway, Robert Downey Jr., Margot Robbie and more A-listers",
+              "summary": "The Breakthrough Prize celebrates research achievements of the world’s top scientists, and the gala awards more than $15 million in prizes annually.",
+              "source": "Page Six",
+              "url": "https://pagesix.com/2026/04/18/entertainment/top-stars-scientists-gather-for-annual-breakthrough-prize-ceremony/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Chivas show no mercy and thrash Puebla!",
+              "summary": "Chivas took out on Puebla the thrashing they suffered at El Volcán and handed them a painful 5-0 defeat at Akron Stadium. The Red-and-Whites took the lead in the first half with two goals. Bryan Gon..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/chivas-show-no-mercy-and-thrash-puebla-42733766",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Pachuca catch Rayados napping and spark controversy: was it a goal?",
+              "summary": "Liga MX never stops delivering surprises, and tonight, Monterrey vs. Pachuca has taken center stage because of its third goal: was it really a goal? The early surprise came when the players were argui",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/pachuca-catch-rayados-napping-and-spark-controversy-was-it-a-goal-42733759",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Colo Colo's squad for Plestino",
+              "summary": "Through their social media channels, Colo Colo officially announced Fernando Ortiz’s squad list to face Palestino during the week of celebrations for their 101st anniversary.  For this match, the A...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/colo-colos-squad-for-plestino-42733714",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "América - Toluca line-ups are ready",
+              "summary": "América returns to Estadio Banorte to face Toluca on Matchday 16 of the Clausura 2026. Las Águilas need to take all three points or their place in the Liguilla could be in danger.For now, Jardine’...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/america-toluca-line-ups-are-ready-42733676",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gago explains his decisions at the start of the match",
+              "summary": "Fernando Gago spoke to the press after a hard-fought goalless draw against Everton, which puts Universidad de Chile’s future in the tournament at risk. One of the questions surrounding his starting...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/gago-explains-his-decisions-at-the-start-of-the-match-42733674",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Top Audience Research Methods For Financial Marketing Success: Elevate your financial firm's marketi",
+          "summary": ""
+        },
+        {
+          "topic": "Justin Sun Says Bitcoin 'Debates,' Ethereum Forms 'Research Committees,' While Tron 'Builds' As Bloc",
+          "summary": ""
+        },
+        {
+          "topic": "The Tim Ferriss Show Transcripts: 4-Hour Workweek Success Story Brian Dean — From Dad’s Basement to ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7c56476a",
       "date": "2026-04-19",
       "generated_at": "2026-04-19T12:13:33.609953+08:00",
@@ -1189,6 +1288,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-19T12:13:33.609953+08:00",
-  "total_days": 12
+  "last_updated": "2026-04-20T12:18:38.617828+08:00",
+  "total_days": 13
 }
