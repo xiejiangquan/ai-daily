@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "50081293",
+      "date": "2026-04-21",
+      "generated_at": "2026-04-21T12:11:01.472085+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "‘Robots don’t bleed’: Ukraine sends machines into the battlefield in place of human soldiers",
+              "summary": "Ukraine’s military is increasingly using robots to replace human soldiers, even in combat assault missions, helping to counter Russia’s manpower advantage.",
+              "source": "CNN",
+              "url": "https://www.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Updates for the Week of 4/19/26",
+              "summary": "Updates Below are some of the highlights in AI, robotics, and machine learning for this past week. 4/19 4/18 4/17 4/16 4/15 4/14 4/13 Learn More You can get more details as well as citations in my AI ",
+              "source": "Annielytics.com",
+              "url": "https://www.annielytics.com/blog/ai/ai-updates-for-the-week-of-4-19-26/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Storage implications of a modern IT architecture",
+              "summary": "One of the challenges of migrating older applications to a cloud-native, modern IT architecture is how to provide persistent storage",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/feature/Storage-implications-of-a-modern-IT-architecture",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Emerging-Market Stocks Erase War Losses on AI Demand, Peace Hope",
+              "summary": "Emerging-market shares recouped their Iran war-induced losses, lifted by a rebound in Asian equities driven by optimism about artificial intelligence and lingering hopes for fresh Middle East tensions",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/emerging-market-stocks-erase-war-losses-on-ai-demand-peace-hope",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Zhen Ding plans Hong Kong listing for subsidiary to boost global IC substrate presence",
+              "summary": "Printed circuit board (PCB) giant Zhen Ding Technology held a board meeting on April 17 and approved plans for its subsidiary, Leading Interconnect Semiconductor Technology (LIST), to apply for a list",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260420PD200/zhen-ding-subsidiary-pcb-ic-substrate.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea, India boost trade ties amid global tensions",
+              "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030.",
+              "source": "DW (English)",
+              "url": "https://www.dw.com/en/south-korea-india-agree-to-boost-trade-ties-amid-global-tensions/a-76852123",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea's Lee visits India for trade talks with Modi",
+              "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030.",
+              "source": "DW (English)",
+              "url": "https://www.dw.com/en/south-koreas-lee-visits-india-for-trade-talks-with-modi/a-76852123",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+              "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of ",
+              "source": "Internet",
+              "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "scout-intel-mcp added to PyPI: Business & market intelligence MCP server for AI agents — 7 tools, 8 ",
+          "summary": ""
+        },
+        {
+          "topic": "Top Audience Research Methods For Financial Marketing Success: Elevate your financial firm's marketi",
+          "summary": ""
+        },
+        {
+          "topic": "Justin Sun Says Bitcoin 'Debates,' Ethereum Forms 'Research Committees,' While Tron 'Builds' As Bloc",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e5737d4c",
       "date": "2026-04-20",
       "generated_at": "2026-04-20T12:18:38.617828+08:00",
@@ -1288,6 +1387,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-20T12:18:38.617828+08:00",
-  "total_days": 13
+  "last_updated": "2026-04-21T12:11:01.472085+08:00",
+  "total_days": 14
 }
