@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8b7ab033",
+      "date": "2026-04-22",
+      "generated_at": "2026-04-22T11:58:27.965329+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "MHA receives DRDO-developed satellite imaging system 'Prajna' for real-time security support",
+              "summary": "India's security agencies gain a new edge with the indigenously developed satellite imaging system Prajna. This AI-enabled technology will bolster internal security and counter-terrorism efforts. Mean",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/science/mha-receives-drdo-developed-satellite-imaging-system-prajna-for-real-time-security-support/articleshow/130406867.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Who is John Ternus, Apple's new CEO?",
+              "summary": "The 25-year Apple veteran, who is a mechanical engineer by training, will take over from Tim Cook in September 2025.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/world/who-john-ternus-new-apple-ceo-6069656",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Taiwan has more than 260,000 job vacancies, with manufacturing accounting for 32.4%",
+              "summary": "Taiwan's artificial intelligence (AI) servers and advanced-process chip manufacturing businesses are booming, with related manufacturing industries also benefiting. According to a survey by Taiwan's M",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260420PD235/taiwan-manufacturing-labor-2025.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rapid Nutrition Establishes Flagship Platform to Strengthen Multi-Channel Strategy in Australia",
+              "summary": "see attached...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/04/21/3277566/0/en/Rapid-Nutrition-Establishes-Flagship-Platform-to-Strengthen-Multi-Channel-Strategy-in-Australia.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Jeff Bezos' AI lab nears $38 billion valuation in funding deal: FT",
+              "summary": "Jeff Bezos' AI lab, Project Prometheus, is reportedly nearing a $10 billion funding round, valuing the startup at $38 billion. Investors like JPMorgan and BlackRock are participating in this significa",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft/articleshow/130406169.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple’s new CEO is a product perfectionist taking on the AI age",
+              "summary": "As Apple faces growing competition and questions over its AI strategy, his leadership style—rooted in design, precision and long-term thinking—will shape how the company navigates the next phase of te",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/apples-new-ceo-is-a-product-perfectionist-taking-on-the-ai-age/article70887034.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI power surge puts nuclear energy back in spotlight",
+              "summary": "Soaring energy needs from data centres, fueled by generative AI, are revitalising nuclear power as a crucial source of large-scale, dependable energy.  Technology firms and startups are increasing inv",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-power-surge-puts-nuclear-energy-back-in-spotlight/articleshow/130406107.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mythos remains a mystery as security world faces rising threats, agentic attacks and concerns about AI integrity",
+              "summary": "Anthropic PBC’s Claude Mythos model has emerged as the most widely discussed artificial intelligence solution without being fully released. Information about the model, which reportedly has the abilit",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/04/20/mythos-remains-mystery-security-world-faces-rising-threats-agentic-attacks-concerns-ai-integrity/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Facebook Messenger Instability Frustrates Users as Outages, Web Shutdown and Backend Changes Pile Up",
+          "summary": ""
+        },
+        {
+          "topic": "GitHub's Fake Star Economy: Six million fake stars, $0.06 per click, and a VC funding pipeline that ",
+          "summary": ""
+        },
+        {
+          "topic": "scout-intel-mcp added to PyPI: Business & market intelligence MCP server for AI agents — 7 tools, 8 ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "50081293",
       "date": "2026-04-21",
       "generated_at": "2026-04-21T12:11:01.472085+08:00",
@@ -1387,6 +1486,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-21T12:11:01.472085+08:00",
-  "total_days": 14
+  "last_updated": "2026-04-22T11:58:27.965329+08:00",
+  "total_days": 15
 }
