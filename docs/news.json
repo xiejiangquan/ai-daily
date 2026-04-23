@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f4255c75",
+      "date": "2026-04-23",
+      "generated_at": "2026-04-23T12:12:06.616882+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Piraeus Bank and Accenture establish AI Hub in Greece utilizing Anthropic technologies",
+              "summary": "Piraeus Bank and Accenture announced the expansion of their long-standing strategic partnership, establishing a dedicated AI Hub that will leverage technologies developed by Anthropic.\nAccording to th",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2101142/piraeus-bank-and-accenture-establish-ai-hub-in-greece-utilizing-anthropic-technologies/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon Recasts Marketplace Fraud as a Broader Trust Problem",
+              "summary": "Amazon is making a broader argument about fraud in online commerce. The threat is no longer limited to fake handbags, copycat electronics and trademark abuse. It now stretches across scams, fake revie",
+              "source": "pymnts.com",
+              "url": "https://www.pymnts.com/amazon/2026/amazon-recasts-marketplace-fraud-as-a-broader-trust-problem/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Three-quarters of UK IT leaders without strong AI governance plans",
+              "summary": "Almost one in nine British IT leaders say their organisations use agentic AI, but with few putting in place strong governance plans, according to a Red Hat survey",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366641979/Three-quarters-of-UK-IT-leaders-without-strong-AI-governance-plans",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "I'm a gastroenterologist and here are five things I'll NEVER put in my shopping trolley: 'Don't be fooled'",
+              "summary": "Australian gut health expert, Doctor Paul Froomes, has revealed the five everyday supermarket staples he refuses to buy.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/lifestyle/food-drink/article-15753753/gastroenterologist-never-buys-supermarket-foods.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesia, Apple Academy expand developer training ecosystem",
+              "summary": "Indonesia is strengthening its digital ecosystem through expanded collaboration with Apple to develop talent and boost innovation, the industry minister said, ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/413209/indonesia-apple-academy-expand-developer-training-ecosystem",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion",
+              "summary": "An anonymous reader quotes a report from the New York Times: SpaceX, Elon Musk's rocket and satellite company, said on Tuesday that it had struck a deal with the artificial intelligence start-up Curso",
+              "source": "Slashdot.org",
+              "url": "https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Super Micro Computer, Inc. Notice of May 26, 2026 Application Deadline for Class Action Lawsuits - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
+              "summary": "Super Micro (SMCI) Investors Have Opportunity to Lead Super Micro Computer, Inc. Securities Fraud Lawsuit ...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/04/22/3278631/6713/en/Super-Micro-Computer-Inc-Notice-of-May-26-2026-Application-Deadline-for-Class-Action-Lawsuits-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC-Before-Application-Deadline.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "3 reasons to buy Life360 shares today",
+              "summary": "A leading analyst says Life360 shares offer a “compelling growth story”. But why?\nThe post 3 reasons to buy Life360 shares today appeared first on The Motley Fool Australia.",
+              "source": "Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/04/22/3-reasons-to-buy-life360-shares-today/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Social Media Marketing Kya Hai? SMM Powerful Guide 2026: Social media marketing me brands platforms ",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want':",
+          "summary": ""
+        },
+        {
+          "topic": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match: An $899 CPU? ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8b7ab033",
       "date": "2026-04-22",
       "generated_at": "2026-04-22T11:58:27.965329+08:00",
@@ -1486,6 +1585,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-22T11:58:27.965329+08:00",
-  "total_days": 15
+  "last_updated": "2026-04-23T12:12:06.616882+08:00",
+  "total_days": 16
 }
