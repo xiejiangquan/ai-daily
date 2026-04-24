@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "58d28fcc",
+      "date": "2026-04-24",
+      "generated_at": "2026-04-24T12:16:27.544916+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Tech Mahindra shares fall nearly 2% after Q4. Goldman Sachs, Motilal Oswal, other brokerages weigh in",
+              "summary": "Tech Mahindra shares slipped after reporting a 16% rise in quarterly profit, with revenue growth supporting sentiment despite cautious outlooks. The stock remained under pressure as brokerages flagged",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-shares-fall-nearly-2-after-q4-goldman-sachs-motilal-oswal-other-brokerages-weigh-in/articleshow/130456541.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meridalis App Review: Scam or Legit Trading Platform? Truth Revealed",
+              "summary": "Meridalis App presents itself as a newly developed cryptocurrency trading platform designed to simplify and upgrade the overall user experience for individuals interested in crypto traders. The platfo",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/meridalis-app-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "I built the same website using Lovable and Wix AI. One took twice as long and told me to solve problems myself.",
+              "summary": "Lovable, as a pure vibe-coding site, quickly delivered a clean, simple product. Wix Harmony, on the other hand, took more effort and brainpower.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/vibe-coding-website-lovable-wix-ai-writing-portfolio-2026-4",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Senvix Review: Genuine Trading Platform or Fake? Reality Check",
+              "summary": "Senvix presents itself as a recently introduced digital asset trading solution designed to streamline and enhance the overall trading experience for individuals interested in crypto traders. The platf",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/senvix-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Exacto Creditant Review: Genuine Trading Platform or Fake? Reality Check",
+              "summary": "Exacto Creditant is introduced as a newly launched digital asset trading solution created to make easier and strengthen the overall trading experience for individuals interested in crypto traders. The",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/exacto-creditant-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rapido Fintoris Review: Genuine Trading Platform or Fake? Reality Check",
+              "summary": "Rapido Fintoris is introduced as a newly launched online trading program built to streamline and enhance the overall trading journey for individuals interested in digital asset investors. The platform",
+              "source": "Whatjapanthinks.com",
+              "url": "https://whatjapanthinks.com/rapido-fintoris-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "It's time to reclaim the word \"Palantir\" for JRR Tolkien",
+              "summary": "Let's take back a term that once warned us about delusions of grandeur, careless leaders, and their ill-fated wars — and use it instead to better understand the risky nature of cloud platforms",
+              "source": "Zig.art",
+              "url": "https://www.zig.art/p/its-time-to-reclaim-the-word-palantir",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "LandMark sees profit soar 650% in 1Q26, secures deal for 5-year InP substrate supply",
+              "summary": "Driven by strong artificial intelligence (AI) and silicon photonics (SiPh) demand, optical communications epitaxy manufacturer LandMark Optoelectronics reported a more than sixfold increase in net pro",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260422PD243/profit-substrate-siph-silicon-demand.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Social Media Marketing Kya Hai? SMM Powerful Guide 2026: Social media marketing me brands platforms ",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want':",
+          "summary": ""
+        },
+        {
+          "topic": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match: An $899 CPU? ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f4255c75",
       "date": "2026-04-23",
       "generated_at": "2026-04-23T12:12:06.616882+08:00",
@@ -1585,6 +1684,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-23T12:12:06.616882+08:00",
-  "total_days": 16
+  "last_updated": "2026-04-24T12:16:27.544916+08:00",
+  "total_days": 17
 }
