@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "042826e6",
+      "date": "2026-04-27",
+      "generated_at": "2026-04-27T12:29:44.770228+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Mall mania: Paragon, i12 Katong change hands, White Sands up for grabs",
+              "summary": "Shareholders raised questions over $24 million in fees paid to directors of Sheng Siong in 2025, ahead of its AGM. Read more at straitstimes.com. Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/companies-markets/mall-mania-paragon-i12-katong-change-hands-white-sands-up-for-grabs",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Sucker’s Ball",
+              "summary": "The other one, I mean: President Trump feted the biggest holders of his namesake memecoin on Saturday, cheering on a crypto market still fighting through a monthslong slump. In a wide-ranging address ",
+              "source": "Lawyersgunsmoneyblog.com",
+              "url": "https://www.lawyersgunsmoneyblog.com/2026/04/the-suckers-ball",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Chivas draw with Atas after a controversial finish",
+              "summary": "Chivas and Xolos split the points after an intense draw. El Rebaño looked to make home-field advantage count at Akron Stadium, but ran into a well-organized and sharp border side that managed to neut.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/chivas-draw-with-atas-after-a-controversial-finish-42769896",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Dating in the time of AI: Are you swiping right on a guy, girl, ChatGPT, or Gemini?",
+              "summary": "AI is reshaping online dating, with many users now relying on tools to craft bios, messages and even real-time conversations, often creating a mismatch between online charm and real-life personality. ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/dating-in-the-time-of-ai-are-you-swiping-right-on-a-guy-girl-chatgpt-or-gemini/articleshow/130525794.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ben Lerner: ‘I want us to think of the book as another hand-held device’",
+              "summary": "Fiction such as Ben Lerner's keeps us connected to reality in ways that even functioning smartphones cannot",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/culture/books/2026/04/26/ben-lerner-i-want-us-to-think-of-the-book-as-another-hand-held-device/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Health AI Tech Show 2026 | AI & MedTech | OPD | OPD",
+              "summary": "We’re attending the Health AI Tech Show 2026, an event focused on the application of artificial intelligence across healthcare, MedTech, and clinical innovation.\n\nOur Head of Medical, Simon Collings, ",
+              "source": "Oxfordproductdesign.com",
+              "url": "https://oxfordproductdesign.com/blog/events/health-ai-tech-show",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "América - Atlas line-ups confirmed",
+              "summary": "América hosts Atlas tonight at Estadio Banorte in the final matchday of the 2026 Clausura regular season, a clash in which both sides will be looking to secure their place in the Liguilla. For now, ..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/america-atlas-line-ups-confirmed-42769656",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
+              "summary": "The Japanese government held an emergency meeting with the Bank of Japan and executives from the country's three megabanks to discuss potential risks posed by the new artificial intelligence model 'Cl",
+              "source": "Newsonjapan.com",
+              "url": "https://newsonjapan.com/article/149025.php",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity: Sk",
+          "summary": ""
+        },
+        {
+          "topic": "Dave Ramsey Says Most People Will Not Save Money Even After They Get A Raise Or Pay Off Their Car. H",
+          "summary": ""
+        },
+        {
+          "topic": "AI oligarchs shamed with devastating list of 'false promises and decadence': The artificial intellig",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7a01cdf8",
       "date": "2026-04-26",
       "generated_at": "2026-04-26T12:21:36.537948+08:00",
@@ -1882,6 +1981,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-26T12:21:36.537948+08:00",
-  "total_days": 19
+  "last_updated": "2026-04-27T12:29:44.770228+08:00",
+  "total_days": 20
 }
