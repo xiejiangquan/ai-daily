@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "0df3fd1a",
+      "date": "2026-04-28",
+      "generated_at": "2026-04-28T12:32:54.035033+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Ascletis Completes Enrollment in U.S. Phase II Study of ASC30, an Oral Small Molecule GLP-1R Agonist, for the Treatment of Diabetes",
+              "summary": "- 13-week U.S. Phase II study is evaluating the efficacy, safety and tolerability of oral small molecule GLP-1R agonist ASC30, a once-daily tablet, in 100 participants with diabetes.",
+              "source": "Associated Press",
+              "url": "https://apnews.com/press-release/pr-newswire/ascletis-completes-enrollment-in-u-s-phase-ii-study-of-asc30-an-oral-small-molecule-glp-1r-agonist-for-the-treatment-of-diabetes-98dd1e7fd44dbb88f478ac5ceffdd69f",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+              "summary": "The rise of artificial intelligence is prompting college students to second-guess their career paths. Students say that picking a major that’s AI-proof feels like shooting at a moving target, as they ",
+              "source": "seattlepi.com",
+              "url": "https://www.seattlepi.com/news/article/college-students-wary-of-the-job-market-are-22227463.php",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: Investors face triple test this week from geopolitics, rate outlook and tech earnings",
+              "summary": "Global markets brace for a crucial week. Geopolitical tensions involving Iran and the Strait of Hormuz are a major focus. Shifting interest rate expectations from the US Federal Reserve and European c",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-investors-face-triple-test-this-week-from-geopolitics-rate-outlook-and-tech-earnings/articleshow/130543744.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Japan's dour IPO market unlikely to improve despite sizzling debuts of sake, pet food firms",
+              "summary": "TOKYO, April 27 : Sparkling debuts on the Tokyo bourse by a sake brewery and pet food maker last week are unlikely to revive a moribund market for new stock listings in Japan as investors remain fixat",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/japans-dour-ipo-market-unlikely-improve-despite-sizzling-debuts-sake-pet-food-firms-6083036",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI just updated its principles. Here's what changed since the original version, 6 years ago.",
+              "summary": "Sunday's version was a 180-degree shift from the company's 2018 guidelines on collaboration and avoiding competition with rival labs.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/openai-updated-principles-three-key-changes-competition-agi-anthropic-2026-4",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SK Hynix shares rally 7% to a record high, beating Samsung's 2.5% gain",
+              "summary": "SEOUL, April 27 : Shares in Nvidia's chip supplier SK Hynix rallied more than 7 per cent to a record high on Monday, after U.S. chipmaker Intel's earnings results rekindled expectations of artificial ",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/sk-hynix-shares-rally-7-record-high-beating-samsungs-25-gain-6083016",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Andhra CM to lay foundation for Google AI data centre in Vizag on April 28",
+              "summary": "With this advanced facility, Visakhapatnam is poised to emerge as a key AI gateway for Asia and secure a permanent place on the global technology map",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/national/andhra-cm-to-lay-foundation-for-google-ai-data-centre-in-vizag-on-april-28/article70910718.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can Life360 shares recover from the AI fuelled sell-off?",
+              "summary": "A leading expert looks into the AI-driven pressure hitting Life360 shares.\nThe post Can Life360 shares recover from the AI fuelled sell-off? appeared first on The Motley Fool Australia.",
+              "source": "Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/04/27/can-life360-shares-recover-from-the-ai-fuelled-sell-off/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity: Sk",
+          "summary": ""
+        },
+        {
+          "topic": "Dave Ramsey Says Most People Will Not Save Money Even After They Get A Raise Or Pay Off Their Car. H",
+          "summary": ""
+        },
+        {
+          "topic": "AI oligarchs shamed with devastating list of 'false promises and decadence': The artificial intellig",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "042826e6",
       "date": "2026-04-27",
       "generated_at": "2026-04-27T12:29:44.770228+08:00",
@@ -1981,6 +2080,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-27T12:29:44.770228+08:00",
-  "total_days": 20
+  "last_updated": "2026-04-28T12:32:54.035033+08:00",
+  "total_days": 21
 }
