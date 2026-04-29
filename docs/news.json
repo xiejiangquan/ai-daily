@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b7b2ce6c",
+      "date": "2026-04-29",
+      "generated_at": "2026-04-29T12:28:13.652356+08:00",
+      "headline": "今日 AI 新闻速览（48 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "From fake medicines to watches, counterfeits are everywhere and getting harder to catch",
+              "summary": "Business is booming for fakes, worth at least US$467 billion a year worldwide. But some fake products can pose serious health risks to unsuspecting buyers.",
+              "source": "The Conversation Africa",
+              "url": "https://theconversation.com/from-fake-medicines-to-watches-counterfeits-are-everywhere-and-getting-harder-to-catch-281525",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports",
+              "summary": "CFO raises concerns over funding compute contracts as growth slows and competition rises, WSJ reports",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports/article70914751.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why Students Are Now Fleeing Data Science for 'AI-Proof' Education",
+              "summary": "Plenty of people are concerned about the rise of artificial intelligence, or AI. Two of our four kids are freelance graphic artists, and they are (legitimately) worried about their incomes being yanke",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-chat/4376681/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "3 ASX healthcare shares to buy amid sector rout: experts",
+              "summary": "Healthcare shares have tumbled 36% over the past year amid multiple headwinds for the sector. \nThe post 3 ASX healthcare shares to buy amid sector rout: experts appeared first on The Motley Fool Austr",
+              "source": "Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/04/28/3-asx-healthcare-shares-to-buy-amid-sector-rout-experts/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Designing with Air: Rethinking Architecture Beyond the Wall",
+              "summary": "Architecture is traditionally chronicled through the persistence of the solid. We define the discipline by the weight of the lintel, the mass of the pier, and the resistance of the wall. Even when lig",
+              "source": "ArchDaily",
+              "url": "https://www.archdaily.com/1040962/designing-with-air-rethinking-architecture-beyond-the-wall",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Six from MIT awarded 2026 Paul and Daisy Soros Fellowships for New Americans",
+              "summary": "Six MIT affiliates were named 2026 P.D. Soros Fellows and will receive graduate school funding. The award honors the contributions of immigrants and the children of immigrants.",
+              "source": "Mit.edu",
+              "url": "https://news.mit.edu/2026/paul-daisy-soros-fellows-0428",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Story of Everything and Beyond",
+              "summary": "Photo Credit:\n \n Fathom EntertainmentWhile mysteries and unsolved problems drive discovery and progress, greater advancement takes place when people have a common agreement about the fundamental found",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/04/the_story_of_everything_and_beyond.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea passes UK to become world’s 8th largest stock market",
+              "summary": "Surge in Korean stocks underscores the global pivot towards companies linked to AI Read more at straitstimes.com. Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/companies-markets/south-korea-passes-uk-to-become-worlds-8th-largest-stock-market",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More: Everyth",
+          "summary": ""
+        },
+        {
+          "topic": "Vibe coding and databases: the hidden risks of AI-generated database code: Explore how Andrej Karpat",
+          "summary": ""
+        },
+        {
+          "topic": "Top 10 Crypto X Influencers to Follow in 2026. Best Twitter Accounts for Signals & Insights: Why Sho",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "0df3fd1a",
       "date": "2026-04-28",
       "generated_at": "2026-04-28T12:32:54.035033+08:00",
@@ -2080,6 +2179,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-28T12:32:54.035033+08:00",
-  "total_days": 21
+  "last_updated": "2026-04-29T12:28:13.652356+08:00",
+  "total_days": 22
 }
