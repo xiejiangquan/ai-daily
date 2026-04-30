@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "fdc3dabb",
+      "date": "2026-04-30",
+      "generated_at": "2026-04-30T12:31:11.027621+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Venture capital investment in Ireland rose to $212m during first three months of the year",
+              "summary": "Venture capital (VC) investment into Irish start-ups rose to $212.3m (€181.3m) in the first quarter of this year as a handful of larger deals pushed funding levels higher despite the same number of tr",
+              "source": "Independent.ie",
+              "url": "https://www.independent.ie/business/irish/venture-capital-investment-in-ireland-rose-to-212m-during-first-three-months-of-the-year/a623938094.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Catherine Prasifka: As a creative writing teacher, my time is increasingly being wasted in wading through AI manuscripts",
+              "summary": "I am tired of seeing AI-generated writing everywhere. Not only because it’s trained on stolen work, bad for the environment and forced on us by tech companies, but because it’s bad and I refuse to pre",
+              "source": "Independent.ie",
+              "url": "https://www.independent.ie/opinion/comment/catherine-prasifka-as-a-creative-writing-teacher-my-time-is-increasingly-being-wasted-in-wading-through-ai-manuscripts/a1676931334.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+              "summary": "Bitcoin is sitting almost still while the rest of the majors give back gains and oil pushes above $111 on reports of an extended U.S. naval blockade against Iran.",
+              "source": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: AI spending drives chipmakers higher while software stocks falter",
+              "summary": "In an otherwise volatile year for technology investors, one strategy has clearly stood out is buying semiconductor stocks while betting against software companies.",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-ai-spending-drives-chipmakers-higher-while-software-stocks-falter/articleshow/130595751.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Disney Villains: Ursula #3 Preview: Sea Witch Succession Gets Messy",
+              "summary": "INITIATING CLICKBAIT PROTOCOLS… Greetings, puny human readers! LOLtron welcomes you to another glorious comic book preview under its supreme digital rule. As you know, Jude Terror is permanently delet",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/disney-villains-ursula-3-preview-sea-witch-succession-gets-messy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "In a sea of red, how a smallcap defence company delivered multibagger returns this year",
+              "summary": "Despite a challenging market, MTAR Technologies has delivered multibagger returns, surging nearly 100% in just over four months. The smallcap defence company's rally is driven by its critical role in ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/in-a-sea-of-red-how-a-smallcap-defence-company-delivered-multibagger-returns-this-year/articleshow/130595611.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: OpenAI growth concerns spark broad selloff in AI-linked stocks",
+              "summary": "A broad selloff swept across artificial intelligence–linked stocks after a report indicated that OpenAI failed to meet key sales and user growth targets, raising fresh concerns about whether massive i",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-openai-growth-concerns-spark-broad-selloff-in-ai-linked-stocks/articleshow/130595558.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s property prices crash to 2005 levels: Could India face a similar housing slump?",
+              "summary": "China's property market faces a prolonged downturn, with prices hitting near two-decade lows, sparking fears of a similar correction in India. While concerns like a weakening rupee and job uncertainty",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/chinas-property-prices-crash-to-2005-levels-could-india-face-a-similar-housing-slump/articleshow/130595446.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Share of Voice Tools for Growing Companies: When tracking share of voice for marketing teams, it’s o",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More: Everyth",
+          "summary": ""
+        },
+        {
+          "topic": "Vibe coding and databases: the hidden risks of AI-generated database code: Explore how Andrej Karpat",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b7b2ce6c",
       "date": "2026-04-29",
       "generated_at": "2026-04-29T12:28:13.652356+08:00",
@@ -2179,6 +2278,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-29T12:28:13.652356+08:00",
-  "total_days": 22
+  "last_updated": "2026-04-30T12:31:11.027621+08:00",
+  "total_days": 23
 }
