@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "20728aa9",
+      "date": "2026-05-01",
+      "generated_at": "2026-05-01T12:48:34.448563+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "School denies parents' claims of how AI deepfake scandal was handled",
+              "summary": "The principal of a Tasmanian private school denies claims by two parents that the school ever tried to discourage them from telling their daughters they had been identified in AI deepfake images.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-04-30/tas-friends-school-deny-dont-tell-to-parents-over-deepfakes/106624754",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India’s Rupee Drops to Record Low as Crude Surge Deepens Worries",
+              "summary": "India’s rupee slid to a record low as crude prices continued their relentless surge, deepening worries about the nation’s external deficit.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/indias-rupee-drops-to-record-low-as-crude-surge-deepens-worries",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India aims for the stars with orbital datacentres",
+              "summary": "As terrestrial datacentres face severe power and cooling constraints, space-based facilities promise unlimited solar energy and low latency for AI inferencing, provided the industry can overcome chall",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366642407/India-aims-for-the-stars-with-orbital-datacentres",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Microsoft sales beat estimates as Azure growth eases spending concerns",
+              "summary": "Microsoft reported stronger-than-expected fiscal third-quarter results, as Azure growth, Microsoft Cloud demand, and rising Copilot adoption helped ease investor concerns over the company's heavy spen",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260430VL212/microsoft-azure-growth-revenue-demand.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US companies developing small modular reactors to cut costs, boost flexibility in nuclear power: Report",
+              "summary": "EIA report highlights SMRs and microreactors for data centres, remote sites; DOE offers $900 mn funding support",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/world/us-companies-developing-small-modular-reactors-to-cut-costs-boost-flexibility-in-nuclear-power-report/article70923116.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Walmart’s beauty push gets personal with in-store consultations",
+              "summary": "Walmart is bringing trained beauty experts to its stores. These specialists will offer personalized makeup and skincare advice. This initiative aims to boost customer engagement and compete with rival",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/business/walmarts-beauty-push-gets-personal-with-in-store-consultations/articleshow/130623175.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
+              "summary": "European Union nations and Parliament members could not agree on AI regulations. Talks stalled after 12 hours. Discussions will restart in two weeks. Some nations wanted exemptions for industries with",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130623064.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tinubu sacks NMDPRA boss amid jet fuel pricing row",
+              "summary": "President Tinubu has sacked NMDPRA chief Saidu Mohammed amid a jet fuel pricing row and complaints from Dangote Refinery. Rabiu Umar is nominated as his re\n\nRead More: https://punchng.com/tinubu-sacks",
+              "source": "The Punch",
+              "url": "https://punchng.com/tinubu-sacks-nmdpra-boss-amid-jet-fuel-pricing-row/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Share of Voice Tools for Growing Companies: When tracking share of voice for marketing teams, it’s o",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More: Everyth",
+          "summary": ""
+        },
+        {
+          "topic": "Vibe coding and databases: the hidden risks of AI-generated database code: Explore how Andrej Karpat",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "fdc3dabb",
       "date": "2026-04-30",
       "generated_at": "2026-04-30T12:31:11.027621+08:00",
@@ -2278,6 +2377,6 @@
       ]
     }
   ],
-  "last_updated": "2026-04-30T12:31:11.027621+08:00",
-  "total_days": 23
+  "last_updated": "2026-05-01T12:48:34.448563+08:00",
+  "total_days": 24
 }
