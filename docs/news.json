@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f22fdf34",
+      "date": "2026-05-04",
+      "generated_at": "2026-05-04T12:39:00.981366+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "NVIDIA vs Intel Stock Battle 2026: AI Leader or Turnaround Star – Which to Buy Now?",
+              "summary": "NEW YORK — As investors weigh semiconductor giants amid the ongoing artificial intelligence boom, NVIDIA Corp. stands out as Wall Street's clear favorite heading into the second half of 2026, with ana",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/nvidia-vs-intel-stock-battle-2026-ai-leader-turnaround-star-which-buy-now-1868056",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pure ghee or not? TTD procures over 70 lakh kg without mandatory quality tests",
+              "summary": "A commission revealed the Tirumala Tirupati Devasthanams procured millions of kilograms of ghee without required quality checks. This systemic failure allowed suppliers to provide adulterated ghee. Of",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/pure-ghee-or-not-ttd-procured-over-70-lakh-kg-without-mandatory-quality-tests-commission-report/articleshow/130727275.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "\"The Shocking Story of NIH Secretly Funding COVID\"",
+              "summary": "Dr Eric Donaldson's 2019 CV: SARS-COV Research Weaponizing Bat Coronaviruses Was Funded by Dr Fauci IN MULTIPLE SITES AMERICA for 12 Years Before \"The Pandemic\" =======================================",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-chat/4377450/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Staying consistent with commitment fetched me first class – Trinity varsity graduate",
+              "summary": "Emmanuel Tanimowo, a Trinity varsity graduate with a 5.00 CGPA, shares how consistency, relationships, and starting early led to his first class degree.\n\nRead More: https://punchng.com/staying-consist",
+              "source": "The Punch",
+              "url": "https://punchng.com/?p=2132688",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Baleine Rolling Christmas Tree Storage Bag for From $9.49 + free shipping w/ Prime",
+              "summary": "Storing an artificial tree without a dedicated bag usually means wrestling with loose branches and a box that falls apart by year three, so this bag is a practical pick for anyone who wants a cleaner,",
+              "source": "Dealnews.com",
+              "url": "https://www.dealnews.com/Baleine-Rolling-Christmas-Tree-Storage-Bag-for-From-9-49-free-shipping-w-Prime/21825450.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do so many people already own Elon Musk’s SpaceX?",
+              "summary": "Pitches to buy SpaceX shares have intensified since news of the company’s IPO broke in December.",
+              "source": "The Indian Express",
+              "url": "https://indianexpress.com/article/technology/tech-news-technology/how-do-so-many-people-already-own-elon-musks-spacex-10668354/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Project Hail Mary Author Andy Weir's Predictions About AI-Generated Art Are Chilling",
+              "summary": "The author behind sci-fi novel \"Project Hail Mary\" has revealed his past experience with AI and how he thinks it will influence art in the future.",
+              "source": "BGR",
+              "url": "https://www.bgr.com/2161558/project-hail-mary-author-andy-weir-prediction-ai-generated-art/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tigres thrash Chivas again, leave them on the ropes in play-offs",
+              "summary": "Tigres made a statement at El Volcán by beating Chivas 3-1 in the first leg of the Clausura 2026 quarter-finals. Guided by Guido Pizarro, the home side took advantage of playing on their own turf to .",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/tigres-thrash-chivas-again-leave-them-on-the-ropes-in-play-offs-42805468",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance",
+          "summary": ""
+        },
+        {
+          "topic": "AEO prompt tracking for marketing teams: You already track and analyze your SEO strategy — keyword r",
+          "summary": ""
+        },
+        {
+          "topic": "Polar Street X In-Depth Review: What’s the Catch?: The Polar Street X is Polar’s first new watch lin",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "faeb8f0f",
       "date": "2026-05-03",
       "generated_at": "2026-05-03T12:39:41.412999+08:00",
@@ -2575,6 +2674,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-03T12:39:41.412999+08:00",
-  "total_days": 26
+  "last_updated": "2026-05-04T12:39:00.981366+08:00",
+  "total_days": 27
 }
