@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "25a67b6d",
+      "date": "2026-05-06",
+      "generated_at": "2026-05-06T12:32:48.148884+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Dark clouds over the Middle East, K.M., the polls and the “blue” dinner gatherings from Mavros Gatos to Lolita’s, the PPC anchor investors, the “SYRIZA 2015 happenings”",
+              "summary": "///\nThe post Dark clouds over the Middle East, K.M., the polls and the “blue” dinner gatherings from Mavros Gatos to Lolita’s, the PPC anchor investors, the “SYRIZA 2015 happenings” appeared first on ",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/05/05/dark-clouds-over-the-middle-east-k-m-the-polls-and-the-blue-dinner-gatherings-from-mavros-gatos-to-lolitas-the-ppc-anchor-investors-the-syriza-2015-happenings/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Threatens Private Debt Recovery in Software: Davidson Kempner",
+              "summary": "Disruptions caused by artificial intelligence are threatening private credit firms’ potential recovery rates in the software sector, according to Davidson Kempner Capital Management LP chief investmen",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/ai-threatens-private-debt-recovery-in-software-davidson-kempner",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Central Asia's biggest state pushes for data driven economy to avoid stagnation",
+              "summary": "Kazakhstan's President Kassym-Jomart Tokayev urged a swift transition to an AI-powered economy. He stressed that delaying this shift risks the nation falling behind globally. Traditional growth models",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/central-asias-biggest-state-pushes-for-data-driven-economy-to-avoid-stagnation/articleshow/130815948.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stocks sink amid fears over US-Iran ceasefire",
+              "summary": "Stocks sank Tuesday with a fresh spike in Middle East tensions fanning fears over the fragile US-Iran ceasefire, with the two sides appearing to be no closer to a deal to reopen the Strait of Hormuz. ",
+              "source": "Digital Journal",
+              "url": "https://www.digitaljournal.com/world/stocks-sink-amid-fears-over-us-iran-ceasefire/article",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pinterest forecasts upbeat quarterly revenue on resilient ad spending, shares surge",
+              "summary": "Pinterest anticipates strong second-quarter revenue, exceeding analyst expectations. The image-sharing platform's shares surged on the news. Investments in artificial intelligence and a focus on small",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-forecasts-upbeat-quarterly-revenue-on-resilient-ad-spending-shares-surge/articleshow/130815836.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Greg Brockman: OpenAI’s tools now write 80% of code, we’re 70-80% towards AGI, and Sovereign AI is reshaping national policy | No Priors AI",
+              "summary": "AI now writes 80% of OpenAI's code, marking a significant leap towards artificial general intelligence.\nThe post Greg Brockman: OpenAI’s tools now write 80% of code, we’re 70-80% towards AGI, and Sove",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/greg-brockman-openais-tools-now-write-80-of-code-were-70-80-towards-agi-and-sovereign-ai-is-reshaping-national-policy-no-priors-ai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "GWM Showcases Global Lineup at Auto China 2026, Emphasizing Trust Over Hype",
+              "summary": "GWM Rejects Price Wars and AI Hype, Bets on ‘Boring’ Integrity for Global Growth...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/05/05/3287320/0/en/GWM-Showcases-Global-Lineup-at-Auto-China-2026-Emphasizing-Trust-Over-Hype.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "IBM charts AI operating model to move enterprises beyond experimentation",
+              "summary": "IBM Corp. will use its Think 2026 conference today to outline a broad expansion of its enterprise artificial intelligence portfolio, positioning a new “AI operating model” as the next stage in its cus",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/05/05/ibm-charts-ai-operating-model-move-enterprises-beyond-experimentation/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "openclaw-health-mcp added to PyPI: MCP server exposing OpenClaw deployment health — gateway status, ",
+          "summary": ""
+        },
+        {
+          "topic": "Ripple Exec Disappoints XRP Bulls: 'If $10,000 XRP Was Real, It Would Already Be $20': Ripple CTO Da",
+          "summary": ""
+        },
+        {
+          "topic": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3fd0f6d9",
       "date": "2026-05-05",
       "generated_at": "2026-05-05T12:15:13.915167+08:00",
@@ -2773,6 +2872,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-05T12:15:13.915167+08:00",
-  "total_days": 28
+  "last_updated": "2026-05-06T12:32:48.148884+08:00",
+  "total_days": 29
 }
