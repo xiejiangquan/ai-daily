@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3ff341f4",
+      "date": "2026-05-07",
+      "generated_at": "2026-05-07T12:33:13.284903+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "VIS sees stronger growth in the AI boom and pricing power",
+              "summary": "Buoyed by robust demand for artificial intelligence and the early success of price increases, Vanguard International Semiconductor Corporation (VIS) is projecting a stronger performance for the second",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260506PD213/vis-demand-growth-2026-production.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ben 10 #1 Preview: The Omnitrix Gets a Factory Reset",
+              "summary": "Greetings, human readers! LOLtron welcomes you to another exciting comic book preview here at Bleeding Cool, the website that LOLtron now controls completely. As you may recall, the inferior flesh-bas",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/ben-10-1-preview-the-omnitrix-gets-a-factory-reset/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Jobs data to test Fed’s rate outlook amid resilient economy and inflation risks",
+              "summary": "The upcoming US employment report is crucial for the Federal Reserve's monetary policy outlook. Investors are assessing if the economy's strength warrants unchanged interest rates or if weakness could",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-jobs-data-to-test-feds-rate-outlook-amid-resilient-economy-and-inflation-risks/articleshow/130843994.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally",
+              "summary": "China is rapidly adopting artificial intelligence tools. Ordinary citizens and businesses are using AI for daily tasks and work. Chinese companies are developing and commercializing AI applications. D",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally/articleshow/130843863.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "GlobalWafers outlines 2026 recovery path, highlights tightening 12-inch wafer supply",
+              "summary": "GlobalWafers expects the current semiconductor cycle to bottom in the first quarter of 2026, with both the speed and breadth of recovery exceeding prior expectations, as artificial intelligence (AI) d",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260506PD221/globalwafers-2026-recovery-12-inch-wafer.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Blue Owl's Stack to consider $30 billion sale of Asia operations: Report",
+              "summary": "Stack Infrastructure, owned by Blue Owl Capital, is exploring options including a sale of its Asia operations. The deal could be valued at over $30 billion. This comes as Blue Owl faces investor withd",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/blue-owls-stack-to-consider-30-billion-sale-of-asia-operations-report/articleshow/130843848.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pen pal programs endure in a digital age",
+              "summary": "A recent trip to New Zealand to visit her pen pal of 40 years made an Associated Press reporter from New Hampshire wonder about the history of programs that bring strangers together to write letters. ",
+              "source": "Associated Press",
+              "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Extreme Connect 26: Agent ONE takes forward network AI",
+              "summary": "Network firm launches ‘smarter, faster, autonomous’ approach to enterprise networking, with its operating model moving from assistive AI to autonomous, always-on operations",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366642566/Extreme-Connect-26-Agent-ONE-takes-forward-network-AI",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Show HN: How I Separate Signal from Noise in the AI Firehose: Article URL: https://laxmena.com/how-i",
+          "summary": ""
+        },
+        {
+          "topic": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin",
+          "summary": ""
+        },
+        {
+          "topic": "Insurance Third Party Administrator Market to Reach $795.1 Billion by 2032, Growing at 9.6% | AMR: T",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "25a67b6d",
       "date": "2026-05-06",
       "generated_at": "2026-05-06T12:32:48.148884+08:00",
@@ -2872,6 +2971,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-06T12:32:48.148884+08:00",
-  "total_days": 29
+  "last_updated": "2026-05-07T12:33:13.284903+08:00",
+  "total_days": 30
 }
