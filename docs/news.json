@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f3d513f1",
+      "date": "2026-05-08",
+      "generated_at": "2026-05-08T12:15:06.254108+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Restaurant review: A family-run Indian restaurant offering super value",
+              "summary": "Classic Indian dishes cooked by very experienced chef, while room is warm and welcoming",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/food/restaurants/review/2026/05/07/ela-review-a-family-run-indian-restaurant-offering-super-value-in-the-heart-of-ranelagh/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " A bizarre Wednesday in the Copa Sudamericana",
+              "summary": "This Wednesday’s Copa Sudamericana action was packed with drama, partly because of the standout performances, but even more because of bizarre moments that left us speechless. Enjoy the best of the...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/a-bizarre-wednesday-in-the-copa-sudamericana-42826257",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "DeltaV Rings of Saturn v1.89.2-TENOKE",
+              "summary": "Release Description: The Ultimate Asteroid Mining SimulatorYou are a captain of an independent asteroid excavation ship, operating in the mineral-rich rings of Saturn - the thickest debris field in ou",
+              "source": "Rlsbb.to",
+              "url": "https://post.rlsbb.to/deltav-rings-of-saturn-v1-89-2-tenoke/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders",
+              "summary": "Questions about the dangers of artificial intelligence have been looming over the trial pitting Elon Musk against OpenAI CEO Sam Altman. The trial in Oakland, California, centers on Musk's accusation ",
+              "source": "seattlepi.com",
+              "url": "https://www.seattlepi.com/business/article/worries-about-ai-s-risks-to-humanity-loom-over-22246194.php",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Thailand's strategic recalibration opens economic opportunities for India: ORF Report",
+              "summary": "The think tank highlighted that India's strategic autonomy and absence of \"strategic baggage\" make it an attractive long-term partner for Thailand",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/economy/thailands-strategic-recalibration-opens-economic-opportunities-for-india-orf-report/article70949532.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New Mercedes-AMG GT 4-door Coupe ride review: crazily fast and packed with tech",
+              "summary": "We get taken for a drive in the new 1,341bhp Mercedes-AMG GT 4-door Coupe EV",
+              "source": "AutoExpress",
+              "url": "https://www.autoexpress.co.uk/mercedes/amg-gt-4-door/369523/new-mercedes-amg-gt-4-door-coupe-ride-review-crazily-fast-and-packed",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Study: Firms often use automation to control certain workers’ wages",
+              "summary": "A new study shows that rather than use automation to pursue maximal efficiency, U.S. firms have often used it to replace employees who enjoy a “wage premium,” earning higher salaries than other compar",
+              "source": "Mit.edu",
+              "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Samsung hits $1 trillion valuation as AI boom drives massive chip demand",
+              "summary": "The South Korean tech giant becomes only the second Asian company to cross the trillion-dollar mark after TSMC",
+              "source": "Intomobile.com",
+              "url": "https://www.intomobile.com/2026/05/06/samsung-hits-1-trillion-valuation-as-ai-boom-drives-massive-chip-demand/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'— Says It's Impossible Fo",
+          "summary": ""
+        },
+        {
+          "topic": "How Amex CEO Stephen Squeri is winning over younger customers: A new Fortune feature article provide",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3ff341f4",
       "date": "2026-05-07",
       "generated_at": "2026-05-07T12:33:13.284903+08:00",
@@ -2971,6 +3070,6 @@
       ]
     }
   ],
-  "last_updated": "2026-05-07T12:33:13.284903+08:00",
-  "total_days": 30
+  "last_updated": "2026-05-08T12:15:06.254108+08:00",
+  "total_days": 31
 }
