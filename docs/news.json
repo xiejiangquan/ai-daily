@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "d0f004f3",
+      "date": "2026-05-09",
+      "generated_at": "2026-05-09T12:21:30.186657+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Record Stock Rally Slips on Iran Clash, Oil Gains: Markets Wrap",
+              "summary": "Stocks pulled back on the final trading day of the week, while crude oil rose as escalating Middle East tensions revived concerns over energy supplies, testing the durability of a rally that had lifte",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/record-stock-rally-slips-on-iran-clash-oil-gains-markets-wrap",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What’s With That Resume?: Strategies for More Effective Student Resumes",
+              "summary": "Have you recently been asked to review a resume? Do you coach learners on resume writing? When did you last update your own resume?   The word “résumé” originates from the French word résumer, meaning",
+              "source": "Facultyfocus.com",
+              "url": "https://www.facultyfocus.com/articles/effective-teaching-strategies/whats-with-that-resume-strategies-for-more-effective-student-resumes/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
+              "summary": "CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial intelli",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stocks drop, oil rises: Asian markets react to rising Iran tensions",
+              "summary": "Asian markets decline as Iran tensions rise, impacting stocks while oil prices increase amid concerns over energy supply disruptions.",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Big changes coming to the surface at UFCU Disch-Falk Field",
+              "summary": "It won’t be Jim Schlossnagle’s Field of Dreams, but it will be a major improvement.",
+              "source": "Burnt Orange Nation",
+              "url": "https://www.burntorangenation.com/texas-longhorns-baseball/102127/texas-longhorns-disch-falk-field-playing-surface",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bentley Systems Announces First Quarter 2026 Results",
+              "summary": "EXTON, Pa.--(BUSINESS WIRE)--May 7, 2026-- Bentley Systems, Incorporated (Nasdaq: BSY), the infrastructure engineering software company, today announced results for the quarter ended March 31, 2026.",
+              "source": "Associated Press",
+              "url": "https://apnews.com/press-release/business-wire/bentley-systems-announces-first-quarter-2026-results-08e28664753f473cbe95805813a19f0d",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "World Cup, ‘Reina Del Sur,’ ‘Señor De Los Cielos’ Anchor Telemundo 2026-27 Slate",
+              "summary": "The world's biggest sporting event takes center stage as hit returning franchises, new scripted series and the network's first original film round out a packed season.",
+              "source": "Forbes",
+              "url": "https://www.forbes.com/sites/veronicavillafane/2026/05/07/world-cup-reina-del-sur-seor-de-los-cielos-anchor-telemundo-2026-27-slate/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India's mid-tier IT firms narrow new business gap with the larger rivals",
+              "summary": "Coforge, Mphasis and five similar companies saw growth moderate, but their decline in new business in FY26 was slower than that of the country’s six largest software exporters, which include the likes",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/mid-tier-it-firms-narrow-new-business-gap-with-larger-rivals-tcs-infosys-11778162404877.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Ramit Sethi, Who Chooses To Rent, Says We Are Taught Renters Are Poor And Calls Homeownership 'Ameri",
+          "summary": ""
+        },
+        {
+          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'— Says It's Impossible Fo",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f3d513f1",
       "date": "2026-05-08",
       "generated_at": "2026-05-08T12:15:06.254108+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "31b2b36c",
-      "date": "2026-04-08",
-      "generated_at": "2026-04-08T08:06:30.413942+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Report: Meta developing open-source versions of upcoming AI models",
-              "summary": "Meta Platforms Inc. plans to release open-source versions of its next-generation artificial intelligence models, Axios reported today. The company debuted its most capable neural network last April. L",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/04/06/report-meta-developing-open-source-versions-upcoming-ai-models/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ChatGPT maker OpenAI calls for investigation into Elon Musk for anti-competitive behaviour",
-              "summary": "In a trial set to open in weeks, Mr Musk is seeking as much as US$134 billion in damages from OpenAI and Microsoft. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/companies-markets/chatgpt-maker-openai-calls-for-investigation-into-elon-musk-for-anti-competitive-behaviour",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "☑️ It’s official now! Corinthians confirm Fernando Diniz",
-              "summary": "Corinthians did not go even 24 hours without a head coach.Fernando Diniz will, in fact, be Dorival Júnior’s replacement at Timão.At 52, he signed a contract until the end of this season.A video on...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/its-official-now-corinthians-confirm-fernando-diniz-42672154",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AIPro360 Introduces an All-in-One AI Marketing and Sales Platform for Local Business Owners",
-              "summary": "Las Vegas, NV, April 06, 2026 (GLOBE NEWSWIRE) -- As artificial intelligence continues to reshape how businesses operate, AIPro360 announces its all-in-one marketing and sales platform for local busin",
-              "source": "Associated Press",
-              "url": "https://apnews.com/press-release/globenewswire-mobile/aipro360-introduces-an-all-in-one-ai-marketing-and-sales-platform-for-local-business-owners-ed620f0430bc21c0ec6c9edf7271ec72",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The “Good News” Is Always the Same: the Stock Market Is Up–Until It Isn’t",
-              "summary": "Cloaking a fake “market” with artifice to maintain its asymmetrical distribution of wealth and income also cloaks its detachment from the real world. I often refer to the dynamics of self-correction a",
-              "source": "Activistpost.com",
-              "url": "https://www.activistpost.com/the-good-news-is-always-the-same-the-stock-market-is-up-until-it-isnt/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Scalable Ni‑driven synthesis of Pt single‑site catalysts for hydrogen evolution",
-              "summary": "Platinum-based catalysts are essential for sustainable hydrogen production. Here, the authors report a scalable synthesis of a low-platinum catalyst supported on Ni-N-doped carbon nanotubes that maint",
-              "source": "Nature.com",
-              "url": "https://www.nature.com/articles/s41467-026-71498-6",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Whole genome analysis of selection associated with resistance to heat stress in chickens",
-              "summary": "Following their domestication, chickens were translocated around the world to novel environments. Through a combination of natural and artificial selection, chickens adapted to these local conditions,",
-              "source": "Nature.com",
-              "url": "https://www.nature.com/articles/s41598-026-41813-8",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Modeling of fractional order DPG model insight global warming and pollution effect on desertification for control mechanism",
-              "summary": "Scientific Reports - Modeling of fractional order DPG model insight global warming and pollution effect on desertification for control mechanism",
-              "source": "Nature.com",
-              "url": "https://www.nature.com/articles/s41598-026-47606-3",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Grammarly for tweet reach – 36 rules from X's source: Article URL: https://github.com/Aytun",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Local-first agent memory loop 48hrs before the Claude Code leak: We spent the last year arc",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-08T12:15:06.254108+08:00",
+  "last_updated": "2026-05-09T12:21:30.186657+08:00",
   "total_days": 31
 }
