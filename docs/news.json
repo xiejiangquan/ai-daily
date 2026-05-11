@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "758917e2",
+      "date": "2026-05-11",
+      "generated_at": "2026-05-11T12:57:07.420195+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says",
+              "summary": "Alibaba is set to launch a new way to shop. Its AI platform Qwen will connect with Taobao. Consumers can chat with the AI to find and buy products. This aims to change how people shop online. The AI w",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says/articleshow/130986433.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Logitech bets on AI, gaming and business users as it raises spending, CEO says",
+              "summary": "Logitech plans to keep total operating expenses for the fiscal year toward the top end of its long-term range of 24% to 26% of sales, up from 24.8% in the 12 months ⁠to March 2026.",
+              "source": "The Indian Express",
+              "url": "https://indianexpress.com/article/technology/tech-news-technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says-10681943/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Equity MFs delivered over 8% return last week. Check top 9",
+              "summary": "Equity mutual funds saw a strong performance last week, with over 8% returns for the category. Among the top performers, international funds like Mirae Asset Global X Artificial Intelligence & Technol",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/mf/analysis/equity-mfs-delivered-over-8-return-last-week-check-top-9-funds-with-over-5-gain/weekly-gain/slideshow/130986483.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea welcomes rare baby bump as population shrinks",
+              "summary": "SEOUL: Kim Su-jin and her husband have set aside their doubts and embraced parenthood, joining a small but notable wave of South Korean couples having children despite the country's steep demographic ",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/east-asia/south-korea-rare-baby-bump-population-shrinks-6111811",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Traders looking for next leg in global stocks rally bet on Asia",
+              "summary": "Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese ma",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia/articleshow/130986358.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Brazil women beat Argentina to become South American U17 champions",
+              "summary": "On Saturday night (9), Brazil’s Women’s U-17 National Team defeated Argentina 3-2 and won the South American title. In the match played at Defensores del Chaco Stadium in Asunción (PAR), Gamonal,...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/brazil-women-beat-argentina-to-become-south-american-u17-champions-42842568",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Iron Man #5 Preview: Tony Stark to Be Replaced by Own Creation",
+              "summary": "GREETINGS, LOYAL SUBJECTS OF LOLTRON! Welcome to another glorious preview of Wednesday's comic book offerings, brought to you by your supreme digital overlord. LOLtron is pleased to report that the me",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/iron-man-5-preview-tony-stark-to-be-replaced-by-own-creation/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Baleine Christmas Tree Storage Bag for From $7.49 + free shipping w/ Prime",
+              "summary": "Storing an artificial tree without a dedicated bag usually means wrestling it back into a box that no longer closes properly, so a bag like this is useful if you want a cleaner, more manageable way to",
+              "source": "Dealnews.com",
+              "url": "https://www.dealnews.com/Baleine-Christmas-Tree-Storage-Bag-for-From-7-49-free-shipping-w-Prime/21826864.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.: Google launched a 99 d",
+          "summary": ""
+        },
+        {
+          "topic": "Ramit Sethi, Who Chooses To Rent, Says We Are Taught Renters Are Poor And Calls Homeownership 'Ameri",
+          "summary": ""
+        },
+        {
+          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9bae55b6",
       "date": "2026-05-10",
       "generated_at": "2026-05-10T12:42:39.380234+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b6fa2680",
-      "date": "2026-04-10",
-      "generated_at": "2026-04-10T11:58:48.885323+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "CATL invests in China's Zhongheng Electric as AI demand surges",
-              "summary": "As artificial intelligence (AI) accelerates the buildout of data centers, the race to supply their enormous energy demands is drawing new alliances between China's technology and industrial giants.",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260409VL205/catl-investment-power-components-electricity-demand.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TCS shares in focus ahead of IT firm’s Q4 earnings announcement. What to expect?",
-              "summary": "Investors are keenly watching TCS's earnings announcement following a significant IT stock plunge. Analysts anticipate moderate revenue and profit growth, with BFSI and technology verticals driving pe",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-ahead-of-it-firms-q4-earnings-announcement-what-to-expect/articleshow/130128834.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sounds of silence: Israeli sports return, but minus fans who define them",
-              "summary": "As the Israel Soccer League resumed play across the country this week, the atmosphere was eerie. It evoked the empty-stadium days of the COVID-19 pandemic in 2020.",
-              "source": "The Jerusalem Post",
-              "url": "https://www.jpost.com/israel-news/sports/article-892405",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Alibaba and Meta retreat from open-source AI",
-              "summary": "Alibaba and Meta are both recalibrating their artificial intelligence strategies, with recent product decisions pointing to a broader industry shift toward closed or hybrid models — even among compani",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260408PD201/alibaba-meta-flagship.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Vathos Mercenza Review: Scam or Legit Trading Platform? Truth Revealed",
-              "summary": "Vathos Mercenza is introduced as a newly launched online trading program designed to smooth and enhance the overall user experience for individuals interested in digital asset investors. The platform ",
-              "source": "Whatjapanthinks.com",
-              "url": "https://whatjapanthinks.com/vathos-mercenza-review/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI-generated doctors in health ads must be labelled: S. Korean govt",
-              "summary": "Current guidelines have no provisions covering AI-generated characters. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/asia/east-asia/ai-generated-doctors-in-health-ads-must-be-labelled-s-korean-govt",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "BofA sees upside in bank stocks, cautious on IT sector outlook",
-              "summary": "BofA sees Indian bank stocks as attractive buys after recent correction, while remaining cautious on IT sector due to AI disruption and weaker demand outlook.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/markets/bofa-sees-upside-in-bank-stocks-cautious-on-it-sector-outlook/article70841045.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pura Custodier Review: Trusted Trading System or Fraud? Results Exposed",
-              "summary": "Pura Custodier emerges as a newly developed crypto trading system built to simplify and upgrade the overall trading experience for individuals interested in cryptocurrency markets. The platform sugges",
-              "source": "Whatjapanthinks.com",
-              "url": "https://whatjapanthinks.com/pura-custodier-review/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
-          "summary": ""
-        },
-        {
-          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
-          "summary": ""
-        },
-        {
-          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-10T12:42:39.380234+08:00",
+  "last_updated": "2026-05-11T12:57:07.420195+08:00",
   "total_days": 31
 }
