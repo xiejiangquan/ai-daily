@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9fe60f18",
+      "date": "2026-05-12",
+      "generated_at": "2026-05-12T12:34:37.767954+08:00",
+      "headline": "今日 AI 新闻速览（54 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI model finally learns to say ‘I don’t know’ in breakthrough to curb chatbot overconfidence",
+              "summary": "New training method may help tackle AI ‘hallucination’",
+              "source": "The-independent.com",
+              "url": "https://www.the-independent.com/tech/ai-model-chatbot-overconfidence-don-t-know-b2974020.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Orchestro. AI Founder Awarded Oxford's Bodleian Medal for Work in AI Ethics",
+              "summary": "OXFORD, England, May 11, 2026 (GLOBE NEWSWIRE) -- On April 20, Oxford University presented Dr. Shekhar Natarajan, Founder and CEO of Orchestro.AI, with the prestigious Bodleian Medal for his contribut",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/05/11/3291536/0/en/Orchestro-AI-Founder-Awarded-Oxford-s-Bodleian-Medal-for-Work-in-AI-Ethics.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘AI not likely to replace you, but…’: Jensen Huang assures fresh grads that this is the best time to start a career",
+              "summary": "Jensen Huang told the new grads that AI was closing the “technology divide,” allowing anyone to build something useful.",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/people/ai-not-likely-to-replace-you-but-jensen-huang-assures-fresh-grads-that-this-is-the-best-time-to-start-a-career-11778466025826.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: US market enters a critical week with inflation and Iran tensions in focus",
+              "summary": "Markets are watching key inflation data and consumer spending trends. Developments in the Iran conflict and a meeting between Presidents Trump and Xi are also crucial. Strong corporate earnings have b",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-market-enters-a-critical-week-with-inflation-and-iran-tensions-in-focus/articleshow/131003210.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How Fiduciary Duty May Change in the Age of Quantum AI",
+              "summary": "What should fiduciary duty require when new technology allows corporate directors to see risk more clearly? Though corporate law has long assumed that directors must make decisions under conditions of",
+              "source": "Columbia.edu",
+              "url": "https://clsbluesky.law.columbia.edu/2026/05/11/how-fiduciary-duty-may-change-in-the-age-of-quantum-ai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Fed warns prolonged Iran conflict could fuel inflation, hurt global growth",
+              "summary": "The Federal Reserve's latest report identifies the Iran conflict and resulting oil price shock as the primary threats to financial stability, surpassing other macroeconomic risks.  Concerns are high t",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-warns-prolonged-iran-conflict-could-fuel-inflation-hurt-global-growth/articleshow/131003110.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Microsoft Windows 11 Home for $9",
+              "summary": "Expires March 13, 2124 07:59 PST\n\n\n\n\n Buy now and get 92% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPlease check all system requirements before purchasing. Check your computer compatibility w",
+              "source": "AndroidGuys",
+              "url": "https://deals.androidguys.com/sales/microsoft-windows-11-home-5?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=androidguys",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Young Americans' Job Market Pessimism Stands Out Globally",
+              "summary": "Unlike older U.S. adults, younger Americans have grown more negative about their local job prospects in recent years, a trend not seen in most economies worldwide.",
+              "source": "Gallup.com",
+              "url": "https://news.gallup.com/poll/708860/young-americans-job-market-pessimism-stands-globally.aspx",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Transcript: Howard Lindzon, Social Leverage: The transcript from this week’s MiB Howard Lindzon, Soc",
+          "summary": ""
+        },
+        {
+          "topic": "How to Create Scroll-Stopping Hooks That Work on Every Platform in 2026: In the fast-paced digital l",
+          "summary": ""
+        },
+        {
+          "topic": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.: Google launched a 99 d",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "758917e2",
       "date": "2026-05-11",
       "generated_at": "2026-05-11T12:57:07.420195+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2fe06d1e",
-      "date": "2026-04-11",
-      "generated_at": "2026-04-11T11:35:22.936673+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Strange Microbes Found in Shark Bay Could Reveal How Complex Life Began",
-              "summary": "Scientists finally saw a key clue. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-              "source": "ScienceAlert",
-              "url": "https://www.sciencealert.com/strange-microbes-found-in-shark-bay-could-reveal-how-complex-life-began",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "“I want to show what Brazil is”, says Júlia Vaini on first U20 call-up",
-              "summary": "Being called up for the friendlies against the United States is a new step in Júlia Vaini’s career. Born in Osasco, the midfielder has been called up to the Brazil Under-20 National Team for the fi...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/i-want-to-show-what-brazil-is-says-julia-vaini-on-first-u20-call-up-42687437",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta transfers top engineers into new AI tooling team",
-              "summary": "The reorganisation ⁠comes as Meta plans sweeping layoffs that could eliminate tens of ​thousands of jobs at the company, as it seeks to offset costly ​artificial intelligence infrastructure bets and p",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-transfers-top-engineers-into-new-ai-tooling-team/articleshow/130157541.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta deepens CoreWeave partnership as AI infrastructure spending accelerates amidst rising capital demands",
-              "summary": "CoreWeave and Meta Platforms have expanded their long-term partnership in a deal that underscores the scale and urgency of infrastructure investment required to support next-generation artificial inte",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260410VL201/meta-coreweave-partnership-ai-capacity-infrastructure.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Take the judiciary’s cue: Indian courts have achieved clarity on what AI enhances and what it endangers",
-              "summary": "Indian high courts have issued clear instructions barring the use of artificial intelligence (AI) in important judicial processes, while allowing its controlled use for low-risk tasks. Policymakers ha",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/opinion/online-views/judiciary-indian-courts-ai-artificial-intelligence-high-court-supreme-technology-judgements-11775742893833.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Demand for AI infrastructure spreads shortages beyond memory chips to MLCCs",
-              "summary": "As global corporations accelerate spending on artificial intelligence (AI) infrastructure, supply constraints are no longer limited to memory chips. Signs of tightening availability are now emerging i",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260410PD214/mlcc-chips-infrastructure-murata-semco.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Towards Adaptive Science News",
-              "summary": "The Adaptation and Personalization Community Group intends to explore and discuss technologies including those with which to enable adaptive science news. Science news connects society to scientific a",
-              "source": "W3.org",
-              "url": "https://www.w3.org/community/adaptation/2026/04/10/towards-adaptive-science-news/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks",
-              "summary": "Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.",
-              "source": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
-          "summary": ""
-        },
-        {
-          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
-          "summary": ""
-        },
-        {
-          "topic": "Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goa",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-11T12:57:07.420195+08:00",
+  "last_updated": "2026-05-12T12:34:37.767954+08:00",
   "total_days": 31
 }
