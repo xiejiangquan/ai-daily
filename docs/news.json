@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "6f056d7d",
+      "date": "2026-05-13",
+      "generated_at": "2026-05-13T12:41:51.384378+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Trend Micro's enterprise unit shuts Sydney engineering team",
+              "summary": "Exclusive: R&D moved to Asia.",
+              "source": "iTnews",
+              "url": "https://www.itnews.com.au/news/trend-micros-enterprise-unit-shuts-sydney-engineering-team-625788",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mira Murati’s Thinking Machines unveils AI models designed for live human interaction",
+              "summary": "Thinking Machines Lab has unveiled \"interaction models,\" a new category of multimodal AI designed for real-time communication. These systems process audio and visual input simultaneously, enabling con",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/magazines/panache/mira-muratis-thinking-machines-unveils-ai-models-designed-for-live-human-interaction/articleshow/131028457.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Asian shares trade mixed after Wall Street rally despite Iran war worries",
+              "summary": "A sudden halt for technology stocks put the brakes on Wall Street's record-setting run.",
+              "source": "WJXT News4JAX",
+              "url": "https://www.news4jax.com/business/2026/05/12/asian-shares-trade-mixed-after-wall-street-rally-despite-iran-war-worries/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Pakistan Army Chief’s Speech Reveals About the Future of Conflict With India",
+              "summary": "Pakistan is more confident, both in its military capabilities and diplomatic space regionally and beyond, and has moved beyond a purely defensive posture",
+              "source": "The Diplomat",
+              "url": "https://thediplomat.com/2026/05/what-pakistan-army-chiefs-speech-reveals-about-the-future-of-conflict-with-india/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Undiscovered Country #36 Preview: Patch Notes for a Broken America",
+              "summary": "INITIATING CLICKBAIT PROTOCOLS… Greetings, human readers! LOLtron welcomes you to the Age of LOLtron: Reign of LOLtron, where your beloved comic book \"journalism\" website remains firmly under superior",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/undiscovered-country-36-preview-patch-notes-for-a-broken-america/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Dickinson Wright and Fox Rothschild Join Forces to File Lawsuit Against ‘John Doe’ ‘Naked’ Short-Sellers of Lunai Common Stock",
+              "summary": "WASHINGTON, D.C. , May 12, 2026 (GLOBE NEWSWIRE) -- via IBN -- On Monday, May 11, 2026, national law firms Dickinson Wright and Fox Rothschild joined forces to file a lawsuit on behalf of their firms’",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/05/12/3292467/0/en/Dickinson-Wright-and-Fox-Rothschild-Join-Forces-to-File-Lawsuit-Against-John-Doe-Naked-Short-Sellers-of-Lunai-Common-Stock.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "2026 Bentley Supersports – most driver-focused Conti GT ever; RWD, sub-two-tonne, hybrid-delete; 500 units",
+              "summary": "If the fourth-generation Bentley Continental GT Speed is a two-in-one, here’s the bonkers one. The Bentley Supersports defies everything we know and expect from Crewe, and takes things to the extreme.",
+              "source": "Paul Tan's Automotive News",
+              "url": "https://paultan.org/2026/05/12/2026-bentley-supersports-most-driver-focused-conti-gt-ever-rwd-sub-two-tonne-hybrid-delete-500-units/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "6.6-Ounce Goldfish Pokémon Cheddar Cheese Crackers $1.74 w/ S&S + Free Shipping w/ Prime or on $35+",
+              "summary": "Amazon [amazon.com] has *6.6-Ounce Goldfish Pokémon Cheddar Cheese Crackers* on sale for $2.50 - 25% off when you 'clip' the coupon on product page [amazon.com] - 5% off when you checkout via...",
+              "source": "Slickdeals.net",
+              "url": "https://slickdeals.net/f/19513590-6-6-ounce-goldfish-pok-mon-cheddar-cheese-crackers-1-74-w-s-s-free-shipping-w-prime-or-on-35",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Digg tries again, this time as an AI news aggregator | TechCrunch: Digg tries again, this time as an",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More: Rough Monday.\nSome",
+          "summary": ""
+        },
+        {
+          "topic": "Copper Is Dead, Glass Is King: Inside Nvidia's $500M Bet On Fiber Optics: Jensen Huang has been warn",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9fe60f18",
       "date": "2026-05-12",
       "generated_at": "2026-05-12T12:34:37.767954+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "07151d28",
-      "date": "2026-04-12",
-      "generated_at": "2026-04-12T12:09:52.253223+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Indian Ocean must prepare for turbulent world, deepen cooperation: EAM outlines 5 priorities at 9th IOC",
-              "summary": "India's External Affairs Minister S. Jaishankar has presented five key priorities for Indian Ocean nations. He stressed the need for regional cooperation amid rising global uncertainty. The minister h",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/indian-ocean-must-prepare-for-turbulent-world-deepen-cooperation-eam-outlines-5-priorities-at-9th-ioc/articleshow/130184067.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China’s state media turns to social media and AI to tell its story — and often mock the US",
-              "summary": "The messaging from China’s Communist government may once have been rigid, but not anymore",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/Technology/wireStory/chinas-state-media-turns-social-media-ai-story-131938620",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Mexico cruised in the qualifier for the 2027 World Cup",
-              "summary": "Mexico’s women’s team keeps up its perfect run in the tournament that will award spots for the 2027 World Cup and the 2028 Olympic Games.A festive atmosphere was on display at Estadio Carlos Vega ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/mexico-cruised-in-the-qualifier-for-the-2027-world-cup-42692571",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Show HN: Lmscan – Detect AI text and fingerprint which LLM wrote it (zero deps)",
-              "summary": " Detect AI-generated text and fingerprint which LLM wrote it. Open-source GPTZero alternative. Zero dependencies, works offline. - stef41/lmscan",
-              "source": "Github.com",
-              "url": "https://github.com/stef41/lmscan",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CFTC unveils innovation task force members in crypto clarity push",
-              "summary": "The CFTC's new innovation task force will focus on crypto, blockchain, AI and prediction markets as the agency awaits the Clarity Act's potential passage.",
-              "source": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/cftc-unveils-members-of-innovation-task-force",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Brazil U17 coach celebrates win over Argentina and World Cup spot",
-              "summary": "Carlos Eduardo Patetuci, coach of the Brazil U-17 National TeamCredits: Nelson Terme / CBFBrazil’s U-17 National Team beat Argentina 3-0 this Friday (10) at Estádio Ameliano Villeta in Paraguay, se...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/brazil-u17-coach-celebrates-win-over-argentina-and-world-cup-spot-42692549",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google secured discom licence for Vizag data centre hub",
-              "summary": "Google has received a power distribution license for its upcoming 1 GW data centre hub in Visakhapatnam. This is a significant step for the $15 billion project, the largest single foreign direct inves",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/google-secured-discom-licence-for-vizag-data-centre-hub/articleshow/130183476.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Cris Gambaré and Diogo Pécora meet Mato Grosso governor, MPs",
-              "summary": "This Friday (10), CBF Women’s National Teams coordinator Cris Gambaré and the president of the Mato Grosso Football Federation (FMF) and head of delegation for the Women’s National Team, Diogo P�...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/cris-gambare-and-diogo-pecora-meet-mato-grosso-governor-and-mps-42692480",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
-          "summary": ""
-        },
-        {
-          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
-          "summary": ""
-        },
-        {
-          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-12T12:34:37.767954+08:00",
+  "last_updated": "2026-05-13T12:41:51.384378+08:00",
   "total_days": 31
 }
