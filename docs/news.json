@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "16637d8e",
+      "date": "2026-05-14",
+      "generated_at": "2026-05-14T12:41:32.209180+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Fluence Announces Pricing of Secondary Offering of Class A Common Stock by Existing Controlling Stockholders",
+              "summary": "ARLINGTON, Va., May 13, 2026 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (“Fluence”) (NASDAQ: FLNC), a global market leader delivering intelligent energy storage, operational services, and asset optimiza",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/05/13/3293628/0/en/Fluence-Announces-Pricing-of-Secondary-Offering-of-Class-A-Common-Stock-by-Existing-Controlling-Stockholders.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "IMD’s new AI weather forecasts will tell farmers when it will rain within a 1-km area",
+              "summary": "IMD's one forecasting product, developed by the National Centre for Medium Range Weather Forecasting (NCMRWF), has been specifically meant for Uttar Pradesh.",
+              "source": "The Indian Express",
+              "url": "https://indianexpress.com/article/india/imds-new-ai-weather-forecasts-will-tell-farmers-when-it-will-rain-within-a-1-km-area-10686727/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "R. Madhavan’s favourite breakfast is gut-friendly and may help with weight loss",
+              "summary": "Actor R Madhavan recently revealed that Kuzhi Paniyaram is one of his favourite breakfast dishes Doctors say the traditional South Indian recipe is not only delicious but may also support gut health d",
+              "source": "India Today",
+              "url": "https://www.indiatoday.in/health/story/r-madhavans-favourite-breakfast-is-gut-friendly-and-may-help-with-weight-loss-2910397-2026-05-13",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ask The Doctor: I get frequent headaches at work. How do I know if it is eye strain or something more serious?",
+              "summary": "Question: I get frequent headaches during the workday, especially when I’m at a screen. How do I know if it’s just eye strain or something more serious?",
+              "source": "Independent.ie",
+              "url": "https://www.independent.ie/life/health-wellbeing/health-features/ask-the-doctor-i-get-frequent-headaches-at-work-how-do-i-know-if-it-is-eye-strain-or-something-more-serious/a58504705.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "French hantavirus patient is critically ill, on an artificial lung as total cases grow to 11",
+              "summary": "A French woman is critically ill with hantavirus, requiring an artificial lung, as the cruise ship outbreak reaches 11 cases and three deaths. Health officials are investigating the virus's origin in ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Shoppers Are at Risk of a Costly Christmas as China Hikes Prices",
+              "summary": "Chinese suppliers to major US retailers like Walmart Inc. and Costco Wholesale Corp. said they are hiking prices for the first time in years as raw material costs soar just as factories ramp up produc",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/us-shoppers-are-at-risk-of-a-costly-christmas-as-china-hikes-prices",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Donald Trump to visit China with 16 CEOs including Elon Musk and Tim Cook",
+              "summary": "The summit could redefine US-China tech relations, potentially boosting crypto adoption and investment if digital assets are prioritized.\nThe post Donald Trump to visit China with 16 CEOs including El",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/trump-china-visit-ceos-musk-cook/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Your “um” and pauses could reveal early dementia risk",
+              "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are close",
+              "source": "Science Daily",
+              "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Meta won’t let you block its AI account on Threads: Meta announced on Tuesday that it's testing a Th",
+          "summary": ""
+        },
+        {
+          "topic": "The Rise of the Bullshittery: A few thoughts on how the modern economy has stopped rewarding people ",
+          "summary": ""
+        },
+        {
+          "topic": "Threads tests a Meta AI integration that works similarly to Grok | TechCrunch: The feature is design",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "6f056d7d",
       "date": "2026-05-13",
       "generated_at": "2026-05-13T12:41:51.384378+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9a09ffa6",
-      "date": "2026-04-13",
-      "generated_at": "2026-04-13T12:19:09.789524+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "'Stop hiring humans'? Silicon Valley confronts AI job panic",
-              "summary": "AI experts at HumanX conference advise workers to code smarter and embrace human skills. Companies are increasingly citing AI for job cuts, sparking anxiety. While some dismiss AI as a pretext for lay",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/stop-hiring-humans-silicon-valley-confronts-ai-job-panic/articleshow/130202371.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX Will Have Static Fire Testing of All 33 Engines",
-              "summary": "Starlink V3 launches with Starship will carry 25 to 50 times more bandwidth than a Falcon flight with V2, depending on how you count it. Starship will also launch 100+ times more per year than Falcon ",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/04/spacex-will-have-static-fire-testing-of-all-33-engines.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TV guide: the best new shows to watch, starting tonight",
-              "summary": "Young Forever: The Death of Ageing?, Gordon Ramsay’s Secret Service, Margo’s Got Money Troubles and more",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/culture/tv-radio/2026/04/12/tv-guide-the-best-new-shows-to-watch-starting-tonight/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Apple TV’s Upcoming Cyberpunk Show Will Redeem 2025’s Biggest Sci-Fi Failure",
-              "summary": "Apple TV’s highly-anticipated cyberpunk show seems to have the perfect opportunity to make up for one of 2025’s biggest failed science fiction movies.",
-              "source": "Screen Rant",
-              "url": "https://screenrant.com/apple-tv-cyberpunk-neuromancer-tron-ares/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI generated the animation for this TV show. Is it 'cool' or 'messed up'?",
-              "summary": "A television show that uses generative artificial intelligence to animate Indonesian folktales is creating a stir.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-04-12/indonesias-first-fully-animated-ai-television-program/106536048",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Brazil beaten by the United States in first friendly in Kansas",
-              "summary": "Brazil’s Women’s Under-20 National Team was beaten 2-0 by the United States this Saturday (11) at CPKC Stadium in Kansas (USA), in a friendly serving as preparation for the FIFA U-20 Women’s Wor...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/brazil-beaten-by-the-united-states-in-first-friendly-in-kansas-42697852",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Hulk turns tables on reporter over Neymar Copa question, watch",
-              "summary": "At Vila Belmiro, Santos beat Atlético-MG 1-0 this Saturday (11), in the 11th round of the 2026 Brasileirão.+ New second-placed team without playing and more changes in the Brasileirão tableThe matc...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/hulk-turns-tables-on-reporter-over-neymar-copa-question-watch-42697833",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tigres thrash and outclass Chivas at El Volcán!",
-              "summary": "Tigres made a statement at El Volcán, thrashing Chivas 4-1. The felines controlled much of the match, handing the Liga MX leaders one of their most painful defeats of the Clausura 2026. The party st..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/tigres-thrash-and-outclass-chivas-at-el-volcan-42697650",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
-          "summary": ""
-        },
-        {
-          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
-          "summary": ""
-        },
-        {
-          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-13T12:41:51.384378+08:00",
+  "last_updated": "2026-05-14T12:41:32.209180+08:00",
   "total_days": 31
 }
