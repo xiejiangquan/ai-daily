@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "06092b9a",
+      "date": "2026-05-15",
+      "generated_at": "2026-05-15T12:47:58.919259+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Preparing for Rupee at 100: What does it mean for the economy and your stock market investments?",
+              "summary": "The Indian rupee is nearing the Rs 100 per dollar mark, driven by rising crude oil prices and foreign investor outflows. This depreciation fuels imported inflation, complicates RBI policy, and creates",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/preparing-for-rupee-at-100-what-does-it-mean-for-the-economy-and-your-stock-market-investments/articleshow/131082559.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "BlackBerry doubles down on secure communications",
+              "summary": "Having sold its Cylance endpoint security portfolio to Arctic Wolf, the former smartphone pioneer is doubling down on military-grade encryption and post-quantum cryptography to shield critical infrast",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366643081/BlackBerry-doubles-down-on-secure-communications",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties: CCTV",
+              "summary": "Nvidia CEO Jensen Huang met with Chinese President Xi Jinping. He expressed hope for improved US-China relations. Nvidia faces difficulties supplying advanced AI chips to Chinese clients. This impacts",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Discovery of new alien worlds rewrites understanding of the cosmos",
+              "summary": "Scientists have uncovered thousands of new worlds which have never been seen before as the search for extraterrestrial life reaches a global tipping point.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/sciencetech/article-15815343/discovery-alien-worlds-cosmos.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The gathering with K.M. and the high-profile guests at Costa Navarino, the green Vasia with the motor-mouth, PPC, Alexis and the (wild) BS, the new Skaramangas shipyards",
+              "summary": "Patoulis’ new step & the first stock in Wall Street history worth $5.5 trillion\nThe post The gathering with K.M. and the high-profile guests at Costa Navarino, the green Vasia with the motor-mouth, PP",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/05/14/the-gathering-with-k-m-and-the-high-profile-guests-at-costa-navarino-the-green-vasia-with-the-motor-mouth-ppc-alexis-and-the-wild-bs-the-new-skaramangas-shipyards/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gold and silver price today, May 14: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+              "summary": "Gold and silver prices fell in India on 14 May amid key global developments. MCX gold futures slipped 0.37% to  ₹1,62,270 per 10 gm, while silver futures dropped 1.61% to  ₹2,96,160 per kg. Markets re",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-may-14-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11778730008296.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vancouver mayor decries 'misinformation' after saying he uses 11 AI agents to do work",
+              "summary": "Ken Sim said he uses AI agents to do a lot of his work \"in the background,\" but online critics, including rival mayoral candidate Kareem Allam, questioned whether he was sharing government data or res",
+              "source": "CBC News",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/ken-sim-11-ai-agents-9.7199081",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Artmarket.com: The Artprice Manifesto: 22 Rules for a Regulated and Transparent Art Market in the Age of AI",
+              "summary": "Artificial intelligence is redistributing the value of information at an unprecedented pace PARIS, May 14, 2026 /PRNewswire/ -- We are living through one of those defining periods. Artificial intellig",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/artmarketcom-the-artprice-manifesto-22-rules-for-a-regulated-and-transparent-art-market-in-the-age-of-ai-302771642.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Best Growth Hacking Tactics for Early-Stage Startups: Early-stage startups can scale faster with pro",
+          "summary": ""
+        },
+        {
+          "topic": "Social Listening: How to Use It for Your Business: Social media has fundamentally changed how busine",
+          "summary": ""
+        },
+        {
+          "topic": "Is it time to adopt autonomous endpoint management software?: Autonomous endpoint management tools p",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "16637d8e",
       "date": "2026-05-14",
       "generated_at": "2026-05-14T12:41:32.209180+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "30431463",
-      "date": "2026-04-14",
-      "generated_at": "2026-04-14T12:08:43.344764+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "3 ASX 200 shares I would buy immediately if the market dips again",
-              "summary": "These quality shares could be worth a look if they pull back further.\nThe post 3 ASX 200 shares I would buy immediately if the market dips again appeared first on The Motley Fool Australia.",
-              "source": "Motley Fool Australia",
-              "url": "https://www.fool.com.au/2026/04/13/3-asx-200-shares-i-would-buy-immediately-if-the-market-dips-again/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can This Tool Predict Where Your City’s Next Car Crash Will Happen?",
-              "summary": "But will U.S. transportation leaders use it to take preemptive action to make roadways safer?",
-              "source": "Streetsblog.org",
-              "url": "https://usa.streetsblog.org/2026/04/13/ai-artificial-intelligence-tool-predict-car-crash-cellphone-data-cambridge-mobile-telematics",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "If we can’t kick the habit, how do we manage AI’s energy needs?",
-              "summary": "One can only hope that OpenAI’s Sam Altman was joking when he sought to justify the immense energy consumption of artificial intelligence",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/feature/If-we-cant-kick-the-habit-how-do-we-manage-AIs-energy-needs",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UK Startups Come to London to Rumble With Policymakers",
-              "summary": "More than 30 Founders and Entrepreneurs to Meet with MPs, Peers, and Civil Service on the Needs of the UK's Small Tech Communit More than 30 Founders and Entrepreneurs to Meet with MPs, Peers, and Civ",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/04/13/3272181/0/en/UK-Startups-Come-to-London-to-Rumble-With-Policymakers.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI vs Elon: AI Giant Accuses Musk's Proposal as 'Legal Ambush' Ahead of Trial",
-              "summary": "Elon Musk's $134B lawsuit against OpenAI and Microsoft intensifies, with new claims, leadership challenges, and a high-stakes trial set for April 27.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/openai-vs-elon-ai-giant-accuses-musks-proposal-legal-ambush-ahead-trial-1866294",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UK regulators rush to assess risks of latest Anthropic AI model: Report",
-              "summary": "AI startup Anthropic ‌has said the ​model ​is being ​deployed as part of \"Project Glasswing\".",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-report-10633422/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India’s push for sovereign AI to lift Asia’s tech ecosystem",
-              "summary": "A landmark AI infrastructure deal between Yotta and Gorilla Technology aims to deploy up to 36,000 GPUs in India, creating a blueprint for commercially viable AI at scale across the region",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366641695/Indias-push-for-sovereign-AI-to-lift-Asias-tech-ecosystem",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
-              "summary": "On Thursday, ​TSMC is expected to report a net profit of $17.1 billion for the quarter, according to an LSEG SmartEstimate compiled from 19 analysts. The war in the Middle East threatens to disrupt th",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-likely-to-book-fourth-straight-quarter-of-record-profit-on-insatiable-ai-demand/articleshow/130224219.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Morning Brief: A big day for inflation: The Fed's preferred inflation gauge showed pricing pressures",
-          "summary": ""
-        },
-        {
-          "topic": "WTH?! Twitter Drops Fake Daredevil: Born Again Season 2 Spoilers as Character Return Confirmed: Dare",
-          "summary": ""
-        },
-        {
-          "topic": "Legendary Bear Peter Schiff Warns: 'We're Going To Need An Alternative Monetary System': Economist P",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-14T12:41:32.209180+08:00",
+  "last_updated": "2026-05-15T12:47:58.919259+08:00",
   "total_days": 31
 }
