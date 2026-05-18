@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "954db051",
+      "date": "2026-05-18",
+      "generated_at": "2026-05-18T13:04:54.051401+08:00",
+      "headline": "今日 AI 新闻速览（46 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it | iNFOnews.ca",
+              "summary": "CANNES, France (AP) — The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New",
+              "source": "Infonews.ca",
+              "url": "https://infonews.ca/news/7647540/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
+              "summary": "The artificial intelligence boom is leading to fights in some states over growing utility profits",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/US/wireStory/electric-bills-rise-states-focusing-growing-profits-utilities-133044569",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "GameRefine",
+              "summary": "GameRefine is an AI-powered tennis analytics application designed to enhance player performance through data-driven insights. It provides real-time match tracking,...",
+              "source": "Giveawayoftheday.com",
+              "url": "https://iphone.giveawayoftheday.com/gamerefine/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta layoffs trigger panic as employees stuff bags with free snacks, drinks and chargers, says ex-employee",
+              "summary": "A former Meta employee shared a chilling account of the company's atmosphere before significant job cuts. Workers reportedly took free snacks and chargers, viewing the eve of layoffs as 'doomsday'. Th",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/meta-layoffs-trigger-panic-as-employees-stuff-bags-with-free-snacks-drinks-and-chargers-says-ex-employee/articleshow/131148927.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "America's Medicine Supply Chain Is A National Security Vulnerability",
+              "summary": "The Chinese government is tightening the screws on American investment in its artificial intelligence sector. The core purpose is to keep U.S. capital out of technologies it deems “strategically sensi",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4379637/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why patience, value and mean reversion could define the next market cycle",
+              "summary": "As global markets grapple with high valuations, geopolitical risks and AI-driven exuberance, investors are revisiting time-tested strategies like value investing and mean reversion. Tobias Carlisle’s ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-patience-value-and-mean-reversion-could-define-the-next-market-cycle/articleshow/131148611.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Will Nifty, Sensex extend losses on Monday? These 5 factors will drive D-Street action this week",
+              "summary": "Indian markets ended the week sharply lower amid a record rupee slide, surging oil prices and weak global cues. Investors remain cautious as geopolitical tensions, rising US bond yields and foreign ou",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/will-nifty-sensex-extend-losses-on-monday-these-5-factors-will-drive-d-street-action-this-week/articleshow/131148529.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "'Fuel scarcity' hits livelihood in Odisha, govt assures people of situation normalisation by Monday",
+              "summary": "Odisha faces fuel scarcity, impacting daily wage earners and transport operators. The state government attributes the situation to panic buying and supply chain disruptions. Officials assure normalcy ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/fuel-scarcity-hits-livelihood-in-odisha-govt-assures-people-of-situation-normalisation-by-monday/articleshow/131148524.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "'Equal Opportunity. Not Equal Outcomes.' Anthony Scaramucci Says People Who Work Harder Deserve More",
+          "summary": ""
+        },
+        {
+          "topic": "Nvidia Overtakes Silver To Become World's Second-Largest Asset At $5.52 Trillion, Market Commentator",
+          "summary": ""
+        },
+        {
+          "topic": "Personal Brand Building Without Feeling Fake or Forced: Be You, Rule the Room: The phrase personal b",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7ce8664f",
       "date": "2026-05-17",
       "generated_at": "2026-05-17T12:52:04.622666+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "a688a336",
-      "date": "2026-04-17",
-      "generated_at": "2026-04-17T12:10:55.839480+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Terafab Equipment and Chip Orders",
-              "summary": "Elon Musk is ordering equipment for the Terafab with the capacity to process 3,000 wafers per month. 36,000 wafers per year. 3-4 million chips per year. There could be similar numbers from Intel fabs ",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/04/terafab-equipment-and-chip-orders.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure",
-              "summary": "OpenAI executives say they will introduce a new artificial intelligence model for “high-value professional work” as the company faces heightened competition with rival Anthropic in attracting corporat",
-              "source": "seattlepi.com",
-              "url": "https://www.seattlepi.com/business/article/chatgpt-maker-openai-shifts-its-focus-to-business-22209288.php",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Misinformation becomes a tool of protest and an erosion of trust in our society",
-              "summary": "Artificial intelligence stokes rumour mill and fuels the spread of false information",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/innovation/2026/04/16/misinformation-becomes-a-tool-of-protest-and-an-erosion-of-trust-in-our-society/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Boil Orange Peels for 10 Minutes – The Easy Trick That Makes Your Whole House Smell Fresh Naturally",
-              "summary": "Boiling orange peels for just 10 minutes offers a natural and cost-effective way to refresh interior spaces. This simple kitchen practice releases D-limonene, an organic compound found in citrus peels",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/us/boil-orange-peels-for-10-minutes-the-easy-trick-that-makes-your-whole-house-smell-fresh-naturally/articleshow/130297282.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX Successfully Static Fires V3 Booster",
-              "summary": "Successful static fires of SpaceX V3 booster follows yesterdays successful V3 starship static fire. Hopefully go for a launch in 2 weeks. First 33-engine static fire for Super Heavy V3 pic.twitter.com",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/04/spacex-successfully-static-fires-v3-booster.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Including a mass brawl: Wednesday’s Copa Sudamericana highlights",
-              "summary": "The Copa Sudamericana also grabbed attention this Wednesday with big wins, but also fights and even injuries. Join us for the best of today in the competition. All-out brawl!Olimpia vs. Barracas Cen..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/including-a-mass-brawl-wednesdays-copa-sudamericana-highlights-42718378",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Wexford pupil Alfie (11) takes on Education Minister over system that ‘reinforces 1950s gender stereotypes’",
-              "summary": "As Education Minister Hildegarde Naughton took questions from the media at the ASTI conference in White’s Hotel on Tuesday, 11 year-old Alfie Kearney and his mam Cathriona watched on, awaiting their o",
-              "source": "Independent.ie",
-              "url": "https://www.independent.ie/irish-news/wexford-pupil-alfie-11-takes-on-education-minister-over-system-that-reinforces-1950s-gender-stereotypes/a1967232310.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mythos AI model triggers global financial and regulatory scrutiny amid cybersecurity concerns",
-              "summary": "Financial and monetary authorities in the US and other major economies are increasingly focused on Anthropic PBC's new artificial intelligence model, Mythos, amid concerns that its advanced cybersecur",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260415VL201/cybersecurity-anthropic-technology.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AEO Insights: Building an Informed Answer Engine Strategy: By now, you know that everyone’s buzzing ",
-          "summary": ""
-        },
-        {
-          "topic": "TAN Allegory Font Duo by TanType: Let’s Talk About How TanType’s Allegory Font Duo Brings Editorial ",
-          "summary": ""
-        },
-        {
-          "topic": "Hong Kong Web3 Festival Unveils 2026 Full Schedule: 4 Days of Insight-Driven Forums with Vitalik, Yi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-17T12:52:04.622666+08:00",
+  "last_updated": "2026-05-18T13:04:54.051401+08:00",
   "total_days": 31
 }
