@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b77a96a4",
+      "date": "2026-05-22",
+      "generated_at": "2026-05-22T12:59:12.991899+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Jamie Dimon says JPMorgan Chase will hire more AI specialists, fewer traditional bankers",
+              "summary": "Jamie Dimon said JPMorgan will increasingly hire AI specialists and fewer traditional bankers as artificial intelligence reshapes the financial sector. The bank is expanding investments in AI across o",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/people/jamie-dimon-says-jpmorgan-chase-will-hire-more-ai-specialists-fewer-traditional-bankers-11779337360412.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Lenskart shares jump despite Q4 profit decline on strong growth outlook",
+              "summary": "The stock traded 2% higher at ₹497.75 on the NSE at the time of writing after hitting an intraday high of ₹517, compared to the previous close of ₹486.85",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/markets/lenskart-shares-jump-despite-q4-profit-decline-on-strong-growth-outlook/article71004910.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI must be shaped by ethical oversight, commitment to equity: Nadda",
+              "summary": "The minister said India laid a strong digital foundation over a decade ago under Prime Minister Narendra Modi through the launch of the Digital India initiative in 2015",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/ai-must-be-shaped-by-ethical-oversight-commitment-to-equity-nadda/article71004903.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Citi Sees India IPOs Hitting Fresh Records Despite Challenges",
+              "summary": "Initial public offerings in India should get back on track in the second half of the year, according to Citigroup Inc., moving on from a rocky start that’s seen foreign investors withdraw capital and ",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/citi-sees-india-ipos-hitting-fresh-records-despite-challenges",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Robin (it’s happening)",
+              "summary": "Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to bi",
+              "source": "Marginalrevolution.com",
+              "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robin-its-happening.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vietnam issues AI regulations, requires OpenAI and Anthropic to appoint local government liaisons",
+              "summary": "Vietnam has issued artificial intelligence (AI) regulations requiring companies such as OpenAI and Anthropic to appoint representatives to communicate with the government, with affected firms needing ",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260520PD242/vietnam-government-ai-regulation.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India-Nordic Summit signals New Delhi's emergence as 'co-author of global governance': Analysis",
+              "summary": "When Denmark's Prime Minister Mette Frederiksen described India in Oslo as \"not a middle power, but one of the world's greatest powers,\" it signalled more than diplomatic warmth. It reflected a broade",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-nordic-summit-signals-new-delhis-emergence-as-co-author-of-global-governance-analysis/articleshow/131239713.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gold and silver price today, 21 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+              "summary": "Gold and silver prices fell on Thursday amid weak global cues, US Fed tightening fears and easing oil prices. MCX gold futures slipped 0.21%, while silver declined 0.40%. Check the latest 22K, 24K gol",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-21-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11779334640012.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Best AI search analytics tools for marketing teams: I’ve spent the last year watching marketing team",
+          "summary": ""
+        },
+        {
+          "topic": "AI-generated antisemitism is exploding online and social platforms are struggling to stop it: report",
+          "summary": ""
+        },
+        {
+          "topic": "Americans Are Falling Behind On Credit Card Payments At The Fastest Pace Since 2010: U.S. consumers ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f4b80188",
       "date": "2026-05-21",
       "generated_at": "2026-05-21T13:07:56.660304+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "50081293",
-      "date": "2026-04-21",
-      "generated_at": "2026-04-21T12:11:01.472085+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "‘Robots don’t bleed’: Ukraine sends machines into the battlefield in place of human soldiers",
-              "summary": "Ukraine’s military is increasingly using robots to replace human soldiers, even in combat assault missions, helping to counter Russia’s manpower advantage.",
-              "source": "CNN",
-              "url": "https://www.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Updates for the Week of 4/19/26",
-              "summary": "Updates Below are some of the highlights in AI, robotics, and machine learning for this past week. 4/19 4/18 4/17 4/16 4/15 4/14 4/13 Learn More You can get more details as well as citations in my AI ",
-              "source": "Annielytics.com",
-              "url": "https://www.annielytics.com/blog/ai/ai-updates-for-the-week-of-4-19-26/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Storage implications of a modern IT architecture",
-              "summary": "One of the challenges of migrating older applications to a cloud-native, modern IT architecture is how to provide persistent storage",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/feature/Storage-implications-of-a-modern-IT-architecture",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Emerging-Market Stocks Erase War Losses on AI Demand, Peace Hope",
-              "summary": "Emerging-market shares recouped their Iran war-induced losses, lifted by a rebound in Asian equities driven by optimism about artificial intelligence and lingering hopes for fresh Middle East tensions",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/emerging-market-stocks-erase-war-losses-on-ai-demand-peace-hope",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Zhen Ding plans Hong Kong listing for subsidiary to boost global IC substrate presence",
-              "summary": "Printed circuit board (PCB) giant Zhen Ding Technology held a board meeting on April 17 and approved plans for its subsidiary, Leading Interconnect Semiconductor Technology (LIST), to apply for a list",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260420PD200/zhen-ding-subsidiary-pcb-ic-substrate.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea, India boost trade ties amid global tensions",
-              "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030.",
-              "source": "DW (English)",
-              "url": "https://www.dw.com/en/south-korea-india-agree-to-boost-trade-ties-amid-global-tensions/a-76852123",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea's Lee visits India for trade talks with Modi",
-              "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030.",
-              "source": "DW (English)",
-              "url": "https://www.dw.com/en/south-koreas-lee-visits-india-for-trade-talks-with-modi/a-76852123",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-              "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of ",
-              "source": "Internet",
-              "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "scout-intel-mcp added to PyPI: Business & market intelligence MCP server for AI agents — 7 tools, 8 ",
-          "summary": ""
-        },
-        {
-          "topic": "Top Audience Research Methods For Financial Marketing Success: Elevate your financial firm's marketi",
-          "summary": ""
-        },
-        {
-          "topic": "Justin Sun Says Bitcoin 'Debates,' Ethereum Forms 'Research Committees,' While Tron 'Builds' As Bloc",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-21T13:07:56.660304+08:00",
+  "last_updated": "2026-05-22T12:59:12.991899+08:00",
   "total_days": 31
 }
