@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3bd7faa6",
+      "date": "2026-05-23",
+      "generated_at": "2026-05-23T12:38:22.984289+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " The very best of Thursday's Copa Libertadores",
+              "summary": "Matchday 5 of the Copa Libertadores comes to an end, and we wrap up the action with the biggest highlights from this Thursday. A work of artIndependiente Rivadavia secured top spot in Group C of the .",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/the-very-best-of-thursdays-copa-libertadores-42904753",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Magnificent Seven reports AI-driven earnings amid mounting market pressures",
+              "summary": "Investors face increased risk as AI-driven growth disparities among tech giants necessitate careful evaluation of individual company strategies.\nThe post Magnificent Seven reports AI-driven earnings a",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/magnificent-seven-ai-earnings-market-pressures/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "WPG Holdings flags server supply gaps amid memory price hikes, 800V shift",
+              "summary": "Amid the continued crowding-out effect of artificial intelligence (AI) demand, IC distributor WPG Holdings said memory shortages and rising prices are weakening end-product sales momentum, and forecas",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260520PD241/wpg-price-demand-revenue-growth.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+              "summary": "President Trump halted an AI executive order. He feared it would slow America's technological progress. The order aimed to review AI's national security risks. This move comes amid concerns about AI's",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/articleshow/131256168.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Holy Mackerel! AI Helps Kura Sushi Cut Costs",
+              "summary": "Kura Sushi has begun strengthening its domestic aquaculture operations as surging prices for imported mackerel place increasing pressure on procurement costs, turning to artificial intelligence in an ",
+              "source": "Newsonjapan.com",
+              "url": "https://newsonjapan.com/article/149332.php",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Armando González discusses his departure from Chivas",
+              "summary": "Armando González and the great moment he is experiencing at Chivas have put him on the media’s radar, given the recent reports about a possible departure from the Guadalajara side. And today, spea...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/armando-gonzalez-discusses-his-departure-from-chivas-42904709",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How the West Misreads Modi’s Success",
+              "summary": "India may be less liberal now, but it remains democratic.",
+              "source": "Foreign Policy",
+              "url": "http://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EXCLUSIVE: ANDAM Awards Innovation Prize to AI-powered Data Analytics Platform Alphalyr",
+              "summary": "Biobased dye and pigment producer Pili was awarded a special prize and 10 finalists are invited to present their technology during the Inno-Tech edition of the Première Vision trade show in September.",
+              "source": "WWD",
+              "url": "http://wwd.com/business-news/technology/andam-awards-innovation-prize-alphalyr-ai-data-analytics-1238976748/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "A complete guide to social media content batching in 2026: Whether you’re managing social media mark",
+          "summary": ""
+        },
+        {
+          "topic": "HTX Releases April Performance Report: Futures Trading Volume Nears $100 Billion, HTX Earn Strengthe",
+          "summary": ""
+        },
+        {
+          "topic": "Best AI search analytics tools for marketing teams: I’ve spent the last year watching marketing team",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b77a96a4",
       "date": "2026-05-22",
       "generated_at": "2026-05-22T12:59:12.991899+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "8b7ab033",
-      "date": "2026-04-22",
-      "generated_at": "2026-04-22T11:58:27.965329+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "MHA receives DRDO-developed satellite imaging system 'Prajna' for real-time security support",
-              "summary": "India's security agencies gain a new edge with the indigenously developed satellite imaging system Prajna. This AI-enabled technology will bolster internal security and counter-terrorism efforts. Mean",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/science/mha-receives-drdo-developed-satellite-imaging-system-prajna-for-real-time-security-support/articleshow/130406867.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Who is John Ternus, Apple's new CEO?",
-              "summary": "The 25-year Apple veteran, who is a mechanical engineer by training, will take over from Tim Cook in September 2025.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/world/who-john-ternus-new-apple-ceo-6069656",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Taiwan has more than 260,000 job vacancies, with manufacturing accounting for 32.4%",
-              "summary": "Taiwan's artificial intelligence (AI) servers and advanced-process chip manufacturing businesses are booming, with related manufacturing industries also benefiting. According to a survey by Taiwan's M",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260420PD235/taiwan-manufacturing-labor-2025.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Rapid Nutrition Establishes Flagship Platform to Strengthen Multi-Channel Strategy in Australia",
-              "summary": "see attached...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/04/21/3277566/0/en/Rapid-Nutrition-Establishes-Flagship-Platform-to-Strengthen-Multi-Channel-Strategy-in-Australia.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Jeff Bezos' AI lab nears $38 billion valuation in funding deal: FT",
-              "summary": "Jeff Bezos' AI lab, Project Prometheus, is reportedly nearing a $10 billion funding round, valuing the startup at $38 billion. Investors like JPMorgan and BlackRock are participating in this significa",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jeff-bezos-ai-lab-nears-38-billion-valuation-in-funding-deal-ft/articleshow/130406169.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Apple’s new CEO is a product perfectionist taking on the AI age",
-              "summary": "As Apple faces growing competition and questions over its AI strategy, his leadership style—rooted in design, precision and long-term thinking—will shape how the company navigates the next phase of te",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/apples-new-ceo-is-a-product-perfectionist-taking-on-the-ai-age/article70887034.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI power surge puts nuclear energy back in spotlight",
-              "summary": "Soaring energy needs from data centres, fueled by generative AI, are revitalising nuclear power as a crucial source of large-scale, dependable energy.  Technology firms and startups are increasing inv",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-power-surge-puts-nuclear-energy-back-in-spotlight/articleshow/130406107.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mythos remains a mystery as security world faces rising threats, agentic attacks and concerns about AI integrity",
-              "summary": "Anthropic PBC’s Claude Mythos model has emerged as the most widely discussed artificial intelligence solution without being fully released. Information about the model, which reportedly has the abilit",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/04/20/mythos-remains-mystery-security-world-faces-rising-threats-agentic-attacks-concerns-ai-integrity/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Facebook Messenger Instability Frustrates Users as Outages, Web Shutdown and Backend Changes Pile Up",
-          "summary": ""
-        },
-        {
-          "topic": "GitHub's Fake Star Economy: Six million fake stars, $0.06 per click, and a VC funding pipeline that ",
-          "summary": ""
-        },
-        {
-          "topic": "scout-intel-mcp added to PyPI: Business & market intelligence MCP server for AI agents — 7 tools, 8 ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-22T12:59:12.991899+08:00",
+  "last_updated": "2026-05-23T12:38:22.984289+08:00",
   "total_days": 31
 }
