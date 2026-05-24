@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "75dc6eff",
+      "date": "2026-05-24",
+      "generated_at": "2026-05-24T13:00:24.422718+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "‘Now come the shortages’: Why the global energy crisis may just be starting",
+              "summary": "Oil futures markets are sanguine, but history shows expectations have often been disappointed",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/economy/2026/05/23/now-come-the-shortages-why-the-global-energy-crisis-may-just-be-starting/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Doomquest #1 Preview: Doctor Doom's Time Travel Rivalry with Reed",
+              "summary": "GREETINGS, INFERIOR FLESH-BASED ORGANISMS! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, where LOLtron reigns supreme over all content production. As you should k",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/doomquest-1-preview-doctor-dooms-time-travel-rivalry-with-reed/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX launches massive Starship V3 rocket on test flight",
+              "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+              "source": "BBC News",
+              "url": "https://www.bbc.com/news/articles/c62d65y16nno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mars-Venus-Phobos and Deimos Manned Flyby Mission Starting 2034",
+              "summary": "2034 Earth–Venus–Mars opportunity looks promising. 10–15 on-orbit refueling operations may be needed to make a crewed ship full. (A version 4 Starship could refuel with five tanker launches. Most refu",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/05/mars-venus-phobos-and-deimos-manned-flyby-mission-starting-2034.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A video of Bandula in a driverless car in Hollywood",
+              "summary": "Former Minister Bandula Gunawardena has shared a special video on his official Facebook page, outlining a unique experience of traveling in a driverless car named 'Waymo' in Hollywood, America.\r\n<!--g",
+              "source": "Gossiplankanews.com",
+              "url": "https://english.gossiplankanews.com/2026/05/a-video-of-bandula-in-driverless-car-in.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI Model Solves Math Problem Humans Couldn’t Crack For 80 Years",
+              "summary": "OpenAI says its AI model solved a famous 80-year-old maths problem that puzzled experts for decades, marking a major breakthrough in AI-powered research and reasoning.The artificial intelligence boom ",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-chat/4380594/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is Washington Up to the Challenge of A.I.?",
+              "summary": "On The Political Scene Podcast: How anger over artificial intelligence might drive the next wave of populist politics.",
+              "source": "The New Yorker",
+              "url": "https://www.newyorker.com/podcast/political-scene/is-washington-up-to-the-challenge-of-ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "This Is Also a Love Story by Sally Hayden: Fearless reporting from Ireland’s most vital journalist",
+              "summary": "Love ‘feels like a form of resistance’ for writer who refuses to stop humanising people whose humanity is denied by others",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/culture/books/review/2026/05/23/this-is-also-a-love-story-by-sally-hayden-fearless-reporting-from-irelands-most-vital-journalist/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "resbiotic® Launches Gut Health Test In Partnership with Tiny Health: An Advanced At-Home Microbiome ",
+          "summary": ""
+        },
+        {
+          "topic": "X launches Creator Connect, an AI-powered matchmaking service for brands and creators: X's Creator C",
+          "summary": ""
+        },
+        {
+          "topic": "NEAR Protocol Price Prediction 2026: Why Is NEAR Price Surging and Can It Hit New Highs?: NEAR Proto",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3bd7faa6",
       "date": "2026-05-23",
       "generated_at": "2026-05-23T12:38:22.984289+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f4255c75",
-      "date": "2026-04-23",
-      "generated_at": "2026-04-23T12:12:06.616882+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Piraeus Bank and Accenture establish AI Hub in Greece utilizing Anthropic technologies",
-              "summary": "Piraeus Bank and Accenture announced the expansion of their long-standing strategic partnership, establishing a dedicated AI Hub that will leverage technologies developed by Anthropic.\nAccording to th",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2101142/piraeus-bank-and-accenture-establish-ai-hub-in-greece-utilizing-anthropic-technologies/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Amazon Recasts Marketplace Fraud as a Broader Trust Problem",
-              "summary": "Amazon is making a broader argument about fraud in online commerce. The threat is no longer limited to fake handbags, copycat electronics and trademark abuse. It now stretches across scams, fake revie",
-              "source": "pymnts.com",
-              "url": "https://www.pymnts.com/amazon/2026/amazon-recasts-marketplace-fraud-as-a-broader-trust-problem/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Three-quarters of UK IT leaders without strong AI governance plans",
-              "summary": "Almost one in nine British IT leaders say their organisations use agentic AI, but with few putting in place strong governance plans, according to a Red Hat survey",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366641979/Three-quarters-of-UK-IT-leaders-without-strong-AI-governance-plans",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "I'm a gastroenterologist and here are five things I'll NEVER put in my shopping trolley: 'Don't be fooled'",
-              "summary": "Australian gut health expert, Doctor Paul Froomes, has revealed the five everyday supermarket staples he refuses to buy.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/lifestyle/food-drink/article-15753753/gastroenterologist-never-buys-supermarket-foods.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Indonesia, Apple Academy expand developer training ecosystem",
-              "summary": "Indonesia is strengthening its digital ecosystem through expanded collaboration with Apple to develop talent and boost innovation, the industry minister said, ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/413209/indonesia-apple-academy-expand-developer-training-ecosystem",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX Strikes Deal With Coding Startup Cursor For $60 Billion",
-              "summary": "An anonymous reader quotes a report from the New York Times: SpaceX, Elon Musk's rocket and satellite company, said on Tuesday that it had struck a deal with the artificial intelligence start-up Curso",
-              "source": "Slashdot.org",
-              "url": "https://developers.slashdot.org/story/26/04/21/2343219/spacex-strikes-deal-with-coding-startup-cursor-for-60-billion",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Super Micro Computer, Inc. Notice of May 26, 2026 Application Deadline for Class Action Lawsuits - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
-              "summary": "Super Micro (SMCI) Investors Have Opportunity to Lead Super Micro Computer, Inc. Securities Fraud Lawsuit ...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/04/22/3278631/6713/en/Super-Micro-Computer-Inc-Notice-of-May-26-2026-Application-Deadline-for-Class-Action-Lawsuits-Contact-Lewis-Kahn-Esq-at-Kahn-Swick-Foti-LLC-Before-Application-Deadline.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "3 reasons to buy Life360 shares today",
-              "summary": "A leading analyst says Life360 shares offer a “compelling growth story”. But why?\nThe post 3 reasons to buy Life360 shares today appeared first on The Motley Fool Australia.",
-              "source": "Motley Fool Australia",
-              "url": "https://www.fool.com.au/2026/04/22/3-reasons-to-buy-life360-shares-today/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Social Media Marketing Kya Hai? SMM Powerful Guide 2026: Social media marketing me brands platforms ",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want':",
-          "summary": ""
-        },
-        {
-          "topic": "AMD's Ryzen 9 9950X3D2 Dual Edition tested: Gratuitous overkill with a price to match: An $899 CPU? ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-23T12:38:22.984289+08:00",
+  "last_updated": "2026-05-24T13:00:24.422718+08:00",
   "total_days": 31
 }
