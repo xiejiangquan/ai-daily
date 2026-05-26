@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "66264dd6",
+      "date": "2026-05-26",
+      "generated_at": "2026-05-26T13:01:52.924225+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Pope Leo's first encyclical to focus on AI concerns",
+              "summary": "Pope Leo XIV's much anticipated first encyclical Magnifica Humanitas, or Magnificent Humanity, focusing on artificial intelligence is due to be published by the Vatican.",
+              "source": "RTE",
+              "url": "https://www.rte.ie/news/world/2026/0525/1575047-pope-artificial-intelligence/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are there opportunities for students to explore entrepreneurship while studying?",
+              "summary": "Across Irish universities there is a growing focus on helping students test ideas, solve real-world problems and, in some cases, develop start-ups",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/education/2026/05/25/are-there-opportunities-for-students-to-explore-entrepreneurship-while-studying/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pope to launch encyclical on AI and 'protection of the person' alongside Anthropic co-founder",
+              "summary": "It’s the first time a pontiff will personally launch a papal encyclical.",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/pope-leo-to-launch-encyclical-on-ai-alongside-anthropic-co-founder-7048404-May2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pilita Clark: Please stop talking about Gen Z in the office",
+              "summary": "Mindless generational labels don’t help at a time when the workplace is one of the few places where young and old mix",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/05/25/pilita-clark-please-stop-talking-about-gen-z-in-the-office/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Shelbourne Hotel’s GM: ‘I don’t think AI is going to impact the chef too much’",
+              "summary": "As the Shelbourne Hotel begins a €50m renovation, general manager JP Kavanagh explains why AI won’t replace the human touch to how it delivers its customer service",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/2026/05/25/shelbourne-hotel-gm-i-dont-think-ai-is-going-to-impact-the-chef-too-much/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "One job that is growing in the AI era? Cybersecurity experts",
+              "summary": "The hiring frenzy shows how AI can also help create some jobs, even amid dire warnings that the technology could replace vast parts of the workforce.",
+              "source": "The Indian Express",
+              "url": "https://indianexpress.com/article/technology/artificial-intelligence/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts-10706435/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: Equity funds see first weekly outflow in nine weeks amid yield surge",
+              "summary": "Global equity funds recorded their first weekly outflow in nine weeks as rising inflation concerns and surging borrowing costs dented investor sentiment. While U.S. and Asian equity funds saw withdraw",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-equity-funds-see-first-weekly-outflow-in-nine-weeks-amid-yield-surge/articleshow/131301316.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The ‘Terminators’ are already here — sort of",
+              "summary": "“I don’t even know why the scientists make them.”",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/05/the_terminators_are_already_here_sort_of.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Are You Richer or Poorer Than Your Peers? Here's What the Average U.S. Household In Their 50s Has Sa",
+          "summary": ""
+        },
+        {
+          "topic": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cath",
+          "summary": ""
+        },
+        {
+          "topic": "How Crypto Scams Spread Through Social Media (And How to Avoid Them): Cryptocurrency has transformed",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e377df09",
       "date": "2026-05-25",
       "generated_at": "2026-05-25T13:17:58.864913+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "99ad0e4a",
-      "date": "2026-04-25",
-      "generated_at": "2026-04-25T11:50:51.754123+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "SpaceXはAI向けに「独自GPUの製造」に着手していることが明らかに",
-              "summary": "MetaやOpenAIが独自のAIチップを開発しており、Anthropicも独自のAIチップを開発していることが報じられています。新たに、イーロン・マスク氏が率いるSpaceXもAIのために独自のGPU製造に取り組もうとしていることが、ロイターの報道により明らかになりました。Exclusive: SpaceX targets in-house GPUs as it warns investors ",
-              "source": "Livedoor.com",
-              "url": "https://news.livedoor.com/article/detail/31088011/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OPPO Find X9s now official in PH",
-              "summary": "OPPO officially launched its latest Find series lineup in the Philippines, including the OPPO Find X9s, alongside the Ultra and...\nThe post OPPO Find X9s now official in PH appeared first on YugaTech ",
-              "source": "Yugatech.com",
-              "url": "https://www.yugatech.com/news/oppo-find-x9s-now-official-in-ph/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China's DeepSeek returns with new model, a year after viral rise",
-              "summary": "DeepSeek, a Chinese AI firm, is previewing a significant upgrade to its artificial intelligence model. The new V4 model will feature pro and flash versions.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-returns-with-new-model-a-year-after-viral-rise/articleshow/130482795.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Market correction made mid- and small-caps attractive, says Edelweiss MF's Bhattacharya",
-              "summary": "A staggered investment approach and long-term investment horizon can help to navigate volatility in this segment",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/money/personal-finance/stock-market-correction-midcap-smallcap-equities-india-edelweiss-mf-11776935580921.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Warren draws 'parallels' between AI 'bubble' and financial crisis (Sophie Brams/The Hill)",
-              "summary": "Sophie Brams / The Hill:\nWarren draws ‘parallels’ between AI ‘bubble’ and financial crisis  —  Sen. Elizabeth Warren (D-Mass.) warned on Thursday that investments in artificial intelligence could trig",
-              "source": "Memeorandum.com",
-              "url": "https://www.memeorandum.com/260423/p153",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tata Capital shares in focus after Q4 net profit surges 43%, firm announces dividend; should you buy, sell or hold?",
-              "summary": "Tata Capital reported a robust 43% year-on-year surge in net profit to Rs 1,502 crore for Q4 FY26, alongside a 9% revenue growth. The company highlighted significant AI integration across its operatio",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-capital-shares-in-focus-after-q4-net-profit-surges-43-firm-announces-dividend-should-you-buy-sell-or-hold/articleshow/130482676.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Dala Studio partners Nigerian varsity to scale AI entrepreneurship",
-              "summary": "Dala Studio partners with Nigeria’s Miva University to scale AI entrepreneurship, empowering 25,000 students to build digital businesses without code.\n\nRead More: https://punchng.com/dala-studio-partn",
-              "source": "The Punch",
-              "url": "https://punchng.com/dala-studio-partners-nigerian-varsity-to-scale-ai-entrepreneurship/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-              "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-              "source": "Huggingface.co",
-              "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AI oligarchs shamed with devastating list of 'false promises and decadence': The artificial intellig",
-          "summary": ""
-        },
-        {
-          "topic": "Fere AI Raises $1.3M to Put a Self-Improving Trading Agent in Everyone's Hands: SINGAPORE, April 23,",
-          "summary": ""
-        },
-        {
-          "topic": "Social Media Marketing Kya Hai? SMM Powerful Guide 2026: Social media marketing me brands platforms ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-25T13:17:58.864913+08:00",
+  "last_updated": "2026-05-26T13:01:52.924225+08:00",
   "total_days": 31
 }
