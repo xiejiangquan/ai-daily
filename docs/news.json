@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f2a723af",
+      "date": "2026-05-27",
+      "generated_at": "2026-05-27T13:13:25.392640+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Magnifica Humanitas from Pope Leo",
+              "summary": "Pope Leo XIV presented his first encyclical Magnifica Humanitas, which translates to Magnificent Humanity in English. It is focused on preserving human life as AI technologies change the way we int…",
+              "source": "Flowingdata.com",
+              "url": "https://flowingdata.com/2026/05/25/magnifica-humanitas-from-pope-leo/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "WiseTech boss receives violent threats and personal attacks after mass redundancies see 2,000 employees axed",
+              "summary": "Police have been called in after the boss of WiseTech Global received threats and vitriol.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-15847961/WiseTech-Zubin-Appoo-threats-Richard-White.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CGTN: Shared future: China, Serbia push comprehensive strategic partnership to new heights",
+              "summary": "BEIJING, May 26, 2026 /PRNewswire/ -- CGTN published an article on Chinese President Xi Jinping's meeting with Serbian President Aleksandar Vucic in Beijing. Highlighting the ironclad friendship betwe",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/cgtn-shared-future-china-serbia-push-comprehensive-strategic-partnership-to-new-heights-302781517.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "San Francisco Turns to AI to Avoid Collisions Between Ships And Whales",
+              "summary": "Ferries, cargo ships and tankers cut through choppy waters in the San Francisco Bay as a whale surfaced nearby, its spout barely visible against the white caps. Until now, whales could easily go unnot",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/west/2026/05/26/871201.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "After Complaint, GEICO Agrees to Modify Cancellation Process That Uses AI",
+              "summary": "Pennsylvania Attorney General Dave Sunday announced an agreement with GEICO that should modify an artificial intelligence (AI) initiated auto insurance policy cancellation process the state alleged wa",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/east/2026/05/26/871246.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump’s ‘big, beautiful Bill’ has closed gap on Ireland, US multinationals tell Ibec",
+              "summary": "State obliged to work ‘an awful lot harder’ to secure next wave of investments, says business lobby group",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/05/26/trumps-big-beautiful-bill-has-closed-gap-on-ireland-us-multinationals-tell-ibec/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ignite, OST drive to solve autonomous vehicle challenges with AI",
+              "summary": "Collaboration aims to tackle one of autonomous vehicle industry’s biggest challenges, namely proving how systems make independent decisions as the sector moves towards higher levels of autonomy",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366643508/Ignite-OST-drive-to-solve-autonomous-vehicle-challenges-with-AI",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside the safety truck that is a ‘godsend’ to drunk Wellingtonians out clubbing",
+              "summary": "Safety charity Take 10 is facing a $100k funding shortfall and its truck is crumbling.",
+              "source": "New Zealand Herald",
+              "url": "https://www.nzherald.co.nz/nz/wellington/inside-the-safety-truck-that-is-a-godsend-to-drunk-wellingtonians-out-clubbing/WPNCMXIAD5FIBDCU26BE27WFNY/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos: Monday recap. ",
+          "summary": ""
+        },
+        {
+          "topic": "How to optimize for AI overviews (AIOs): A complete 2026 playbook: Google AI Overviews appear in Goo",
+          "summary": ""
+        },
+        {
+          "topic": "Bengaluru startup faces backlash over AI training cameras inside customers’ homes: Responding to the",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "66264dd6",
       "date": "2026-05-26",
       "generated_at": "2026-05-26T13:01:52.924225+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "7a01cdf8",
-      "date": "2026-04-26",
-      "generated_at": "2026-04-26T12:21:36.537948+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Wall Street Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting",
-              "summary": "Indian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets, w",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Rs 2.5 lakh crore wiped out: Why Nifty IT just recorded its worst week since 2020",
-              "summary": "India’s Nifty IT index plunged 10% in a week, marking its steepest fall since March 2020, as weak Q4 earnings and cautious guidance triggered heavy selling. Analysts warn of further downside, with FII",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-2-5-lakh-crore-wiped-out-why-nifty-it-just-recorded-its-worst-week-since-2020/articleshow/130507772.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "​ Bad news for Real Madrid: Mbappé injured!",
-              "summary": "According to Fabrizio Romano, Kylian Mbappé is dealing with a hamstring overload in his left leg.Things keep going from bad to worse for Los Blancos, who, after drawing against Betis, are hit with th.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/bad-news-for-real-madrid-mbappe-injured-42764177",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
-              "summary": "Jury selection is to begin on Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The ",
-              "source": "The Punch",
-              "url": "https://punchng.com/?p=2125928",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Crunch nuclear proliferation meeting at UN amid raging global wars",
-              "summary": "Signatories of the landmark nuclear non-proliferation treaty will meet at the UN from Monday as hopes fade they can reach agreement and tensions soar between the atomic powers.  In 2022, during the la",
-              "source": "Digital Journal",
-              "url": "https://www.digitaljournal.com/world/crunch-nuclear-proliferation-meeting-at-un-amid-raging-global-wars/article",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kazakhstan’s digital leap: How Central Asia’s tech hub is shaping the future of AI and GovTech",
-              "summary": "Kazakhstan is emerging as a key digital hub in Central Asia, backed by a broad national push in artificial intelligence, digital governance, connectivity and startup development. The country has rolle",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/kazakhstans-digital-leap-how-central-asias-tech-hub-is-shaping-the-future-of-ai-and-govtech/articleshow/130507193.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Oman’s Health Technology Industry Landscape and Outlook",
-              "summary": "Oman’s health technology sector is entering a structured growth phase under the 2026–2030 policy cycle, driven by digital health reforms.",
-              "source": "Middleeastbriefing.com",
-              "url": "https://www.middleeastbriefing.com/news/omans-health-technology-industry-landscape-and-outlook-business-and-investment-opportunities/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nasdaq 100, S&P 500 finish at record on Intel’s blowout results",
-              "summary": "The Nasdaq 100 Index gained 1.9% to finish at a fresh all-time closing high, with chipmakers such as Advanced Micro Devices Inc. and ARM Holdings Plc contributing to gains.",
-              "source": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/markets/nasdaq-100-s-p-500-finish-at-record-on-intel-s-blowout-results-13899092.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AI oligarchs shamed with devastating list of 'false promises and decadence': The artificial intellig",
-          "summary": ""
-        },
-        {
-          "topic": "Fere AI Raises $1.3M to Put a Self-Improving Trading Agent in Everyone's Hands: SINGAPORE, April 23,",
-          "summary": ""
-        },
-        {
-          "topic": "Social Media Marketing Kya Hai? SMM Powerful Guide 2026: Social media marketing me brands platforms ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-26T13:01:52.924225+08:00",
+  "last_updated": "2026-05-27T13:13:25.392640+08:00",
   "total_days": 31
 }
