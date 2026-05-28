@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "2f346cc4",
+      "date": "2026-05-28",
+      "generated_at": "2026-05-28T13:07:03.613510+08:00",
+      "headline": "今日 AI 新闻速览（46 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Pam Bondi diagnosed with thyroid cancer weeks after departing as Trump's attorney general: report",
+              "summary": "Former Attorney General Pam Bondi was diagnosed with thyroid cancer shortly after departing the DOJ last month, according to a report from Axios.",
+              "source": "Fox News",
+              "url": "https://www.foxnews.com/politics/pam-bondi-diagnosed-thyroid-cancer-weeks-departing-trumps-attorney-general-report",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "When Pope Leo and the IMF agree on AI’s dangers then it’s time to pay attention",
+              "summary": "If predictions on job losses come true, the State’s accommodation of corporate America will be tested",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/economy/2026/05/27/when-pope-leo-and-the-imf-agree-on-ais-dangers-then-its-time-to-pay-attention/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Greek Agri-Food enters the digital era",
+              "summary": "Greek agrifood is entering a new era in which technology, data and coordinated promotion can act as catalysts for strengthening the international presence of Greek products, as it was evidenced…\nGreek",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2115796/greek-agri-food-enters-the-digital-era/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Base launches new tool to connect crypto wallets to AI agents",
+              "summary": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
+              "source": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Chief of communications intel agency says Russia is relentlessly targeting UK",
+              "summary": "A U.K. spy chief is warning that Britain and its allies risk losing a cyber conflict against adversaries like Russia unless cybersecurity is treated with greater urgency",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/International/wireStory/chief-communications-intel-agency-russia-relentlessly-targeting-uk-133336550",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "S&P/ASX 200 Edges Higher to 8,669.9 as Modest Gains Lift Australian Shares Mid-Session",
+              "summary": "The S&P/ASX 200 index rose slightly, reflecting cautious optimism amid global tensions and stable domestic economic indicators, with resource and financial stocks providing support despite broader mar",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/asx-200-edges-higher-amid-global-uncertainties-1869538",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "aix 0.0.27",
+              "summary": "Artificial Intelligence eXtensions",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/aix/0.0.27/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Samsung avoids strike as workers approve massive bonus deal",
+              "summary": "Amid booming demand for AI chips, the government-backed deal will make more than 60% of the South Korean tech giant's workforce eligible for bonuses of about $370,000 this year.",
+              "source": "DW (English)",
+              "url": "https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "On-Device AI Market Size to Hit USD 185.23 Billion by 2035 | Research by SNS Insider: The US On-devi",
+          "summary": ""
+        },
+        {
+          "topic": "To Win With Money, Dave Ramsey Says, 'Figure Out What Most People Are Doing And Run In The Other Dir",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos: Monday recap. ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f2a723af",
       "date": "2026-05-27",
       "generated_at": "2026-05-27T13:13:25.392640+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "042826e6",
-      "date": "2026-04-27",
-      "generated_at": "2026-04-27T12:29:44.770228+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Mall mania: Paragon, i12 Katong change hands, White Sands up for grabs",
-              "summary": "Shareholders raised questions over $24 million in fees paid to directors of Sheng Siong in 2025, ahead of its AGM. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/companies-markets/mall-mania-paragon-i12-katong-change-hands-white-sands-up-for-grabs",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Sucker’s Ball",
-              "summary": "The other one, I mean: President Trump feted the biggest holders of his namesake memecoin on Saturday, cheering on a crypto market still fighting through a monthslong slump. In a wide-ranging address ",
-              "source": "Lawyersgunsmoneyblog.com",
-              "url": "https://www.lawyersgunsmoneyblog.com/2026/04/the-suckers-ball",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chivas draw with Atas after a controversial finish",
-              "summary": "Chivas and Xolos split the points after an intense draw. El Rebaño looked to make home-field advantage count at Akron Stadium, but ran into a well-organized and sharp border side that managed to neut.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/chivas-draw-with-atas-after-a-controversial-finish-42769896",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Dating in the time of AI: Are you swiping right on a guy, girl, ChatGPT, or Gemini?",
-              "summary": "AI is reshaping online dating, with many users now relying on tools to craft bios, messages and even real-time conversations, often creating a mismatch between online charm and real-life personality. ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/dating-in-the-time-of-ai-are-you-swiping-right-on-a-guy-girl-chatgpt-or-gemini/articleshow/130525794.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ben Lerner: ‘I want us to think of the book as another hand-held device’",
-              "summary": "Fiction such as Ben Lerner's keeps us connected to reality in ways that even functioning smartphones cannot",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/culture/books/2026/04/26/ben-lerner-i-want-us-to-think-of-the-book-as-another-hand-held-device/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Health AI Tech Show 2026 | AI & MedTech | OPD | OPD",
-              "summary": "We’re attending the Health AI Tech Show 2026, an event focused on the application of artificial intelligence across healthcare, MedTech, and clinical innovation.\n\nOur Head of Medical, Simon Collings, ",
-              "source": "Oxfordproductdesign.com",
-              "url": "https://oxfordproductdesign.com/blog/events/health-ai-tech-show",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "América - Atlas line-ups confirmed",
-              "summary": "América hosts Atlas tonight at Estadio Banorte in the final matchday of the 2026 Clausura regular season, a clash in which both sides will be looking to secure their place in the Liguilla. For now, ..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/america-atlas-line-ups-confirmed-42769656",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Japan Warns of AI 'Claude Mythos' Cyber Risks",
-              "summary": "The Japanese government held an emergency meeting with the Bank of Japan and executives from the country's three megabanks to discuss potential risks posed by the new artificial intelligence model 'Cl",
-              "source": "Newsonjapan.com",
-              "url": "https://newsonjapan.com/article/149025.php",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity: Sk",
-          "summary": ""
-        },
-        {
-          "topic": "Dave Ramsey Says Most People Will Not Save Money Even After They Get A Raise Or Pay Off Their Car. H",
-          "summary": ""
-        },
-        {
-          "topic": "AI oligarchs shamed with devastating list of 'false promises and decadence': The artificial intellig",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-27T13:13:25.392640+08:00",
+  "last_updated": "2026-05-28T13:07:03.613510+08:00",
   "total_days": 31
 }
