@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "7a12c768",
+      "date": "2026-06-01",
+      "generated_at": "2026-06-01T14:00:24.767587+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Copper Tariff Trade Tightens Global Supply",
+              "summary": "Traders are once again scouring global markets for copper to ship to the United States, as renewed speculation over import tariffs widens the price spread between New York’s Comex and the London Metal",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-05-31-copper-tariff-trade-tightens-global-supply.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How a humble fiber supplement costing 10 cents could revolutionize weight loss drug outcomes",
+              "summary": "Psyllium husk, a high-fiber supplement costing about 10 cents per serving, is being recommended to enhance the effects of expensive GLP-1 weight loss drugs (e.g., Wegovy, Ozempic) by helping patients ",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-05-31-fiber-supplement-could-revolutionize-weight-loss-drugs.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bitcoin Hash Rate Flattens as Miners Face AI Squeeze, Fidelity Report Says",
+              "summary": "Bitcoin’s network hash rate has stalled and mining difficulty has dropped sharply in 2026, signaling that miners are redirecting power and capital toward artificial intelligence (AI) data center workl",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-05-31-bitcoin-hash-rate-flattens-miners-ai-squeeze.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Digital payments have significant room for expansion; no slowdown in transaction growth: Paytm CEO",
+              "summary": "According to Sharma, AI can help businesses improve customer engagement, discover new ways of reaching consumers and enhance operational efficiency, making companies more scalable and competitive",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/money-and-banking/digital-payments-have-significant-room-for-expansion-no-slowdown-in-transaction-growth-paytm-ceo/article71043828.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Satmar Rebbe warns: AI is the greatest threat",
+              "summary": "Satmar Rebbe warns hasidim against artificial intelligence, orders followers to report those connected.",
+              "source": "Israelnationalnews.com",
+              "url": "https://www.israelnationalnews.com/news/427859",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US, UK and Australia to co-develop underwater drone technology",
+              "summary": "SINGAPORE: The United States, United Kingdom and Australia have announced plans to jointly develop underwater drone systems aimed at protecting undersea communication cables and strengthening defence ",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/31/551629/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pluvicto™ demonstrated consistent efficacy across key patient subgroups in metastatic hormone-sensitive prostate cancer",
+              "summary": "Basel, May 31, 2026 – Novartis today announced results showing consistent radiographic progression-free survival (rPFS) improvement across key subgroups with Pluvicto™ (lutetium Lu 177 vipivotide tetr",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/05/31/3303913/0/en/Pluvicto-demonstrated-consistent-efficacy-across-key-patient-subgroups-in-metastatic-hormone-sensitive-prostate-cancer.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Where Can Investors Turn Beyond AI Stocks as Inflation Persists?",
+              "summary": "As soaring valuations in AI and semiconductor stocks prompt concerns about concentration risk, market analysts are increasingly pointing to energy shares as a potential alternative investment theme in",
+              "source": "Newsonjapan.com",
+              "url": "https://newsonjapan.com/article/149457.php",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Stop manually posting: The best AI tools for marketing – Film Daily: Skip manual posting with AI-pow",
+          "summary": ""
+        },
+        {
+          "topic": "Nancy Pelosi Stock Tracker Flags Dell's $9.7 Billion Pentagon Win Weeks After Trump Praised The Comp",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Simple news aggregator with source bias meters: Article URL: https://unbiasthenews.com\nComm",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3275f375",
       "date": "2026-05-31",
       "generated_at": "2026-05-31T13:16:27.985513+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "20728aa9",
-      "date": "2026-05-01",
-      "generated_at": "2026-05-01T12:48:34.448563+08:00",
-      "headline": "今日 AI 新闻速览（58 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "School denies parents' claims of how AI deepfake scandal was handled",
-              "summary": "The principal of a Tasmanian private school denies claims by two parents that the school ever tried to discourage them from telling their daughters they had been identified in AI deepfake images.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-04-30/tas-friends-school-deny-dont-tell-to-parents-over-deepfakes/106624754",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India’s Rupee Drops to Record Low as Crude Surge Deepens Worries",
-              "summary": "India’s rupee slid to a record low as crude prices continued their relentless surge, deepening worries about the nation’s external deficit.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/indias-rupee-drops-to-record-low-as-crude-surge-deepens-worries",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India aims for the stars with orbital datacentres",
-              "summary": "As terrestrial datacentres face severe power and cooling constraints, space-based facilities promise unlimited solar energy and low latency for AI inferencing, provided the industry can overcome chall",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366642407/India-aims-for-the-stars-with-orbital-datacentres",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Microsoft sales beat estimates as Azure growth eases spending concerns",
-              "summary": "Microsoft reported stronger-than-expected fiscal third-quarter results, as Azure growth, Microsoft Cloud demand, and rising Copilot adoption helped ease investor concerns over the company's heavy spen",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260430VL212/microsoft-azure-growth-revenue-demand.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US companies developing small modular reactors to cut costs, boost flexibility in nuclear power: Report",
-              "summary": "EIA report highlights SMRs and microreactors for data centres, remote sites; DOE offers $900 mn funding support",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/news/world/us-companies-developing-small-modular-reactors-to-cut-costs-boost-flexibility-in-nuclear-power-report/article70923116.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Walmart’s beauty push gets personal with in-store consultations",
-              "summary": "Walmart is bringing trained beauty experts to its stores. These specialists will offer personalized makeup and skincare advice. This initiative aims to boost customer engagement and compete with rival",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/business/walmarts-beauty-push-gets-personal-with-in-store-consultations/articleshow/130623175.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
-              "summary": "European Union nations and Parliament members could not agree on AI regulations. Talks stalled after 12 hours. Discussions will restart in two weeks. Some nations wanted exemptions for industries with",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/articleshow/130623064.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tinubu sacks NMDPRA boss amid jet fuel pricing row",
-              "summary": "President Tinubu has sacked NMDPRA chief Saidu Mohammed amid a jet fuel pricing row and complaints from Dangote Refinery. Rabiu Umar is nominated as his re\n\nRead More: https://punchng.com/tinubu-sacks",
-              "source": "The Punch",
-              "url": "https://punchng.com/tinubu-sacks-nmdpra-boss-amid-jet-fuel-pricing-row/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Share of Voice Tools for Growing Companies: When tracking share of voice for marketing teams, it’s o",
-          "summary": ""
-        },
-        {
-          "topic": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More: Everyth",
-          "summary": ""
-        },
-        {
-          "topic": "Vibe coding and databases: the hidden risks of AI-generated database code: Explore how Andrej Karpat",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-05-31T13:16:27.985513+08:00",
+  "last_updated": "2026-06-01T14:00:24.767587+08:00",
   "total_days": 31
 }
