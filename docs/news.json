@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4ea49e1f",
+      "date": "2026-06-02",
+      "generated_at": "2026-06-02T13:28:42.217622+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Markets poised for a positive run if geopolitical risks ease: Ambareesh Baliga",
+              "summary": "Market veteran Ambareesh Baliga sees Indian equities well-positioned if geopolitical tensions ease and macro conditions remain supportive. He highlights potential for a US-Iran accord, resilient corpo",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-poised-for-a-positive-run-if-geopolitical-risks-ease-ambareesh-baliga/articleshow/131434794.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SoftBank Set to Become Japan’s Most Valuable Company",
+              "summary": "SoftBank Group Corp. is set to overtake Toyota Motor Corp. as Japan’s most valuable company on Monday, marking a milestone for the global artificial intelligence boom and a dramatic reshuffling of the",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/softbank-set-to-become-japans-most-valuable-company",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SoftBank overtakes Toyota as Japan's most valuable company",
+              "summary": "Fueled by its significant stake in AI powerhouse OpenAI, SoftBank Group has surged past Toyota to become Japan's most valuable company. The tech investor's market capitalization soared following found",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-overtakes-toyota-as-japans-most-valuable-company/articleshow/131434732.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stocks Hit Record on AI Rally, Oil Rises on Iran: Markets Wrap",
+              "summary": "Stocks rose to a record as investors doubled down on the artificial intelligence trade that’s powered equities to all-time highs. Oil climbed as a US-Iran ceasefire deal remained elusive.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/stocks-hit-record-on-ai-rally-oil-rises-on-iran-markets-wrap-3",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Savings Misses ‘Should Be Making Executives Uncomfortable,’ Bain Says",
+              "summary": "Cost savings from automation are broadly falling short of projections, according to a new Bain & Co. global survey of large companies.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/ai-savings-misses-should-be-making-executives-uncomfortable-bain-says",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why India's Product Managers are racing to learn the language of AI",
+              "summary": "Product and business managers in India face a new anxiety: being surpassed by peers adept at leveraging AI. The product lifecycle is being rewritten, demanding new skills beyond traditional prioritiza",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/jobs/c-suite/why-indias-product-managers-are-racing-to-learn-the-language-of-ai/articleshow/131434506.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Verizon DBIR Says Software Vulnerabilities Aren’t Being Patched Quick Enough",
+              "summary": "Hackers are still trying to trick people to exploit an organization’s systems, but more breaches now with software vulnerabilities Stolen passwords, or credential abuse, are no longer the top way hack",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/06/01/871885.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+              "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "X’s advertiser base is beginning to resemble its pre-Musk era: For the first time, third-party data ",
+          "summary": ""
+        },
+        {
+          "topic": "Cardano Price Could Close May Below This Multi-Year Support — What’s Next?: After hitting its cycle ",
+          "summary": ""
+        },
+        {
+          "topic": "How Elon Musk Is Attempting The (Almost) Impossible With The SpaceX IPO: Elon Musk’s SpaceX is barre",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7a12c768",
       "date": "2026-06-01",
       "generated_at": "2026-06-01T14:00:24.767587+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "81f5420b",
-      "date": "2026-05-02",
-      "generated_at": "2026-05-02T12:17:29.954305+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Singapore PM Warns of AI Disruptions, Vows to Support Workers",
-              "summary": "Singapore Prime Minister Lawrence Wong warned of bigger disruptions ahead as the country navigates a more uncertain global environment, from the Iran conflict to the rapid rise of artificial intellige",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/singapore-pm-warns-of-ai-disruptions-vows-to-support-workers",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "“Are We Rotting Our Brains? Is This the End of Classical Music?”",
-              "summary": "I know the conductor Thomas Fortner, now based in Berlin, from his years as assistant conductor of the remarkable South Dakota Symphony. Thomas recently posted a 70-minute podcast posing earnest quest",
-              "source": "Artsjournal.com",
-              "url": "https://www.artsjournal.com/uq/2026/05/are-we-rotting-our-brains-is-this-the-end-of-classical-music.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Philanthropist Ann Lesley Smith: Finding Peace and Purpose through Purebred Arabian Horses",
-              "summary": "Philanthropist Ann Lesley Smith: Find peace and purpose alongside her through her love for the purebred Arabian horse breed.",
-              "source": "Radaronline.com",
-              "url": "https://radaronline.com/p/philanthropist-ann-lesley-smith-finding-peace-and-purpose-through-purebred-arabian-horses/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Reformed AFL bad boy Ben Cousins and former Eagles skipper Chris Judd reunite in Perth after travelling VERY different paths following their premiership success",
-              "summary": "They were once the most feared midfield pairing in the AFL, but nearly two decades on from their 2006 premiership triumph, Ben Cousins and Chris Judd now represent two  different post-footy journey",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/sport/afl/article-15781385/Reformed-AFL-bad-boy-Ben-Cousins-former-Eagles-skipper-Chris-Judd-reunite-Perth-travelling-different-paths-following-premiership-success.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Apple AirPods Ultra Rumored to Come With AI Cameras Designed For Siri",
-              "summary": "Apple may launch AirPods Ultra with AI cameras and smarter Siri as the company expands its premium Ultra product lineup.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/apple-airpods-ultra-rumored-come-ai-cameras-designed-siri-1867895",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mark Zuckerberg on Meta layoffs: ‘If we invest more in one area, we have less capital for others’",
-              "summary": "CEO Mark Zuckerberg has pointed to rising AI spending as a key driver of workforce cuts at Meta Platforms.",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/artificial-intelligence/mark-zuckerberg-on-meta-layoff-ai-spending-10665195/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sandisk has thumping quarter on AI boom, secures long-term contracts and unveils big buyback",
-              "summary": "Sandisk has reported a significant surge in revenue and profit. The company has secured long-term contracts worth at least $42 billion. This move aims to stabilize its business against price fluctuati",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sandisk-has-thumping-quarter-on-ai-boom-secures-long-term-contracts-and-unveils-big-buyback/articleshow/130669605.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TESLA SURGE CHIPS AND AI BEFORE TERAFAB AND TERALAB",
-              "summary": "Tesla and Elon have huge partnerships to deliver a surge in tens of millions of chips needed for AI domination. They also have increased their AI and model competitiveness. Tesla and SpaceX tying up w",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/04/tesla-surge-chips-and-ai-before-terafab-and-teralab.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Polar Street X In-Depth Review: What’s the Catch?: The Polar Street X is Polar’s first new watch lin",
-          "summary": ""
-        },
-        {
-          "topic": "Share of Voice Tools for Growing Companies: When tracking share of voice for marketing teams, it’s o",
-          "summary": ""
-        },
-        {
-          "topic": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More: Everyth",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-01T14:00:24.767587+08:00",
+  "last_updated": "2026-06-02T13:28:42.217622+08:00",
   "total_days": 31
 }
