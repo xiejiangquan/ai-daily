@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e6c8b82b",
+      "date": "2026-06-04",
+      "generated_at": "2026-06-04T13:54:54.798318+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " Wednesday guide: international friendlies and Copa Sul-Sudeste final",
+              "summary": "FRIENDLIES2:00 PM - Gibraltar vs British Virgin Islands - Disney+3:00 PM - DR Congo vs Denmark - ESPN 4 and Disney+3:00 PM - Albania vs Israel - Disney+3:45 PM - Netherlands vs Algeria - ESPN and Disn",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/wednesday-guide-international-friendlies-and-copa-sul-sudeste-final-42958627",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Project Hail Mary: a Review",
+              "summary": "A couple of weeks ago I came across an image — NASA, James Webb Space Telescope — showing a small quadrant of black sky packed with what looked like a milky scatter of light. The caption said each one",
+              "source": "CounterPunch",
+              "url": "https://www.counterpunch.org/2026/06/03/project-hail-mary-a-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Warning from study on Delos: The island is sinking by one centimeter per year – The optimistic and the adverse scenario",
+              "summary": "The “Climate Observatory” by the Academy of Athens, the National Observatory of Athens, and the Ephorate of Antiquities of the Cyclades recorded the long-term consequences of the phenomenon\nThe post W",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/06/03/warning-from-study-on-delos-the-island-is-sinking-by-one-centimeter-per-year-the-optimistic-and-the-adverse-scenario/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Turkish foreign minister arrives in Indonesia for talks",
+              "summary": "Foreign Minister Hakan Fidan on Wednesday arrived in Indonesia as part of his Asia-Pacific tour.",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/turkish-foreign-minister-arrives-in-indonesia-for-talks-222825",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google must let UK publishers opt out of AI search under new rules",
+              "summary": "Britain has imposed new conduct requirements on Google's search services, including allowing publishers to stop their content from being used to power the United States tech giant's artificial intelli",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/world/google-uk-publishers-opt-out-ai-search-6158776",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Interview: Michael Cole, chief technology officer, DP World Tour",
+              "summary": "AI promises to revolutionise the experience of watching or taking part in the traditional sport of golf for players, fans and TV viewers – the IT chief leading the change explains how",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366643817/Interview-Michael-Cole-chief-technology-officer-DP-World-Tour",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump changes the rules for Artificial Intelligence and Silicon Valley with new Executive Order",
+              "summary": "From complete deregulation to greater oversight – The voluntary provision allowing up to 30 days of review before the release of new AI systems signals the transformation of artificial intelligence fr",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/06/03/trump-changes-the-rules-for-artificial-intelligence-and-silicon-valley-with-new-executive-order/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: Japan's Nikkei surges past 68,000 for first time as AI stocks lead rally",
+              "summary": "Japan's benchmark Nikkei surged past the 68,000 mark for the first time, rising 2.2% to a record 68,203.79, as strong gains in AI and semiconductor-related stocks outweighed concerns over escalating M",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-surges-past-68000-for-first-time-as-ai-stocks-lead-rally/articleshow/131476720.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Is Canon Preparing One of the Biggest Changes to Its PowerShot lineup?: Compact cameras are back in ",
+          "summary": ""
+        },
+        {
+          "topic": "How to Trade Memecoins with AI: A Beginner’s Guide Using MemeToro Technology: Learn how MemeToro use",
+          "summary": ""
+        },
+        {
+          "topic": "X’s advertiser base is beginning to resemble its pre-Musk era: For the first time, third-party data ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "87347f8b",
       "date": "2026-06-03",
       "generated_at": "2026-06-03T14:01:57.723543+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f22fdf34",
-      "date": "2026-05-04",
-      "generated_at": "2026-05-04T12:39:00.981366+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "NVIDIA vs Intel Stock Battle 2026: AI Leader or Turnaround Star – Which to Buy Now?",
-              "summary": "NEW YORK — As investors weigh semiconductor giants amid the ongoing artificial intelligence boom, NVIDIA Corp. stands out as Wall Street's clear favorite heading into the second half of 2026, with ana",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/nvidia-vs-intel-stock-battle-2026-ai-leader-turnaround-star-which-buy-now-1868056",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pure ghee or not? TTD procures over 70 lakh kg without mandatory quality tests",
-              "summary": "A commission revealed the Tirumala Tirupati Devasthanams procured millions of kilograms of ghee without required quality checks. This systemic failure allowed suppliers to provide adulterated ghee. Of",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/pure-ghee-or-not-ttd-procured-over-70-lakh-kg-without-mandatory-quality-tests-commission-report/articleshow/130727275.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "\"The Shocking Story of NIH Secretly Funding COVID\"",
-              "summary": "Dr Eric Donaldson's 2019 CV: SARS-COV Research Weaponizing Bat Coronaviruses Was Funded by Dr Fauci IN MULTIPLE SITES AMERICA for 12 Years Before \"The Pandemic\" =======================================",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-chat/4377450/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Staying consistent with commitment fetched me first class – Trinity varsity graduate",
-              "summary": "Emmanuel Tanimowo, a Trinity varsity graduate with a 5.00 CGPA, shares how consistency, relationships, and starting early led to his first class degree.\n\nRead More: https://punchng.com/staying-consist",
-              "source": "The Punch",
-              "url": "https://punchng.com/?p=2132688",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Baleine Rolling Christmas Tree Storage Bag for From $9.49 + free shipping w/ Prime",
-              "summary": "Storing an artificial tree without a dedicated bag usually means wrestling with loose branches and a box that falls apart by year three, so this bag is a practical pick for anyone who wants a cleaner,",
-              "source": "Dealnews.com",
-              "url": "https://www.dealnews.com/Baleine-Rolling-Christmas-Tree-Storage-Bag-for-From-9-49-free-shipping-w-Prime/21825450.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do so many people already own Elon Musk’s SpaceX?",
-              "summary": "Pitches to buy SpaceX shares have intensified since news of the company’s IPO broke in December.",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/tech-news-technology/how-do-so-many-people-already-own-elon-musks-spacex-10668354/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Project Hail Mary Author Andy Weir's Predictions About AI-Generated Art Are Chilling",
-              "summary": "The author behind sci-fi novel \"Project Hail Mary\" has revealed his past experience with AI and how he thinks it will influence art in the future.",
-              "source": "BGR",
-              "url": "https://www.bgr.com/2161558/project-hail-mary-author-andy-weir-prediction-ai-generated-art/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tigres thrash Chivas again, leave them on the ropes in play-offs",
-              "summary": "Tigres made a statement at El Volcán by beating Chivas 3-1 in the first leg of the Clausura 2026 quarter-finals. Guided by Guido Pizarro, the home side took advantage of playing on their own turf to .",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/tigres-thrash-chivas-again-leave-them-on-the-ropes-in-play-offs-42805468",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance",
-          "summary": ""
-        },
-        {
-          "topic": "AEO prompt tracking for marketing teams: You already track and analyze your SEO strategy — keyword r",
-          "summary": ""
-        },
-        {
-          "topic": "Polar Street X In-Depth Review: What’s the Catch?: The Polar Street X is Polar’s first new watch lin",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-03T14:01:57.723543+08:00",
+  "last_updated": "2026-06-04T13:54:54.798318+08:00",
   "total_days": 31
 }
