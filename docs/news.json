@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "7bef66ea",
+      "date": "2026-06-05",
+      "generated_at": "2026-06-05T13:14:41.214212+08:00",
+      "headline": "今日 AI 新闻速览（56 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Automakers, Retailers Warn Memory-Chip Shortage Is Impacting Prices",
+              "summary": "The increasing need for memory chips to power artificial intelligence data centers could lead to dramatic price hikes in U.S. consumer goods and disrupt supply chains, groups representing automakers, ",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/06/04/872362.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump Takes Hands-Off Approach to AI Cybersecurity in New Order",
+              "summary": "President Donald Trump outlined a hands-off approach to addressing cybersecurity threats raised by artificial intelligence under an executive order that calls for giving the US government voluntary ac",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/06/04/872365.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ray Dalio says you can be right about AI and still lose money",
+              "summary": "The veteran investor said the real risk emerges when investors need cash and are forced to sell inflated assets.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/ray-dalio-ai-boom-stock-bets-key-mistake-2026-6",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Law professors prefer AI over peer answers",
+              "summary": "Large language models (LLMs) are increasingly promoted as educational tutors, yet most evaluations focus on domains with a single ground truth. Many disciplines, however, hinge on judgment: reasoning,",
+              "source": "Marginalrevolution.com",
+              "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Employment in tech sector rose at steepest rate for a year in May despite Meta cuts",
+              "summary": "Year-ahead outlook ‘improved further’, according to AIB data, despite fears of job displacement from AI",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/06/04/employment-in-tech-sector-rose-at-steepest-rate-for-a-year-in-may-despite-meta-cuts/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Finn McRedmond: The Leaving Cert is dense, demanding and far superior to the UK’s A levels",
+              "summary": "With its seven, maybe eight subjects, the Leaving Cert cherishes the value of the generalist. In the UK, a 16-year-old may be studying just three",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/opinion/2026/06/04/finn-mcredmond-the-leaving-cert-is-dense-and-demanding-its-also-far-superior-to-the-uks-a-levels/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI boom creates connectivity challenge for integrators",
+              "summary": "Whitepaper from connectivity expert Altnets highlights growing infrastructure pressure, as artificial intelligence demand reshapes the future of digital economies",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366643917/AI-boom-creates-connectivity-challenge-for-integrators",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "LR, Samsung Heavy Industries, and CCEC form strategic alliance for floating data centers",
+              "summary": "Lloyd’s Register, Samsung Heavy Industries, and Capital Clean Energy Carriers Corp. signed a Memorandum of Understanding (MOU) for floating data centers, taking another step forward focused on artific",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2119316/lr-samsung-heavy-industries-and-ccec-form-strategic-alliance-for-floating-data-centers/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist: Economist and macro trader Alex Krüger ha",
+          "summary": ""
+        },
+        {
+          "topic": "Is Canon Preparing One of the Biggest Changes to Its PowerShot lineup?: Compact cameras are back in ",
+          "summary": ""
+        },
+        {
+          "topic": "How to Trade Memecoins with AI: A Beginner’s Guide Using MemeToro Technology: Learn how MemeToro use",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e6c8b82b",
       "date": "2026-06-04",
       "generated_at": "2026-06-04T13:54:54.798318+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3fd0f6d9",
-      "date": "2026-05-05",
-      "generated_at": "2026-05-05T12:15:13.915167+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "US Stock Market | Earnings, jobs data to test record US stock rally amid rising oil prices",
-              "summary": "Indian investors are watching a key week for US stocks. Major indices have hit record highs. Corporate earnings are strong, but oil prices are surging. Labour market data will also be important. The U",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-jobs-data-to-test-record-us-stock-rally-amid-rising-oil-prices/articleshow/130746916.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pachuca snatch victory from Toluca and land first blow in Liguilla",
-              "summary": "Pachuca made a statement at the Nemesio Diez, beating Toluca 1-0 in the first leg of the Clausura 2026 quarterfinals. Los Tuzos stunned the Infierno as early as the 8th minute, when Enner Valencia too",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/pachuca-snatch-victory-from-toluca-and-land-first-blow-in-liguilla-42810762",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ADB launches $70-bn push to connect Asia's power grids, digital networks",
-              "summary": "The bank announced two major programmes -- the Pan-Asia Power Grid Initiative and the Asia-Pacific Digital Highway -- with proposed investments of $50 billion and $20 billion, respectively",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/news/world/adb-launches-70-bn-push-to-connect-asias-power-grids-digital-networks/article70937217.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Humanoid Robot Actuators: The Complete Engineering Guide",
-              "summary": "Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators\nComments URL: https://news.ycombinator.com/item?id=48004380\nPoints: 5\n# Comments: 0",
-              "source": "Firgelli.com",
-              "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "I Made My Characters With Tarot Spreads and So Can You!",
-              "summary": "Author A.E. Osworth shares a strategy for creating characters with tarot spreads, specifically using the Celtic cross.\nThe post I Made My Characters With Tarot Spreads and So Can You! appeared first o",
-              "source": "Writersdigest.com",
-              "url": "https://www.writersdigest.com/i-made-my-characters-with-tarot-spreads-and-so-can-you#article",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China prohibits layoffs for AI replacements amid labor market concerns",
-              "summary": "A Chinese court has ruled that companies are not allowed to dismiss employees solely to replace them with artificial intelligence systems. This decision reflects the government's effort to stabilize t",
-              "source": "Nextbigwhat.com",
-              "url": "https://nextbigwhat.com/china-prohibits-layoffs-for-ai-replacements-amid-labor-market-concerns/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Oscars ban AI-generated performances and scripts from eligibility",
-              "summary": "The Academy of Motion Picture Arts and Sciences has announced that AI-generated actors and scripts will no longer qualify for Oscar consideration. This decision impacts projects utilizing artificial i",
-              "source": "Nextbigwhat.com",
-              "url": "https://nextbigwhat.com/oscars-ban-ai-generated-performances-and-scripts-from-eligibility/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Creator of viral meme accuses AI startup of art theft",
-              "summary": "The creator of the popular 'This is fine' meme has accused the AI startup Artisan of appropriating his artwork for promotional billboards. Artisan's campaign urges businesses to reduce human hires, sp",
-              "source": "Nextbigwhat.com",
-              "url": "https://nextbigwhat.com/creator-of-viral-meme-accuses-ai-startup-of-art-theft/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "openclaw-health-mcp added to PyPI: MCP server exposing OpenClaw deployment health — gateway status, ",
-          "summary": ""
-        },
-        {
-          "topic": "Ripple Exec Disappoints XRP Bulls: 'If $10,000 XRP Was Real, It Would Already Be $20': Ripple CTO Da",
-          "summary": ""
-        },
-        {
-          "topic": "Mark Cuban Upgrades TrumpRx to 'A-' — 'They're Doing A Good Job Actually' Says Denting Big Insurance",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-04T13:54:54.798318+08:00",
+  "last_updated": "2026-06-05T13:14:41.214212+08:00",
   "total_days": 31
 }
