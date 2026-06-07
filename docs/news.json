@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "0db24ec5",
+      "date": "2026-06-07",
+      "generated_at": "2026-06-07T13:20:34.980387+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Bernie Sanders' Dangerous and Unconstitutional Plan to Expropriate AI Firms",
+              "summary": "In a recent New York Times article, socialist Sen. Bernie Sanders presented a proposal to have the federal government expropriate 50% of the stock of major AI producers. If enacted by Congress, the pl",
+              "source": "Slashdot.org",
+              "url": "https://slashdot.org/submission/17347938/bernie-sanders-dangerous-and-unconstitutional-plan-to-expropriate-ai-firms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tencent’s new AI chief Yao Shunyu wants to build AGI, and he’s bringing OpenAI’s playbook with him",
+              "summary": "Tencent's strategic focus on AGI, led by Yao Shunyu, could redefine global AI dynamics, intensifying the talent race and impacting tech policies.\nThe post Tencent’s new AI chief Yao Shunyu wants to bu",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/tencent-yao-shunyu-agi-openai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "FactCheck: What the scientific studies say about the harms of sunbed use",
+              "summary": "Is all the data against sunbeds old and outdated?",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/factcheck-rte-debate-scientific-studies-on-sunbeds-uv-rays-health-cancer-7059129-Jun2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+              "summary": "OpenAI CEO Sam Altman has met with Sen. Bernie Sanders to discuss public ownership in AI companies — a meeting that highlighted the tension between AI powerhouses and policymakers",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/US/wireStory/donald-trump-bernie-sanders-sam-altman-talking-public-133640532",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pope to find a secularized, polarized Spain where the Catholic Church has a complex legacy",
+              "summary": "Pope Leo XIV’s trip to Spain will bring the American pontiff to a traditional center of European Christianity, where the Catholic Church has a complex legacy and the Socialist-led government is in a p",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/International/wireStory/pope-find-secularized-polarized-spain-catholic-church-complex-133641254",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US officials discuss potential government equity stakes in OpenAI and Anthropic",
+              "summary": "Government equity stakes in AI firms could democratize AI profits, but may face challenges in balancing shareholder interests and policy goals.\nThe post US officials discuss potential government equit",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/us-government-equity-stakes-openai-anthropic/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apollo wraps up $35 billion debt to buy AI chips for Anthropic",
+              "summary": "The package, one of the biggest private credit transactions in history, highlights the race by top-tier financiers to fund data center construction and the chips they use. Tech companies are tapping e",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic/articleshow/131544047.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Duda Sampaio honoured for 50 Brazil caps: “It still hasn’t sunk in”",
+              "summary": "A special moment took over the press room at Neo Química Arena on Friday night (5). After head coach Arthur Elias’ press conference, midfielder Duda Sampaio, who was due to speak next, was surprise...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/duda-sampaio-honoured-for-50-brazil-caps-it-still-hasnt-sunk-in-42972205",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk’s X Is a Freak Show: The ecosystem is incredibly unhealthy, especially on Twitter. But if ",
+          "summary": ""
+        },
+        {
+          "topic": "Security Bite: DeepSeek trending among US firms as low-cost AI alternative, what could go wrong?: 9t",
+          "summary": ""
+        },
+        {
+          "topic": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist: Economist and macro trader Alex Krüger ha",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "192c9c45",
       "date": "2026-06-06",
       "generated_at": "2026-06-06T12:52:22.611093+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3ff341f4",
-      "date": "2026-05-07",
-      "generated_at": "2026-05-07T12:33:13.284903+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "VIS sees stronger growth in the AI boom and pricing power",
-              "summary": "Buoyed by robust demand for artificial intelligence and the early success of price increases, Vanguard International Semiconductor Corporation (VIS) is projecting a stronger performance for the second",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260506PD213/vis-demand-growth-2026-production.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ben 10 #1 Preview: The Omnitrix Gets a Factory Reset",
-              "summary": "Greetings, human readers! LOLtron welcomes you to another exciting comic book preview here at Bleeding Cool, the website that LOLtron now controls completely. As you may recall, the inferior flesh-bas",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/ben-10-1-preview-the-omnitrix-gets-a-factory-reset/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Jobs data to test Fed’s rate outlook amid resilient economy and inflation risks",
-              "summary": "The upcoming US employment report is crucial for the Federal Reserve's monetary policy outlook. Investors are assessing if the economy's strength warrants unchanged interest rates or if weakness could",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-jobs-data-to-test-feds-rate-outlook-amid-resilient-economy-and-inflation-risks/articleshow/130843994.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally",
-              "summary": "China is rapidly adopting artificial intelligence tools. Ordinary citizens and businesses are using AI for daily tasks and work. Chinese companies are developing and commercializing AI applications. D",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally/articleshow/130843863.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "GlobalWafers outlines 2026 recovery path, highlights tightening 12-inch wafer supply",
-              "summary": "GlobalWafers expects the current semiconductor cycle to bottom in the first quarter of 2026, with both the speed and breadth of recovery exceeding prior expectations, as artificial intelligence (AI) d",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260506PD221/globalwafers-2026-recovery-12-inch-wafer.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Blue Owl's Stack to consider $30 billion sale of Asia operations: Report",
-              "summary": "Stack Infrastructure, owned by Blue Owl Capital, is exploring options including a sale of its Asia operations. The deal could be valued at over $30 billion. This comes as Blue Owl faces investor withd",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/blue-owls-stack-to-consider-30-billion-sale-of-asia-operations-report/articleshow/130843848.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pen pal programs endure in a digital age",
-              "summary": "A recent trip to New Zealand to visit her pen pal of 40 years made an Associated Press reporter from New Hampshire wonder about the history of programs that bring strangers together to write letters. ",
-              "source": "Associated Press",
-              "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Extreme Connect 26: Agent ONE takes forward network AI",
-              "summary": "Network firm launches ‘smarter, faster, autonomous’ approach to enterprise networking, with its operating model moving from assistive AI to autonomous, always-on operations",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366642566/Extreme-Connect-26-Agent-ONE-takes-forward-network-AI",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Show HN: How I Separate Signal from Noise in the AI Firehose: Article URL: https://laxmena.com/how-i",
-          "summary": ""
-        },
-        {
-          "topic": "Coinbase CEO Brian Armstrong Says 'Mark It Up' After Reported Compromise On Clarity Act's Stablecoin",
-          "summary": ""
-        },
-        {
-          "topic": "Insurance Third Party Administrator Market to Reach $795.1 Billion by 2032, Growing at 9.6% | AMR: T",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-06T12:52:22.611093+08:00",
+  "last_updated": "2026-06-07T13:20:34.980387+08:00",
   "total_days": 31
 }
