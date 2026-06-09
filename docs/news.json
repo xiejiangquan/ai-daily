@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f22440eb",
+      "date": "2026-06-09",
+      "generated_at": "2026-06-09T13:03:23.762039+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Fetch.AI unveils full agentic infrastructure with Your Personal AI and Agentverse",
+              "summary": "Fetch.AI's infrastructure could revolutionize autonomous transactions, potentially reshaping digital economies and AI-driven marketplaces.\nThe post Fetch.AI unveils full agentic infrastructure with Yo",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/fetch-ai-agentic-infrastructure-agentverse/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why It is Finally Time to Say Goodbye to Your iPhone 11",
+              "summary": "The iPhone 11, unveiled in September 2019, is nearing the conclusion of its software support lifecycle. With Apple expected to release iOS 27 in September 2026, this device will likely lose compatibil",
+              "source": "Geeky Gadgets",
+              "url": "https://www.geeky-gadgets.com/ios-27-drops-iphone-11/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "WISeKey, The Hashgraph Group and Hedera Launch QAIT Q-Day Security Assessment Platform on the SEALCOIN Quantum Marketplace",
+              "summary": "WISeKey, The Hashgraph Group and Hedera Launch QAIT Q-Day Security Assessment Platform on the SEALCOIN Quantum Marketplace  First Quantum Security...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/08/3307779/0/en/WISeKey-The-Hashgraph-Group-and-Hedera-Launch-QAIT-Q-Day-Security-Assessment-Platform-on-the-SEALCOIN-Quantum-Marketplace.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Independent Ireland TD defends high number of PQs submitted as concerns raised over use of AI",
+              "summary": "Issue of politicians allegedly using AI was raised at the Dáil business committee last month",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/06/08/independent-ireland-td-defends-high-number-of-pqs-submitted-as-concerns-raised-over-use-of-ai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "I’ve told AI countless times to quit that servile tone, but it just starts snivelling",
+              "summary": "Just like Botox, the AI experience is frictionless, without a single wrinkle or jagged edge",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/life-style/people/2026/06/08/opinion-ruby-eastwood-ai-chatgpt-tone-servile-dystopia-future-botox/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "realme P4 Power Review",
+              "summary": "Smartphone brands have spent years convincing us that thinner, lighter, and more premium-looking devices are what we should want. But...\nThe post realme P4 Power Review appeared first on YugaTech | Ph",
+              "source": "Yugatech.com",
+              "url": "https://www.yugatech.com/gadget-reviews/realme-p4-power-review-philippines/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Erdoğan warns climate crisis threatens all humanity",
+              "summary": "President Recep Tayyip Erdoğan has warned that the climate crisis poses a serious threat to humanity, comparing its impact to wars and global pandemics, while highlighting Türkiye’s gains under the Ze",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/erdogan-warns-climate-crisis-threatens-all-humanity-223012",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Digital Realty Launches Malaysia Operations to Advance Southeast Asia’s Digital Connectivity",
+              "summary": "Cyberjaya campus integrates Malaysia into Digital Realty’s global network, enabling customers to deploy AI and data-driven workloads across a connected infrastructure Cyberjaya campus integrates Malay",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/08/3307771/0/en/Digital-Realty-Launches-Malaysia-Operations-to-Advance-Southeast-Asia-s-Digital-Connectivity.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Ohio Crime Statistics Dashboard, Kagi, Google, More: Saturday Afternoon ResearchBuzz, June 6, 2026: ",
+          "summary": ""
+        },
+        {
+          "topic": "'I Now Consider All Of DeFi Unsafe': Former Crypto Security Chief Sounds Alarm As AI Agents Become M",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk’s X Is a Freak Show: The ecosystem is incredibly unhealthy, especially on Twitter. But if ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "1b76c1c1",
       "date": "2026-06-08",
       "generated_at": "2026-06-08T13:48:22.995313+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "d0f004f3",
-      "date": "2026-05-09",
-      "generated_at": "2026-05-09T12:21:30.186657+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Record Stock Rally Slips on Iran Clash, Oil Gains: Markets Wrap",
-              "summary": "Stocks pulled back on the final trading day of the week, while crude oil rose as escalating Middle East tensions revived concerns over energy supplies, testing the durability of a rally that had lifte",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/record-stock-rally-slips-on-iran-clash-oil-gains-markets-wrap",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What’s With That Resume?: Strategies for More Effective Student Resumes",
-              "summary": "Have you recently been asked to review a resume? Do you coach learners on resume writing? When did you last update your own resume?   The word “résumé” originates from the French word résumer, meaning",
-              "source": "Facultyfocus.com",
-              "url": "https://www.facultyfocus.com/articles/effective-teaching-strategies/whats-with-that-resume-strategies-for-more-effective-student-resumes/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
-              "summary": "CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial intelli",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Stocks drop, oil rises: Asian markets react to rising Iran tensions",
-              "summary": "Asian markets decline as Iran tensions rise, impacting stocks while oil prices increase amid concerns over energy supply disruptions.",
-              "source": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Big changes coming to the surface at UFCU Disch-Falk Field",
-              "summary": "It won’t be Jim Schlossnagle’s Field of Dreams, but it will be a major improvement.",
-              "source": "Burnt Orange Nation",
-              "url": "https://www.burntorangenation.com/texas-longhorns-baseball/102127/texas-longhorns-disch-falk-field-playing-surface",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bentley Systems Announces First Quarter 2026 Results",
-              "summary": "EXTON, Pa.--(BUSINESS WIRE)--May 7, 2026-- Bentley Systems, Incorporated (Nasdaq: BSY), the infrastructure engineering software company, today announced results for the quarter ended March 31, 2026.",
-              "source": "Associated Press",
-              "url": "https://apnews.com/press-release/business-wire/bentley-systems-announces-first-quarter-2026-results-08e28664753f473cbe95805813a19f0d",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "World Cup, ‘Reina Del Sur,’ ‘Señor De Los Cielos’ Anchor Telemundo 2026-27 Slate",
-              "summary": "The world's biggest sporting event takes center stage as hit returning franchises, new scripted series and the network's first original film round out a packed season.",
-              "source": "Forbes",
-              "url": "https://www.forbes.com/sites/veronicavillafane/2026/05/07/world-cup-reina-del-sur-seor-de-los-cielos-anchor-telemundo-2026-27-slate/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India's mid-tier IT firms narrow new business gap with the larger rivals",
-              "summary": "Coforge, Mphasis and five similar companies saw growth moderate, but their decline in new business in FY26 was slower than that of the country’s six largest software exporters, which include the likes",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/companies/mid-tier-it-firms-narrow-new-business-gap-with-larger-rivals-tcs-infosys-11778162404877.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Ramit Sethi, Who Chooses To Rent, Says We Are Taught Renters Are Poor And Calls Homeownership 'Ameri",
-          "summary": ""
-        },
-        {
-          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'— Says It's Impossible Fo",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-08T13:48:22.995313+08:00",
+  "last_updated": "2026-06-09T13:03:23.762039+08:00",
   "total_days": 31
 }
