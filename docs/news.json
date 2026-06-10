@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "48e03a0b",
+      "date": "2026-06-10",
+      "generated_at": "2026-06-10T13:16:01.365648+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Binance extends pre-IPO perpetual lineup to OpenAI after SpaceX success",
+              "summary": "Binance is democratizing pre-IPO price discovery with its new Pre-IPO Perpetual Contracts. These products allow eligible users to speculate on the expected valuations of private companies like SpaceX ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/wealth/invest/binance-extends-pre-ipo-perpetual-lineup-to-openai-after-spacex-success/articleshow/131602210.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI-Assisted Debugging: How Developers Are Fixing Production Issues Faster",
+              "summary": "AI-assisted debugging revolutionizes production issue resolution, enabling faster identification and fixing of complex software problems.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-assisted-debugging-how-developers-are-fixing-production-issues-faster/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "It may take the collapse of the AI bubble to save us from these sociopaths",
+              "summary": "There is a lot in the news these days that is depressing so it takes a lot for me to point to one article and say that it may be a top competitor to be the most depressing thing that I have read this ",
+              "source": "Freethoughtblogs.com",
+              "url": "https://freethoughtblogs.com/singham/2026/06/09/it-may-take-the-collapse-of-the-ai-bubble-to-save-us-from-these-sociopaths/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mitsotakis, Chania and the decision for elections, how the mini cabinet reshuffle came about, billions quietly rained down at the Posidonia, the stock-market frenzy of the World Cup",
+              "summary": "“Micro-strategy” games with bitcoin & “American socialism” in artificial intelligence\nThe post Mitsotakis, Chania and the decision for elections, how the mini cabinet reshuffle came about, billions qu",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/06/09/mitsotakis-chania-and-the-decision-for-elections-how-the-mini-cabinet-reshuffle-came-about-billions-quietly-rained-down-at-the-posidonia-the-stock-market-frenzy-of-the-world-cup/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesia eyes AI to accelerate 5G network adoption",
+              "summary": "Artificial intelligence (AI) is poised to become the definitive &quot;killer application&quot; driving the widespread adoption of 5G networks across ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/418545/indonesia-eyes-ai-to-accelerate-5g-network-adoption",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What sort of workforce are graduates entering, and what do they need to know?",
+              "summary": "AI means the employment environment is changing, but there are indications of resilience in the graduate jobs market",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/education/2026/06/09/what-sort-of-workforce-are-graduates-entering-and-what-do-they-need-to-know/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Cost Optimization Strategies Every Development Team Should Follow",
+              "summary": "Master AI cost optimization with practical strategies for development teams. Reduce LLM, RAG, and embedding expenses for sustainable AI.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-cost-optimization-strategies-every-development-team-should-follow/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Data centre electricity demand could exceed power usage of entire country",
+              "summary": "AI Committee tee up",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/06/09/data-centre-electricity-demand-could-exceed-power-usage-of-entire-country/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
+          "summary": ""
+        },
+        {
+          "topic": "12 best online reputation management tools for 2026: Online reputation monitoring tools help you rev",
+          "summary": ""
+        },
+        {
+          "topic": "Palantir CEO Alex Karp Says He's Been Warning AI Leaders For Months About Nationalization Risks: 'Th",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f22440eb",
       "date": "2026-06-09",
       "generated_at": "2026-06-09T13:03:23.762039+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9bae55b6",
-      "date": "2026-05-10",
-      "generated_at": "2026-05-10T12:42:39.380234+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "US employers defy economic shock from Iran war and add a surprisingly strong 115,000 jobs in April",
-              "summary": "US employers defy economic shock from Iran war and add a surprisingly strong 115,000 jobs in Apriltimesfreepress.com",
-              "source": "Chattanooga Times Free Press",
-              "url": "https://www.timesfreepress.com/news/2026/may/08/us-employers-defy-economic-shock-from-iran-war/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "NVIDIA Stock Climbs 1.76% to $215 as AI Chip Demand Powers Continued Market Dominance",
-              "summary": "NEW YORK — NVIDIA Corp. (NASDAQ: NVDA) shares rose 1.76% on Thursday to close at $215.22, extending the semiconductor giant's strong performance in 2026 as insatiable demand for its artificial intelli",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/nvidia-stock-climbs-176-215-ai-chip-demand-powers-continued-market-dominance-1868454",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Teacher training in AI will be primary focus in next 3-4 months: Official",
-              "summary": "The remarks followed Union Education Minister Dharmendra Pradhan’s launch of the “AI Literacy for Teachers” programme at the IIT Madras Technology Summit on May 5",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/news/education/teacher-training-in-ai-will-be-primary-focus-in-next-3-4-months-official/article70958060.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Complaints of cyber crimes against women exceed 12,000",
-              "summary": "More than twelve thousand complaints of cybercrimes against women in Sri Lanka have been reported over the past three years, Public Security Minister Ananda Wijepala revealed in Parliament yesterday (",
-              "source": "Gossiplankanews.com",
-              "url": "https://english.gossiplankanews.com/2026/05/complaints-of-cyber-crimes-against.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Telco sector ‘high-value target' for cyber attackers, firms advised on urgency of frontier AI risks: Shanmugam",
-              "summary": "The Infocomm Media Development Authority has issued an advisory to telcos on measures to protect themselves against cybersecurity threats.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/telco-frontier-ai-cybersecurity-risk-shanmugam-apt-urgency-6110811",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AIR, ARR and AI: Inside RingCentral’s transformation into an AI-first engagement platform",
-              "summary": "RingCentral Inc.‘s latest quarter shows a company that has quietly turned artificial intelligence from a future story into its primary engine for product differentiation, operational leverage and, inc",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/05/08/air-arr-ai-inside-ringcentrals-transformation-ai-first-engagement-platform/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Wall St Week Ahead-Data, Iran, US-China meeting in focus for scorching US stock market",
-              "summary": "Indian markets are keenly watching upcoming inflation and consumer spending data, alongside developments in the Iran conflict and a crucial US-China summit. Strong corporate earnings have fueled a sig",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-data-iran-us-china-meeting-in-focus-for-scorching-us-stock-market/articleshow/130970368.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Wall Street warns of extreme momentum trade risks amid US jobs data",
-              "summary": "Market volatility may increase as concentrated trades heighten systemic risk, potentially impacting crypto and broader financial stability.\nThe post Wall Street warns of extreme momentum trade risks a",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/wall-street-momentum-trade-risks-jobs-data/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Ramit Sethi, Who Chooses To Rent, Says We Are Taught Renters Are Poor And Calls Homeownership 'Ameri",
-          "summary": ""
-        },
-        {
-          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'— Says It's Impossible Fo",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-09T13:03:23.762039+08:00",
+  "last_updated": "2026-06-10T13:16:01.365648+08:00",
   "total_days": 31
 }
