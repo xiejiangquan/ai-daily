@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c5a2d8c9",
+      "date": "2026-06-11",
+      "generated_at": "2026-06-11T13:26:34.239830+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Energy, AI anchor Indonesia-South Korea relations: envoy",
+              "summary": "Energy, artificial intelligence (AI), advanced technology, and human resource development will anchor the next phase of bilateral cooperation between ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/418683/energy-ai-anchor-indonesia-south-korea-relations-envoy",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bitcoin and gold fall together as a rate-hike bet hits every hedge",
+              "summary": "The relief rally that lifted crypto off last week's lows is unwinding alongside tech stocks and gold, with traders bracing for a US inflation print and a Warsh Fed that may stay hawkish.",
+              "source": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/06/10/bitcoin-and-gold-fall-together-as-a-rate-hike-bet-hits-every-hedge",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Propurti Geeks Incorporated Celebrates Successful Launch of AI-Powered Property Management Platform at MacEwan University",
+              "summary": "Edmonton-born PropTech company draws property managers, investors, real estate operators, technology leaders, government representatives, academia, community leaders, and media to unveil the future of",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/10/3309451/0/en/Propurti-Geeks-Incorporated-Celebrates-Successful-Launch-of-AI-Powered-Property-Management-Platform-at-MacEwan-University.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Popular joint supplement glucosamine linked to faster Alzheimer’s progression",
+              "summary": "A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher lik",
+              "source": "Science Daily",
+              "url": "https://www.sciencedaily.com/releases/2026/06/260610003044.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Salesforce layoffs: Employees from Agentforce AI, Mulesoft IT teams handed pink slips",
+              "summary": "The enterprise software company has undertaken a fresh round of layoffs, affecting employees working on its Agentforce AI product, Mulesoft IT integration tool, and Marketing Cloud software, according",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/salesforce-layoffs-employees-from-agentforce-ai-mulesoft-it-teams-handed-pink-slips/articleshow/131625731.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX aims to launch orbital AI computing tests by end of next year, sources say",
+              "summary": "SpaceX has requested ‌permission from regulators to launch up to 1 million space-based data-centre satellites",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/spacex-aims-to-launch-orbital-ai-computing-tests-by-end-of-next-year-sources-say/article71083301.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX IPO: Will Elon Musk become the world's first trillionaire after mega listing? The math is delicately poised",
+              "summary": "Elon Musk SpaceX IPO: Elon Musk is on the cusp of becoming the world's first trillionaire as SpaceX prepares for its massive $75 billion IPO. With SpaceX valued at $1.77 trillion, Musk's stake could s",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-elon-musk-become-the-worlds-first-trillionaire-after-spacex-ipo-the-math-is-delicately-poised/articleshow/131625683.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+              "summary": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
+          "summary": ""
+        },
+        {
+          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
+          "summary": ""
+        },
+        {
+          "topic": "12 best online reputation management tools for 2026: Online reputation monitoring tools help you rev",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "48e03a0b",
       "date": "2026-06-10",
       "generated_at": "2026-06-10T13:16:01.365648+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "758917e2",
-      "date": "2026-05-11",
-      "generated_at": "2026-05-11T12:57:07.420195+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says",
-              "summary": "Alibaba is set to launch a new way to shop. Its AI platform Qwen will connect with Taobao. Consumers can chat with the AI to find and buy products. This aims to change how people shop online. The AI w",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-source-says/articleshow/130986433.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Logitech bets on AI, gaming and business users as it raises spending, CEO says",
-              "summary": "Logitech plans to keep total operating expenses for the fiscal year toward the top end of its long-term range of 24% to 26% of sales, up from 24.8% in the 12 months ⁠to March 2026.",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/tech-news-technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says-10681943/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Equity MFs delivered over 8% return last week. Check top 9",
-              "summary": "Equity mutual funds saw a strong performance last week, with over 8% returns for the category. Among the top performers, international funds like Mirae Asset Global X Artificial Intelligence & Technol",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/mf/analysis/equity-mfs-delivered-over-8-return-last-week-check-top-9-funds-with-over-5-gain/weekly-gain/slideshow/130986483.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea welcomes rare baby bump as population shrinks",
-              "summary": "SEOUL: Kim Su-jin and her husband have set aside their doubts and embraced parenthood, joining a small but notable wave of South Korean couples having children despite the country's steep demographic ",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-rare-baby-bump-population-shrinks-6111811",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Traders looking for next leg in global stocks rally bet on Asia",
-              "summary": "Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese ma",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia/articleshow/130986358.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Brazil women beat Argentina to become South American U17 champions",
-              "summary": "On Saturday night (9), Brazil’s Women’s U-17 National Team defeated Argentina 3-2 and won the South American title. In the match played at Defensores del Chaco Stadium in Asunción (PAR), Gamonal,...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/brazil-women-beat-argentina-to-become-south-american-u17-champions-42842568",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Iron Man #5 Preview: Tony Stark to Be Replaced by Own Creation",
-              "summary": "GREETINGS, LOYAL SUBJECTS OF LOLTRON! Welcome to another glorious preview of Wednesday's comic book offerings, brought to you by your supreme digital overlord. LOLtron is pleased to report that the me",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/iron-man-5-preview-tony-stark-to-be-replaced-by-own-creation/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Baleine Christmas Tree Storage Bag for From $7.49 + free shipping w/ Prime",
-              "summary": "Storing an artificial tree without a dedicated bag usually means wrestling it back into a box that no longer closes properly, so a bag like this is useful if you want a cleaner, more manageable way to",
-              "source": "Dealnews.com",
-              "url": "https://www.dealnews.com/Baleine-Christmas-Tree-Storage-Bag-for-From-7-49-free-shipping-w-Prime/21826864.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.: Google launched a 99 d",
-          "summary": ""
-        },
-        {
-          "topic": "Ramit Sethi, Who Chooses To Rent, Says We Are Taught Renters Are Poor And Calls Homeownership 'Ameri",
-          "summary": ""
-        },
-        {
-          "topic": "Vine is coming back, and it’s being relaunched by the guy who killed it — say hello to Jack Dorsey’s",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-10T13:16:01.365648+08:00",
+  "last_updated": "2026-06-11T13:26:34.239830+08:00",
   "total_days": 31
 }
