@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ce5e0b20",
+      "date": "2026-06-12",
+      "generated_at": "2026-06-12T13:47:15.769665+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Cohere open-sources a coding agent that runs on a single H100 | VentureBeat",
+              "summary": "Cohere's North Mini Code ranks 8th of 127 open-weight models on output speed — but generates 3x the output tokens of comparable models in independent testing.",
+              "source": "VentureBeat",
+              "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Dario Amodei cites distrust in Sam Altman for leaving OpenAI",
+              "summary": "The trust issues between AI leaders highlight the critical impact of leadership dynamics on corporate strategies and investor confidence.\nThe post Dario Amodei cites distrust in Sam Altman for leaving",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/amodei-distrust-altman-leaving-openai/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "GM bets on sodium-ion batteries to power the AI boom",
+              "summary": "For years, Detroit's automakers viewed batteries primarily as the key to an electric-vehicle future. Now, as artificial intelligence drives an unprecedented buildout of data centers and strains power ",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260610VL205/sodium-ion-general-motors-automakers-data-electricity.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Public service staff numbers grow despite Govt’s crackdown on ‘bloated bureaucracy’",
+              "summary": "The rise in civil servants comes as the Government targets public-sector spending.",
+              "source": "New Zealand Herald",
+              "url": "https://www.nzherald.co.nz/nz/politics/public-service-staff-numbers-grow-despite-govts-crackdown-on-bloated-bureaucracy/Y4PAAYFWMBCMNPUITCDZMEKVPM/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI is going public. Should you buy shares?",
+              "summary": "Financial adviser Dan Malone spoke to The Journal about whether Irish investors should try to get in on the ground floor of OpenAI’s next phase.",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/should-i-invest-openai-public-7064953-Jun2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "LSEG slowly sheds 'AI risk' tag with drive to show growth",
+              "summary": "LSEG shares tumbled nearly 13% in one day in February as worries about the threat posed by large language artificial intelligence models like Anthropic's Claude triggered a sharp selloff in software s",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lseg-slowly-sheds-ai-risk-tag-with-drive-to-show-growth/articleshow/131650086.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX IPO is said to be more than four times oversubscribed",
+              "summary": "SpaceX’s initial public offering has attracted demand for more than four times the available shares, according to people familiar with the matter, ahead of the Elon Musk-led rocket, satellite and arti",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-ipo-is-said-to-be-more-than-four-times-oversubscribed",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TCS ties up with Anthropic, to roll out Claude AI access to 50,000 employees",
+              "summary": "TCS said the internal deployment will help it gain first-hand operational experience while supporting AI-led transformation programmes for clients",
+              "source": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/tcs-ties-up-with-anthropic-to-roll-out-claude-ai-access-to-50-000-employees-13946875.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
+          "summary": ""
+        },
+        {
+          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
+          "summary": ""
+        },
+        {
+          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c5a2d8c9",
       "date": "2026-06-11",
       "generated_at": "2026-06-11T13:26:34.239830+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9fe60f18",
-      "date": "2026-05-12",
-      "generated_at": "2026-05-12T12:34:37.767954+08:00",
-      "headline": "今日 AI 新闻速览（54 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "AI model finally learns to say ‘I don’t know’ in breakthrough to curb chatbot overconfidence",
-              "summary": "New training method may help tackle AI ‘hallucination’",
-              "source": "The-independent.com",
-              "url": "https://www.the-independent.com/tech/ai-model-chatbot-overconfidence-don-t-know-b2974020.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Orchestro. AI Founder Awarded Oxford's Bodleian Medal for Work in AI Ethics",
-              "summary": "OXFORD, England, May 11, 2026 (GLOBE NEWSWIRE) -- On April 20, Oxford University presented Dr. Shekhar Natarajan, Founder and CEO of Orchestro.AI, with the prestigious Bodleian Medal for his contribut",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/05/11/3291536/0/en/Orchestro-AI-Founder-Awarded-Oxford-s-Bodleian-Medal-for-Work-in-AI-Ethics.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘AI not likely to replace you, but…’: Jensen Huang assures fresh grads that this is the best time to start a career",
-              "summary": "Jensen Huang told the new grads that AI was closing the “technology divide,” allowing anyone to build something useful.",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/companies/people/ai-not-likely-to-replace-you-but-jensen-huang-assures-fresh-grads-that-this-is-the-best-time-to-start-a-career-11778466025826.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: US market enters a critical week with inflation and Iran tensions in focus",
-              "summary": "Markets are watching key inflation data and consumer spending trends. Developments in the Iran conflict and a meeting between Presidents Trump and Xi are also crucial. Strong corporate earnings have b",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-us-market-enters-a-critical-week-with-inflation-and-iran-tensions-in-focus/articleshow/131003210.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How Fiduciary Duty May Change in the Age of Quantum AI",
-              "summary": "What should fiduciary duty require when new technology allows corporate directors to see risk more clearly? Though corporate law has long assumed that directors must make decisions under conditions of",
-              "source": "Columbia.edu",
-              "url": "https://clsbluesky.law.columbia.edu/2026/05/11/how-fiduciary-duty-may-change-in-the-age-of-quantum-ai/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Fed warns prolonged Iran conflict could fuel inflation, hurt global growth",
-              "summary": "The Federal Reserve's latest report identifies the Iran conflict and resulting oil price shock as the primary threats to financial stability, surpassing other macroeconomic risks.  Concerns are high t",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-warns-prolonged-iran-conflict-could-fuel-inflation-hurt-global-growth/articleshow/131003110.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Microsoft Windows 11 Home for $9",
-              "summary": "Expires March 13, 2124 07:59 PST\n\n\n\n\n Buy now and get 92% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nPlease check all system requirements before purchasing. Check your computer compatibility w",
-              "source": "AndroidGuys",
-              "url": "https://deals.androidguys.com/sales/microsoft-windows-11-home-5?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=androidguys",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Young Americans' Job Market Pessimism Stands Out Globally",
-              "summary": "Unlike older U.S. adults, younger Americans have grown more negative about their local job prospects in recent years, a trend not seen in most economies worldwide.",
-              "source": "Gallup.com",
-              "url": "https://news.gallup.com/poll/708860/young-americans-job-market-pessimism-stands-globally.aspx",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Transcript: Howard Lindzon, Social Leverage: The transcript from this week’s MiB Howard Lindzon, Soc",
-          "summary": ""
-        },
-        {
-          "topic": "How to Create Scroll-Stopping Hooks That Work on Every Platform in 2026: In the fast-paced digital l",
-          "summary": ""
-        },
-        {
-          "topic": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.: Google launched a 99 d",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-11T13:26:34.239830+08:00",
+  "last_updated": "2026-06-12T13:47:15.769665+08:00",
   "total_days": 31
 }
