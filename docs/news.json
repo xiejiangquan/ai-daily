@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "d51cc185",
+      "date": "2026-06-14",
+      "generated_at": "2026-06-14T13:47:07.833597+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+              "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend ac",
+              "source": "Internet",
+              "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " USA thrash Paraguay, 4-1! Trump calls, Speed-Ibra, Balogun ⚽⚽",
+              "summary": "The USA cruise to victory in Los Angeles in their opening World Cup match: 4-1 over Paraguay, who only managed a few shots in the second half. Otherwise, it was a red, white and blue show, with Bobadi",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/usa-thrash-paraguay-4-1-trump-calls-speed-ibra-balogun-43002707",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What are US stock market, gold and silver price prediction for Monday? Market outlook after Wall Street gains and metals movement",
+              "summary": "What are US stock market, gold and silver price prediction for Monday? Investors are assessing Wall Street's latest gains, developments in U.S.-Iran talks, Federal Reserve expectations, and movements ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/us/what-are-us-stock-market-gold-and-silver-price-prediction-for-monday-market-outlook-after-wall-street-gains-and-metals-movement/articleshow/131697715.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Arnott's Plain Biscuits Milk Coffee | 250g $1.50 (Save $1.00) @Coles",
+              "summary": "Plain biscuits, others also $1.50. A golden crunchy plain biscuit Mild delicious flavours of golden syrup and milk Dunkable No artificial colours, flavours or preservatives No artificial …",
+              "source": "Ozbargain.com.au",
+              "url": "https://www.ozbargain.com.au/node/963356",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global markets: Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes",
+              "summary": "Global equities rose Friday, led by a surge in SpaceX's market debut, which pushed its valuation past $2 trillion. Wall Street ended higher as investors weighed hopes for an Iran peace deal against th",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-rise-as-spacex-makes-market-debut-oil-slides-on-gulf-peace-hopes/articleshow/131698343.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Elon Musk’s $1,100,000,000,000 net worth exceeds combined fortunes of Page, Brin, Bezos, Ellison & Dell; Here’s what the global rich list looks like now",
+              "summary": "Elon Musk's net worth has surged to approximately $1.1 trillion, driven by SpaceX's valuation reaching $2.2 trillion and continued strength in Tesla. This unprecedented wealth places him on the brink ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/elon-musks-1100000000000-net-worth-exceeds-combined-fortunes-of-page-brin-bezos-ellison-dell-heres-what-the-global-rich-list-looks-like-now/articleshow/131697719.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic’s Fable 5 takedown triggers India Inc push for AI self-reliance",
+              "summary": "A US directive suspending access to Anthropic's AI models has spurred India Inc's push for self-reliance in AI infrastructure. Technology leaders are calling for domestic R&D, open-source models, and ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-fable-5-takedown-triggers-india-inc-push-for-ai-self-reliance/articleshow/131698077.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mark O'Connell: Argentina’s AI chief executives are a scary thought. But will we notice any difference?",
+              "summary": "The idea of a world run by machines might seem far fetched, but only until you think about it",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/opinion/2026/06/14/mark-oconnell-argentinas-ai-chief-executives-are-a-scary-thought-but-will-we-notice-any-difference/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
+          "summary": ""
+        },
+        {
+          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
+          "summary": ""
+        },
+        {
+          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "63d4980f",
       "date": "2026-06-13",
       "generated_at": "2026-06-13T13:19:32.809585+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "16637d8e",
-      "date": "2026-05-14",
-      "generated_at": "2026-05-14T12:41:32.209180+08:00",
-      "headline": "今日 AI 新闻速览（57 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Fluence Announces Pricing of Secondary Offering of Class A Common Stock by Existing Controlling Stockholders",
-              "summary": "ARLINGTON, Va., May 13, 2026 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (“Fluence”) (NASDAQ: FLNC), a global market leader delivering intelligent energy storage, operational services, and asset optimiza",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/05/13/3293628/0/en/Fluence-Announces-Pricing-of-Secondary-Offering-of-Class-A-Common-Stock-by-Existing-Controlling-Stockholders.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "IMD’s new AI weather forecasts will tell farmers when it will rain within a 1-km area",
-              "summary": "IMD's one forecasting product, developed by the National Centre for Medium Range Weather Forecasting (NCMRWF), has been specifically meant for Uttar Pradesh.",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/india/imds-new-ai-weather-forecasts-will-tell-farmers-when-it-will-rain-within-a-1-km-area-10686727/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "R. Madhavan’s favourite breakfast is gut-friendly and may help with weight loss",
-              "summary": "Actor R Madhavan recently revealed that Kuzhi Paniyaram is one of his favourite breakfast dishes Doctors say the traditional South Indian recipe is not only delicious but may also support gut health d",
-              "source": "India Today",
-              "url": "https://www.indiatoday.in/health/story/r-madhavans-favourite-breakfast-is-gut-friendly-and-may-help-with-weight-loss-2910397-2026-05-13",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ask The Doctor: I get frequent headaches at work. How do I know if it is eye strain or something more serious?",
-              "summary": "Question: I get frequent headaches during the workday, especially when I’m at a screen. How do I know if it’s just eye strain or something more serious?",
-              "source": "Independent.ie",
-              "url": "https://www.independent.ie/life/health-wellbeing/health-features/ask-the-doctor-i-get-frequent-headaches-at-work-how-do-i-know-if-it-is-eye-strain-or-something-more-serious/a58504705.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "French hantavirus patient is critically ill, on an artificial lung as total cases grow to 11",
-              "summary": "A French woman is critically ill with hantavirus, requiring an artificial lung, as the cruise ship outbreak reaches 11 cases and three deaths. Health officials are investigating the virus's origin in ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/french-hantavirus-patient-is-critically-ill-on-an-artificial-lung-as-total-cases-grow-to-11/articleshow/131054706.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Shoppers Are at Risk of a Costly Christmas as China Hikes Prices",
-              "summary": "Chinese suppliers to major US retailers like Walmart Inc. and Costco Wholesale Corp. said they are hiking prices for the first time in years as raw material costs soar just as factories ramp up produc",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/us-shoppers-are-at-risk-of-a-costly-christmas-as-china-hikes-prices",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Donald Trump to visit China with 16 CEOs including Elon Musk and Tim Cook",
-              "summary": "The summit could redefine US-China tech relations, potentially boosting crypto adoption and investment if digital assets are prioritized.\nThe post Donald Trump to visit China with 16 CEOs including El",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/trump-china-visit-ceos-musk-cook/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Your “um” and pauses could reveal early dementia risk",
-              "summary": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are close",
-              "source": "Science Daily",
-              "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Meta won’t let you block its AI account on Threads: Meta announced on Tuesday that it's testing a Th",
-          "summary": ""
-        },
-        {
-          "topic": "The Rise of the Bullshittery: A few thoughts on how the modern economy has stopped rewarding people ",
-          "summary": ""
-        },
-        {
-          "topic": "Threads tests a Meta AI integration that works similarly to Grok | TechCrunch: The feature is design",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-13T13:19:32.809585+08:00",
+  "last_updated": "2026-06-14T13:47:07.833597+08:00",
   "total_days": 31
 }
