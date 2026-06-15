@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "688909d4",
+      "date": "2026-06-15",
+      "generated_at": "2026-06-15T14:21:12.543667+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Anthropic shuts down Mythos access after sweeping U.S. order",
+              "summary": "Anthropic shuts down Mythos access after sweeping U.S. order\n- Click here to listen to this article \n- \nAnthropic PBC has disabled access to its most advanced artificial intelligence models, including",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/cdbe45b1091f95e7",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Traditional Finance Rushes Into Crypto as Institutions Buy Bitcoin Dip, Axios Reports",
+              "summary": "Traditional financial institutions are accelerating their push into cryptocurrency products in 2026, according to an Axios report. Banks, brokerages, and exchanges are racing to offer crypto services ",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-06-14-tradfi-rushes-into-crypto-buy-bitcoin-dip.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "White House AI Deal Would Override State Laws, Mandate Age Verification",
+              "summary": "The White House has proposed a federal artificial intelligence (AI) framework that would override existing state AI regulations and require age verification for users of AI systems, according to offic",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-06-14-white-house-ai-deal-overrides-state-laws.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Argentina Proposes Legal Framework for AI-Run Corporations",
+              "summary": "Argentinian President Javier Milei has submitted legislation to Congress that would establish a new legal framework for artificial intelligence (AI) deployment, including a corporate category for comp",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-06-14-argentina-proposes-legal-framework-ai-run-corporations.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Angry Meta employee hijacks company presentation to unleash profanity-laced tirade against top exec",
+              "summary": "A Meta employee interrupted a livestreamed company presentation attended by thousands of workers to launch a profanity-filled rant and call a senior AI executive a 'piece of s***.'",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-15897199/Meta-employee-hijacks-company-presentation-unleash-tirade.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon to expand automation use in inventory management at India fulfilment centres",
+              "summary": "Amazon plans to enhance automation in inventory management at Indian fulfilment centres, committing $35 billion in investments by 2030.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/amazon-to-expand-automation-use-in-inventory-management-at-india-fulfilment-centres/article71100450.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea’s world-beating stock market eyes its MSCI moment",
+              "summary": "Now investors are awaiting MSCI Inc.’s annual market-classification review on June 23, when the index provider will decide whether Korea finally earns a place on the watchlist for developed-market sta",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-world-beating-stock-market-eyes-its-msci-moment/articleshow/131716179.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Sleep optional: brutal kick-off time can't stop these fans",
+              "summary": "In Australia, it’s currently the afternoon; things look very different here in Germany, where most people are probably not even awake yet this Sunday, and in many places the beer for this evening li..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/sleep-optional-brutal-kick-off-time-cant-stop-these-fans-43006437",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Bitcoin faces one of its biggest mining difficulty drops as miner margins collapse: The Bitcoin netw",
+          "summary": ""
+        },
+        {
+          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
+          "summary": ""
+        },
+        {
+          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "d51cc185",
       "date": "2026-06-14",
       "generated_at": "2026-06-14T13:47:07.833597+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "06092b9a",
-      "date": "2026-05-15",
-      "generated_at": "2026-05-15T12:47:58.919259+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Preparing for Rupee at 100: What does it mean for the economy and your stock market investments?",
-              "summary": "The Indian rupee is nearing the Rs 100 per dollar mark, driven by rising crude oil prices and foreign investor outflows. This depreciation fuels imported inflation, complicates RBI policy, and creates",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/preparing-for-rupee-at-100-what-does-it-mean-for-the-economy-and-your-stock-market-investments/articleshow/131082559.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "BlackBerry doubles down on secure communications",
-              "summary": "Having sold its Cylance endpoint security portfolio to Arctic Wolf, the former smartphone pioneer is doubling down on military-grade encryption and post-quantum cryptography to shield critical infrast",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366643081/BlackBerry-doubles-down-on-secure-communications",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia CEO hopes Trump and Xi will improve two-way ties: CCTV",
-              "summary": "Nvidia CEO Jensen Huang met with Chinese President Xi Jinping. He expressed hope for improved US-China relations. Nvidia faces difficulties supplying advanced AI chips to Chinese clients. This impacts",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-hopes-trump-and-xi-will-improve-two-way-ties-cctv/articleshow/131082611.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Discovery of new alien worlds rewrites understanding of the cosmos",
-              "summary": "Scientists have uncovered thousands of new worlds which have never been seen before as the search for extraterrestrial life reaches a global tipping point.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/sciencetech/article-15815343/discovery-alien-worlds-cosmos.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The gathering with K.M. and the high-profile guests at Costa Navarino, the green Vasia with the motor-mouth, PPC, Alexis and the (wild) BS, the new Skaramangas shipyards",
-              "summary": "Patoulis’ new step & the first stock in Wall Street history worth $5.5 trillion\nThe post The gathering with K.M. and the high-profile guests at Costa Navarino, the green Vasia with the motor-mouth, PP",
-              "source": "Protothema.gr",
-              "url": "https://en.protothema.gr/2026/05/14/the-gathering-with-k-m-and-the-high-profile-guests-at-costa-navarino-the-green-vasia-with-the-motor-mouth-ppc-alexis-and-the-wild-bs-the-new-skaramangas-shipyards/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gold and silver price today, May 14: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
-              "summary": "Gold and silver prices fell in India on 14 May amid key global developments. MCX gold futures slipped 0.37% to  ₹1,62,270 per 10 gm, while silver futures dropped 1.61% to  ₹2,96,160 per kg. Markets re",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-may-14-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11778730008296.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Vancouver mayor decries 'misinformation' after saying he uses 11 AI agents to do work",
-              "summary": "Ken Sim said he uses AI agents to do a lot of his work \"in the background,\" but online critics, including rival mayoral candidate Kareem Allam, questioned whether he was sharing government data or res",
-              "source": "CBC News",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/ken-sim-11-ai-agents-9.7199081",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Artmarket.com: The Artprice Manifesto: 22 Rules for a Regulated and Transparent Art Market in the Age of AI",
-              "summary": "Artificial intelligence is redistributing the value of information at an unprecedented pace PARIS, May 14, 2026 /PRNewswire/ -- We are living through one of those defining periods. Artificial intellig",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/artmarketcom-the-artprice-manifesto-22-rules-for-a-regulated-and-transparent-art-market-in-the-age-of-ai-302771642.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Best Growth Hacking Tactics for Early-Stage Startups: Early-stage startups can scale faster with pro",
-          "summary": ""
-        },
-        {
-          "topic": "Social Listening: How to Use It for Your Business: Social media has fundamentally changed how busine",
-          "summary": ""
-        },
-        {
-          "topic": "Is it time to adopt autonomous endpoint management software?: Autonomous endpoint management tools p",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-14T13:47:07.833597+08:00",
+  "last_updated": "2026-06-15T14:21:12.543667+08:00",
   "total_days": 31
 }
