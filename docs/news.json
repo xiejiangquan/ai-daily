@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "51aa0368",
+      "date": "2026-06-19",
+      "generated_at": "2026-06-19T14:16:30.865311+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Meet XREAL’s $1,500 Aura XR Glasses Coming in Fall 2026",
+              "summary": "XREAL has officially introduced its Aura XR glasses, marking a significant step forward from its earlier Project Aura concept. As highlighted by TechAvid, these glasses combine a lightweight design of",
+              "source": "Geeky Gadgets",
+              "url": "https://www.geeky-gadgets.com/xreal-air-xr-glasses-specs-price/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Fed’s Warsh Rocks Bond Market in Debut, Sparks Surge in Rate-Hike Bets",
+              "summary": "It didn’t take Kevin Warsh long to get the bond market’s attention.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/feds-warsh-rocks-bond-market-in-debut-sparks-surge-in-rate-hike-bets",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic Used Cursor Use Data to Get Ahead, So SpaceXAI Will Use Cursor to Get Ahead",
+              "summary": "Insider Jason Calcanis said Anthropic stabbed Cursor in the back. Anthropic allegedly used massive Cursor user data/token consumption to train and improve their own internal coding capabilities (Claud",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/06/anthropic-used-cursor-use-data-to-get-ahead-so-spacexai-will-use-cursor-to-get-ahead.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Thursday's schedule: Copa second round starts with four matches",
+              "summary": "WORLD CUP1:00 PM - Czechia vs South Africa - YouTube (CazéTV) 4:00 PM - Switzerland vs Bosnia - Globo, SBT, SporTV, NSports, Globoplay (GE TV) and YT (CazéTV) 7:00 PM - Canada vs Qatar - YouTube (Ca..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/thursdays-schedule-copa-second-round-starts-with-four-matches-43024372",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Robo.ai announces proposed acquisition of QC Capital, an AI-Driven technology holding and venture-building platform",
+              "summary": "ABU DHABI, UAE, June 18, 2026 /PRNewswire/ -- Robo.ai Inc. (NASDAQ: AIIO), a Nasdaq-listed UAE-based company, announced today that it has entered into an agreement to acquire 100% of the equity intere",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/roboai-announces-proposed-acquisition-of-qc-capital-an-ai-driven-technology-holding-and-venture-building-platform-302804037.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NVIDIA vs SpaceX Stock: Evaluating Top Tech Plays for Investors in 2026",
+              "summary": "Investors weigh NVIDIA's AI leadership against SpaceX's space ambitions, assessing risk-reward profiles in a market driven by transformative technologies. Both companies offer unique growth opportunit",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/nvidia-vs-spacex-investment-showdown-1870812",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "RIL AGM 2026: Jio IPO and 4 other big bets Mukesh Ambani could unveil this Friday",
+              "summary": "Reliance Industries Chairman Mukesh Ambani is set to reveal major plans at the 49th annual general meeting. Investors anticipate updates on the Jio IPO, a significant $110 billion AI and data center b",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-jio-ipo-and-4-other-big-bets-mukesh-ambani-could-unveil-this-friday/articleshow/131819216.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rights Groups Sound Alarm Over Military AI Use, Citing Gaza Genocide",
+              "summary": "Rights groups and tech activists issued a joint statement on Tuesday, June 16, calling for a halt to the use of artificial intelligence (AI) in military operations, specifically citing Israel’s operat",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-06-18-rights-groups-sound-alarm-military-ai-use.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
+          "summary": ""
+        },
+        {
+          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
+          "summary": ""
+        },
+        {
+          "topic": "7 Ways Businesses Are Using Crypto Swap APIs: Real-world case studies show how the best crypto swap ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8edd4549",
       "date": "2026-06-17",
       "generated_at": "2026-06-17T14:08:33.824899+08:00",
@@ -2870,206 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b1add656",
-      "date": "2026-05-19",
-      "generated_at": "2026-05-19T12:58:39.771894+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "New sell-off in markets after Trump’s threats toward Iran: Asian markets fall, oil rises, fears over inflation and pressure on stocks and bonds",
-              "summary": "Brent crude rose nearly 2% and surpassed $111 per barrel, while a new global bond market sell-off pushed the 30-year U.S. Treasury yield to a three-year high and Japan’s 30-year bond yield to a record",
-              "source": "Protothema.gr",
-              "url": "https://en.protothema.gr/2026/05/18/new-sell-off-in-markets-after-trumps-threats-toward-iran-asian-markets-fall-oil-rises-fears-over-inflation-and-pressure-on-stocks-and-bonds/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Checks in 90 countries on deposits, POS systems, real estate, social media, and assets by the AADE for Greek tax evasion",
-              "summary": "The AADE is activating an unprecedented system of electronic cross-checks and “smart” audits using artificial intelligence and big data for 2026.\nThe post Checks in 90 countries on deposits, POS syste",
-              "source": "Protothema.gr",
-              "url": "https://en.protothema.gr/2026/05/18/checks-in-90-countries-on-deposits-pos-systems-real-estate-social-media-and-assets-by-the-aade-for-greek-tax-evasion/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "As AI redraws chip industry, TSMC faces its first real rivals",
-              "summary": "The global map of semiconductor manufacturing is beginning to shift. For years, the market for advanced chip production was dominated almost entirely by TSMC. But the rise of artificial intelligence (",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260518PD213/tsmc-intel-samsung-ic-manufacturing-production.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Asian shares slip and oil prices gain as Iran talks stall",
-              "summary": "Wall Street pointed toward losses before markets opened and oil prices bounced up and down after U.S. President Donald Trump warned Tehran that the “clock is ticking” as U.S.-Iran negotiations over a ",
-              "source": "Associated Press",
-              "url": "https://apnews.com/article/stocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Canada’s ‘doors are open’ for Irish and European businesses, entrepreneurs told",
-              "summary": "Irish entrepreneurs visit Toronto at pivotal moment, as part of EY Entrepreneur of the Year awards programme",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/05/18/canadas-doors-are-open-for-irish-and-european-businesses-entrepreneurs-told/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Hologic stock (US4364401012): earnings momentum and women’s health focus draw investor attention",
-              "summary": "Hologic stock (US4364401012): earnings momentum and women’s health focus draw investor attentionad-hoc-news.de",
-              "source": "Ad-hoc-news.de",
-              "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/hologic-stock-us4364401012-earnings-momentum-and-women-s-health-focus/69362645",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nick Clegg-backed company using AI to fill global education gaps",
-              "summary": "Backed by former UK deputy prime minister Nick Clegg, Efekta is rolling out AI language lessons to state schools around the world",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366643090/Nick-Clegg-backed-company-using-AI-to-fill-global-education-gaps",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Softweb is evolving into a Digital Eco symmetry Group",
-              "summary": "Softweb outlined its transformation into a group structure through targeted acquisitions during a presentation to the Hellenic Fund and Asset Management Association, emphasizing that 2025 marked a sca",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2111491/softweb-is-evolving-into-a-digital-eco-symmetry-group/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Coming up next, the AI political candidate?: The logical terminus of Vijay’s campaign journey: The k",
-          "summary": ""
-        },
-        {
-          "topic": "The Difference Between Popularity and Authority Online: The internet has changed the way people disc",
-          "summary": ""
-        },
-        {
-          "topic": "'Equal Opportunity. Not Equal Outcomes.' Anthony Scaramucci Says People Who Work Harder Deserve More",
-          "summary": ""
-        }
-      ]
-    },
-    {
-      "id": "954db051",
-      "date": "2026-05-18",
-      "generated_at": "2026-05-18T13:04:54.051401+08:00",
-      "headline": "今日 AI 新闻速览（46 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it | iNFOnews.ca",
-              "summary": "CANNES, France (AP) — The day John Lennon was shot, on Dec. 8, 1980, he and Yoko Ono gave an interview to a San Francisco radio crew from their home in New",
-              "source": "Infonews.ca",
-              "url": "https://infonews.ca/news/7647540/steven-soderbergh-used-ai-in-a-documentary-about-john-lennon-and-he-wants-to-talk-about-it/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
-              "summary": "The artificial intelligence boom is leading to fights in some states over growing utility profits",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/US/wireStory/electric-bills-rise-states-focusing-growing-profits-utilities-133044569",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "GameRefine",
-              "summary": "GameRefine is an AI-powered tennis analytics application designed to enhance player performance through data-driven insights. It provides real-time match tracking,...",
-              "source": "Giveawayoftheday.com",
-              "url": "https://iphone.giveawayoftheday.com/gamerefine/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta layoffs trigger panic as employees stuff bags with free snacks, drinks and chargers, says ex-employee",
-              "summary": "A former Meta employee shared a chilling account of the company's atmosphere before significant job cuts. Workers reportedly took free snacks and chargers, viewing the eve of layoffs as 'doomsday'. Th",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/meta-layoffs-trigger-panic-as-employees-stuff-bags-with-free-snacks-drinks-and-chargers-says-ex-employee/articleshow/131148927.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "America's Medicine Supply Chain Is A National Security Vulnerability",
-              "summary": "The Chinese government is tightening the screws on American investment in its artificial intelligence sector. The core purpose is to keep U.S. capital out of technologies it deems “strategically sensi",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-news/4379637/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why patience, value and mean reversion could define the next market cycle",
-              "summary": "As global markets grapple with high valuations, geopolitical risks and AI-driven exuberance, investors are revisiting time-tested strategies like value investing and mean reversion. Tobias Carlisle’s ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-patience-value-and-mean-reversion-could-define-the-next-market-cycle/articleshow/131148611.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Will Nifty, Sensex extend losses on Monday? These 5 factors will drive D-Street action this week",
-              "summary": "Indian markets ended the week sharply lower amid a record rupee slide, surging oil prices and weak global cues. Investors remain cautious as geopolitical tensions, rising US bond yields and foreign ou",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/will-nifty-sensex-extend-losses-on-monday-these-5-factors-will-drive-d-street-action-this-week/articleshow/131148529.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "'Fuel scarcity' hits livelihood in Odisha, govt assures people of situation normalisation by Monday",
-              "summary": "Odisha faces fuel scarcity, impacting daily wage earners and transport operators. The state government attributes the situation to panic buying and supply chain disruptions. Officials assure normalcy ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/fuel-scarcity-hits-livelihood-in-odisha-govt-assures-people-of-situation-normalisation-by-monday/articleshow/131148524.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "'Equal Opportunity. Not Equal Outcomes.' Anthony Scaramucci Says People Who Work Harder Deserve More",
-          "summary": ""
-        },
-        {
-          "topic": "Nvidia Overtakes Silver To Become World's Second-Largest Asset At $5.52 Trillion, Market Commentator",
-          "summary": ""
-        },
-        {
-          "topic": "Personal Brand Building Without Feeling Fake or Forced: Be You, Rule the Room: The phrase personal b",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-17T14:08:33.824899+08:00",
-  "total_days": 31
+  "last_updated": "2026-06-19T14:16:30.865311+08:00",
+  "total_days": 30
 }
