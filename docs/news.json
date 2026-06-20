@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c865d7ea",
+      "date": "2026-06-20",
+      "generated_at": "2026-06-20T13:11:14.480735+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI is coming for your job, but what If it also paid you $60,000 a year?",
+              "summary": "Imagine losing your job to artificial intelligence, and still taking home upwards of $60,000 a year. That is the core promise of Universal High Income, a concept gaining serious traction among AI thin",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/wealth/earn/ai-is-coming-for-your-job-but-what-if-it-also-paid-you-60000-a-year/what-happens-when-ai-takes-your-job-but-still-pays-your-bills/slideshow/131847499.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SK Hynix shares gain 7% as AI chip demand sends stock to record high",
+              "summary": "SK Hynix's stock surge highlights the transformative impact of AI demand on the semiconductor industry, reshaping market dynamics globally.\nThe post SK Hynix shares gain 7% as AI chip demand sends sto",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/sk-hynix-shares-gain-7-percent-ai-demand/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Reality Check: What triggered Accenture's historic stock plunge",
+              "summary": "Accenture witnessed one of the sharpest declines in its history after reporting its third-quarter FY26 results. While the company remains optimistic about the long-term opportunity in artificial intel",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/reality-check-what-triggered-accentures-historic-stock-plunge/accentures-biggest-ever-stock-crash/slideshow/131847579.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UP Government and The Goat Trust Sign MoU to Boost Income for Small Livestock Farmers — TrendKia",
+              "summary": "The Animal Husbandry Department of Uttar Pradesh has signed a Memorandum of Understanding (MoU) with The Goat Trust to empower the livelihoods of small livestock farmers in the state. This partnership",
+              "source": "Trendkia.com",
+              "url": "https://trendkia.com/en/business/up-government-and-the-goat-trust-sign-mou-to-boost-income-for-small-livestock-fa-1701",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Mexico being Mexico: El Tri sparks street-wide celebrations",
+              "summary": "Winning a group-stage match and celebrating as if we had the Cup in our hands, that’s Mexico. Mexico’s national team took care of business, mathematically secured its ticket to the next round of t...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/mexico-being-mexico-el-tri-sparks-street-wide-celebrations-43029353",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta Lobbies Congress for Protection From Child-Harm Lawsuits: Reuters",
+              "summary": "Meta Platforms has lobbied the U.S. Congress for legal immunity from child-harm claims tied to social media products such as Instagram, as it faces thousands of lawsuits from young users and their fam",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/06/19/874479.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Look under the hood. There are ‘echoes of 2006′ in the Irish economy",
+              "summary": "Trump says Iran peace deal has averted ‘worldwide depression’ but closer to home experts worry prices will continue to rise regardless",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/06/19/look-under-the-hood-and-there-are-echoes-of-2006-about-true-health-of-irish-economy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "America Needs a More Thoughtful Energy Conversation",
+              "summary": "What we need is a clear strategy for meeting rising energy demand while staying competitive in industries that will shape the future economy. That not only requires serious policy discussions but it a",
+              "source": "Wattsupwiththat.com",
+              "url": "https://wattsupwiththat.com/2026/06/18/america-needs-a-more-thoughtful-energy-conversation/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
+          "summary": ""
+        },
+        {
+          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
+          "summary": ""
+        },
+        {
+          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "51aa0368",
       "date": "2026-06-19",
       "generated_at": "2026-06-19T14:16:30.865311+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9891a1e6",
-      "date": "2026-05-20",
-      "generated_at": "2026-05-20T13:02:54.608090+08:00",
-      "headline": "今日 AI 新闻速览（57 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Anthropic CEO Dario Amodei warns of \"serious employment crisis\" as AI set to replace entry-level jobs",
-              "summary": "CEO of the AI company Anthropic, Dario Amodei, warned that rapid advances in artificial intelligence (AI) could trigger a \"serious employment crisis\" by replacing large numbers of entry-level white-co",
-              "source": "ANI News",
-              "url": "https://www.aninews.in/news/business/anthropic-ceo-dario-amodei-warns-of-serious-employment-crisis-as-ai-set-to-replace-entry-level-jobs20260519102246",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kraken Slashes 150 Roles While Ramping Up AI Efficiency Measures",
-              "summary": "Kraken’s plan to go public in the US may have to wait until 2027. The crypto exchange, formally known as Payward, laid off about 150 workers last week, a move that has pushed back its initial public o",
-              "source": "Bitcoinist",
-              "url": "https://bitcoinist.com/kraken-slashes-150-roles-while-ramping-up-ai-efficiency-measures/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘I liken it a little to doping in sport’: Is use of AI in classrooms a help or hindrance?",
-              "summary": "Artificial intelligence has been compared to the ‘wild west’, and teachers say they need proper guidance",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/education/2026/05/19/i-liken-it-a-little-to-doping-in-sport-is-use-of-ai-in-classrooms-a-help-or-hindrance/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Will the AI ‘jobs apocalypse’ cloud have a silver lining?",
-              "summary": "People-skills appear to be increasing in value in a chatbot-filled world",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/05/19/will-the-ai-jobs-apocalypse-have-a-silver-lining/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta lays out details of May 20 restructuring in internal document",
-              "summary": "Meta Chief People Officer ‌Janelle Gale told employees the company plans to move 7,000 employees to new initiatives related to AI workflows and to eliminate managerial roles",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/meta-lays-out-details-of-may-20-restructuring-in-internal-document/article70996551.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How the digital sector can add 12-23 billion euros to Greek economy by 2035",
-              "summary": "The technology sector could add between 12-23 billion euros to the Greek economy by 2035, boosting the country’s much-needed productivity index and narrowing the gap with the EU.\nThe “magic…\nHow the d",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2111997/how-the-digital-sector-can-add-12-23-billion-euros-to-greek-economy-by-2035/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Brain alignment of reasoning and action representations from vision-language and action models during naturalistic gameplay",
-              "summary": "Understanding how humans and artificial intelligence systems predict and plan by interacting with their environment is a fundamental challenge at the intersection of neuroscience and machine learning.",
-              "source": "Arxiv.org",
-              "url": "https://arxiv.org/abs/2605.19352",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
-              "summary": "OpenAI has won its legal battle with Elon Musk. This victory paves the way for a massive stock market debut. The trial revealed internal conflicts among tech leaders shaping artificial intelligence. I",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/openai-avoided-a-costly-court-loss-to-elon-musk-but-neither-side-is-unscathed/articleshow/131190530.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Elon Musk Says Trump Account Contributions Are 'Nice Gesture' But Unnecessary — 'There Will Be No Po",
-          "summary": ""
-        },
-        {
-          "topic": "Coming up next, the AI political candidate?: The logical terminus of Vijay’s campaign journey: The k",
-          "summary": ""
-        },
-        {
-          "topic": "The Difference Between Popularity and Authority Online: The internet has changed the way people disc",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-19T14:16:30.865311+08:00",
+  "last_updated": "2026-06-20T13:11:14.480735+08:00",
   "total_days": 30
 }
