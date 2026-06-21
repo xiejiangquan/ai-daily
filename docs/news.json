@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4fc652be",
+      "date": "2026-06-21",
+      "generated_at": "2026-06-21T13:58:34.920698+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " 2026 World Cup, overnight round-up",
+              "summary": "Every morning, OneFootball will bring you a full recap of the night at the World Cup. And as you’ll see, it was a busy night!The night’s must-see momentsThis is obviously one of the main stories o...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/2026-world-cup-overnight-round-up-43033880",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles",
+              "summary": "An atlas of the vibrance of the real world",
+              "source": "Wordpress.com",
+              "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " World Cup highlights: Brazil joy as stars shine, USA and Morocco strong",
+              "summary": "With a jam-packed schedule, the World Cup got the weekend underway. On Friday evening, the USA celebrated a 2-0 win over Australia in an intensely contested match.At midnight, it was then Morocco and ",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/world-cup-highlights-brazil-joy-as-stars-shine-usa-and-morocco-strong-43033849",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ancelotti praises Cunha and Vini, highlights Brazil progress v Haiti",
+              "summary": "Carlo Ancelotti during the Seleção’s 3-0 win over Haiti, in the second World Cup match. A follow-up assessmentCredits: Rafael Ribeiro/CBFCarlo Ancelotti praised the performances of Vinicius Jr. an...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/ancelotti-praises-cunha-and-vini-highlights-brazil-progress-v-haiti-43033831",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Turkey knocked out of the World Cup!",
+              "summary": "It's the fiasco of the year!A thunderbolt at the World Cup: Turkey has been eliminated from the World Cup after a dismal defeat to Paraguay (0-1).Caught cold by a goal from Matias Galarza after 64 sec",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/turkey-knocked-out-of-the-world-cup-43033756",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "'Alter-Ego': An Italian hospital's little robot carer",
+              "summary": "A robot with expressive eyebrows that is designed to perform basic tasks to free up healthcare workers is being given a trial run by a hospital in Milan.",
+              "source": "RTE",
+              "url": "https://www.rte.ie/news/newslens/2026/0620/1579279-milan-hospital-robot/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Miriam Lord’s Week: Let he who is without Sim cast the first phone",
+              "summary": "Taoiseach’s cranky inner teacher comes out as he sees TDs not paying attention in class",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/06/20/miriam-lords-week-let-he-who-is-without-sim-cast-the-first-phone/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Matheus Cunha celebrates first World Cup goals",
+              "summary": "Matheus Cunha scored twice in Brazil’s 3-0 win over Haiti in Philadelphia in the second round of the World CupCredits: Rafael Ribeiro/CBFMatheus Cunha celebrated his first-ever World Cup goals, scor..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/matheus-cunha-celebrates-his-first-world-cup-goals-43033699",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
+          "summary": ""
+        },
+        {
+          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
+          "summary": ""
+        },
+        {
+          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c865d7ea",
       "date": "2026-06-20",
       "generated_at": "2026-06-20T13:11:14.480735+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f4b80188",
-      "date": "2026-05-21",
-      "generated_at": "2026-05-21T13:07:56.660304+08:00",
-      "headline": "今日 AI 新闻速览（57 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Global Long Bond Yields Climb to Highest in Almost Two Decades",
-              "summary": "The selloff in longer-maturity government bonds has pushed up yields to levels last seen during the global financial crisis, and strategists are warning the losses have room to run.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/global-long-bond-yields-climb-to-highest-in-almost-two-decades",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: U.N. cuts global growth forecast as Middle East crisis fuels inflation risks",
-              "summary": "The UN has lowered its global growth forecast to 2.5% for 2026, warning that Middle East tensions are fueling inflation, disrupting supply chains, and weighing on economic activity worldwide. Inflatio",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-u-n-cuts-global-growth-forecast-as-middle-east-crisis-fuels-inflation-risks/articleshow/131216969.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "7 hard truths security pros should know: 2026 DevOps Threats Report",
-              "summary": "In 2025, trusted Git hosting platforms became a playground for cyber criminals. This is the main conclusion from the latest “DevOps Threat Unwrapped Report 2026” by GitProtect. If you want to effectiv",
-              "source": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/05/20/hard-truths-from-2026-devops-threats-report/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "geoai-py 0.39.0",
-              "summary": "A Python package for using Artificial Intelligence (AI) with geospatial data",
-              "source": "Pypi.org",
-              "url": "https://pypi.org/project/geoai-py/0.39.0/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UBS sees mixed outlook for Indian IT sector, mid-tier firms outperform large caps amid AI shift",
-              "summary": "Indian IT firms saw varied results in the last quarter. Mid-tier companies performed better than large ones. Artificial intelligence is changing how clients spend money. Some big companies like Infosy",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/information-tech/ubs-sees-mixed-outlook-for-indian-it-sector-mid-tier-firms-outperform-large-caps-amid-ai-shift/articleshow/131216756.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Avoid expensive AI agents with these five design imperatives",
-              "summary": "Dell Technologies’ chief operating officer Jeff Clarke offers a blueprint for the AI-native enterprise, warning that failing to integrate data and control tokenomics will result in high cloud bills an",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366643493/Avoid-expensive-AI-agents-with-these-five-design-imperatives",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Singapore urges financial firms to use AI to create better jobs",
-              "summary": "Singapore's Deputy Prime Minister Gan Kim Yong is encouraging banks and financial companies to leverage artificial intelligence. The focus should be on creating better jobs and training workers for ad",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs/articleshow/131216522.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " The maddest moments in the Copa Sudamericana",
-              "summary": "The Copa Sudamericana was also in action today, and these were the best moments from a crazy Tuesday. The STRANGEST moment!This mistake has no name... Deportivo Riestra goalkeeper Ignacio Arce conced.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/the-maddest-moments-in-the-copa-sudamericana-42894242",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Overhead Cranes Market is Expected to be Valued at $76 Billion by 2032; All-in-One Solution: Rising ",
-          "summary": ""
-        },
-        {
-          "topic": "'This Is How America Wins': Mike Novogratz Calls On The Senate To 'Pass The Clarity Act': The U.S. h",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says Trump Account Contributions Are 'Nice Gesture' But Unnecessary — 'There Will Be No Po",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-20T13:11:14.480735+08:00",
+  "last_updated": "2026-06-21T13:58:34.920698+08:00",
   "total_days": 30
 }
