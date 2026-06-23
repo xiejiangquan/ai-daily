@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4054e0b3",
+      "date": "2026-06-23",
+      "generated_at": "2026-06-23T12:58:16.258123+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI-Powered Architecture Compliance Validation in .NET Applications",
+              "summary": "Leverage AI for automated architecture compliance validation in .NET apps, ensuring consistency, scalability, and security. Detect violations early.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-powered-architecture-compliance-validation-in-net-applications/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Designing Enterprise AI Recovery Strategies for Critical Business Systems",
+              "summary": "Design robust AI recovery strategies for critical systems. Protect models, data, and workflows for business continuity with .NET.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/designing-enterprise-ai-recovery-strategies-for-critical-business-systems/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Building AI-Powered Engineering Standards Assistants Using Blazor",
+              "summary": "Build AI-powered engineering standards assistants with Blazor & ASP.NET Core for instant guidance, improved productivity, and consistent application of guidelines.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-engineering-standards-assistants-using-blazor/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Context Versioning: Managing Evolving Business Knowledge",
+              "summary": "Manage evolving business knowledge for AI. AI Context Versioning ensures accuracy, auditability, and consistency for intelligent systems.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-context-versioning-managing-evolving-business-knowledge/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Implementing AI-Based Capacity Planning for Cloud Applications",
+              "summary": "Leverage AI for cloud capacity planning. Forecast future resource needs, optimize performance, and reduce costs with intelligent scaling.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/implementing-ai-based-capacity-planning-for-cloud-applications/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Change Impact Analysis: Predicting Risk Before Software Releases",
+              "summary": "AI Change Impact Analysis predicts software release risks by analyzing code, dependencies, and historical data, improving reliability.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-change-impact-analysis-predicting-risk-before-software-releases/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Building AI-Powered Knowledge Validation Systems with .NET",
+              "summary": "Build AI-powered knowledge validation systems with .NET and ASP.NET Core to ensure accurate, consistent, and up-to-date organizational knowledge.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-knowledge-validation-systems-with-net/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Designing AI-Aware Database Architectures for Enterprise Applications",
+              "summary": "Design AI-aware database architectures for enterprise apps. Explore .NET strategies for semantic search, vector storage, and knowledge management.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/designing-ai-aware-database-architectures-for-enterprise-applications/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Zacxbt cracks top 0.23% on Kaito’s crypto mindshare leaderboard: Kaito's model reshapes crypto influ",
+          "summary": ""
+        },
+        {
+          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
+          "summary": ""
+        },
+        {
+          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "735d4913",
       "date": "2026-06-22",
       "generated_at": "2026-06-22T14:27:19.892629+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3bd7faa6",
-      "date": "2026-05-23",
-      "generated_at": "2026-05-23T12:38:22.984289+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " The very best of Thursday's Copa Libertadores",
-              "summary": "Matchday 5 of the Copa Libertadores comes to an end, and we wrap up the action with the biggest highlights from this Thursday. A work of artIndependiente Rivadavia secured top spot in Group C of the .",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/the-very-best-of-thursdays-copa-libertadores-42904753",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Magnificent Seven reports AI-driven earnings amid mounting market pressures",
-              "summary": "Investors face increased risk as AI-driven growth disparities among tech giants necessitate careful evaluation of individual company strategies.\nThe post Magnificent Seven reports AI-driven earnings a",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/magnificent-seven-ai-earnings-market-pressures/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "WPG Holdings flags server supply gaps amid memory price hikes, 800V shift",
-              "summary": "Amid the continued crowding-out effect of artificial intelligence (AI) demand, IC distributor WPG Holdings said memory shortages and rising prices are weakening end-product sales momentum, and forecas",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260520PD241/wpg-price-demand-revenue-growth.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
-              "summary": "President Trump halted an AI executive order. He feared it would slow America's technological progress. The order aimed to review AI's national security risks. This move comes amid concerns about AI's",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-calls-off-ai-executive-order-over-concern-it-could-weaken-us-tech-edge/articleshow/131256168.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Holy Mackerel! AI Helps Kura Sushi Cut Costs",
-              "summary": "Kura Sushi has begun strengthening its domestic aquaculture operations as surging prices for imported mackerel place increasing pressure on procurement costs, turning to artificial intelligence in an ",
-              "source": "Newsonjapan.com",
-              "url": "https://newsonjapan.com/article/149332.php",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Armando González discusses his departure from Chivas",
-              "summary": "Armando González and the great moment he is experiencing at Chivas have put him on the media’s radar, given the recent reports about a possible departure from the Guadalajara side. And today, spea...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/armando-gonzalez-discusses-his-departure-from-chivas-42904709",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How the West Misreads Modi’s Success",
-              "summary": "India may be less liberal now, but it remains democratic.",
-              "source": "Foreign Policy",
-              "url": "http://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "EXCLUSIVE: ANDAM Awards Innovation Prize to AI-powered Data Analytics Platform Alphalyr",
-              "summary": "Biobased dye and pigment producer Pili was awarded a special prize and 10 finalists are invited to present their technology during the Inno-Tech edition of the Première Vision trade show in September.",
-              "source": "WWD",
-              "url": "http://wwd.com/business-news/technology/andam-awards-innovation-prize-alphalyr-ai-data-analytics-1238976748/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "A complete guide to social media content batching in 2026: Whether you’re managing social media mark",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Releases April Performance Report: Futures Trading Volume Nears $100 Billion, HTX Earn Strengthe",
-          "summary": ""
-        },
-        {
-          "topic": "Best AI search analytics tools for marketing teams: I’ve spent the last year watching marketing team",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-22T14:27:19.892629+08:00",
+  "last_updated": "2026-06-23T12:58:16.258123+08:00",
   "total_days": 30
 }
