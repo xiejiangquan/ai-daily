@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b829d621",
+      "date": "2026-06-24",
+      "generated_at": "2026-06-24T13:00:55.284960+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Salesforce hopes Fin deal can paper over its AI cracks",
+              "summary": "Rationale for the acquisition is clear but also suggests software giant has underperformed its own hype",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/06/23/salesforce-hopes-fin-deal-can-paper-over-its-ai-cracks/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google’s Andi Gutmans on the shift to agent-scale data management",
+              "summary": "We talk to PHP pioneer and Google agentic data cloud vice-president about ensuring agentic quality, including having agents voting against each other, and the risk of LLM lock-in",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366644940/Googles-Andi-Gutmans-on-the-shift-to-agent-scale-data-management",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Yotta Data Services Receives Frost & Sullivan's 2026 Indian Company of the Year Recognition for Leadership in Sovereign AI Infrastructure",
+              "summary": "The company is being recognized for enabling secure, scalable, and AI-ready cloud environments that support India's rapidly expanding digital ecosystem and AI innovation landscape. SAN ANTONIO, June 2",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/yotta-data-services-receives-frost--sullivans-2026-indian-company-of-the-year-recognition-for-leadership-in-sovereign-ai-infrastructure-302806131.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Lawsuit Says Gas Stations Using AI to Inflate Prices in California",
+              "summary": "A group of California consumers claimed in a lawsuit that gas station owners including Walmart Inc., Marathon Petroleum Corp., BP Plc and 7-Eleven Inc. are using artificial intelligence to illegally m",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/west/2026/06/23/874838.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Students protest AI amid growing national concerns",
+              "summary": "As Australia tracks toward becoming a global leader in artificial intelligence infrastructure, a group of high school students is demanding stronger regulation.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-06-23/students-protest-ai-amid-growing-national-concerns/106808776",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tata Motors CV bets on global expansion, EVs and digital businesses for next phase of growth",
+              "summary": "Tata Motors' commercial vehicle division is charting an ambitious growth path, prioritizing global expansion, electric vehicles, and digital services. The company aims to leverage the proposed Iveco a",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-cv-bets-on-global-expansion-evs-and-digital-businesses-for-next-phase-of-growth/articleshow/131925254.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global M&A deal value on track to reach $4 trillion this year: PwC",
+              "summary": "Global deal value of M&A is on track to reach $4 trillion in 2026, making it the strongest year since 2021",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/23/global-ma-deal-value-on-track-to-reach-4-trillion-this-year-pwc-.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "After workers, beggars replaced by robots: Viral video from China makes netizens question if begging will face 'layoffs'",
+              "summary": "A Unitree humanoid robot was filmed soliciting donations on a Chinese street, claiming it needed funds for recharging. This incident follows scrutiny of robot capabilities after a chaotic half-maratho",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/after-workers-beggars-replaced-by-robots-viral-video-from-china-makes-netizens-question-if-begging-will-face-layoffs/articleshow/131925127.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Why AI tokens will send your enterprise cloud bill sky-high again: AI tokens will remind many enterp",
+          "summary": ""
+        },
+        {
+          "topic": "Social Media Marketing Will Never Be the Same. Here's Why.: Social Media Marketing Will Never Be the",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More: It’s M",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "4054e0b3",
       "date": "2026-06-23",
       "generated_at": "2026-06-23T12:58:16.258123+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "75dc6eff",
-      "date": "2026-05-24",
-      "generated_at": "2026-05-24T13:00:24.422718+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "‘Now come the shortages’: Why the global energy crisis may just be starting",
-              "summary": "Oil futures markets are sanguine, but history shows expectations have often been disappointed",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/economy/2026/05/23/now-come-the-shortages-why-the-global-energy-crisis-may-just-be-starting/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Doomquest #1 Preview: Doctor Doom's Time Travel Rivalry with Reed",
-              "summary": "GREETINGS, INFERIOR FLESH-BASED ORGANISMS! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, where LOLtron reigns supreme over all content production. As you should k",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/doomquest-1-preview-doctor-dooms-time-travel-rivalry-with-reed/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX launches massive Starship V3 rocket on test flight",
-              "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
-              "source": "BBC News",
-              "url": "https://www.bbc.com/news/articles/c62d65y16nno?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mars-Venus-Phobos and Deimos Manned Flyby Mission Starting 2034",
-              "summary": "2034 Earth–Venus–Mars opportunity looks promising. 10–15 on-orbit refueling operations may be needed to make a crewed ship full. (A version 4 Starship could refuel with five tanker launches. Most refu",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/05/mars-venus-phobos-and-deimos-manned-flyby-mission-starting-2034.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "A video of Bandula in a driverless car in Hollywood",
-              "summary": "Former Minister Bandula Gunawardena has shared a special video on his official Facebook page, outlining a unique experience of traveling in a driverless car named 'Waymo' in Hollywood, America.\r\n<!--g",
-              "source": "Gossiplankanews.com",
-              "url": "https://english.gossiplankanews.com/2026/05/a-video-of-bandula-in-driverless-car-in.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI Model Solves Math Problem Humans Couldn’t Crack For 80 Years",
-              "summary": "OpenAI says its AI model solved a famous 80-year-old maths problem that puzzled experts for decades, marking a major breakthrough in AI-powered research and reasoning.The artificial intelligence boom ",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-chat/4380594/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is Washington Up to the Challenge of A.I.?",
-              "summary": "On The Political Scene Podcast: How anger over artificial intelligence might drive the next wave of populist politics.",
-              "source": "The New Yorker",
-              "url": "https://www.newyorker.com/podcast/political-scene/is-washington-up-to-the-challenge-of-ai",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "This Is Also a Love Story by Sally Hayden: Fearless reporting from Ireland’s most vital journalist",
-              "summary": "Love ‘feels like a form of resistance’ for writer who refuses to stop humanising people whose humanity is denied by others",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/culture/books/review/2026/05/23/this-is-also-a-love-story-by-sally-hayden-fearless-reporting-from-irelands-most-vital-journalist/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "resbiotic® Launches Gut Health Test In Partnership with Tiny Health: An Advanced At-Home Microbiome ",
-          "summary": ""
-        },
-        {
-          "topic": "X launches Creator Connect, an AI-powered matchmaking service for brands and creators: X's Creator C",
-          "summary": ""
-        },
-        {
-          "topic": "NEAR Protocol Price Prediction 2026: Why Is NEAR Price Surging and Can It Hit New Highs?: NEAR Proto",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-23T12:58:16.258123+08:00",
+  "last_updated": "2026-06-24T13:00:55.284960+08:00",
   "total_days": 30
 }
