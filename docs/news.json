@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e9b4f0e5",
+      "date": "2026-06-25",
+      "generated_at": "2026-06-25T13:03:27.298357+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "BRIN champions AI, digital tech to curb emissions from agriculture",
+              "summary": "The National Research and Innovation Agency (BRIN) is pushing for artificial intelligence (AI) and digital technology adoption in the agricultural sector to ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/420215/brin-champions-ai-digital-tech-to-curb-emissions-from-agriculture",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘I relax when I see a player go flat out’: Fifa signs Dundalk grass expert for World Cup",
+              "summary": "reg Whately has used his horticultural expertise to make sure pitch in Boston is optimal for football",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/sport/soccer/2026/06/24/i-relax-when-i-see-a-player-go-flat-out-fifa-signs-dundalk-grass-expert-for-world-cup/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Andy Burnham will have to be brave if he wants to get Britain’s economy growing again",
+              "summary": "But UK politics is hostile to making tough and necessary choices",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/economy/2026/06/24/andy-burnham-will-have-to-be-brave-if-he-wants-to-get-britains-economy-growing-again/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "WISeKey and Its Subsidiary WISeSat.Space Corp. Announce Filing of Registration Statement on Form F-4 with the U.S. Securities and Exchange Commission",
+              "summary": "WISeKey and Its Subsidiary WISeSat.Space Corp. Announce Filing of Registration Statement on Form F-4 with the U.S. Securities and Exchange Commission ...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/24/3316580/0/en/WISeKey-and-Its-Subsidiary-WISeSat-Space-Corp-Announce-Filing-of-Registration-Statement-on-Form-F-4-with-the-U-S-Securities-and-Exchange-Commission.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Workplace trends 2026: Office-based positions receiving 40% fewer applications than hybrid roles, says recruiter",
+              "summary": "Candidates are evaluating employers just as carefully as employers are evaluating them, says Matrix Recruitment",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/work/2026/06/24/office-based-positions-receiving-40-fewer-applications-than-hybrid-roles-says-recruiter/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Infrastructure Partnership and Brookfield bid for Stack Infrastructure’s Asia-Pacific data centers",
+              "summary": "The potential $30B transaction could redefine APAC data center valuations, highlighting the region's growing strategic importance in AI infrastructure.\nThe post AI Infrastructure Partnership and Brook",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/aip-brookfield-bid-stack-infrastructure-apac-data-centers/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ramayana's Modern Bollywood Avatars",
+              "summary": "Long before Alpha, Bollywood had been retelling the Ramayana in modern settings, sometimes subtly and sometimes not so subtly.",
+              "source": "Rediff.com",
+              "url": "https://www.rediff.com/movies/special/from-tezaab-to-singham-again-10-hindi-films-inspired-by-the-ramayana/20260624.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SoftBank's Son says calling AI a bubble is 'blasphemy'",
+              "summary": "Founder abandons succession plan to chase artificial superintelligence",
+              "source": "Nikkei.com",
+              "url": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-calling-ai-a-bubble-is-blasphemy",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
+          "summary": ""
+        },
+        {
+          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
+          "summary": ""
+        },
+        {
+          "topic": "Hypershell AI Exoskeletons made us feel superhuman — models are up to $800 off for Prime Day: Ever w",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b829d621",
       "date": "2026-06-24",
       "generated_at": "2026-06-24T13:00:55.284960+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "e377df09",
-      "date": "2026-05-25",
-      "generated_at": "2026-05-25T13:17:58.864913+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Equity MFs gain over 5% last week with international funds leading. Check top 7 with over 3% return",
-              "summary": "Equity mutual funds delivered over 5% return in the last week with international funds leading the chart. Here are the top seven performers with over 3% gain in the said period . Weekly performers",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/mf/analysis/equity-mfs-gain-over-5-last-week-with-international-funds-leading-check-top-7-with-over-3-return/weekly-performers/slideshow/131289207.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ricelang added to PyPI",
-              "summary": "Language identification and tokenization for Southeast Asian languages (Burmese, Karen variants, Chin variants, Eastern Kayah, Shan, etc.) — also exposes a `ricelang` CLI",
-              "source": "Pypi.org",
-              "url": "https://pypi.org/project/ricelang/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China to send astronaut on year-long space mission",
-              "summary": "Shenzhou-23 vessel scheduled to launch Sunday as Beijing eyes crewed moon landing by 2030",
-              "source": "Nikkei.com",
-              "url": "https://asia.nikkei.com/business/aerospace-defense-industries/china-to-send-astronaut-on-year-long-space-mission",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bangladesh puts AI in driving seat to tackle terrible traffic",
-              "summary": "Bangladesh's densely populated capital, infamous for grinding gridlock, has launched its first AI-powered traffic enforcement system in a bid to bring order to one of the world's most congested cities",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-puts-ai-in-driving-seat-to-tackle-terrible-traffic/articleshow/131288636.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Robert Wright’s *The God Test*",
-              "summary": "The subtitle is Artificial Intelligence and Our Coming Cosmic Reckoning, due out June 23. In the first chapter, Wright summarizes four of his perspectives, these are my paraphrases of his pp.5-6: 1. W",
-              "source": "Marginalrevolution.com",
-              "url": "https://marginalrevolution.com/marginalrevolution/2026/05/robert-wrights-the-god-test.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
-              "summary": "The trial pitting Elon Musk against OpenAI CEO Sam Altman made clear the two billionaires agreed on one thing: building artificial intelligence would require significant resources — and enormous amoun",
-              "source": "seattlepi.com",
-              "url": "https://www.seattlepi.com/business/article/could-anything-but-profit-steer-ai-the-openai-22274191.php",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Protesters rally against planned AI data centres in Vancouver",
-              "summary": "Hundreds of people marched through Vancouver on Saturday to protest two planned AI data centres in the city, raising concerns about the amount of water and energy such facilities can use as the region",
-              "source": "CBC News",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/protest-against-ai-data-centres-in-vancouver-9.7210309",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump between a rock and a hard place",
-              "summary": "What outcome can save his presidency? Opinion.",
-              "source": "Israelnationalnews.com",
-              "url": "https://www.israelnationalnews.com/news/427489",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How Crypto Scams Spread Through Social Media (And How to Avoid Them): Cryptocurrency has transformed",
-          "summary": ""
-        },
-        {
-          "topic": "A New Food Inflation Shock May Be Coming— And Fertilizer Prices Are The Warning Sign: Market comment",
-          "summary": ""
-        },
-        {
-          "topic": "resbiotic® Launches Gut Health Test In Partnership with Tiny Health: An Advanced At-Home Microbiome ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-24T13:00:55.284960+08:00",
+  "last_updated": "2026-06-25T13:03:27.298357+08:00",
   "total_days": 30
 }
