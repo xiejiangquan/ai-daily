@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "bbcbc06c",
+      "date": "2026-06-26",
+      "generated_at": "2026-06-26T13:06:39.223779+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "EZR Spring/Summer 2027",
+              "summary": "EZR's SS27 collection explores the relationship between clothing and feeling, with each look functioning as a form of modern armour that reflects shifting emotional states.\nThe post EZR Spring/Summer ",
+              "source": "Fuckingyoung.es",
+              "url": "https://fuckingyoung.es/ezr-spring-summer-2027/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Acceleration of growth in the third quarter",
+              "summary": "Organic growth of 6.9%, driven by Public Cloud, which grew by more than 20%Strengthening AI Lab with Gladia and a preview of OVHai WorkspaceConfirmation of...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/25/3317268/0/en/Acceleration-of-growth-in-the-third-quarter.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "'Don't die in the meantime': Millionaire Bryan Johnson says some humans may live forever, shares three reasons why",
+              "summary": "Longevity advocate Bryan Johnson predicts a future where humans might live indefinitely, driven by rapid advancements in biotech and AI. He points to natural biological resets, AI's power in decipheri",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/dont-die-in-the-meantime-millionaire-bryan-johnson-says-some-humans-may-live-forever-shares-three-reasons-why/articleshow/131982790.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AMD vs. Marvell Technology: Which Will Be the Next Trillion-Dollar Stock?",
+              "summary": "Shares of Marvell Technology (NASDAQ: MRVL) have soared by almost 200% this year, as of this writing. The company received a major vote of confidence from one of the most authoritative voices in artif",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/8415f38bef4870d7",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+              "summary": "Legion LegalTech Corp, a legal tech firm based in the US, has initiated legal action against the federal government after a controversial directive mandated AI company Anthropic to restrict access to ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-top-tier-anthropic-models/articleshow/131982621.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Family businesses in Africa sustain growth despite uncertainty — PwC",
+              "summary": "By Peter Egwuatu & Providence Ayanfeoluwa Family businesses across Africa are recording strong growth and demonstrating resilience despite economic uncertainty, regulatory reforms and geopolitical pre",
+              "source": "Vanguard",
+              "url": "https://www.vanguardngr.com/2026/06/family-businesses-in-africa-sustain-growth-despite-uncertainty-pwc/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘Future is atoms, not bits’: Sridhar Vembu reveals where Zoho is betting its R&D dollars",
+              "summary": "Zoho founder Sridhar Vembu is championing a significant investment in research and development-led manufacturing, aligning with the view that future innovation spans both software and the physical eco",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/future-is-atoms-not-bits-sridhar-vembu-reveals-where-zoho-is-betting-its-rd-dollars/articleshow/131982552.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " 13 teams already through to the 2026 World Cup round of 32",
+              "summary": "With another matchday completed, it has been confirmed that 13 teams have already secured their place in the knockout stage.All three hosts have lived up to expectations, while powerhouses like Argent",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/13-teams-already-through-to-the-2026-world-cup-round-of-32-43054631",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Meta Just Made A $900 Million Bet On This Indian Fintech Firm And Tapped Its Founder To Lead WhatsAp",
+          "summary": ""
+        },
+        {
+          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
+          "summary": ""
+        },
+        {
+          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e9b4f0e5",
       "date": "2026-06-25",
       "generated_at": "2026-06-25T13:03:27.298357+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "66264dd6",
-      "date": "2026-05-26",
-      "generated_at": "2026-05-26T13:01:52.924225+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Pope Leo's first encyclical to focus on AI concerns",
-              "summary": "Pope Leo XIV's much anticipated first encyclical Magnifica Humanitas, or Magnificent Humanity, focusing on artificial intelligence is due to be published by the Vatican.",
-              "source": "RTE",
-              "url": "https://www.rte.ie/news/world/2026/0525/1575047-pope-artificial-intelligence/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Are there opportunities for students to explore entrepreneurship while studying?",
-              "summary": "Across Irish universities there is a growing focus on helping students test ideas, solve real-world problems and, in some cases, develop start-ups",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/education/2026/05/25/are-there-opportunities-for-students-to-explore-entrepreneurship-while-studying/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pope to launch encyclical on AI and 'protection of the person' alongside Anthropic co-founder",
-              "summary": "It’s the first time a pontiff will personally launch a papal encyclical.",
-              "source": "TheJournal.ie",
-              "url": "https://www.thejournal.ie/pope-leo-to-launch-encyclical-on-ai-alongside-anthropic-co-founder-7048404-May2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pilita Clark: Please stop talking about Gen Z in the office",
-              "summary": "Mindless generational labels don’t help at a time when the workplace is one of the few places where young and old mix",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/05/25/pilita-clark-please-stop-talking-about-gen-z-in-the-office/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Shelbourne Hotel’s GM: ‘I don’t think AI is going to impact the chef too much’",
-              "summary": "As the Shelbourne Hotel begins a €50m renovation, general manager JP Kavanagh explains why AI won’t replace the human touch to how it delivers its customer service",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/2026/05/25/shelbourne-hotel-gm-i-dont-think-ai-is-going-to-impact-the-chef-too-much/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "One job that is growing in the AI era? Cybersecurity experts",
-              "summary": "The hiring frenzy shows how AI can also help create some jobs, even amid dire warnings that the technology could replace vast parts of the workforce.",
-              "source": "The Indian Express",
-              "url": "https://indianexpress.com/article/technology/artificial-intelligence/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts-10706435/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Equity funds see first weekly outflow in nine weeks amid yield surge",
-              "summary": "Global equity funds recorded their first weekly outflow in nine weeks as rising inflation concerns and surging borrowing costs dented investor sentiment. While U.S. and Asian equity funds saw withdraw",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-equity-funds-see-first-weekly-outflow-in-nine-weeks-amid-yield-surge/articleshow/131301316.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The ‘Terminators’ are already here — sort of",
-              "summary": "“I don’t even know why the scientists make them.”",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/05/the_terminators_are_already_here_sort_of.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Are You Richer or Poorer Than Your Peers? Here's What the Average U.S. Household In Their 50s Has Sa",
-          "summary": ""
-        },
-        {
-          "topic": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cath",
-          "summary": ""
-        },
-        {
-          "topic": "How Crypto Scams Spread Through Social Media (And How to Avoid Them): Cryptocurrency has transformed",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-25T13:03:27.298357+08:00",
+  "last_updated": "2026-06-26T13:06:39.223779+08:00",
   "total_days": 30
 }
