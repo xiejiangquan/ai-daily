@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f681ce96",
+      "date": "2026-06-27",
+      "generated_at": "2026-06-27T12:51:47.230990+08:00",
+      "headline": "今日 AI 新闻速览（56 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Microsoft under pressure: Why analysts remain bullish despite the recent selloff",
+              "summary": "Microsoft shares have come under pressure following a price-target reduction by Stifel and renewed concerns over the cost of its aggressive AI investments. The stock has also been weighed down by anno",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/microsoft-under-pressure-why-analysts-remain-bullish-despite-the-recent-selloff/microsoft-faces-short-term-pressure/slideshow/132007495.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tuya Smart Co-Founder Alex Yang at Summer Davos 2026: The Future of AI Competition Lies in Real-World Applications",
+              "summary": "DALIAN, China, June 26, 2026 /PRNewswire/ -- The 17th Annual Meeting of the New Champions (AMNC, also known as \"Summer Davos\") of the World Economic Forum was held from June 23 to 25 at the Dalian Int",
+              "source": "PR Newswire UK",
+              "url": "https://www.prnewswire.co.uk/news-releases/tuya-smart-co-founder-alex-yang-at-summer-davos-2026-the-future-of-ai-competition-lies-in-real-world-applications-302811525.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Metropolitan Police chief warns against law updates amid substantial tech expansion",
+              "summary": "The Metropolitan Police is set to significantly expand its use of AI, drones and facial recognition in a bid to ‘regain the advantage’ over criminals, but commissioner Mark Rowley warns that progress ",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366645086/Metropolitan-Police-chief-warns-against-law-updates-amid-substantial-tech-expansion",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Asian shares sink, with Kospi down 7.5% and Nikkei shedding 4.4%",
+              "summary": "Shares have tumbled in Asia, led by heavy losses in Japan and South Korea as traders sold to lock in gains from recent rallies in stocks related to artificial intelligence. U.S. futures also declined,",
+              "source": "Associated Press",
+              "url": "https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gold, silver prices today, June 26: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+              "summary": "Gold and silver prices today, 26 June: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-june-26-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11782445239050.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "America’s data-centre backlash puts the AI boom at risk: Opposition is spreading across the country",
+              "summary": "FROM THE top of the slide, which curves into a little backyard pool, the view as recently as April would have been of lush Ohio farmland, dense forest and pretty clapboard houses. Now it is of six gia",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4385489/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Legal Tech Needs To Change Now",
+              "summary": "Legal technology is facing a existential crisis even as it flourishes",
+              "source": "Forbes",
+              "url": "https://www.forbes.com/sites/josephandrew/2026/06/26/legal-tech-needs-to-change-now/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is SpaceX Stock Still a Buy After Its Latest Tumble? Here's What the Numbers Show",
+              "summary": "SpaceX shares have dropped 31% since their IPO, sparking debate among investors about whether the stock is a buying opportunity or remains overvalued. Analysts highlight risks and potential growth are",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/spacex-stock-plummets-buying-opportunity-overvalued-risk-1871338",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Hey Meta, look: These ‘futuristic’ smart glasses just dropped to $60 for Prime Day: Don't be dumb. G",
+          "summary": ""
+        },
+        {
+          "topic": "Mark Cuban Says The Real Issue Isn’t Elon Musk Becoming A Trillionaire While Others Can’t Pay Bills ",
+          "summary": ""
+        },
+        {
+          "topic": "Tim Scott, Elizabeth Warren Score Senate Win On Biggest Housing Bill In 30 Years— But Will It Actual",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "bbcbc06c",
       "date": "2026-06-26",
       "generated_at": "2026-06-26T13:06:39.223779+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f2a723af",
-      "date": "2026-05-27",
-      "generated_at": "2026-05-27T13:13:25.392640+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Magnifica Humanitas from Pope Leo",
-              "summary": "Pope Leo XIV presented his first encyclical Magnifica Humanitas, which translates to Magnificent Humanity in English. It is focused on preserving human life as AI technologies change the way we int…",
-              "source": "Flowingdata.com",
-              "url": "https://flowingdata.com/2026/05/25/magnifica-humanitas-from-pope-leo/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "WiseTech boss receives violent threats and personal attacks after mass redundancies see 2,000 employees axed",
-              "summary": "Police have been called in after the boss of WiseTech Global received threats and vitriol.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-15847961/WiseTech-Zubin-Appoo-threats-Richard-White.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CGTN: Shared future: China, Serbia push comprehensive strategic partnership to new heights",
-              "summary": "BEIJING, May 26, 2026 /PRNewswire/ -- CGTN published an article on Chinese President Xi Jinping's meeting with Serbian President Aleksandar Vucic in Beijing. Highlighting the ironclad friendship betwe",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/cgtn-shared-future-china-serbia-push-comprehensive-strategic-partnership-to-new-heights-302781517.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "San Francisco Turns to AI to Avoid Collisions Between Ships And Whales",
-              "summary": "Ferries, cargo ships and tankers cut through choppy waters in the San Francisco Bay as a whale surfaced nearby, its spout barely visible against the white caps. Until now, whales could easily go unnot",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/west/2026/05/26/871201.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "After Complaint, GEICO Agrees to Modify Cancellation Process That Uses AI",
-              "summary": "Pennsylvania Attorney General Dave Sunday announced an agreement with GEICO that should modify an artificial intelligence (AI) initiated auto insurance policy cancellation process the state alleged wa",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/east/2026/05/26/871246.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump’s ‘big, beautiful Bill’ has closed gap on Ireland, US multinationals tell Ibec",
-              "summary": "State obliged to work ‘an awful lot harder’ to secure next wave of investments, says business lobby group",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/05/26/trumps-big-beautiful-bill-has-closed-gap-on-ireland-us-multinationals-tell-ibec/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ignite, OST drive to solve autonomous vehicle challenges with AI",
-              "summary": "Collaboration aims to tackle one of autonomous vehicle industry’s biggest challenges, namely proving how systems make independent decisions as the sector moves towards higher levels of autonomy",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366643508/Ignite-OST-drive-to-solve-autonomous-vehicle-challenges-with-AI",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside the safety truck that is a ‘godsend’ to drunk Wellingtonians out clubbing",
-              "summary": "Safety charity Take 10 is facing a $100k funding shortfall and its truck is crumbling.",
-              "source": "New Zealand Herald",
-              "url": "https://www.nzherald.co.nz/nz/wellington/inside-the-safety-truck-that-is-a-godsend-to-drunk-wellingtonians-out-clubbing/WPNCMXIAD5FIBDCU26BE27WFNY/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos: Monday recap. ",
-          "summary": ""
-        },
-        {
-          "topic": "How to optimize for AI overviews (AIOs): A complete 2026 playbook: Google AI Overviews appear in Goo",
-          "summary": ""
-        },
-        {
-          "topic": "Bengaluru startup faces backlash over AI training cameras inside customers’ homes: Responding to the",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-26T13:06:39.223779+08:00",
+  "last_updated": "2026-06-27T12:51:47.230990+08:00",
   "total_days": 30
 }
