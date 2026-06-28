@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c4381403",
+      "date": "2026-06-28",
+      "generated_at": "2026-06-28T13:15:04.437172+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Lee Robinson targets major insurers for collapse amid private credit risks",
+              "summary": "Robinson's bearish bets on insurers highlight potential systemic risks in private credit, echoing pre-2008 financial crisis concerns.\nThe post Lee Robinson targets major insurers for collapse amid pri",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/lee-robinson-insurers-private-credit-risks/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Official: France's round-of-32 opponents are confirmed!",
+              "summary": "This time, it’s official!There was very little suspense, and it’s now settled: France will face Sweden in the next round of the 2026 World Cup.This was confirmed thanks to Spain’s win over Urugu...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/official-frances-round-of-32-opponents-are-confirmed-43063720",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple Just Supercharged Siri AI in iOS 27 Beta 2—Here is What Changed",
+              "summary": "Apple has unveiled iOS 27 Beta 2, a release that brings a host of enhancements aimed at improving user experience, system performance, and feature integration. Even in its early beta phase, this updat",
+              "source": "Geeky Gadgets",
+              "url": "https://www.geeky-gadgets.com/ios-beta-9/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Did the government vote to increase the cost of petrol, diesel and other fuels this month?",
+              "summary": "How did the fuel blockades end? And has the government voted to increase fuel taxes? Answers vary.",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/fuel-prices-protesters-blockade-carbon-tax-excise-duty-government-vote-7080455-Jun2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How ticket bots are changing concert and train ticket sales",
+              "summary": "From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The pitter-patter of little feet in the Áras? No, Michael D’s not back",
+              "summary": "Becoming President was good news for Catherine Connolly, but becoming a grandmother for the first time is just as good",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/06/27/the-pitter-patter-of-little-feet-in-the-aras-no-michael-ds-not-back/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "⚠️Alarm bells keep ringing: Nico Williams could miss the World Cup",
+              "summary": "Spain’s qualification for the next stage of the 2026 World Cup has left an extremely bitter taste. After Yéremy Pino’s serious injury was confirmed, alarm bells also rang around Nico Williams, wh...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/alarm-bells-keep-ringing-nico-williams-could-miss-the-world-cup-43063661",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "judgment added to PyPI",
+              "summary": "Math-driven Agent Harness — CUSUM + HMM + POMDP decision engine with built-in execution loop",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/judgment/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Ross Gerber Says Slate Auto Is What Happens When 'Top Tesla And Amazon' Execs Build An EV, Predicts ",
+          "summary": ""
+        },
+        {
+          "topic": "Hey Meta, look: These ‘futuristic’ smart glasses just dropped to $60 for Prime Day: Don't be dumb. G",
+          "summary": ""
+        },
+        {
+          "topic": "Mark Cuban Says The Real Issue Isn’t Elon Musk Becoming A Trillionaire While Others Can’t Pay Bills ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f681ce96",
       "date": "2026-06-27",
       "generated_at": "2026-06-27T12:51:47.230990+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2f346cc4",
-      "date": "2026-05-28",
-      "generated_at": "2026-05-28T13:07:03.613510+08:00",
-      "headline": "今日 AI 新闻速览（46 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Pam Bondi diagnosed with thyroid cancer weeks after departing as Trump's attorney general: report",
-              "summary": "Former Attorney General Pam Bondi was diagnosed with thyroid cancer shortly after departing the DOJ last month, according to a report from Axios.",
-              "source": "Fox News",
-              "url": "https://www.foxnews.com/politics/pam-bondi-diagnosed-thyroid-cancer-weeks-departing-trumps-attorney-general-report",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "When Pope Leo and the IMF agree on AI’s dangers then it’s time to pay attention",
-              "summary": "If predictions on job losses come true, the State’s accommodation of corporate America will be tested",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/economy/2026/05/27/when-pope-leo-and-the-imf-agree-on-ais-dangers-then-its-time-to-pay-attention/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Greek Agri-Food enters the digital era",
-              "summary": "Greek agrifood is entering a new era in which technology, data and coordinated promotion can act as catalysts for strengthening the international presence of Greek products, as it was evidenced…\nGreek",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2115796/greek-agri-food-enters-the-digital-era/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Base launches new tool to connect crypto wallets to AI agents",
-              "summary": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
-              "source": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chief of communications intel agency says Russia is relentlessly targeting UK",
-              "summary": "A U.K. spy chief is warning that Britain and its allies risk losing a cyber conflict against adversaries like Russia unless cybersecurity is treated with greater urgency",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/International/wireStory/chief-communications-intel-agency-russia-relentlessly-targeting-uk-133336550",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "S&P/ASX 200 Edges Higher to 8,669.9 as Modest Gains Lift Australian Shares Mid-Session",
-              "summary": "The S&P/ASX 200 index rose slightly, reflecting cautious optimism amid global tensions and stable domestic economic indicators, with resource and financial stocks providing support despite broader mar",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/asx-200-edges-higher-amid-global-uncertainties-1869538",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "aix 0.0.27",
-              "summary": "Artificial Intelligence eXtensions",
-              "source": "Pypi.org",
-              "url": "https://pypi.org/project/aix/0.0.27/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Samsung avoids strike as workers approve massive bonus deal",
-              "summary": "Amid booming demand for AI chips, the government-backed deal will make more than 60% of the South Korean tech giant's workforce eligible for bonuses of about $370,000 this year.",
-              "source": "DW (English)",
-              "url": "https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "On-Device AI Market Size to Hit USD 185.23 Billion by 2035 | Research by SNS Insider: The US On-devi",
-          "summary": ""
-        },
-        {
-          "topic": "To Win With Money, Dave Ramsey Says, 'Figure Out What Most People Are Doing And Run In The Other Dir",
-          "summary": ""
-        },
-        {
-          "topic": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos: Monday recap. ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-27T12:51:47.230990+08:00",
+  "last_updated": "2026-06-28T13:15:04.437172+08:00",
   "total_days": 30
 }
