@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e6c198e2",
+      "date": "2026-06-29",
+      "generated_at": "2026-06-29T13:48:05.600251+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "APEC Tourism Ministers push digital innovation for growth",
+              "summary": "Digital innovation, seamless travel, and stronger regional cooperation took center stage as APEC tourism ministers met in Macao, China, to chart the next ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/420676/apec-tourism-ministers-push-digital-innovation-for-growth",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Round of 32 bracket: projections and who has the easier side? ",
+              "summary": "The group stage has come to an end overnight in Italy with yet another Messi masterpiece and Portugal’s draw (CR7 once again anonymous): now the paths to the final are set. Let’s take a look at th...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/round-of-32-bracket-projections-and-who-has-the-easier-side-43067609",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " 2026 World Cup, overnight round-up",
+              "summary": "Every morning, OneFootball will bring you a full recap of the night at the World Cup. The can't-miss story of the nightThat's it, the group stage of this World Cup is now officially over, and the hea.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/2026-world-cup-overnight-round-up-43067607",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China develops extremely powerful weapon that's set to flip the AI race on its head... amid concerns the US is HELPING Beijing get an advantage",
+              "summary": "Beijing-based tech firms 360 Security Technology and Z.ai, also known as Zhipu AI, have narrowed the gap with the US competitor when it comes to finding bugs.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-15935683/China-US-AI-race-Anthropic-cybersecurity.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Prabowo urges vigilance over nuclear and AI developments",
+              "summary": "Indonesian President Prabowo Subianto pointed out that technological developments, including nuclear technology and artificial intelligence (AI), do not ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/420675/prabowo-urges-vigilance-over-nuclear-and-ai-developments",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Japan Reaffirms 10 Trillion Yen Investment in India Over Next Decade",
+              "summary": "Japan reaffirms a 10 trillion yen investment in India over the next decade, boosting ties in infrastructure, AI, semiconductors and manufacturing.",
+              "source": "The Sentinel Assam",
+              "url": "https://www.sentinelassam.com/more-news/business/japan-reaffirms-10-trillion-yen-investment-in-india-over-next-decade",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
+              "summary": "As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/920a07e884e213df",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside Ireland’s cervical cancer test lab: A new start for screening after smear-test controversies",
+              "summary": "The National Cervical Screening Laboratory means most Irish women’s CervicalCheck samples can be tested within the State",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/health/2026/06/28/inside-irelands-cervical-cancer-test-lab-a-new-start-for-screening-after-smear-test-controversies/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Donald Trump Jr. Got A Kalshi Stake For Free— Now It Could Be Worth Billions As Prediction Market Pl",
+          "summary": ""
+        },
+        {
+          "topic": "Announces the NVIDIA Vera Rubin Platform: NVIDIA Corporation (NASDAQ:NVDA) is one of the best trendi",
+          "summary": ""
+        },
+        {
+          "topic": "The US Government’s $250 Million Bet To Solve Two Key AI Problems: Tech startup I-Pulse has secured ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c4381403",
       "date": "2026-06-28",
       "generated_at": "2026-06-28T13:15:04.437172+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "30980009",
-      "date": "2026-05-29",
-      "generated_at": "2026-05-29T13:12:06.337564+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Commodity upcycle: Why copper and aluminium could explode in coming quarters. Should Indians invest?",
-              "summary": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transit",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-upcycle-why-copper-and-aluminium-could-explode-in-coming-quarters-should-indians-invest/articleshow/131363396.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Muddy Waters Capital reevaluates India fund plans amid AI focus",
-              "summary": "AI's potential to disrupt labor markets could lead to reduced consumer spending and impact economic sectors reliant on high-income earners.\nThe post Muddy Waters Capital reevaluates India fund plans a",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/muddy-waters-india-fund-ai-concerns/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Record Spend on Data Centers Drives Australia Investment Growth",
-              "summary": "Record investment in data centers in Australia is providing much-needed support for the economy that’s feeling the strain from the global energy crunch and higher interest rates.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/record-spend-on-data-centers-drives-australia-investment-growth",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India well-positioned to become global leader in multilingual, multimodal AI solutions: Google Cloud India MD",
-              "summary": "Sreedharan said India's linguistic diversity, scale, and rapidly evolving digital ecosystem give the country a unique edge in the global AI race",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/india-well-positioned-to-become-global-leader-in-multilingual-multimodal-ai-solutions-google-cloud-india-md/article71031909.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Eurosender, or How to Poorly Digitalize Logistics and Ignore European Regulations",
-              "summary": "Last week, I already told you how Eurosender's digital service is, if not outright \"fraudulent\"—which I hope a judge will rule when they evaluate the case we are currently working on—at least \"mislead",
-              "source": "Elladodelmal.com",
-              "url": "https://www.elladodelmal.com/2026/05/eurosender-or-how-to-poorly-digitalize.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Dating apps struggle with the AI revolution as users lose faith",
-              "summary": "Hard-to-spot scams and fake profiles have swamped dating apps. Can the industry recover?",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/innovation/2026/05/28/dating-apps-struggle-with-the-ai-revolution-as-users-lose-faith/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘The safe zone is near the poverty zone’ when it comes to jobs most immune to the AI revolution",
-              "summary": "The technology promises benefits but, as Goldman Sachs boss notes, those may come only after the pain of job losses",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/work/2026/05/28/the-safe-zone-is-near-the-poverty-zone-when-it-comes-to-jobs-most-immune-to-the-ai-revolution/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India may cheer an Iran deal, but peace in Hormuz won’t refill its emptying economic tank",
-              "summary": "The economic horizon of India is clouded by a dual predicament characterized by a lack of financial resources and innovative ideas. While recent global energy dynamics might seem to ease some pressure",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-iran-deal-hormuz-oil-crisis-capital-shortage-ai-innovation-deficit-economy-fdi-rupee-growth-story-opinion/story/articleshow/131362914.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Are You Struggling With betfury? Let’s Chat: Fill in the form below and receive news in your email b",
-          "summary": ""
-        },
-        {
-          "topic": "Tesla Has a SpaceX Stake and $890 Million in Related Revenue. The Upcoming SpaceX IPO Could Be a Maj",
-          "summary": ""
-        },
-        {
-          "topic": "Jeff Bezos Says If Amazon Were Run Like NYC Schools, 'Your Packages Would Take Six Weeks to Arrive' ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-28T13:15:04.437172+08:00",
+  "last_updated": "2026-06-29T13:48:05.600251+08:00",
   "total_days": 30
 }
