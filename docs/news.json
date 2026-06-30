@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "831fc094",
+      "date": "2026-06-30",
+      "generated_at": "2026-06-30T13:00:53.231167+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "WISeKey International Holding Ltd Signs Merger Agreement to Redomicile to the British Virgin Islands",
+              "summary": "WISeKey International Holding Ltd Signs Merger Agreement to Redomicile to the British Virgin Islands  Zug, Switzerland, June 29, 2026 – Ad-Hoc announcement...",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/06/29/3318644/0/en/WISeKey-International-Holding-Ltd-Signs-Merger-Agreement-to-Redomicile-to-the-British-Virgin-Islands.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sarah Moss: Metaphors - why do we fall in love rather than climb, jump or dive?",
+              "summary": "Everything from cancer to hobbies is now described as ‘your journey’, but I prefer words that don’t make false promises",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/life-style/people/2026/06/29/why-do-we-fall-in-love-rather-than-climb-jump-or-dive/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Dangers of Weightlessness and Its Solutions",
+              "summary": "Podcast Transcripts The human body was built for gravity. Take it away, and bones weaken, muscles shrink, fluids shift, and even vision can change.  For astronauts spending months in orbit, zero gravi",
+              "source": "Everything-everywhere.com",
+              "url": "https://everything-everywhere.com/the-dangers-of-weightlessness-and-its-solutions/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you prevent algae in a fish tank?",
+              "summary": "How to Prevent Algae in a Fish Tank: A Comprehensive Guide Effectively prevent algae in your fish tank by maintaining proper lighting, performing regular water changes, and carefully controlling nutri",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-prevent-algae-in-a-fish-tank/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Building AI-Driven Feature Flag Optimization Systems in ASP.NET Core",
+              "summary": "Build AI-driven feature flag optimization in ASP.NET Core using Azure services for smarter, data-driven releases and enhanced performance.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/building-ai-driven-feature-flag-optimization-systems-in-asp-net-core/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Building AI-Powered API Contract Validation Systems in ASP.NET Core",
+              "summary": "Build AI-powered API contract validation in ASP.NET Core. Proactively detect breaking changes, analyze consumer impact, and ensure API reliability.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-api-contract-validation-systems-in-asp-net-core/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI-Assisted Kubernetes Troubleshooting for .NET Applications",
+              "summary": "Streamline Kubernetes troubleshooting for .NET apps with AI. Reduce MTTR by analyzing logs, metrics, and events for faster root cause identification.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/ai-assisted-kubernetes-troubleshooting-for-net-applications/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
+              "summary": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders ",
+              "source": "seattlepi.com",
+              "url": "https://www.seattlepi.com/news/world/article/nvidia-s-ai-chip-sales-in-china-stall-as-local-22324645.php",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How M",
+          "summary": ""
+        },
+        {
+          "topic": "Polymarket Says 'Contained And Removed' Malicious Bug After Third-Party Vendor Was Hacked; Will Refu",
+          "summary": ""
+        },
+        {
+          "topic": "Donald Trump Jr. Got A Kalshi Stake For Free— Now It Could Be Worth Billions As Prediction Market Pl",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e6c198e2",
       "date": "2026-06-29",
       "generated_at": "2026-06-29T13:48:05.600251+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "20721035",
-      "date": "2026-05-30",
-      "generated_at": "2026-05-30T12:51:46.821018+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Hollywood, Bollywood and AI: Who controls storytelling now?",
-              "summary": "The landscape of entertainment is undergoing a dramatic transformation, thanks to artificial intelligence. Enhanced AI technologies are now integral in various stages of production, from script analys",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/media/entertainment/hollywood-bollywood-and-ai-who-controls-storytelling-now/articleshow/131367398.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Delta Electronics looks to micro grids as auto slugs through EV slowdown",
-              "summary": "Delta Electronics is leaning on artificial intelligence demand to sustain growth while preparing for longer-term opportunities in micro grids and higher-end automotive systems, even as its electric-ve",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260528PD241/delta-electronics-business-growth-demand-2026.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Budget 2026: How savings helped paved the way for new spending",
-              "summary": "$25m will be saved by not holding a referendum on four-year parliamentary terms.",
-              "source": "New Zealand Herald",
-              "url": "https://www.nzherald.co.nz/nz/politics/budget-2026-how-savings-helped-paved-the-way-for-new-spending/premium/FQR6OM2Y4RFMNBYFU6GG2R67ME/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " The group stage is over, and this was the best of the Copa Sudamericana",
-              "summary": "The Copa Sudamericana wrapped up its first phase, and before we turn our attention to the Playoffs and the draw, here are the best moments from this Thursday. The only goals of the dayTigre advanced .",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/the-group-stage-is-over-and-this-was-the-best-of-the-copa-sudamericana-42937314",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Queensland prisoner loses appeal to freeze eggs",
-              "summary": "The Court of Appeal knocked back the woman's attempt to have her eggs frozen while she serves a ten year prison sentence.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-05-29/prisoner-freezing-eggs-appeal/106737634",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Wipro shares jump 4.6% at open on ServiceNow AI deal buzz",
-              "summary": "The stock opened at ₹211.00, up nearly 4.6 per cent from Wednesday’s close of ₹201.58, before paring some gains to trade at ₹205.53, up ₹3.95 or 1.96 per cent, as of 9:40 am",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/markets/stock-markets/wipro-shares-jump-nearly-46-at-open-on-servicenow-ai-deal-buzz/article71035890.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Forward Deployed Engineer: What It Is and How to Build a Successful Career",
-              "summary": "Learn what a Forward Deployed Engineer is, how the role works, key skills required, career paths, salary expectations, and how companies use Forward Deployed Engineers to deliver AI and software solut",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/forward-deployed-engineer-what-it-is-and-how-to-build-a-successful-career/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Hawkish Fed voices grow louder amid energy-driven inflation surge",
-              "summary": "A growing split is seen among US Federal Reserve officials. Some policymakers warn that interest rates might need to increase again. This comes as inflation shows signs of not cooling down quickly eno",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-hawkish-fed-voices-grow-louder-amid-energy-driven-inflation-surge/articleshow/131381743.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "'It's Time To Fire Google,' Urges Alphabet's Search Engine Rival As DuckDuckGo Blasts AI Overhaul: P",
-          "summary": ""
-        },
-        {
-          "topic": "The Best Social Media APIs for Developers + Vibe Coders in 2026: Compare 10 of the best social media",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Teases A Space‑Energy Boom — Rocket Lab's Little-Known Solar Arm Is Ready For It: Elon Mus",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-29T13:48:05.600251+08:00",
+  "last_updated": "2026-06-30T13:00:53.231167+08:00",
   "total_days": 30
 }
