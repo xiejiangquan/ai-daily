@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "061677cf",
+      "date": "2026-07-01",
+      "generated_at": "2026-07-01T13:19:48.498553+08:00",
+      "headline": "今日 AI 新闻速览（53 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI spending sparks historic Microsoft selloff: Opportunity ahead?",
+              "summary": "Microsoft shares are on track to record their worst monthly performance since December 2000, marking one of the sharpest corrections in the company's recent history. The stock has lost hundreds of bil",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/ai-spending-sparks-historic-microsoft-selloff-opportunity-ahead/a-historic-decline/slideshow/132084795.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What states do flying squirrels live in?",
+              "summary": "What States Do Flying Squirrels Live In? Flying squirrels, despite their name, do not actually fly. Instead, they glide using a membrane called a patagium. What states do flying squirrels live in? The",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-states-do-flying-squirrels-live-in/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☕️ FC Breakfast: Neymar snubbed, Germany at rock bottom",
+              "summary": "Germany’s penalty shootout streak comes to an end ❌Knocked out by Paraguay in a major upset (1-1, 3-4 on pens), Germany lost a World Cup penalty shootout for the first time in its history.Before t...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/fc-breakfast-neymar-ignored-germany-at-rock-bottom-43075461",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Viewpoint: Why Florida Property Insurance Rates Might (and Might Not) Keep Falling",
+              "summary": "Editor’s note: As some national news reports continue to claim that Florida’s property insurance crisis has endured and premiums keep rising, one Florida insurance executive offered a view from inside",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/southeast/2026/06/30/875651.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New Echelon Insights Survey Commissioned by Rockefeller Foundation: Most Americans Back Foreign Aid a Year After USAID's End",
+              "summary": "A majority (54%) across the political spectrum remains favorable toward foreign aid a year after USAID's dismantlement, and 8 in 10 say the path forward is to reform and strengthen foreign aid — not e",
+              "source": "PR Newswire UK",
+              "url": "https://www.prnewswire.co.uk/news-releases/new-echelon-insights-survey-commissioned-by-rockefeller-foundation-most-americans-back-foreign-aid-a-year-after-usaids-end-302813668.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Chinese tech giant Alibaba seeks staff for first Irish data centre",
+              "summary": "Chinese tech giant previously announced plans to spend €45bn on cloud facilities by the end of next year",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/06/30/chinese-tech-giant-alibaba-seeks-staff-for-first-irish-data-centre/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New Jersey Is the Center of the Soccer World This Summer – Here's Why",
+              "summary": "New Jersey is the center of the soccer world this summer. Read why and how this is the case.",
+              "source": "Radaronline.com",
+              "url": "https://radaronline.com/p/new-jersey-is-the-center-of-the-soccer-world-this-summer-heres-why/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Building an AI-Powered Root Cause Analysis System for Production Incidents in .NET",
+              "summary": "Build an AI-powered Root Cause Analysis system in .NET to accelerate incident resolution, reduce MTTR, and enhance system reliability with modern observability.",
+              "source": "C-sharpcorner.com",
+              "url": "https://www.c-sharpcorner.com/article/building-an-ai-powered-root-cause-analysis-system-for-production-incidents-in-n/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elizabeth Warren Blames Trump's Tariffs As Inflation Reaches 3-Year High: 'Health Care, Food, Gas An",
+          "summary": ""
+        },
+        {
+          "topic": "Your listings, your feed and the AI in between: The path from buyer curiosity to listing page ran th",
+          "summary": ""
+        },
+        {
+          "topic": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How M",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "831fc094",
       "date": "2026-06-30",
       "generated_at": "2026-06-30T13:00:53.231167+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3275f375",
-      "date": "2026-05-31",
-      "generated_at": "2026-05-31T13:16:27.985513+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "OpenAI has discussed adding Citigroup, JPMorgan to bank lineup for IPO",
-              "summary": "OpenAI filling out its roster of underwriters would bring it a step closer to an IPO, which could come later this year. A confidential IPO filing by the maker of ChatGPT is expected within weeks, Bloo",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/openai-has-discussed-adding-citigroup-jpmorgan-to-bank-lineup-for-ipo/articleshow/131403755.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Stanford quantum computing breakthrough uses twisted light to work without extreme cooling",
-              "summary": "A new room-temperature quantum device uses twisted light to entangle photons and electrons, overcoming one of the biggest hurdles in quantum technology. The breakthrough could pave the way for smaller",
-              "source": "Science Daily",
-              "url": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Canaries in the coal mine? How AI could reshape work in Ireland",
-              "summary": "What's behind the recent tech job cuts, and with artificial intelligence on the rise are Irish jobs actually on the line?",
-              "source": "RTE",
-              "url": "https://www.rte.ie/news/primetime/2026/0530/1575914-canaries-in-the-coal-mine-how-ai-could-reshape-work-in-ireland/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What happens to Bloom’s show gardens when the festival is over?",
-              "summary": "Finding new homes for plants, trees and other elements of show gardens at Bloom has gained momentum in the last few years",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/life-style/people/2026/05/30/what-happens-to-blooms-show-gardens-when-the-festival-is-over/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "7 exotic indoor flowering plants that instantly add a touch of luxury to your home",
-              "summary": "Elevate your home with stunning flowering plants. Orchids, anthuriums, and peace lilies bring colour and sophistication. Bromeliads and clivias add tropical flair. Jasmine offers fragrance and beauty.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/7-exotic-indoor-flowering-plants-that-instantly-add-a-touch-of-luxury-to-your-home/articleshow/131403888.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia chief executive Jensen Huang expected to visit South Korea",
-              "summary": "Huang's visit comes as a global artificial intelligence boom drives strong demand for Samsung Electronics and SK hynix memory chips, helping support South Korea's economic growth and stock market rall",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/east-asia/nvidia-chief-executive-jensen-huang-expected-visit-south-korea-6151131",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI helped a musician with Parkinson’s finish his new album when he could no longer play guitar",
-              "summary": "Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson’s disease largely took away his ability to play guitar. Samuel Smith relied on ",
-              "source": "seattlepi.com",
-              "url": "https://www.seattlepi.com/entertainment/article/ai-helped-a-musician-with-parkinson-s-finish-22283546.php",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Polymarket assigns 13% chance for US AI safety bill by 2027",
-              "summary": "The low odds highlight skepticism about federal AI regulation, suggesting continued reliance on state laws and a permissive tech landscape.\nThe post Polymarket assigns 13% chance for US AI safety bill",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/polymarket-us-ai-safety-bill-2027/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Show HN: Simple news aggregator with source bias meters: Article URL: https://unbiasthenews.com\nComm",
-          "summary": ""
-        },
-        {
-          "topic": "Smart Meter Market Size to Worth USD 63.15 Billion by 2035 | Research by SNS Insider: Global Smart M",
-          "summary": ""
-        },
-        {
-          "topic": "'It's Time To Fire Google,' Urges Alphabet's Search Engine Rival As DuckDuckGo Blasts AI Overhaul: P",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-30T13:00:53.231167+08:00",
+  "last_updated": "2026-07-01T13:19:48.498553+08:00",
   "total_days": 30
 }
