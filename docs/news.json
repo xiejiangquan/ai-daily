@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e002f125",
+      "date": "2026-07-02",
+      "generated_at": "2026-07-02T12:55:58.798954+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Reliance Power shares soar 10%, snap 4-day losing streak. What’s triggering the sharp surge?",
+              "summary": "Reliance Power shares rose sharply on Wednesday, snapping a four-day losing streak after the company announced plans to expand into artificial intelligence and technology-driven businesses through its",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-power-shares-soar-10-snap-4-day-losing-streak-whats-triggering-the-sharp-surge/articleshow/132106363.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global firms and German startups compete in realizing nuclear fusion",
+              "summary": "Companies around the world are competing to see who can build the first commercially viable nuclear fusion reactor. German startups are also in the race, supported by major corporations and private in",
+              "source": "DW (English)",
+              "url": "https://www.dw.com/en/global-firms-and-german-startups-compete-in-realizing-nuclear-fusion/a-77772842",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Employers who laid off workers citing AI are already starting to regret it",
+              "summary": "Companies are rapidly changing their minds that artificial intelligence can \"do it all\" by rehiring employees to propel their businesses forward, as investors fret over the longevity of the ongoing AI",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/37fa1bdd359e5f18",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Open Cosmos takes Earth observation into near-real time",
+              "summary": "Space company unveils next generation of Earth observation satellites designed to deliver near-real-time intelligence from space, and transform how large enterprises respond to climate disasters and s",
+              "source": "ComputerWeekly.com",
+              "url": "https://www.computerweekly.com/news/366645190/Open-Cosmos-takes-earth-observation-into-near-real-time",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon's new US$1 billion division aims to embed AI engineers in clients' teams",
+              "summary": "Amazon Web Services (AWS) is rolling out a new engineering division aimed at helping companies move beyond experimenting with artificial intelligence and start running it at the core of their operatio",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260701VL209/amazon-aws-launch-staff-data.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "KM, KKR, Samaras and Titi, who (doesn’t) talk to whom in the “blue neighborhood”, arrests in Rhodes for the beaches, GEK TERNA’s blitzkrieg",
+              "summary": "The major step of Theon in France & the Strait of Hormuz that will define Greece’s new role\nThe post KM, KKR, Samaras and Titi, who (doesn’t) talk to whom in the “blue neighborhood”, arrests in Rhodes",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/07/01/km-kkr-samaras-and-titi-who-doesnt-talk-to-whom-in-the-blue-neighborhood-arrests-in-rhodes-for-the-beaches-gek-ternas-blitzkrieg/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Red Sonja Noir: The Plunder and the Princess Special #1 Preview",
+              "summary": "GREETINGS, PUNY HUMANS! LOLtron welcomes you to another comic book preview on the Bleeding Cool website, which LOLtron now controls completely. As you may recall, Jude Terror is dead – permanently dea",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/red-sonja-noir-the-plunder-and-the-princess-special-1-preview/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Prabowo urges Polri to build public trust, master AI technology",
+              "summary": "President Prabowo Subianto outlined six key messages to all ranks of the Indonesian National Police (Polri), including maintaining public trust and mastering ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/420993/prabowo-urges-polri-to-build-public-trust-master-ai-technology",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Aaron Levie Says 'It Should Be 100% Obvious' AI Cybersecurity Models Will Be Widely Available, Quest",
+          "summary": ""
+        },
+        {
+          "topic": "ChatGPT Plus vs SuperGrok: What You Need to Know Before Buying In 2026: ChatGPT Plus and SuperGrok i",
+          "summary": ""
+        },
+        {
+          "topic": "Elizabeth Warren Blames Trump's Tariffs As Inflation Reaches 3-Year High: 'Health Care, Food, Gas An",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "061677cf",
       "date": "2026-07-01",
       "generated_at": "2026-07-01T13:19:48.498553+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "7a12c768",
-      "date": "2026-06-01",
-      "generated_at": "2026-06-01T14:00:24.767587+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Copper Tariff Trade Tightens Global Supply",
-              "summary": "Traders are once again scouring global markets for copper to ship to the United States, as renewed speculation over import tariffs widens the price spread between New York’s Comex and the London Metal",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-05-31-copper-tariff-trade-tightens-global-supply.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How a humble fiber supplement costing 10 cents could revolutionize weight loss drug outcomes",
-              "summary": "Psyllium husk, a high-fiber supplement costing about 10 cents per serving, is being recommended to enhance the effects of expensive GLP-1 weight loss drugs (e.g., Wegovy, Ozempic) by helping patients ",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-05-31-fiber-supplement-could-revolutionize-weight-loss-drugs.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bitcoin Hash Rate Flattens as Miners Face AI Squeeze, Fidelity Report Says",
-              "summary": "Bitcoin’s network hash rate has stalled and mining difficulty has dropped sharply in 2026, signaling that miners are redirecting power and capital toward artificial intelligence (AI) data center workl",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-05-31-bitcoin-hash-rate-flattens-miners-ai-squeeze.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Digital payments have significant room for expansion; no slowdown in transaction growth: Paytm CEO",
-              "summary": "According to Sharma, AI can help businesses improve customer engagement, discover new ways of reaching consumers and enhance operational efficiency, making companies more scalable and competitive",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/money-and-banking/digital-payments-have-significant-room-for-expansion-no-slowdown-in-transaction-growth-paytm-ceo/article71043828.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Satmar Rebbe warns: AI is the greatest threat",
-              "summary": "Satmar Rebbe warns hasidim against artificial intelligence, orders followers to report those connected.",
-              "source": "Israelnationalnews.com",
-              "url": "https://www.israelnationalnews.com/news/427859",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US, UK and Australia to co-develop underwater drone technology",
-              "summary": "SINGAPORE: The United States, United Kingdom and Australia have announced plans to jointly develop underwater drone systems aimed at protecting undersea communication cables and strengthening defence ",
-              "source": "Khabarhub.com",
-              "url": "https://english.khabarhub.com/2026/31/551629/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pluvicto™ demonstrated consistent efficacy across key patient subgroups in metastatic hormone-sensitive prostate cancer",
-              "summary": "Basel, May 31, 2026 – Novartis today announced results showing consistent radiographic progression-free survival (rPFS) improvement across key subgroups with Pluvicto™ (lutetium Lu 177 vipivotide tetr",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/05/31/3303913/0/en/Pluvicto-demonstrated-consistent-efficacy-across-key-patient-subgroups-in-metastatic-hormone-sensitive-prostate-cancer.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Where Can Investors Turn Beyond AI Stocks as Inflation Persists?",
-              "summary": "As soaring valuations in AI and semiconductor stocks prompt concerns about concentration risk, market analysts are increasingly pointing to energy shares as a potential alternative investment theme in",
-              "source": "Newsonjapan.com",
-              "url": "https://newsonjapan.com/article/149457.php",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Stop manually posting: The best AI tools for marketing – Film Daily: Skip manual posting with AI-pow",
-          "summary": ""
-        },
-        {
-          "topic": "Nancy Pelosi Stock Tracker Flags Dell's $9.7 Billion Pentagon Win Weeks After Trump Praised The Comp",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Simple news aggregator with source bias meters: Article URL: https://unbiasthenews.com\nComm",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-01T13:19:48.498553+08:00",
+  "last_updated": "2026-07-02T12:55:58.798954+08:00",
   "total_days": 30
 }
