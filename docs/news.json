@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "929adc27",
+      "date": "2026-07-03",
+      "generated_at": "2026-07-03T12:40:01.713275+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Are bird feeders a nuisance?",
+              "summary": "Are Bird Feeders a Nuisance? Weighing the Pros and Cons Bird feeders can be a double-edged sword; while they offer valuable support to bird populations and provide enjoyment for observers, they can al",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-bird-feeders-a-nuisance/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI offers 5% stake to Trump administration: report",
+              "summary": "​​The proposed ​arrangement would involve other U.S. ​AI companies handing over a similar ​stake to ⁠the government, ‌The Financial Times reported, ​adding that ⁠it was not clear if ​the other AI ​fir",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-offers-5-stake-to-trump-administration-report/articleshow/132128935.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: M&A hits record $2.8 trillion in H1 2026 as mega-deals dominate activity",
+              "summary": "Global M&A activity hit a record Rs 2.8 trillion in the first half of 2026, driven by a surge in mega-deals above $10 billion. Supportive financing, easing regulatory conditions and strong interest in",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ma-hits-record-2-8-trillion-in-h1-2026-as-mega-deals-dominate-activity/articleshow/132128925.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "S. Korea's Lee vows to turn central region into AI hub",
+              "summary": "South Korea President Lee Jae-myung promised to transform the country's central-western Chungcheong region into a hub for artificial intelligence (AI) innovation, according to Yonhap News Agency.Speak",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/968284ccd9fb046c",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Weird Al Yankovic Says He Turned Down ‘A Nice Pile of Money’ to Do an AI Ad: ‘I Can’t Be the Poster Boy’",
+              "summary": "“I’m not down with that,” the parody musician adds\nThe post Weird Al Yankovic Says He Turned Down ‘A Nice Pile of Money’ to Do an AI Ad: ‘I Can’t Be the Poster Boy’ appeared first on TheWrap.",
+              "source": "TheWrap",
+              "url": "https://www.thewrap.com/industry-news/business/weird-al-yankovic-explains-why-he-turned-down-ai-ad/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The surprising reason India's most expensive stocks often keep rising",
+              "summary": "Indian stocks defy logic, with expensive companies consistently outperforming. This trend, observed over 15 years, sees sectors like defence and retail surge despite high valuations, driven by structu",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-surprising-reason-indias-most-expensive-stocks-often-keep-rising/articleshow/132128723.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI to hand over 5% stake to US government, Financial Times reports",
+              "summary": "OpenAI's potential equity donation to a Public Wealth Fund could set a precedent for tech firms, influencing future wealth distribution policies.\nThe post OpenAI to hand over 5% stake to US government",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/openai-stake-us-government-public-wealth-fund/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What soap is OK to use on cats?",
+              "summary": "What Soap is OK to Use on Cats? The best soaps for cats are specifically formulated for their sensitive skin and coats; avoid using human soaps, as these can be too harsh. What soap is OK to use on ca",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-soap-is-ok-to-use-on-cats/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Eric Bormel - Good Deals Are Quiet: Demystifying M&A for Fitness Founders | Future of Fitness: Eric ",
+          "summary": ""
+        },
+        {
+          "topic": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections ",
+          "summary": ""
+        },
+        {
+          "topic": "Michael Saylor Destroyed Shareholder Value Instead Of Creating It, Says Peter Schiff: 'Bitcoin Is Ov",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e002f125",
       "date": "2026-07-02",
       "generated_at": "2026-07-02T12:55:58.798954+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "4ea49e1f",
-      "date": "2026-06-02",
-      "generated_at": "2026-06-02T13:28:42.217622+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Markets poised for a positive run if geopolitical risks ease: Ambareesh Baliga",
-              "summary": "Market veteran Ambareesh Baliga sees Indian equities well-positioned if geopolitical tensions ease and macro conditions remain supportive. He highlights potential for a US-Iran accord, resilient corpo",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-poised-for-a-positive-run-if-geopolitical-risks-ease-ambareesh-baliga/articleshow/131434794.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SoftBank Set to Become Japan’s Most Valuable Company",
-              "summary": "SoftBank Group Corp. is set to overtake Toyota Motor Corp. as Japan’s most valuable company on Monday, marking a milestone for the global artificial intelligence boom and a dramatic reshuffling of the",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/softbank-set-to-become-japans-most-valuable-company",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SoftBank overtakes Toyota as Japan's most valuable company",
-              "summary": "Fueled by its significant stake in AI powerhouse OpenAI, SoftBank Group has surged past Toyota to become Japan's most valuable company. The tech investor's market capitalization soared following found",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-overtakes-toyota-as-japans-most-valuable-company/articleshow/131434732.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Stocks Hit Record on AI Rally, Oil Rises on Iran: Markets Wrap",
-              "summary": "Stocks rose to a record as investors doubled down on the artificial intelligence trade that’s powered equities to all-time highs. Oil climbed as a US-Iran ceasefire deal remained elusive.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/stocks-hit-record-on-ai-rally-oil-rises-on-iran-markets-wrap-3",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Savings Misses ‘Should Be Making Executives Uncomfortable,’ Bain Says",
-              "summary": "Cost savings from automation are broadly falling short of projections, according to a new Bain & Co. global survey of large companies.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/ai-savings-misses-should-be-making-executives-uncomfortable-bain-says",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why India's Product Managers are racing to learn the language of AI",
-              "summary": "Product and business managers in India face a new anxiety: being surpassed by peers adept at leveraging AI. The product lifecycle is being rewritten, demanding new skills beyond traditional prioritiza",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/jobs/c-suite/why-indias-product-managers-are-racing-to-learn-the-language-of-ai/articleshow/131434506.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Verizon DBIR Says Software Vulnerabilities Aren’t Being Patched Quick Enough",
-              "summary": "Hackers are still trying to trick people to exploit an organization’s systems, but more breaches now with software vulnerabilities Stolen passwords, or credential abuse, are no longer the top way hack",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/06/01/871885.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
-              "summary": "The U.S. chipmaker's first publicly available humanoid robotics system will use humanoids from Chinese startup Unitree.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "X’s advertiser base is beginning to resemble its pre-Musk era: For the first time, third-party data ",
-          "summary": ""
-        },
-        {
-          "topic": "Cardano Price Could Close May Below This Multi-Year Support — What’s Next?: After hitting its cycle ",
-          "summary": ""
-        },
-        {
-          "topic": "How Elon Musk Is Attempting The (Almost) Impossible With The SpaceX IPO: Elon Musk’s SpaceX is barre",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-02T12:55:58.798954+08:00",
+  "last_updated": "2026-07-03T12:40:01.713275+08:00",
   "total_days": 30
 }
