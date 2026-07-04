@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f3d1d235",
+      "date": "2026-07-04",
+      "generated_at": "2026-07-04T12:33:28.285987+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "From Ancient Capital to New Digital Silk Road Hub: The 7th Western Digital Economy Expo Sees Xi'an's Industrial Integration Unleash Strong Momentum",
+              "summary": "XI'AN, China, July 3, 2026 /PRNewswire/ -- Under the theme \"Digital Convergence Revitalizes the Silk Road, Smart Innovation Shapes the West's Future,\" the 7th Western Digital Economy Expo (WDEE Expo) ",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/from-ancient-capital-to-new-digital-silk-road-hub-the-7th-western-digital-economy-expo-sees-xians-industrial-integration-unleash-strong-momentum-302817433.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock market: Fed's Daly says AI, inflation uncertainty clouds interest rate outlook",
+              "summary": "San Francisco Fed President Mary Daly highlighted that US monetary policy remains slightly restrictive, but the economic outlook is increasingly uncertain.  The surge in AI-driven investment and a str",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-daly-says-ai-inflation-uncertainty-clouds-interest-rate-outlook/articleshow/132152452.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sitharaman urges French firms to invest in India's AI, clean energy push",
+              "summary": "Union Finance Minister Nirmala Sitharaman urged French businesses to boost investments in India, highlighting vast opportunities in AI, clean energy, healthcare, and digital infrastructure. She emphas",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/sitharaman-urges-french-firms-to-invest-in-indias-ai-and-clean-energy-push/articleshow/132152274.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What dangers do snails face?",
+              "summary": "What Dangers Do Snails Face? Snails, often overlooked, are vulnerable creatures facing a multitude of threats, from habitat loss and climate change to predation and human activities, significantly imp",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-dangers-do-snails-face/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Soft US jobs data eases Fed rate fears, lifts market sentiment",
+              "summary": "A recent U.S. jobs report, showing slower-than-expected growth and downward revisions, has eased investor fears of persistent inflation and a hawkish Federal Reserve. This cooling labor market data of",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-soft-us-jobs-data-eases-fed-rate-fears-lifts-market-sentiment/articleshow/132152220.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX Might Be the Most Valuable Money-Losing Company in Market History. Should Investors Care?",
+              "summary": "SpaceX (NASDAQ: SPCX) went public on June 12 at $135 per share, raising $75 billion in the largest initial public offering (IPO) in history. Three weeks later, the rocket, satellite-internet, and arti",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/5799fb94d5b2b05f",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New infosec products of the week: July 3, 2026",
+              "summary": "Here’s a look at the most interesting products from the past week, featuring releases from Digi International, iboss, Jamf, and Netzilo. Digi International’s DANI automates network diagnostics and dev",
+              "source": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/07/03/new-infosec-products-of-the-week-july-3-2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Devalued American Dream",
+              "summary": "Photo Credit:\n \n American ThinkerBy Michael ApplebaumIn the last several decades, we’ve traveled from the long-standing belief in earned opportunity to fulfill individual dreams to passively expected ",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/07/the-devalued-american-dream/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Microsoft CEO Satya Nadella outlines AI’s future in proprietary learning loops: Nadella's vision emp",
+          "summary": ""
+        },
+        {
+          "topic": "Robinhood says it just broke a Guinness World Record: Robinhood Markets (NASDAQ: HOOD) says it has l",
+          "summary": ""
+        },
+        {
+          "topic": "Eric Bormel - Good Deals Are Quiet: Demystifying M&A for Fitness Founders | Future of Fitness: Eric ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "929adc27",
       "date": "2026-07-03",
       "generated_at": "2026-07-03T12:40:01.713275+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "87347f8b",
-      "date": "2026-06-03",
-      "generated_at": "2026-06-03T14:01:57.723543+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Be a Spell Breaker: How to Escape the Sorcery of Modern Media and Think for Yourself",
-              "summary": "Be A Spellbreaker There are two kinds of information sources in this world: spellcasters and spellbreakers. The spellcasters weave false realities to control you, profit from you, and keep you trapped",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-02-be-a-spell-breaker-how-to-escape.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pirelli announces AI-powered data-collecting tires, turning vehicles into SURVEILLANCE tools",
-              "summary": "Pirelli’s Cyber Tire system featuring embedded sensors that collect data on road conditions and communicate with vehicle electronics will begin production in Rome, Georgia – marking what the company c",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-02-italian-firm-pirelli-announces-data-collecting-tires.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Progress on share buyback programme",
-              "summary": "Progress on share buyback programme  ING announced today that, as part of our €1.0 billion share buyback programme announced on 30 April 2026, in total...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/02/3304844/0/en/Progress-on-share-buyback-programme.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Launch of TechBio firm, Lucera, brings decision intelligence to drug development, making it more predictable, more evidence-grounded, and more efficient",
-              "summary": "Launch of TechBio firm, Lucera, brings decision intelligence to drug development, making it more predictable, more evidence-grounded, and more efficient ...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/02/3304841/0/en/Launch-of-TechBio-firm-Lucera-brings-decision-intelligence-to-drug-development-making-it-more-predictable-more-evidence-grounded-and-more-efficient.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trnava School Campus Reconstruction / Šercel Švec",
-              "summary": "The site is located in the cadastral area of Trnava on plot no. 5671/92, owned by the City of Trnava. It is a built-up area and courtyard within the urban zone, with a total area of approximately 13,5",
-              "source": "ArchDaily",
-              "url": "https://www.archdaily.com/1041734/trnava-school-campus-reconstruction-sercel-svec",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bubble or Breakthrough? Anthropic’s $965 Billion Valuation Reveals the Terrifying Truth About AI’s Corporate Takeover",
-              "summary": "Anthropic, the artificial intelligence company behind the Claude chatbot, has raised $65 billion in a funding round that values the firm at $965 billion, according to a Bloomberg report cited by ZeroH",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-02-anthropics-965b-valuation-reveals-truth-ais-corporate-takeover.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "FSB alleges massive Western phone-hacking operation targeted Kremlin officials and journalists",
-              "summary": "Russia’s FSB accused Western intelligence of hacking thousands of Russian officials’ smartphones through undetectable spyware. The malware exploited zero-day vulnerabilities to access messages, calls,",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-02-western-phone-hacking-targeted-kremlin-officials-journalists.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI to invest more in teams, partnerships in India, says Thomas Jeng",
-              "summary": "Codex has grown 27x since early 2026, and more than quarter of user requests on the platform are for non-coding tasks, the company said in a report.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-invest-more-in-teams-partnerships-in-india-says-thomas-jeng/articleshow/131456141.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How to Trade Memecoins with AI: A Beginner’s Guide Using MemeToro Technology: Learn how MemeToro use",
-          "summary": ""
-        },
-        {
-          "topic": "X’s advertiser base is beginning to resemble its pre-Musk era: For the first time, third-party data ",
-          "summary": ""
-        },
-        {
-          "topic": "Cardano Price Could Close May Below This Multi-Year Support — What’s Next?: After hitting its cycle ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-03T12:40:01.713275+08:00",
+  "last_updated": "2026-07-04T12:33:28.285987+08:00",
   "total_days": 30
 }
