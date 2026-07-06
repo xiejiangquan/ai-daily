@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "a41ade1a",
+      "date": "2026-07-06",
+      "generated_at": "2026-07-06T13:08:38.563597+08:00",
+      "headline": "今日 AI 新闻速览（47 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "How long does it take a bird to recover after hitting window?",
+              "summary": "How Long Does It Take a Bird to Recover After a Window Strike? Understanding Avian Recovery Times How long does it take a bird to recover after hitting window? The recovery time can vary significantly",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-long-does-it-take-a-bird-to-recover-after-hitting-window/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can a female dog get pregnant without knotting?",
+              "summary": "Can a Female Dog Get Pregnant Without Knotting? The answer is a definitive no. Knotting during dog mating is a crucial part of the process facilitating successful fertilization and is highly indicativ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-a-female-dog-get-pregnant-without-knotting/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI to fake cleanups, GPS app to skip work: Gurugram civic body officials fired for using AI-edited photos to show garbage complaint was resolved; MCG says waste was still lying at the site",
+              "summary": "Gurugram Municipal Corporation has fired an assistant sanitation inspector for using AI to fake the resolution of a garbage dumping complaint.  He allegedly manipulated photos to show a site as clean,",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/ai-to-fake-cleanups-gps-app-to-skip-work-gurugram-civic-body-officials-fired-for-using-ai-edited-photos-to-show-garbage-complaint-was-resolved-mcg-says-waste-was-still-lying-at-the-site/articleshow/132190999.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What animal never stops talking?",
+              "summary": "What Animal Never Stops Talking? Unveiling Nature’s Chatterboxes While no animal literally never stops making sounds, certain species, particularly in the avian world, are renowned for their near-cons",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-animal-never-stops-talking/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?",
+              "summary": "\"Big Short\" Investor Michael Burry Is Now Betting Against Micron, Nvidia, and Tesla. Should You Be Worried?\nMichael Burry spent this week putting entry prices on a bet against the artificial intellige",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/391c5386d8998af8",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Taylor Swift's favorite teacher-turned bodyguard in early years of her career DIES on her wedding day",
+              "summary": "Taylor Swift's favorite teacher, who later worked as her security guard, died of renal cancer on the same day she got married to Kansas Chiefs tight end Travis Kelce.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-15953731/Taylor-Swift-teacher-Kirk-Schwabe-dies-wedding-day.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Investors looking for shelter from AI storm are turning to India",
+              "summary": "Indian equities are emerging as a stable investment choice amidst global market volatility, particularly as the AI rally cools.  While previously overlooked due to limited AI exposure, India's market ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-looking-for-shelter-from-ai-storm-are-turning-to-india/articleshow/132190604.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do sugar gliders like daylight?",
+              "summary": "Do Sugar Gliders Like Daylight? Unveiling the Truth About Nocturnal Creatures Sugar gliders are fascinating pets, but their crepuscular and nocturnal nature begs the question: Do sugar gliders like da",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-sugar-gliders-like-daylight/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Calls Report on SpaceX AI Handheld Device ‘Utterly False’ After Claims of an iPhone Rival ",
+          "summary": ""
+        },
+        {
+          "topic": "Kevin O’ Leary Says Elon Musk Has No Problem Walking Away From You Mid Conversation If He’s Bored — ",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says 'Birth Rates Drop As Countries Get Wealthier' — The Economy Isn't Why U.S. Birth Rate",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "6d680ff7",
       "date": "2026-07-05",
       "generated_at": "2026-07-05T12:54:47.343249+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "7bef66ea",
-      "date": "2026-06-05",
-      "generated_at": "2026-06-05T13:14:41.214212+08:00",
-      "headline": "今日 AI 新闻速览（56 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Automakers, Retailers Warn Memory-Chip Shortage Is Impacting Prices",
-              "summary": "The increasing need for memory chips to power artificial intelligence data centers could lead to dramatic price hikes in U.S. consumer goods and disrupt supply chains, groups representing automakers, ",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/06/04/872362.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump Takes Hands-Off Approach to AI Cybersecurity in New Order",
-              "summary": "President Donald Trump outlined a hands-off approach to addressing cybersecurity threats raised by artificial intelligence under an executive order that calls for giving the US government voluntary ac",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/06/04/872365.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ray Dalio says you can be right about AI and still lose money",
-              "summary": "The veteran investor said the real risk emerges when investors need cash and are forced to sell inflated assets.",
-              "source": "Business Insider",
-              "url": "https://www.businessinsider.com/ray-dalio-ai-boom-stock-bets-key-mistake-2026-6",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Law professors prefer AI over peer answers",
-              "summary": "Large language models (LLMs) are increasingly promoted as educational tutors, yet most evaluations focus on domains with a single ground truth. Many disciplines, however, hinge on judgment: reasoning,",
-              "source": "Marginalrevolution.com",
-              "url": "https://marginalrevolution.com/marginalrevolution/2026/06/law-professors-prefer-ai-over-peer-answers.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Employment in tech sector rose at steepest rate for a year in May despite Meta cuts",
-              "summary": "Year-ahead outlook ‘improved further’, according to AIB data, despite fears of job displacement from AI",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/06/04/employment-in-tech-sector-rose-at-steepest-rate-for-a-year-in-may-despite-meta-cuts/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Finn McRedmond: The Leaving Cert is dense, demanding and far superior to the UK’s A levels",
-              "summary": "With its seven, maybe eight subjects, the Leaving Cert cherishes the value of the generalist. In the UK, a 16-year-old may be studying just three",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/opinion/2026/06/04/finn-mcredmond-the-leaving-cert-is-dense-and-demanding-its-also-far-superior-to-the-uks-a-levels/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI boom creates connectivity challenge for integrators",
-              "summary": "Whitepaper from connectivity expert Altnets highlights growing infrastructure pressure, as artificial intelligence demand reshapes the future of digital economies",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366643917/AI-boom-creates-connectivity-challenge-for-integrators",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "LR, Samsung Heavy Industries, and CCEC form strategic alliance for floating data centers",
-              "summary": "Lloyd’s Register, Samsung Heavy Industries, and Capital Clean Energy Carriers Corp. signed a Memorandum of Understanding (MOU) for floating data centers, taking another step forward focused on artific",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2119316/lr-samsung-heavy-industries-and-ccec-form-strategic-alliance-for-floating-data-centers/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist: Economist and macro trader Alex Krüger ha",
-          "summary": ""
-        },
-        {
-          "topic": "Is Canon Preparing One of the Biggest Changes to Its PowerShot lineup?: Compact cameras are back in ",
-          "summary": ""
-        },
-        {
-          "topic": "How to Trade Memecoins with AI: A Beginner’s Guide Using MemeToro Technology: Learn how MemeToro use",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-05T12:54:47.343249+08:00",
+  "last_updated": "2026-07-06T13:08:38.563597+08:00",
   "total_days": 30
 }
