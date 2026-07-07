@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9731cbf4",
+      "date": "2026-07-07",
+      "generated_at": "2026-07-07T12:50:20.278376+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Global equity funds attract third straight week of inflows as investors buy AI-linked dip",
+              "summary": "Investors are pouring money into global equities, particularly technology stocks, despite a recent market dip. This surge, marking the third consecutive week of inflows, signals strong confidence in t",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-attract-third-straight-week-of-inflows-as-investors-buy-ai-linked-dip/articleshow/132207442.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Use, Misuse and Abuse: What should AI do for a researcher?",
+              "summary": "AI-powered tools have transformed the way researchers search for literature, analyse data, organise references, improve writing and communicate findings\nThe post Use, Misuse and Abuse: What should AI ",
+              "source": "Vanguard",
+              "url": "https://www.vanguardngr.com/2026/07/use-misuse-and-abuse-what-should-ai-do-for-a-researcher/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Q1 verdict: Can TCS, Infosys, other IT results stop a Rs 17 lakh crore AI-led rout?",
+              "summary": "India's top IT firms like TCS and Infosys face a crucial earnings season after a massive Rs 17 lakh crore market value erosion. Analysts anticipate muted results and weak future guidance, citing clien",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-q1-verdict-can-tcs-infosys-other-it-results-stop-a-rs-17-lakh-crore-ai-led-rout/articleshow/132207116.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do hedgehogs like complete darkness?",
+              "summary": "Do Hedgehogs Like Complete Darkness? Unveiling Their Nocturnal Preferences Hedgehogs thrive in darkness, but not necessarily complete darkness. They are nocturnal animals who need a consistent day/nig",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-hedgehogs-like-complete-darkness/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "We need to know who will control our health data when records are digitised",
+              "summary": "A digital health record is not a filing cabinet, but a clinical instrument in its own right",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/07/06/we-need-to-know-who-will-control-our-health-data-when-records-are-digitised/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What animals Cannot be fossilized?",
+              "summary": "What Animals Cannot Be Fossilized: Understanding the Limits of Paleontology The process of fossilization is highly selective, meaning many animals rarely or never become fossils. The likelihood of fos",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-animals-cannot-be-fossilized/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Climate Change Blamed in Heat Waves: Science or Simulation?",
+              "summary": "Photo Credit:heat wave illustration\n \n pixabayBy Mark KeenanAs Europe and much of North America endured record heat, headlines quickly appeared claiming that the heat wave was \"virtually impossible\" w",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/07/climate-change-blamed-in-heat-waves-science-or-simulation/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Hexagon Agility receives significant order from Certarus for Mobile Pipeline modules to service data center demand",
+              "summary": "OSLO, Norway, July 6, 2026 /PRNewswire/ -- Hexagon Agility, a subsidiary of Hexagon Composites, has received the largest single order for Mobile Pipeline® modules to date, from Certarus, the North Ame",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/hexagon-agility-receives-significant-order-from-certarus-for-mobile-pipeline-modules-to-service-data-center-demand-302818099.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Says Optimus Production Will Be 'Extremely Slow' in the Beginning: 'This is Not Like Makin",
+          "summary": ""
+        },
+        {
+          "topic": "Why Russian gangs are behind the bizarre adverts featuring AI images of Nigel Farage and Andrew Bail",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Calls Report on SpaceX AI Handheld Device ‘Utterly False’ After Claims of an iPhone Rival ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "a41ade1a",
       "date": "2026-07-06",
       "generated_at": "2026-07-06T13:08:38.563597+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "192c9c45",
-      "date": "2026-06-06",
-      "generated_at": "2026-06-06T12:52:22.611093+08:00",
-      "headline": "今日 AI 新闻速览（58 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What are Europe's alternatives to Instagram, TikTok and X?",
-              "summary": "As criticism of Instagram, TikTok and X grows in the EU, developers are building European social media alternatives. But can they compete? Instagram and Facebook from Meta, X (formerly Twitter) from E",
-              "source": "DW (English)",
-              "url": "https://www.dw.com/en/what-are-europes-alternatives-to-instagram-tiktok-and-x/a-77398242",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What are EU social media alternatives to Instagram, TikTok?",
-              "summary": "Opaque algorithms, too little legal protection for minors, a lot of hate speech and disinformation: in Europe, US and Chinese social media platforms have long drawn criticism. Europe wants to go its o",
-              "source": "DW (English)",
-              "url": "https://www.dw.com/en/what-are-eu-social-media-alternatives-to-instagram-tiktok/a-77398242",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Japan Aims to Replace Up to 14 Atomic Power Reactors by 2050s",
-              "summary": "Japan is planning to replace up to 14 nuclear reactors by the 2050s, as it looks to meet rising power demand at home and cope with increasing geopolitical risks abroad.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/japan-aims-to-replace-up-to-14-atomic-power-reactors-by-2050s",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " With the Tri gesture, Jardine's emotional América farewell",
-              "summary": "André Jardine said goodbye to América this Thursday in front of the press, to whom he revealed the reasons that led him to leave the club with which he achieved an epic three-peat in Liga MX. With ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/with-the-tri-gesture-jardines-emotional-america-farewell-42967846",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SkS Housekeeping: Updating the Comments Policy",
-              "summary": "From time to time, we announce housekeeping items that cover various changes in the Skeptical Science (SkS) web site. Today, it's an important one for all people who are posting comments on our articl",
-              "source": "Skepticalscience.com",
-              "url": "https://skepticalscience.com/SkS-Housekeeping-CommentsPolicy-May2026.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US employers likely added 105,000 jobs in May with labor market stable despite costly Iran war",
-              "summary": "The American job market has climbed out of a rut",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/US/wireStory/us-employers-added-105000-jobs-labor-market-stable-133607462",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Households embrace microinsurance as inflation bites harder",
-              "summary": "As inflation bites harder, Nigerian households and small businesses are embracing flexible, low-cost microinsurance solutions, reshaping the retail insuran\n\nRead More: https://punchng.com/households-e",
-              "source": "The Punch",
-              "url": "https://punchng.com/households-embrace-microinsurance-as-inflation-bites-harder/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Data centre developer Switch in talks to raise funds at $50 billion-plus valuation: Report",
-              "summary": "⁠Brookfield Asset Management, KKR and other private equity ​and institutional investors have been in talks to invest ​in the round, the report said.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/data-centre-developer-switch-in-talks-to-raise-funds-at-50-billion-plus-valuation-report/articleshow/131521471.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Security Bite: DeepSeek trending among US firms as low-cost AI alternative, what could go wrong?: 9t",
-          "summary": ""
-        },
-        {
-          "topic": "Crypto Is A ‘Failed’ Asset Class, Says Renowned Economist: Economist and macro trader Alex Krüger ha",
-          "summary": ""
-        },
-        {
-          "topic": "Is Canon Preparing One of the Biggest Changes to Its PowerShot lineup?: Compact cameras are back in ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-06T13:08:38.563597+08:00",
+  "last_updated": "2026-07-07T12:50:20.278376+08:00",
   "total_days": 30
 }
