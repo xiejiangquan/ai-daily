@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "04e53b6f",
+      "date": "2026-07-10",
+      "generated_at": "2026-07-10T12:49:47.120621+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "International Workshop on AI-Driven Semiconductor and Energy Efficient Hardware, Concludes Successfully at T-Hub, Hyderabad",
+              "summary": "International Workshop on AI-Driven Semiconductor and Energy Efficient Hardware, Concludes Successfully at T-Hub, Hyderabadbusinessnewsthisweek.com",
+              "source": "Businessnewsthisweek.com",
+              "url": "https://businessnewsthisweek.com/business/international-workshop-on-ai-driven-semiconductor-and-energy-efficient-hardware-concludes-successfully-at-t-hub-hyderabad/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "GIM Raises US$20 Million Series A as Agentic Investing Enters Live Execution",
+              "summary": "HONG KONG, BEIJING and SHANGHAI, July 9, 2026 /PRNewswire/ -- Grace Investment Machine (\"GIM\"), an AI-native investment technology company building agentic systems for capital markets, today announced",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/gim-raises-us20-million-series-a-as-agentic-investing-enters-live-execution-302821550.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI can predict how you’ll respond to a survey. But that’s not the same as understanding you",
+              "summary": "‘Silicon sampling’ promises easy answers to tough questions about human behaviour – but the reality is more complicated.",
+              "source": "The Conversation Africa",
+              "url": "https://theconversation.com/ai-can-predict-how-youll-respond-to-a-survey-but-thats-not-the-same-as-understanding-you-287069",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The century-old device quietly choking the world’s AI ambitions",
+              "summary": "The transformer bottleneck threatens to delay AI and digital infrastructure growth, impacting energy-intensive industries and investment strategies.\nThe post The century-old device quietly choking the",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/power-transformers-choking-ai-infrastructure/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s Reflation Shows Signs of Peaking as Iran War Shock Fades",
+              "summary": "China’s reflationary momentum showed signs of stalling in June, a reminder that the outlook for domestic prices is fragile as the economy emerges from deflation after an easing of tensions over Iran l",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/chinas-reflation-shows-signs-of-peaking-as-iran-war-shock-fades",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Recruiters Shift Focus to Specialized AI Jobs to Stay Relevant",
+              "summary": "Recruitment companies, facing the threat of artificial intelligence tools replacing human labor and customers embracing AI-assisted applicant screening, are adapting by honing in on niche, in-demand j",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI to launch new model after US freeze",
+              "summary": "SAN FRANCISCO: ChatGPT-maker OpenAI said its latest and most powerful artificial intelligence model will be released to the public on Thursday (Jul 9), as the United States government reportedly appro",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/openai-launch-new-model-us-national-security-6242841",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are green spotted puffers fresh or saltwater?",
+              "summary": "Are Green Spotted Puffers Fresh or Saltwater? Green spotted puffers require brackish to saltwater environments as they mature. Therefore, Are green spotted puffers fresh or saltwater? The answer is th",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-green-spotted-puffers-fresh-or-saltwater/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Automating cross-repo documentation with GitHub Agentic Workflows: Explore how the Aspire team turns",
+          "summary": ""
+        },
+        {
+          "topic": "After Record $14,500 Copper, The Discovery Hunt Turns To British Columbia: Issued on behalf of GoldH",
+          "summary": ""
+        },
+        {
+          "topic": "What’s Wrong with Dogecoin? Why the Biggest Memecoin Keeps Crashing in 2026: Despite short-term reco",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "664c4ef0",
       "date": "2026-07-09",
       "generated_at": "2026-07-09T12:50:36.327776+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f22440eb",
-      "date": "2026-06-09",
-      "generated_at": "2026-06-09T13:03:23.762039+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Fetch.AI unveils full agentic infrastructure with Your Personal AI and Agentverse",
-              "summary": "Fetch.AI's infrastructure could revolutionize autonomous transactions, potentially reshaping digital economies and AI-driven marketplaces.\nThe post Fetch.AI unveils full agentic infrastructure with Yo",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/fetch-ai-agentic-infrastructure-agentverse/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why It is Finally Time to Say Goodbye to Your iPhone 11",
-              "summary": "The iPhone 11, unveiled in September 2019, is nearing the conclusion of its software support lifecycle. With Apple expected to release iOS 27 in September 2026, this device will likely lose compatibil",
-              "source": "Geeky Gadgets",
-              "url": "https://www.geeky-gadgets.com/ios-27-drops-iphone-11/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "WISeKey, The Hashgraph Group and Hedera Launch QAIT Q-Day Security Assessment Platform on the SEALCOIN Quantum Marketplace",
-              "summary": "WISeKey, The Hashgraph Group and Hedera Launch QAIT Q-Day Security Assessment Platform on the SEALCOIN Quantum Marketplace  First Quantum Security...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/08/3307779/0/en/WISeKey-The-Hashgraph-Group-and-Hedera-Launch-QAIT-Q-Day-Security-Assessment-Platform-on-the-SEALCOIN-Quantum-Marketplace.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Independent Ireland TD defends high number of PQs submitted as concerns raised over use of AI",
-              "summary": "Issue of politicians allegedly using AI was raised at the Dáil business committee last month",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/politics/2026/06/08/independent-ireland-td-defends-high-number-of-pqs-submitted-as-concerns-raised-over-use-of-ai/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "I’ve told AI countless times to quit that servile tone, but it just starts snivelling",
-              "summary": "Just like Botox, the AI experience is frictionless, without a single wrinkle or jagged edge",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/life-style/people/2026/06/08/opinion-ruby-eastwood-ai-chatgpt-tone-servile-dystopia-future-botox/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "realme P4 Power Review",
-              "summary": "Smartphone brands have spent years convincing us that thinner, lighter, and more premium-looking devices are what we should want. But...\nThe post realme P4 Power Review appeared first on YugaTech | Ph",
-              "source": "Yugatech.com",
-              "url": "https://www.yugatech.com/gadget-reviews/realme-p4-power-review-philippines/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Erdoğan warns climate crisis threatens all humanity",
-              "summary": "President Recep Tayyip Erdoğan has warned that the climate crisis poses a serious threat to humanity, comparing its impact to wars and global pandemics, while highlighting Türkiye’s gains under the Ze",
-              "source": "Hurriyet Daily News",
-              "url": "https://www.hurriyetdailynews.com/erdogan-warns-climate-crisis-threatens-all-humanity-223012",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Digital Realty Launches Malaysia Operations to Advance Southeast Asia’s Digital Connectivity",
-              "summary": "Cyberjaya campus integrates Malaysia into Digital Realty’s global network, enabling customers to deploy AI and data-driven workloads across a connected infrastructure Cyberjaya campus integrates Malay",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/08/3307771/0/en/Digital-Realty-Launches-Malaysia-Operations-to-Advance-Southeast-Asia-s-Digital-Connectivity.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Ohio Crime Statistics Dashboard, Kagi, Google, More: Saturday Afternoon ResearchBuzz, June 6, 2026: ",
-          "summary": ""
-        },
-        {
-          "topic": "'I Now Consider All Of DeFi Unsafe': Former Crypto Security Chief Sounds Alarm As AI Agents Become M",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk’s X Is a Freak Show: The ecosystem is incredibly unhealthy, especially on Twitter. But if ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-09T12:50:36.327776+08:00",
+  "last_updated": "2026-07-10T12:49:47.120621+08:00",
   "total_days": 30
 }
