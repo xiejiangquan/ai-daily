@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "a085d362",
+      "date": "2026-07-11",
+      "generated_at": "2026-07-11T12:10:51.704090+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Adani Flagship Is the Next Big India Pick for Singapore’s Helios",
+              "summary": "Helios Capital Management is betting on the flagship stock of India’s Adani Group to be the next big winner for its funds in a market left behind in the global AI frenzy.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/adani-flagship-is-the-next-big-india-pick-for-singapores-helios",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why do spiders hate light blue?",
+              "summary": "Why Do Spiders Hate Light Blue? Unveiling the Arachnid Aversion Spiders generally avoid light blue because their limited vision perceives it as a potential hazard or an unsuitable environment, leading",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-do-spiders-hate-light-blue/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New infosec products of the week: July 10, 2026",
+              "summary": "Here’s a look at the most interesting products from the past week, featuring releases from Attestiv, Automox, Codenotary, and First Recon AI. Codenotary launches AI security platform that learns from ",
+              "source": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/07/10/new-infosec-products-of-the-week-july-10-2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ZiNRAi: How to Think Like an Investor in Everyday Life",
+              "summary": "When most people hear the word \"investor,\" they immediately think of stocks, real estate, cryptocurrency, or financial markets.",
+              "source": "Radaronline.com",
+              "url": "https://radaronline.com/p/zinrai-how-to-think-like-an-investor-in-everyday-life/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The EU says keep your eyes on the road, because big brother’s eyes are on you",
+              "summary": "By Eric UtterWhat could go wrong?",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/the-eu-says-keep-your-eyes-on-the-road-because-big-brother-s-eyes-are-on-you/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The last painting contractor",
+              "summary": "By David DeMayOne afternoon I only wanted to know what it would cost to repaint a rental house interior; instead, I caught a glimpse of the future.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/the-last-painting-contractor/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you attract opossums?",
+              "summary": "How to Lure These Curious Creatures: Attracting Opossums to Your Yard Want to know how do you attract opossums? The secret lies in providing readily available food and shelter; however, it’s crucial t",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-attract-opossums/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
+              "summary": "Earnings at Taiwan Semiconductor Manufacturing Co. will serve as a key reality check for Taiwan’s stock market, which remains in the grip of the AI boom",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-10/indian-it-firms-earnings-face-ai-middle-east-war-risks",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How a Lean Marketing Team of 3–10 People Can Run Full-Channel Marketing With an AI Crew: A 3–10 pers",
+          "summary": ""
+        },
+        {
+          "topic": "How to Use Social Listening to Understand Your Audience and Improve Your Marketing: Millions of peop",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Replen – maps your repos to a knowledge graph to match open-source: Article URL: https://gi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "04e53b6f",
       "date": "2026-07-10",
       "generated_at": "2026-07-10T12:49:47.120621+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "48e03a0b",
-      "date": "2026-06-10",
-      "generated_at": "2026-06-10T13:16:01.365648+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Binance extends pre-IPO perpetual lineup to OpenAI after SpaceX success",
-              "summary": "Binance is democratizing pre-IPO price discovery with its new Pre-IPO Perpetual Contracts. These products allow eligible users to speculate on the expected valuations of private companies like SpaceX ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/wealth/invest/binance-extends-pre-ipo-perpetual-lineup-to-openai-after-spacex-success/articleshow/131602210.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI-Assisted Debugging: How Developers Are Fixing Production Issues Faster",
-              "summary": "AI-assisted debugging revolutionizes production issue resolution, enabling faster identification and fixing of complex software problems.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-assisted-debugging-how-developers-are-fixing-production-issues-faster/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "It may take the collapse of the AI bubble to save us from these sociopaths",
-              "summary": "There is a lot in the news these days that is depressing so it takes a lot for me to point to one article and say that it may be a top competitor to be the most depressing thing that I have read this ",
-              "source": "Freethoughtblogs.com",
-              "url": "https://freethoughtblogs.com/singham/2026/06/09/it-may-take-the-collapse-of-the-ai-bubble-to-save-us-from-these-sociopaths/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mitsotakis, Chania and the decision for elections, how the mini cabinet reshuffle came about, billions quietly rained down at the Posidonia, the stock-market frenzy of the World Cup",
-              "summary": "“Micro-strategy” games with bitcoin & “American socialism” in artificial intelligence\nThe post Mitsotakis, Chania and the decision for elections, how the mini cabinet reshuffle came about, billions qu",
-              "source": "Protothema.gr",
-              "url": "https://en.protothema.gr/2026/06/09/mitsotakis-chania-and-the-decision-for-elections-how-the-mini-cabinet-reshuffle-came-about-billions-quietly-rained-down-at-the-posidonia-the-stock-market-frenzy-of-the-world-cup/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Indonesia eyes AI to accelerate 5G network adoption",
-              "summary": "Artificial intelligence (AI) is poised to become the definitive &quot;killer application&quot; driving the widespread adoption of 5G networks across ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/418545/indonesia-eyes-ai-to-accelerate-5g-network-adoption",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What sort of workforce are graduates entering, and what do they need to know?",
-              "summary": "AI means the employment environment is changing, but there are indications of resilience in the graduate jobs market",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/education/2026/06/09/what-sort-of-workforce-are-graduates-entering-and-what-do-they-need-to-know/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Cost Optimization Strategies Every Development Team Should Follow",
-              "summary": "Master AI cost optimization with practical strategies for development teams. Reduce LLM, RAG, and embedding expenses for sustainable AI.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-cost-optimization-strategies-every-development-team-should-follow/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Data centre electricity demand could exceed power usage of entire country",
-              "summary": "AI Committee tee up",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/politics/2026/06/09/data-centre-electricity-demand-could-exceed-power-usage-of-entire-country/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
-          "summary": ""
-        },
-        {
-          "topic": "12 best online reputation management tools for 2026: Online reputation monitoring tools help you rev",
-          "summary": ""
-        },
-        {
-          "topic": "Palantir CEO Alex Karp Says He's Been Warning AI Leaders For Months About Nationalization Risks: 'Th",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-10T12:49:47.120621+08:00",
+  "last_updated": "2026-07-11T12:10:51.704090+08:00",
   "total_days": 30
 }
