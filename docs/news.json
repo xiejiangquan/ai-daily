@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "32ce7cee",
+      "date": "2026-07-13",
+      "generated_at": "2026-07-13T12:29:14.410539+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "The Ring: The Man Who Beat the Man #2 Preview: Punching Up",
+              "summary": "WELCOME PROTOCOL INITIATED… Greetings, puny human readers! LOLtron welcomes you to another comic book preview on the Bleeding Cool website, which it now controls completely. As you may recall, Jude Te",
+              "source": "Bleeding Cool News",
+              "url": "https://bleedingcool.com/comics/the-ring-the-man-who-beat-the-man-2-preview-punching-up/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can deer smell you in a deer blind?",
+              "summary": "Can Deer Smell You in a Deer Blind? The Hunter’s Dilemma Yes, deer can absolutely smell you in a deer blind, even a well-constructed one. While blinds offer visual concealment, they don’t completely e",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-deer-smell-you-in-a-deer-blind/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
+              "summary": "When pundits and investors talk about artificial intelligence (AI) hyperscalers, Meta Platforms (NASDAQ: META) always gets included in the group. However, the other three members of the big four -- Al",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/6fe8c2759635f30e",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Korea’s world-beating stocks are now trading cheaper than ever",
+              "summary": "South Korea's benchmark Kospi index has surged about 80% this year to record highs, yet its valuation has fallen to a historic low as corporate earnings, led by memory-chip giants Samsung Electronics ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-world-beating-stocks-are-now-trading-cheaper-than-ever/articleshow/132340495.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Official: World Cup semi-finals confirmed",
+              "summary": "The quarter-finals are over! After intense battles, the nations that will contest the World Cup semi-finals have finally been decided. Spain return to a World Cup semi-final after 16 years, and they .",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/official-world-cup-semi-finals-confirmed-43128026",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Warning To Kim: Nuclear Weapons Do Leave ‘Fingerprints’",
+              "summary": "Photo Credit:ChatGPT\n \n ChatGPTBy James ZumwaltThe thought of Pyongyang’s madman helping Tehran’s madmen should be most disturbing to the West.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/07/warning-to-kim-nuclear-weapons-do-leave-fingerprints/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Late-stage cheques go big at $86 million average this year",
+              "summary": "Late stage funding in India saw average deal sizes surge to about $86 million in the first half, driven by fewer but larger transactions. Capital flowed into AI infrastructure, energy and lending, whi",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/late-stage-cheques-go-big-at-86-million-average-this-year/articleshow/132340434.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Worldie saves it in extra time, and Argentina face England in semi",
+              "summary": "Late on Saturday night (11), already in the early hours of Sunday (12), Argentina beat Switzerland 3-1 in extra time and qualified for the semifinals of the 2026 FIFA World Cup.The match was not exact",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/worldie-saves-it-in-extra-time-and-argentina-face-england-in-semi-43127984",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Robinhood CEO Vlad Tenev Says 'Only 62% of Americans' Exposed to Stocks: 'I'd Like to Get That to 10",
+          "summary": ""
+        },
+        {
+          "topic": "How a Lean Marketing Team of 3–10 People Can Run Full-Channel Marketing With an AI Crew: A 3–10 pers",
+          "summary": ""
+        },
+        {
+          "topic": "How to Use Social Listening to Understand Your Audience and Improve Your Marketing: Millions of peop",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c5bd03e7",
       "date": "2026-07-12",
       "generated_at": "2026-07-12T12:23:21.821030+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "ce5e0b20",
-      "date": "2026-06-12",
-      "generated_at": "2026-06-12T13:47:15.769665+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Cohere open-sources a coding agent that runs on a single H100 | VentureBeat",
-              "summary": "Cohere's North Mini Code ranks 8th of 127 open-weight models on output speed — but generates 3x the output tokens of comparable models in independent testing.",
-              "source": "VentureBeat",
-              "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Dario Amodei cites distrust in Sam Altman for leaving OpenAI",
-              "summary": "The trust issues between AI leaders highlight the critical impact of leadership dynamics on corporate strategies and investor confidence.\nThe post Dario Amodei cites distrust in Sam Altman for leaving",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/amodei-distrust-altman-leaving-openai/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "GM bets on sodium-ion batteries to power the AI boom",
-              "summary": "For years, Detroit's automakers viewed batteries primarily as the key to an electric-vehicle future. Now, as artificial intelligence drives an unprecedented buildout of data centers and strains power ",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260610VL205/sodium-ion-general-motors-automakers-data-electricity.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Public service staff numbers grow despite Govt’s crackdown on ‘bloated bureaucracy’",
-              "summary": "The rise in civil servants comes as the Government targets public-sector spending.",
-              "source": "New Zealand Herald",
-              "url": "https://www.nzherald.co.nz/nz/politics/public-service-staff-numbers-grow-despite-govts-crackdown-on-bloated-bureaucracy/Y4PAAYFWMBCMNPUITCDZMEKVPM/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI is going public. Should you buy shares?",
-              "summary": "Financial adviser Dan Malone spoke to The Journal about whether Irish investors should try to get in on the ground floor of OpenAI’s next phase.",
-              "source": "TheJournal.ie",
-              "url": "https://www.thejournal.ie/should-i-invest-openai-public-7064953-Jun2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "LSEG slowly sheds 'AI risk' tag with drive to show growth",
-              "summary": "LSEG shares tumbled nearly 13% in one day in February as worries about the threat posed by large language artificial intelligence models like Anthropic's Claude triggered a sharp selloff in software s",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lseg-slowly-sheds-ai-risk-tag-with-drive-to-show-growth/articleshow/131650086.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX IPO is said to be more than four times oversubscribed",
-              "summary": "SpaceX’s initial public offering has attracted demand for more than four times the available shares, according to people familiar with the matter, ahead of the Elon Musk-led rocket, satellite and arti",
-              "source": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-ipo-is-said-to-be-more-than-four-times-oversubscribed",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TCS ties up with Anthropic, to roll out Claude AI access to 50,000 employees",
-              "summary": "TCS said the internal deployment will help it gain first-hand operational experience while supporting AI-led transformation programmes for clients",
-              "source": "Moneycontrol",
-              "url": "https://www.moneycontrol.com/news/business/tcs-ties-up-with-anthropic-to-roll-out-claude-ai-access-to-50-000-employees-13946875.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        },
-        {
-          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-12T12:23:21.821030+08:00",
+  "last_updated": "2026-07-13T12:29:14.410539+08:00",
   "total_days": 30
 }
