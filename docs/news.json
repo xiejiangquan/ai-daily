@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "57dbdb32",
+      "date": "2026-07-14",
+      "generated_at": "2026-07-14T11:54:47.427054+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Do chimpanzees know they exist?",
+              "summary": "Do Chimpanzees Know They Exist?: Exploring Chimpanzee Self-Awareness Do chimpanzees know they exist? Evidence suggests that chimpanzees, particularly those that have undergone mirror self-recognition ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-chimpanzees-know-they-exist/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "KOSPI Plunges Nearly 7% Below 7,000 as US-Iran Conflict Escalates, SK Hynix Stock Slides Sharply",
+              "summary": "South Korea's KOSPI index dropped 6.99% amid US-Iran tensions and a chip stock selloff, raising concerns over market volatility and potential interest rate hikes due to rising oil prices.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/kospi-index-plummets-us-iran-tensions-chip-stock-decline-1872174",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Microsoft CEO Satya Nadella warns of 'Reverse Information Paradox' facing businesses in AI Age",
+              "summary": "Microsoft CEO Satya Nadella warns businesses about the 'Reverse Information Paradox' in the AI age, emphasizing the need for trust and control.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/microsoft-ceo-satya-nadella-warns-of-reverse-information-paradox-facing-businesses-in-ai-age/article71215870.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Malaysia’s data centre pipeline beats neighbours, but Singapore will keep premium status: JPMorgan",
+              "summary": "The Republic’s tighter green rules hand scale and new projects to Malaysia, but it will keep premium status. Read more at straitstimes.com. Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/companies-markets/malaysias-data-centre-pipeline-beats-neighbours-but-singapore-will-keep-premium-status-jpmorgan",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says",
+              "summary": "By Wen-Yee Lee TAIPEI, July 13 (Reuters) - Taiwan Semiconductor Manufacturing Co (TSMC) will add two advanced chip packaging plants in the Chiayi Science Par...",
+              "source": "Yahoo Entertainment",
+              "url": "https://finance.yahoo.com/technology/articles/tsmc-add-2-advanced-chip-034251078.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " With an emotional message: how Haaland bid farewell to the World Cup",
+              "summary": "Erling Haaland became one of the fans’ favorite players at the World Cup thanks to his discipline, charisma, and quality football.  The Manchester City player said goodbye to the competition with e...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/with-an-emotional-message-how-haaland-bid-farewell-to-the-world-cup-43131385",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "「Claude Fable 5」のアクセス期間が全ての有料プランで7月19日まで延長、Claude Codeの週次レート制限も50％増量を維持",
+              "summary": "2026年7月13日、Anthropicが、最先端モデル「Claude Fable 5」を追加費用なしで利用できる期間を2026年7月20日16時(日本時間)まで延長することを明らかにしました。さらに、Claude Codeの利用制限量を増量するキャンペーンも延長しています。As before, you can use up to half of your weekly usage limit o",
+              "source": "Livedoor.com",
+              "url": "https://news.livedoor.com/article/detail/31812083/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What plants are good for sugar gliders?",
+              "summary": "What Plants Are Good For Sugar Gliders? Discovering what plants are good for sugar gliders is crucial for their health and enrichment; many are safe and offer nutritional benefits, while others are hi",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-plants-are-good-for-sugar-gliders/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Could AI Pay Americans $1 Million Each? New Think Tank Forecast Sparks Jim Chanos' SpaceX Jab: 'Seem",
+          "summary": ""
+        },
+        {
+          "topic": "Autonomous Marketing Platforms for B2B Business Growth 2026: Learn how autonomous marketing platform",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "32ce7cee",
       "date": "2026-07-13",
       "generated_at": "2026-07-13T12:29:14.410539+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "63d4980f",
-      "date": "2026-06-13",
-      "generated_at": "2026-06-13T13:19:32.809585+08:00",
-      "headline": "今日 AI 新闻速览（39 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " Card chaos in World Cup opener: red-card flood rewrites history",
-              "summary": "The World Cup opener between Mexico and South Africa may not have produced the highest-quality football, but it was definitely very entertaining. In the end, the hosts won 2-0.What will be remembered ",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/card-chaos-in-world-cup-opener-red-card-flood-rewrites-history-42997942",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI-Powered Release Management: Using Intelligence to Improve Software Delivery",
-              "summary": "Unlock faster, more reliable software delivery with AI-powered release management. Reduce risk, boost confidence, and optimize your CI/CD.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-powered-release-management-using-intelligence-to-improve-software-delivery/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Infrastructure Cost Governance: Practical Strategies for Engineering Teams",
-              "summary": "Master AI infrastructure costs. Learn practical strategies for engineering teams to govern, optimize, and forecast AI spending effectively.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-infrastructure-cost-governance-practical-strategies-for-engineering-teams/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Building AI-Powered Root Cause Analysis Systems for Production Incidents",
-              "summary": "Leverage AI for faster production incident root cause analysis. Discover how AI systems analyze data, correlate events, and improve MTTR.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-root-cause-analysis-systems-for-production-incidents/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Adoption Metrics Every Engineering Leader Should Track",
-              "summary": "Track key AI adoption metrics for engineering leaders: usage, productivity, quality, financial, and operational. Drive value & ROI.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-adoption-metrics-every-engineering-leader-should-track/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Disclosure Day Review",
-              "summary": "Steven Spielberg's latest sci-fi offering Disclosure Day attempts to blend political thriller elements with an alien narrative, but despite strong performances and moments of suspense, it ultimately l",
-              "source": "Rediff.com",
-              "url": "https://www.rediff.com/movies/review/disclosure-day-review-steven-spielbergs-alien-thriller-has-spectacle-suspense-and-an-underwhelming-payoff/20260612.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Enterprise Prompt Libraries: Managing Reusable AI Instructions at Scale",
-              "summary": "Manage AI instructions at scale with Enterprise Prompt Libraries for consistency, governance, and reusability. Optimize AI adoption.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/enterprise-prompt-libraries-managing-reusable-ai-instructions-at-scale/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Building Production-Ready Local AI Solutions with Windows AI Foundry",
-              "summary": "Unlock production-ready local AI on Windows with Windows AI Foundry. Enhance privacy, reduce costs, and boost performance.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/building-production-ready-local-ai-solutions-with-windows-ai-foundry/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        },
-        {
-          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-13T12:29:14.410539+08:00",
+  "last_updated": "2026-07-14T11:54:47.427054+08:00",
   "total_days": 30
 }
