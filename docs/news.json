@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b29765ad",
+      "date": "2026-07-15",
+      "generated_at": "2026-07-15T11:56:16.796815+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China's exports surge 27% from year earlier as AI boom drives strong demand",
+              "summary": "China's exports soared 27% in June, driven by AI demand, surpassing expectations and boosting import growth significantly.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/world/chinas-exports-surge-27-from-year-earlier-as-ai-boom-drives-strong-demand/article71219777.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's exports surge 27% from a year earlier as AI boom drives strong demand",
+              "summary": "China's exports jumped twenty-seven percent in June, driven by strong artificial intelligence demand. Imports also surged significantly, reflecting increased global needs for electronics. This export ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand/articleshow/132380235.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom",
+              "summary": "Oil prices extend surge after Trump reinstates Iran shipping blockade\nBy Jihoon Lee\nSEOUL, July 14 (Reuters) - South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/1a4323806d2c88af",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Astronauts returning from long missions can initially struggle to stand, walk, and judge the weight of ordinary objects — because the brain must relearn a gravitational world it once treated as automatic",
+              "summary": "An astronaut does not return to Earth as someone who has forgotten gravity. The problem is quieter than that. After a long mission, the body knows intellectually that the floor is back, but the nervou",
+              "source": "Space Daily",
+              "url": "https://spacedaily.com/t-astronauts-returning-from-long-missions-struggle-stand-walk-judge-weight-ordinary-objects-brain-relearn-gravity/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact",
+              "summary": "An anonymous reader quotes a report from the Associated Press: Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the ",
+              "source": "Slashdot.org",
+              "url": "https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SBI Funds Management IPO: Company expects stock market listing next week",
+              "summary": "SBI Funds Management Ltd. expects to list on the stock exchanges next week after the close of its Rs 11,692 crore IPO, with the company currently undertaking investor outreach programmes across major ",
+              "source": "ANI News",
+              "url": "https://www.aninews.in/news/business/sbi-funds-management-ipo-company-expects-stock-market-listing-next-week20260713181659",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
+              "summary": "ビジネス系SNS「LinkedIn」を調査したところ、長文投稿の40.5％がAI生成だった、というレポートが発表されました。AI Content Is Everywhere on Social Media, Especially LinkedIn | Pangram Labshttps://www.pangram.com/blog/ai-in-your-feedAlmost Half Of All",
+              "source": "Livedoor.com",
+              "url": "https://news.livedoor.com/article/detail/31820465/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's trade expands on AI boom, offsetting weak sectors",
+              "summary": "TOKYO -- China's trade surged in the first six months of 2026, riding global investment in artificial intelligence-related industries to overcome geopolitical uncertainty and offset sluggish domestic ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/1548fca0e8094074",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Marc Andreessen Says AI Is 'Already a Better Doctor Than 99.99% of Human Doctors': Venture capitalis",
+          "summary": ""
+        },
+        {
+          "topic": "We Are Social’s Monday Mashup #782: TikTok launches AI literacy tools, X adds new video editor and r",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Another terminal UI for stock, but with news sentiments: Terminal stock dashboard: live quo",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "57dbdb32",
       "date": "2026-07-14",
       "generated_at": "2026-07-14T11:54:47.427054+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "d51cc185",
-      "date": "2026-06-14",
-      "generated_at": "2026-06-14T13:47:07.833597+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-              "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend ac",
-              "source": "Internet",
-              "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " USA thrash Paraguay, 4-1! Trump calls, Speed-Ibra, Balogun ⚽⚽",
-              "summary": "The USA cruise to victory in Los Angeles in their opening World Cup match: 4-1 over Paraguay, who only managed a few shots in the second half. Otherwise, it was a red, white and blue show, with Bobadi",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/usa-thrash-paraguay-4-1-trump-calls-speed-ibra-balogun-43002707",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What are US stock market, gold and silver price prediction for Monday? Market outlook after Wall Street gains and metals movement",
-              "summary": "What are US stock market, gold and silver price prediction for Monday? Investors are assessing Wall Street's latest gains, developments in U.S.-Iran talks, Federal Reserve expectations, and movements ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/us/what-are-us-stock-market-gold-and-silver-price-prediction-for-monday-market-outlook-after-wall-street-gains-and-metals-movement/articleshow/131697715.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Arnott's Plain Biscuits Milk Coffee | 250g $1.50 (Save $1.00) @Coles",
-              "summary": "Plain biscuits, others also $1.50. A golden crunchy plain biscuit Mild delicious flavours of golden syrup and milk Dunkable No artificial colours, flavours or preservatives No artificial …",
-              "source": "Ozbargain.com.au",
-              "url": "https://www.ozbargain.com.au/node/963356",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global markets: Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes",
-              "summary": "Global equities rose Friday, led by a surge in SpaceX's market debut, which pushed its valuation past $2 trillion. Wall Street ended higher as investors weighed hopes for an Iran peace deal against th",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-rise-as-spacex-makes-market-debut-oil-slides-on-gulf-peace-hopes/articleshow/131698343.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Elon Musk’s $1,100,000,000,000 net worth exceeds combined fortunes of Page, Brin, Bezos, Ellison & Dell; Here’s what the global rich list looks like now",
-              "summary": "Elon Musk's net worth has surged to approximately $1.1 trillion, driven by SpaceX's valuation reaching $2.2 trillion and continued strength in Tesla. This unprecedented wealth places him on the brink ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/elon-musks-1100000000000-net-worth-exceeds-combined-fortunes-of-page-brin-bezos-ellison-dell-heres-what-the-global-rich-list-looks-like-now/articleshow/131697719.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic’s Fable 5 takedown triggers India Inc push for AI self-reliance",
-              "summary": "A US directive suspending access to Anthropic's AI models has spurred India Inc's push for self-reliance in AI infrastructure. Technology leaders are calling for domestic R&D, open-source models, and ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-fable-5-takedown-triggers-india-inc-push-for-ai-self-reliance/articleshow/131698077.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mark O'Connell: Argentina’s AI chief executives are a scary thought. But will we notice any difference?",
-              "summary": "The idea of a world run by machines might seem far fetched, but only until you think about it",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/opinion/2026/06/14/mark-oconnell-argentinas-ai-chief-executives-are-a-scary-thought-but-will-we-notice-any-difference/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        },
-        {
-          "topic": "AI brands as bait: How threat actors are using the AI hype in social engineering: As threat actors o",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-14T11:54:47.427054+08:00",
+  "last_updated": "2026-07-15T11:56:16.796815+08:00",
   "total_days": 30
 }
