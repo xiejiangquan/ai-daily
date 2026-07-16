@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b0552057",
+      "date": "2026-07-16",
+      "generated_at": "2026-07-16T12:06:35.696510+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China economic growth falls sharply, missing target - Sri Lanka News - Ada Derana - Truth First",
+              "summary": "China economic growth falls sharply, missing target - Sri Lanka News - Ada Derana - Truth First",
+              "source": "adaderana.lk",
+              "url": "https://adaderana.lk/news/cmrlikw480009356p5jq51vsa",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI debates reveal a deeper shift in American values",
+              "summary": "By Peter C. EarleWhen we look back at the dawn of the internet age, we see how far attitudes toward emerging technologies have changed.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/ai-debates-reveal-a-deeper-shift-in-american-values/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are fish hatcheries humane?",
+              "summary": "Are Fish Hatcheries Humane? Examining the Ethical Implications Are fish hatcheries humane? The question is complex, and the answer isn’t a simple yes or no. While hatcheries offer benefits like conser",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-fish-hatcheries-humane/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthony Albanese announces world-first AI laws and crackdown on power-hungry data centres",
+              "summary": "Anthony Albanese has outlined rules governing data centre energy and AI use to help Australia harness the benefits of the emerging technology.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-15978325/anthony-albanese-ai-laws-data-centres.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SpaceX shares near IPO price after three days of losses erase billions in market value",
+              "summary": "SpaceX's volatile stock performance highlights the challenges of sustaining market confidence amid speculative valuations and financial leverage.\nThe post SpaceX shares near IPO price after three days",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/spacex-shares-near-ipo-price-losses/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "White House bets on AI clearinghouse to close gap between finding and fixing cyber flaws",
+              "summary": "On July 14, 2026, the White House launched Gold Eagle, a federal cybersecurity clearinghouse meant to coordinate how software vulnerabilities are detected and patched across open-source code and criti",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260715VL203/white-house-ai-cybersecurity-infrastructure-software-2026.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UAE gains top-tier US AI chip access after aiding in Iran operations",
+              "summary": "The UAE's enhanced U.S. tech access may shift regional power dynamics, potentially deterring Iranian aggression and altering Gulf security.\nThe post UAE gains top-tier US AI chip access after aiding i",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/uae-gains-top-tier-us-ai-chip-access-after-aiding-in-iran-operations/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+              "summary": "Dozens of Meta employees have sued the social media company over claims that it used artificial intelligence tools to tag workers for mass layoffs. The workers allege that those AI tools targeted them",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/3b33c7d232d1ad68",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock: This post shows how Thrad.ai",
+          "summary": ""
+        },
+        {
+          "topic": "Affiliate Marketing Using ChatGPT: Smart Strategies for 2026 – Affiliate Income Stream: Learn how to",
+          "summary": ""
+        },
+        {
+          "topic": "MemeToro Launches Memecoin Market Dashboard to Help Users Track Trending Tokens: MemeToro has launch",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b29765ad",
       "date": "2026-07-15",
       "generated_at": "2026-07-15T11:56:16.796815+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "688909d4",
-      "date": "2026-06-15",
-      "generated_at": "2026-06-15T14:21:12.543667+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Anthropic shuts down Mythos access after sweeping U.S. order",
-              "summary": "Anthropic shuts down Mythos access after sweeping U.S. order\n- Click here to listen to this article \n- \nAnthropic PBC has disabled access to its most advanced artificial intelligence models, including",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/cdbe45b1091f95e7",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Traditional Finance Rushes Into Crypto as Institutions Buy Bitcoin Dip, Axios Reports",
-              "summary": "Traditional financial institutions are accelerating their push into cryptocurrency products in 2026, according to an Axios report. Banks, brokerages, and exchanges are racing to offer crypto services ",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-14-tradfi-rushes-into-crypto-buy-bitcoin-dip.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "White House AI Deal Would Override State Laws, Mandate Age Verification",
-              "summary": "The White House has proposed a federal artificial intelligence (AI) framework that would override existing state AI regulations and require age verification for users of AI systems, according to offic",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-14-white-house-ai-deal-overrides-state-laws.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Argentina Proposes Legal Framework for AI-Run Corporations",
-              "summary": "Argentinian President Javier Milei has submitted legislation to Congress that would establish a new legal framework for artificial intelligence (AI) deployment, including a corporate category for comp",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-14-argentina-proposes-legal-framework-ai-run-corporations.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Angry Meta employee hijacks company presentation to unleash profanity-laced tirade against top exec",
-              "summary": "A Meta employee interrupted a livestreamed company presentation attended by thousands of workers to launch a profanity-filled rant and call a senior AI executive a 'piece of s***.'",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-15897199/Meta-employee-hijacks-company-presentation-unleash-tirade.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Amazon to expand automation use in inventory management at India fulfilment centres",
-              "summary": "Amazon plans to enhance automation in inventory management at Indian fulfilment centres, committing $35 billion in investments by 2030.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/amazon-to-expand-automation-use-in-inventory-management-at-india-fulfilment-centres/article71100450.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea’s world-beating stock market eyes its MSCI moment",
-              "summary": "Now investors are awaiting MSCI Inc.’s annual market-classification review on June 23, when the index provider will decide whether Korea finally earns a place on the watchlist for developed-market sta",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-world-beating-stock-market-eyes-its-msci-moment/articleshow/131716179.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Sleep optional: brutal kick-off time can't stop these fans",
-              "summary": "In Australia, it’s currently the afternoon; things look very different here in Germany, where most people are probably not even awake yet this Sunday, and in many places the beer for this evening li..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/sleep-optional-brutal-kick-off-time-cant-stop-these-fans-43006437",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Bitcoin faces one of its biggest mining difficulty drops as miner margins collapse: The Bitcoin netw",
-          "summary": ""
-        },
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-15T11:56:16.796815+08:00",
+  "last_updated": "2026-07-16T12:06:35.696510+08:00",
   "total_days": 30
 }
