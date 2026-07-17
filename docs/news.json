@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8b6cc357",
+      "date": "2026-07-17",
+      "generated_at": "2026-07-17T11:57:49.771393+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "My Throw Decides My Aim",
+              "summary": "A D-A-D song, heard as a blues sung by a large language model. On generating your intention after the fact, the voice with no throat behind it, and what interpretability keeps finding.",
+              "source": "Thegustafson.com",
+              "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The AI Backlash Has Tech Executives Fearing for Their Lives",
+              "summary": "Violent threats against AI companies are rising and spilling over into real-world security incidentsSAN FRANCISCO—A security guard at Anthropic rushed to stop the man sneaking into the lobby of the wo",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-chat/4388138/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Asia Equities Mostly Decline on AI Concerns",
+              "summary": "Asia-Pacific equities mostly declined, as a pullback in U.S. chip stocks fueled concerns about the longevity of artificial-intelligence enthusiasm and weighed on chip-heavy South Korea.",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/3a7bdc75147ce941",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are there red ferrets?",
+              "summary": "Are There Red Ferrets? Unveiling the Crimson Mystery While the image of a vibrant scarlet ferret might conjure up fantastical visions, the answer is a bit more nuanced: Yes, there are ferrets that app",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-there-red-ferrets/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vehicle Banksman Systems Market to Reach USD 1,488.9 Million by 2036 as Construction Safety Regulations and Smart Collision Avoidance Technologies Drive Global Growth",
+              "summary": "NEWARK, Del., July 15, 2026 /PRNewswire/ -- According to Future Market Insights (FMI), the global Vehicle Banksman Systems Market is poised for significant growth as construction, mining, logistics, a",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/vehicle-banksman-systems-market-to-reach-usd-1-488-9-million-by-2036-as-construction-safety-regulations-and-smart-collision-avoidance-technologies-drive-global-growth-302827088.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Karnataka to roll out data centre policy to power AI-led GCC growth",
+              "summary": "Government plans to establish India’s first public sector-led AI University and a world-class AI Hub to advance AI research, innovation and commercialisation",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/karnataka-to-roll-out-data-centre-policy-to-power-ai-led-gcc-growth/article71226798.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
+              "summary": "The technological rivalry between China and the U.S. has intensified, as they race for AI dominance.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/16/alibaba-baidu-shares-jump-apple-ai-partnership-.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "10 Greatest Sci-Fi Shows With 10 Episodes or Less",
+              "summary": "Station Eleven and Tales from the Loop are some of the sci-fi shows that prove you don't need more than 10 episodes to tell a compelling story.",
+              "source": "Collider.com",
+              "url": "https://collider.com/best-sci-fi-shows-10-episodes-or-less/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Twitter changed my life and career forever: Twenty years ago this week, Twitter made its public ",
+          "summary": ""
+        },
+        {
+          "topic": "Nvidia's Vera Rubin Hardware Rollout May Be Slightly Delayed, But Analyst Still Expects a 62% Upside",
+          "summary": ""
+        },
+        {
+          "topic": "Cisco President Says 'the Future Will Likely Have More Jobs' as AI Could Create More Work Than It El",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b0552057",
       "date": "2026-07-16",
       "generated_at": "2026-07-16T12:06:35.696510+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c65810ac",
-      "date": "2026-06-16",
-      "generated_at": "2026-06-16T14:32:01.705322+08:00",
-      "headline": "今日 AI 新闻速览（48 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Scientists built a battery-free device that turns sunlight into fuel",
-              "summary": "Researchers at Osaka Metropolitan University have developed a battery-free artificial photosynthesis system that continuously converts sunlight, water and carbon dioxide into formic acid, a useful liq",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/scientists-built-a-battery-free-device-that-turns-sunlight-into-fuel/articleshow/131735523.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Monday: Cup debuts for Spain, Belgium, Uruguay and Iran",
-              "summary": "Today's highlightsWorld Cup13:00 – Spain vs Cape Verde – CazéTV, Disney+ Premium16:00 – Belgium vs Egypt – SporTV, Rede Globo, Globoplay, CazéTV, Disney+ Premium, Ge TV19:00 – Saudi Arabia...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/monday-cup-debuts-for-spain-belgium-uruguay-and-iran-43010275",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX and Google Forge $30 Billion AI Infrastructure Partnership Amid Competition and IPO Preparations",
-              "summary": "SpaceX and Google have signed a $30 billion AI infrastructure deal, enhancing Google's Gemini Enterprise platform and diversifying SpaceX's revenue as it prepares for a public offering.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/spacex-google-30-billion-ai-infrastructure-deal-1870635",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CNBC Daily Open: Iran deal fuels global relief rally",
-              "summary": "Iran peace deal sparks a global relief rally in stocks amid hopes that the end of the war will ease the energy crisis impacting economies worldwide.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/15/iran-deal-fuels-global-relief-stock-rally.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Leaked Email Reveals How CEO Asha Sharma Plans to Fix Xbox Profit Margins",
-              "summary": "Xbox is undergoing a dramatic restructuring as it grapples with financial struggles and strategic missteps that have accumulated over the past five years. Bellular News highlights how the division’s s",
-              "source": "Geeky Gadgets",
-              "url": "https://www.geeky-gadgets.com/xbox-restructuring-leaked-email/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India's solar demand projected to surge at 22% CAGR by FY35 on massive data center boom",
-              "summary": "A Nuvama report estimates India’s power demand will grow at a sustained 6% CAGR over the next decade, fueled by economic growth, urbaniSation, manufacturing expansion, and increased electrification",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/indias-solar-demand-projected-to-surge-at-22-cagr-by-fy35-on-massive-data-center-boom/article71103684.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Building AI-Powered Support Engineers with Azure OpenAI and ASP.NET Core",
-              "summary": "Build AI-powered support engineers with ASP.NET Core, Azure OpenAI, and Azure AI Search for faster resolutions and reduced costs.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-support-engineers-with-azure-openai-and-asp-net-core2/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Focus on structural trends, ignore market noise: Hiren Ved",
-              "summary": "Markets react quickly to news, but Hiren Ved of Alchemy Capital Management advises focusing on reality over narratives. He highlights a global capital expenditure supercycle and India's hidden AI oppo",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/expert-view/focus-on-structural-trends-ignore-market-noise-hiren-ved/articleshow/131735245.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Bitcoin faces one of its biggest mining difficulty drops as miner margins collapse: The Bitcoin netw",
-          "summary": ""
-        },
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-16T12:06:35.696510+08:00",
+  "last_updated": "2026-07-17T11:57:49.771393+08:00",
   "total_days": 30
 }
