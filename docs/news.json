@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "22def060",
+      "date": "2026-07-18",
+      "generated_at": "2026-07-18T11:52:59.876577+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "IntelがGoogleのAIサービスを大規模導入するべくパートナーシップを拡大",
+              "summary": "IntelとGoogle Cloudが戦略的パートナーシップの拡大を現地時間の2026年7月16日に発表しました。Intel and Google Cloud Announce Collaboration to Accelerate Intel’s AI-Enabled Enterprise Transformation - Intel Newsroomhttps://newsroom.intel",
+              "source": "Livedoor.com",
+              "url": "https://news.livedoor.com/article/detail/31849764/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do crabs eat baby crabs?",
+              "summary": "Do Crabs Eat Baby Crabs? Cannibalism in the Crustacean World Yes, crabs do eat baby crabs. Cannibalism is surprisingly common in many crab species, especially when resources are scarce or molting indi",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-crabs-eat-baby-crabs/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What color of light do green plants not absorb?",
+              "summary": "What Color of Light Do Green Plants Not Absorb? Green plants primarily reflect green light, meaning they do not absorb that particular wavelength to a significant extent. This is the key reason why th",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-color-of-light-do-green-plants-not-absorb/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "War woes have hospitality professionals looking homeward",
+              "summary": "A surge of Indian hospitality professionals is migrating back from West Asia, driven by regional unrest and a decline in industry activity. These individuals are prioritizing job security and long-ter",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/services/war-woes-have-hospitality-professionals-looking-homeward/articleshow/132451697.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ETMarkets Smart Talk | India’s indirect AI play could create wealth in power, data centres and capital goods: Hiren Ved",
+              "summary": "India's AI boom offers indirect opportunities in infrastructure and power sectors. Foreign institutional investors are shifting allocations away from traditional large-caps. They are now exploring gro",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-indias-indirect-ai-play-could-create-wealth-in-power-data-centres-and-capital-goods-hiren-ved/articleshow/132431395.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's Xi promotes China's commitment to AI access in speech at Shanghai conference",
+              "summary": "President Xi Jinping highlighted people-centered AI development at the World Artificial Intelligence Conference. He stressed China's commitment to equitable AI access for developing nations. This init",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-promotes-chinas-commitment-to-ai-access-in-speech-at-shanghai-conference/articleshow/132451646.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's Xi says AI should not be dominated by one country",
+              "summary": "Artificial intelligence should not be dominated by a single country, China's President Xi Jinping said Friday, urging international cooperation on its development at a major conference in Shanghai.\nCh",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/a1e4c4283bc01f51",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesia joins China-initiated global AI cooperation body",
+              "summary": "Indonesia has become a founding member of the World Artificial Intelligence Cooperation Organization (WAICO), a China-initiated intergovernmental body aimed ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/422999/indonesia-joins-china-initiated-global-ai-cooperation-body",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Says Government-Issued Universal High Income Checks Are Best Fix for AI Job Loss — ‘Everyo",
+          "summary": ""
+        },
+        {
+          "topic": "Guide to data tools landscape for developers: Found yourself on a data project and have no idea what",
+          "summary": ""
+        },
+        {
+          "topic": "After Satya Nadella's 'Pay Twice' Warning, Mark Cuban Says AI Is Making Patents Less Valuable, Trade",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8b6cc357",
       "date": "2026-07-17",
       "generated_at": "2026-07-17T11:57:49.771393+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "8edd4549",
-      "date": "2026-06-17",
-      "generated_at": "2026-06-17T14:08:33.824899+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Asian shares are mostly higher and Japan's Nikkei tops 70,000 before BOJ rate hike",
-              "summary": "Asian shares are mostly higher and Japan's benchmark Nikkei 225 briefly topped 70,000 for the first time before trimming early gains after the Bank of Japan raised its key interest rate to 1%",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/Business/wireStory/asian-shares-higher-japans-nikkei-tops-70000-boj-133911800",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For",
-              "summary": "With its music focus, no-AI content policy, and larger artist royalties, the hi-res streaming service is scooping up all sorts of switchers.",
-              "source": "Wired",
-              "url": "https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Summer’s bounty: Why choosing in-season vegetables matters for health and autonomy",
-              "summary": "Choosing in-season vegetables rejects profit-driven industrial food systems, prioritizing freshness, nutrition, and self-reliance over mass-produced, nutrient-depleted alternatives. Vegetables like zu",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-in-season-vegetables-matter-for-health-autonomy.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Don’t Invest in Your Own Extermination: Why Funding AI Is a Suicidal Bet",
-              "summary": "The Suicidal Investment Let me be blunt: if you are pouring your hard-earned money into AI buildout stocks, you are funding the infrastructure that will almost certainly be used to exterminate you. Th",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-dont-invest-in-your-own-extermination.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Scientists Identify Master Clock Controlling Biological Growth and Development",
-              "summary": "Researchers at Cold Spring Harbor Laboratory (CSHL) have identified a genetic clock that coordinates the timing of gene expression pulses during development in the roundworm Caenorhabditis elegans. Ac",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-scientists-identify-clock-controlling-biological-growth-development.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Battery-free breakthrough in artificial photosynthesis promises cheaper, cleaner solar fuel",
-              "summary": "Scientists at Osaka Metropolitan University developed a battery-free artificial photosynthesis system that self-regulates energy output, eliminating reliance on external electronics and batteries. The",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-battery-free-artificial-photosynthesis-cleaner-solar-fuel.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI data center boom forces federal grid cost showdown: Regulators to rule on who pays",
-              "summary": "The Federal Energy Regulatory Commission is expected to rule this month on whether AI data centers or household ratepayers fund new grid infrastructure. PJM Interconnection’s latest capacity auction s",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-ai-data-center-boom-forces-grid-cost-showdown.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "America must face the looming power crisis",
-              "summary": "U.S. power consumption shattered records in 2025 and is projected to rise further, while the aging grid faces elevated blackout risks due to retiring coal and natural gas plants not being replaced fas",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-16-america-must-face-power-crisis.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Bitcoin faces one of its biggest mining difficulty drops as miner margins collapse: The Bitcoin netw",
-          "summary": ""
-        },
-        {
-          "topic": "Scott Galloway Says Tesla, Nvidia, Broadcom Could Get Caught In The Crossfire Of The Space X IPO: NY",
-          "summary": ""
-        },
-        {
-          "topic": "Google’s New AI-Fueled Search Bar Threatens to Further Upend Journalism Industry: Independent journa",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-17T11:57:49.771393+08:00",
+  "last_updated": "2026-07-18T11:52:59.876577+08:00",
   "total_days": 30
 }
