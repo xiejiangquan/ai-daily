@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f09aeaec",
+      "date": "2026-07-19",
+      "generated_at": "2026-07-19T12:19:48.052604+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China’s latest AI closes gap with US models (again)",
+              "summary": "Kimmy from Full House  Kimi from China  barging right in. A Beijing-based artificial intelligence lab called Moonshot surprised Silicon Valley yesterday when it released Kimi K3, a new AI model that i",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/e22b406896e02524",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Politicians Should Stop Hiding Behind the “Two-State Solution” Fantasy",
+              "summary": "The essence of colonization  is baked into Israel’s Jewish nationalism that has hardened into systemic cruelty toward Palestinians",
+              "source": "Juancole.com",
+              "url": "https://www.juancole.com/2026/07/politicians-solution-fantasy.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the ideal deer habitat?",
+              "summary": "What is the Ideal Deer Habitat? The ideal deer habitat provides a balanced ecosystem offering consistent access to food, water, shelter, and space, allowing deer populations to thrive while minimizing",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-ideal-deer-habitat/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Documents Washington Never Wanted Released",
+              "summary": "The White House has now released a series of declassified election-integrity documents that the administration says expose what it describes as the largest compromise of American voter data in history",
+              "source": "Lewrockwell.com",
+              "url": "https://www.lewrockwell.com/2026/07/martin-armstrong/the-documents-washington-never-wanted-released/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Global Economy’s Most Dangerous Decade Since 1945",
+              "summary": "For much of the past three decades, economic crises were generally viewed as isolated events. The Asian financial crisis of the late 1990s remained largely regional. The collapse of the dot-com bubble",
+              "source": "Lewrockwell.com",
+              "url": "https://www.lewrockwell.com/2026/07/no_author/the-global-economys-most-dangerous-decade-since-1945/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Every Health Article Assumes You Sleep at Night. You Don't. Here Is the Complete Hormonal Protection Protocol for the Woman Who Works When Everyone Else Is Asleep.",
+              "summary": "Your weight gain is circadian, not caloric. Your 3 AM meal hits your pancreas at its lowest sensitivity. Here is the 5-part protocol designed for the woman who works when everyone else is asleep.",
+              "source": "Substack.com",
+              "url": "https://victorfitfleet.substack.com/p/every-health-article-assumes-you",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "5 Star Trek Episodes That Predicted The Future",
+              "summary": "Some of Star Trek's most ambitious and accurate predictions originated in single episodes that preceded actual technological inventions by decades.",
+              "source": "Screen Rant",
+              "url": "https://screenrant.com/star-trek-episodes-predicted-future/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do sugar gliders need bedding?",
+              "summary": "Do Sugar Gliders Need Bedding? Creating the Perfect Habitat The short answer is yes! Sugar gliders need bedding for nesting, warmth, comfort, and sanitation; however, selecting the right bedding is cr",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-sugar-gliders-need-bedding/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": " Y! Sports Biz: Name your price, Jalen Brunson: Inside this year's $90 million Fanatics Fest.",
+          "summary": ""
+        },
+        {
+          "topic": "A high-resolution phenotypic screen identifies regulators of CNS axon diameter in zebrafish: Axon di",
+          "summary": ""
+        },
+        {
+          "topic": "Robinhood Chain Memecoin Season: Top 10 Coins to Watch in Summer 2026: Robinhood Chain public mainne",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "22def060",
       "date": "2026-07-18",
       "generated_at": "2026-07-18T11:52:59.876577+08:00",
@@ -2971,6 +3070,6 @@
       ]
     }
   ],
-  "last_updated": "2026-07-18T11:52:59.876577+08:00",
-  "total_days": 30
+  "last_updated": "2026-07-19T12:19:48.052604+08:00",
+  "total_days": 31
 }
