@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b1f8b13e",
+      "date": "2026-07-20",
+      "generated_at": "2026-07-20T12:34:07.636514+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "How do I stop my hermit crab from pinching?",
+              "summary": "How to Prevent Hermit Crab Pinches: A Comprehensive Guide Want to handle your hermit crab without fear? The key to preventing pinches lies in understanding their behavior, providing a safe and enrichi",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-i-stop-my-hermit-crab-from-pinching/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are coyotes afraid of lights?",
+              "summary": "Are Coyotes Afraid of Lights? Unveiling the Truth While coyotes are often cautious and may temporarily avoid brightly lit areas, they aren’t inherently afraid of lights. Instead, their behavior is inf",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-coyotes-afraid-of-lights/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Waze rolls out Motorcycle Mode, Philippines among first markets to get it",
+              "summary": "Waze has announced a new Motorcycle Mode designed specifically for riders, with the Philippines included among the first countries to...\nThe post Waze rolls out Motorcycle Mode, Philippines among firs",
+              "source": "Yugatech.com",
+              "url": "https://www.yugatech.com/news/waze-motorcycle-mode-philippines/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do birds chirp in the rain?",
+              "summary": "Do Birds Chirp in the Rain? A Symphony or Silence? Yes, birds do chirp in the rain, but the frequency and intensity of their songs often change significantly. The answer is more nuanced than a simple ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-birds-chirp-in-the-rain/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work—He calls that optimistic",
+              "summary": "Top economist Nouriel Roubini, who was among the first to predict the 2008 financial crash, earned the nickname “Dr. Doom” for his stark warnings, though he has been more upbeat lately.\nAnd when it co",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/96d45300ef3b9512",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Cult Of LLMs",
+              "summary": "There’s a line in Minority Report that’s stuck with me. After looking over the crime scene, the detective character turns to another cop. “This is what we’d call an orgy of evidence. Know how many org",
+              "source": "Freethoughtblogs.com",
+              "url": "https://freethoughtblogs.com/reprobate/2026/07/18/the-cult-of-llms/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do birds like bubblers in bird baths?",
+              "summary": "Do Birds Like Bubblers in Bird Baths? Enhancing Bird Bath Appeal Yes, birds generally do like bubblers in bird baths! Bubblers provide movement, which attracts birds, prevents mosquito breeding, and k",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-birds-like-bubblers-in-bird-baths/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why do opossums live so short?",
+              "summary": "Why Opossums Have Such Short Lifespans: Unveiling the Reasons Opossums have surprisingly short lifespans due to a combination of environmental pressures and their unique biology; their high reproducti",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-do-opossums-live-so-short/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His Spac",
+          "summary": ""
+        },
+        {
+          "topic": " Y! Sports Biz: Name your price, Jalen Brunson: Inside this year's $90 million Fanatics Fest.",
+          "summary": ""
+        },
+        {
+          "topic": "A high-resolution phenotypic screen identifies regulators of CNS axon diameter in zebrafish: Axon di",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f09aeaec",
       "date": "2026-07-19",
       "generated_at": "2026-07-19T12:19:48.052604+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "51aa0368",
-      "date": "2026-06-19",
-      "generated_at": "2026-06-19T14:16:30.865311+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Meet XREAL’s $1,500 Aura XR Glasses Coming in Fall 2026",
-              "summary": "XREAL has officially introduced its Aura XR glasses, marking a significant step forward from its earlier Project Aura concept. As highlighted by TechAvid, these glasses combine a lightweight design of",
-              "source": "Geeky Gadgets",
-              "url": "https://www.geeky-gadgets.com/xreal-air-xr-glasses-specs-price/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Fed’s Warsh Rocks Bond Market in Debut, Sparks Surge in Rate-Hike Bets",
-              "summary": "It didn’t take Kevin Warsh long to get the bond market’s attention.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/feds-warsh-rocks-bond-market-in-debut-sparks-surge-in-rate-hike-bets",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic Used Cursor Use Data to Get Ahead, So SpaceXAI Will Use Cursor to Get Ahead",
-              "summary": "Insider Jason Calcanis said Anthropic stabbed Cursor in the back. Anthropic allegedly used massive Cursor user data/token consumption to train and improve their own internal coding capabilities (Claud",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/06/anthropic-used-cursor-use-data-to-get-ahead-so-spacexai-will-use-cursor-to-get-ahead.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Thursday's schedule: Copa second round starts with four matches",
-              "summary": "WORLD CUP1:00 PM - Czechia vs South Africa - YouTube (CazéTV) 4:00 PM - Switzerland vs Bosnia - Globo, SBT, SporTV, NSports, Globoplay (GE TV) and YT (CazéTV) 7:00 PM - Canada vs Qatar - YouTube (Ca..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/thursdays-schedule-copa-second-round-starts-with-four-matches-43024372",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Robo.ai announces proposed acquisition of QC Capital, an AI-Driven technology holding and venture-building platform",
-              "summary": "ABU DHABI, UAE, June 18, 2026 /PRNewswire/ -- Robo.ai Inc. (NASDAQ: AIIO), a Nasdaq-listed UAE-based company, announced today that it has entered into an agreement to acquire 100% of the equity intere",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/roboai-announces-proposed-acquisition-of-qc-capital-an-ai-driven-technology-holding-and-venture-building-platform-302804037.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "NVIDIA vs SpaceX Stock: Evaluating Top Tech Plays for Investors in 2026",
-              "summary": "Investors weigh NVIDIA's AI leadership against SpaceX's space ambitions, assessing risk-reward profiles in a market driven by transformative technologies. Both companies offer unique growth opportunit",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/nvidia-vs-spacex-investment-showdown-1870812",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "RIL AGM 2026: Jio IPO and 4 other big bets Mukesh Ambani could unveil this Friday",
-              "summary": "Reliance Industries Chairman Mukesh Ambani is set to reveal major plans at the 49th annual general meeting. Investors anticipate updates on the Jio IPO, a significant $110 billion AI and data center b",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-jio-ipo-and-4-other-big-bets-mukesh-ambani-could-unveil-this-friday/articleshow/131819216.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Rights Groups Sound Alarm Over Military AI Use, Citing Gaza Genocide",
-              "summary": "Rights groups and tech activists issued a joint statement on Tuesday, June 16, calling for a halt to the use of artificial intelligence (AI) in military operations, specifically citing Israel’s operat",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-18-rights-groups-sound-alarm-military-ai-use.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
-          "summary": ""
-        },
-        {
-          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
-          "summary": ""
-        },
-        {
-          "topic": "7 Ways Businesses Are Using Crypto Swap APIs: Real-world case studies show how the best crypto swap ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-19T12:19:48.052604+08:00",
+  "last_updated": "2026-07-20T12:34:07.636514+08:00",
   "total_days": 31
 }
