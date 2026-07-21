@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "351e0857",
+      "date": "2026-07-21",
+      "generated_at": "2026-07-21T12:13:14.235078+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
+              "summary": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI may predict harmful chemical exposures affecting human health",
+              "summary": "Artificial intelligence is rapidly improving scientists' ability to detect chemicals in the environment and human body.",
+              "source": "News-Medical.Net",
+              "url": "https://www.news-medical.net/news/20260719/AI-may-predict-harmful-chemical-exposures-affecting-human-health.aspx",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: CXMT's $8.6 billion IPO draws strong demand despite cooling enthusiasm for chip stocks",
+              "summary": "Chinese memory chipmaker CXMT Corp's IPO saw oversubscription by institutional investors. This robust demand highlights continued investor interest in China's semiconductor sector. The company's listi",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-cxmts-8-6-billion-ipo-draws-strong-demand-despite-cooling-enthusiasm-for-chip-stocks/articleshow/132505737.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Vision Storylines That Completely Changed the MCU’s Synthezoid’s Place in Marvel Comics",
+              "summary": "Image Courtesy of Marvel Comics\n\nVision has been one of Marvel Comics’ most unique characters for years for a really important reason. His origin story saw Ultron create Vision to be his “son” while u",
+              "source": "ComicBook.com",
+              "url": "http://comicbook.com/comics/list/the-vision-storylines-that-completely-changed-the-mcus-synthezoids-place-in-marvel-comics/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Earnings season gathers pace as AI heavyweights, chipmakers take centre stage",
+              "summary": "US corporate earnings season is set to accelerate this week with key tech giants announcing their results for this quarter. Investors anticipate strong artificial intelligence growth while monitoring ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-season-gathers-pace-as-ai-heavyweights-chipmakers-take-centre-stage/articleshow/132505605.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EVA LIVE TARGETS A $3 TRILLION GLOBAL DEFENSE, SATELLITE AND AI INFRASTRUCTURE OPPORTUNITY WITH PROPOSED ACQUISITION OF AIRBEAM WIRELESS TECHNOLOGIES",
+              "summary": "Proposed acquisition brings access to more than 260 patents and advanced millimeter-wave semiconductor technology built upon a technology lineage that benefited from more than $150 million in cumulati",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/07/20/3329416/0/en/EVA-LIVE-TARGETS-A-3-TRILLION-GLOBAL-DEFENSE-SATELLITE-AND-AI-INFRASTRUCTURE-OPPORTUNITY-WITH-PROPOSED-ACQUISITION-OF-AIRBEAM-WIRELESS-TECHNOLOGIES.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Who Watches the Watchers?",
+              "summary": "Photo Credit:History changed graphic montage\n \n chatgptBy Brian C. Joondeph Trust is important. Verification is essential.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/07/who-watches-the-watchers/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Taiwan-US 'co-make' white paper debuts amid investment boom",
+              "summary": "Taiwan Semiconductor Manufacturing Company's (TSMC) announcement of an additional US$100 billion investment into US manufacturing has brought renewed attention to manufacturing in the US. The Internat",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260719PD200/taiwan-investment-tsmc-manufacturing-technology.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "As SpaceX Declines, Gary Black Says He Won't Get Excited Until SPCX Stock Falls Below $100—Ross Gerb",
+          "summary": ""
+        },
+        {
+          "topic": "Trump Slams New York Data Center Moratorium as 'Terrible Decision' While Bill Ackman Points to AI Ra",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His Spac",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "b1f8b13e",
       "date": "2026-07-20",
       "generated_at": "2026-07-20T12:34:07.636514+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c865d7ea",
-      "date": "2026-06-20",
-      "generated_at": "2026-06-20T13:11:14.480735+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "AI is coming for your job, but what If it also paid you $60,000 a year?",
-              "summary": "Imagine losing your job to artificial intelligence, and still taking home upwards of $60,000 a year. That is the core promise of Universal High Income, a concept gaining serious traction among AI thin",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/wealth/earn/ai-is-coming-for-your-job-but-what-if-it-also-paid-you-60000-a-year/what-happens-when-ai-takes-your-job-but-still-pays-your-bills/slideshow/131847499.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SK Hynix shares gain 7% as AI chip demand sends stock to record high",
-              "summary": "SK Hynix's stock surge highlights the transformative impact of AI demand on the semiconductor industry, reshaping market dynamics globally.\nThe post SK Hynix shares gain 7% as AI chip demand sends sto",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/sk-hynix-shares-gain-7-percent-ai-demand/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Reality Check: What triggered Accenture's historic stock plunge",
-              "summary": "Accenture witnessed one of the sharpest declines in its history after reporting its third-quarter FY26 results. While the company remains optimistic about the long-term opportunity in artificial intel",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/markets/us-stocks/news/reality-check-what-triggered-accentures-historic-stock-plunge/accentures-biggest-ever-stock-crash/slideshow/131847579.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UP Government and The Goat Trust Sign MoU to Boost Income for Small Livestock Farmers — TrendKia",
-              "summary": "The Animal Husbandry Department of Uttar Pradesh has signed a Memorandum of Understanding (MoU) with The Goat Trust to empower the livelihoods of small livestock farmers in the state. This partnership",
-              "source": "Trendkia.com",
-              "url": "https://trendkia.com/en/business/up-government-and-the-goat-trust-sign-mou-to-boost-income-for-small-livestock-fa-1701",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Mexico being Mexico: El Tri sparks street-wide celebrations",
-              "summary": "Winning a group-stage match and celebrating as if we had the Cup in our hands, that’s Mexico. Mexico’s national team took care of business, mathematically secured its ticket to the next round of t...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/mexico-being-mexico-el-tri-sparks-street-wide-celebrations-43029353",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta Lobbies Congress for Protection From Child-Harm Lawsuits: Reuters",
-              "summary": "Meta Platforms has lobbied the U.S. Congress for legal immunity from child-harm claims tied to social media products such as Instagram, as it faces thousands of lawsuits from young users and their fam",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/06/19/874479.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Look under the hood. There are ‘echoes of 2006′ in the Irish economy",
-              "summary": "Trump says Iran peace deal has averted ‘worldwide depression’ but closer to home experts worry prices will continue to rise regardless",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/06/19/look-under-the-hood-and-there-are-echoes-of-2006-about-true-health-of-irish-economy/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "America Needs a More Thoughtful Energy Conversation",
-              "summary": "What we need is a clear strategy for meeting rising energy demand while staying competitive in industries that will shape the future economy. That not only requires serious policy discussions but it a",
-              "source": "Wattsupwiththat.com",
-              "url": "https://wattsupwiththat.com/2026/06/18/america-needs-a-more-thoughtful-energy-conversation/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
-          "summary": ""
-        },
-        {
-          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
-          "summary": ""
-        },
-        {
-          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-20T12:34:07.636514+08:00",
+  "last_updated": "2026-07-21T12:13:14.235078+08:00",
   "total_days": 31
 }
