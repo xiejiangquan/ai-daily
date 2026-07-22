@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "187cbb0a",
+      "date": "2026-07-22",
+      "generated_at": "2026-07-22T12:14:48.616268+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "South Korea’s Kospi jumps 4% after 31% crash from June peak. What’s ahead?",
+              "summary": "South Korea's Kospi index saw a significant jump, recovering some losses after a sharp decline. Shares of chipmakers like Samsung Electronics and SK Hynix drove this recent market recovery. However, t",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-kospi-jumps-4-after-31-crash-from-june-peak-whats-ahead/articleshow/132527587.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Citizens Around the World Are Ready for AI-Powered Public Services. Now Governments Need to Deliver",
+              "summary": "BCG Global Survey Finds Declining Satisfaction with Digital Government Services Citizens Increasingly Support AI-Powered Public Services Public Openness to AI Is a Critical Opportunity to Modernize Go",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/citizens-around-the-world-are-ready-for-ai-powered-public-services-now-governments-need-to-deliver-302830129.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rockefeller Foundation Commits $4 Million to America's Working Lands and Rural Prosperity in Partnership with Alder Point",
+              "summary": "With $4 million commitment from The Rockefeller Foundation, Alder Point Capital Management will bring more undermanaged land under responsible stewardship, partnering with local farmers, foresters, an",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/rockefeller-foundation-commits-4-million-to-americas-working-lands-and-rural-prosperity-in-partnership-with-alder-point-302830117.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Exhibit That Arrived Before the Future",
+              "summary": "Technology has an unusual habit of revealing itself twice. The first version appears quietly, almost unnoticed, inside research papers, patent filings, laboratory demonstrations and corporate presenta",
+              "source": "Lewrockwell.com",
+              "url": "https://www.lewrockwell.com/2026/07/no_author/the-exhibit-that-arrived-before-the-future/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Constitution is not a mood ring",
+              "summary": "By George P. BrooksOriginalism, constitutional stability, and the danger of chasing political fashion.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/the-constitution-is-not-a-mood-ring/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Implications of testosterone tests for our war fighters",
+              "summary": "By Noel S. WilliamsBut what about the estrogen elephant in the room?",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/implications-of-testosterone-tests-for-our-war-fighters/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+              "summary": "Data center leases, GPU supply contracts raise liabilities at Meta, Oracle, Nikkei study shows",
+              "source": "Nikkei.com",
+              "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ASX 200 Claws Back Early Losses Tuesday as Miners and Tech Stocks Rebound, Energy Shares Extend Gains",
+              "summary": "The ASX 200 index rose slightly as mining and tech stocks recovered from early losses, despite global tech selloff pressures and rising oil prices due to U.S.-Iran tensions.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/asx-200-mining-tech-recovery-1872678",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "6 Digital PR Strategies to Boost AI Visibility: Digital PR is the single most important strategy to ",
+          "summary": ""
+        },
+        {
+          "topic": "xiaohongshu-matrices-cli added to PyPI: A CLI and local dashboard for Xiaohongshu search, collection",
+          "summary": ""
+        },
+        {
+          "topic": "As SpaceX Declines, Gary Black Says He Won't Get Excited Until SPCX Stock Falls Below $100—Ross Gerb",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "351e0857",
       "date": "2026-07-21",
       "generated_at": "2026-07-21T12:13:14.235078+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "4fc652be",
-      "date": "2026-06-21",
-      "generated_at": "2026-06-21T13:58:34.920698+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " 2026 World Cup, overnight round-up",
-              "summary": "Every morning, OneFootball will bring you a full recap of the night at the World Cup. And as you’ll see, it was a busy night!The night’s must-see momentsThis is obviously one of the main stories o...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/2026-world-cup-overnight-round-up-43033880",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles",
-              "summary": "An atlas of the vibrance of the real world",
-              "source": "Wordpress.com",
-              "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " World Cup highlights: Brazil joy as stars shine, USA and Morocco strong",
-              "summary": "With a jam-packed schedule, the World Cup got the weekend underway. On Friday evening, the USA celebrated a 2-0 win over Australia in an intensely contested match.At midnight, it was then Morocco and ",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/world-cup-highlights-brazil-joy-as-stars-shine-usa-and-morocco-strong-43033849",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ancelotti praises Cunha and Vini, highlights Brazil progress v Haiti",
-              "summary": "Carlo Ancelotti during the Seleção’s 3-0 win over Haiti, in the second World Cup match. A follow-up assessmentCredits: Rafael Ribeiro/CBFCarlo Ancelotti praised the performances of Vinicius Jr. an...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/ancelotti-praises-cunha-and-vini-highlights-brazil-progress-v-haiti-43033831",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Turkey knocked out of the World Cup!",
-              "summary": "It's the fiasco of the year!A thunderbolt at the World Cup: Turkey has been eliminated from the World Cup after a dismal defeat to Paraguay (0-1).Caught cold by a goal from Matias Galarza after 64 sec",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/turkey-knocked-out-of-the-world-cup-43033756",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "'Alter-Ego': An Italian hospital's little robot carer",
-              "summary": "A robot with expressive eyebrows that is designed to perform basic tasks to free up healthcare workers is being given a trial run by a hospital in Milan.",
-              "source": "RTE",
-              "url": "https://www.rte.ie/news/newslens/2026/0620/1579279-milan-hospital-robot/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Miriam Lord’s Week: Let he who is without Sim cast the first phone",
-              "summary": "Taoiseach’s cranky inner teacher comes out as he sees TDs not paying attention in class",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/politics/2026/06/20/miriam-lords-week-let-he-who-is-without-sim-cast-the-first-phone/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Matheus Cunha celebrates first World Cup goals",
-              "summary": "Matheus Cunha scored twice in Brazil’s 3-0 win over Haiti in Philadelphia in the second round of the World CupCredits: Rafael Ribeiro/CBFMatheus Cunha celebrated his first-ever World Cup goals, scor..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/matheus-cunha-celebrates-his-first-world-cup-goals-43033699",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
-          "summary": ""
-        },
-        {
-          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
-          "summary": ""
-        },
-        {
-          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-21T12:13:14.235078+08:00",
+  "last_updated": "2026-07-22T12:14:48.616268+08:00",
   "total_days": 31
 }
