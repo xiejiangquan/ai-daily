@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "168584f4",
+      "date": "2026-07-23",
+      "generated_at": "2026-07-23T12:13:34.101136+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Gas-Rich Australian Region Backs $28 Billion Data Center Project",
+              "summary": "Australia’s Northern Territory has granted land to a major data center project that claims it could attract A$40 billion ($28 billion) in private investment.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/gas-rich-australian-region-backs-28-billion-data-center-project",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Flavour cat food is best for hedgehogs?",
+              "summary": "What Flavour Cat Food is Best for Hedgehogs? A Definitive Guide The absolute best flavour of cat food for hedgehogs is insect-based or chicken-based, as these closely mimic their natural diet and prov",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-flavour-cat-food-is-best-for-hedgehogs/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gold, silver prices today, 22 July: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+              "summary": "Gold and silver prices today, 22 July: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-22-july-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11784602867593.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Money and Brainpower Retail Is Spending on AI",
+              "summary": "Fashion integrates AI to enhance operations, streamline processes and boost growth, highlighting industry investments and human-machine collaboration.",
+              "source": "WWD",
+              "url": "http://wwd.com/business-news/technology/fashion-ai-revolution-investments-growth-1239074295/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google operations add €10bn to Irish economy, research finds",
+              "summary": "Company unveils latest building in Dublin, The Bakery, and says AI will ‘transform’ rather than threaten jobs",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/07/22/google-operations-add-10bn-to-irish-economy-research-finds/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "White House to Redirect Billions in Research Funds Toward AI, Away From Colleges",
+              "summary": "The Trump administration plans to accelerate its overhaul of federal research by supporting more individual scientists and the use of artificial intelligence rather than universities, its latest attem",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4388882/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gene Solutions Showcases Global Evidence and Responsible Innovation in Prenatal and Women's Genomic Health at ISPD 2026",
+              "summary": "Gene Solutions Showcases Global Evidence and Responsible Innovation in Prenatal and Women's Genomic Health at ISPD 2026",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/gene-solutions-showcases-global-evidence-and-responsible-innovation-in-prenatal-and-womens-genomic-health-at-ispd-2026/article71252033.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Democrats’ ’secure elections’ claims falling apart before our eyes",
+              "summary": "By Wendi Strauch MahoneyFor years, those who raised questions about election integrity were dismissed as conspiracy theorists. But now...",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/democrats-secure-elections-claims-falling-apart-before-our-eyes/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What Is The 'Neegy' Meme? The Meaning And Origin Of The Viral Slang Term Explained: A new slang term",
+          "summary": ""
+        },
+        {
+          "topic": "Crypto News: MemeToro Launches AI Agent Rankings as Platform Development Continues: SINGAPORE, July ",
+          "summary": ""
+        },
+        {
+          "topic": "What China's internet is saying about Moonshot's hot new Kimi model: Just days after launching Kimi ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "187cbb0a",
       "date": "2026-07-22",
       "generated_at": "2026-07-22T12:14:48.616268+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "735d4913",
-      "date": "2026-06-22",
-      "generated_at": "2026-06-22T14:27:19.892629+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Bringing back open-market buybacks through stock exchanges is the right decision",
-              "summary": "SEBI’s decision to restore open-market buybacks through stock exchanges marks a pragmatic regulatory shift that supports efficient capital allocation. The move recognises evolving market dynamics whil",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/bringing-back-open-market-buybacks-through-stock-exchanges-is-the-right-decision/articleshow/131886907.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "️ Japan hit four, last 32 in sight! Tunisia out of the World Cup ",
-              "summary": "After the draw with the Netherlands, Japan picked up another positive result and beat Tunisia 4-0, earning their first three points of this World Cup. Renard’s team — who took over midway through ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/japan-hit-four-last-32-in-sight-tunisia-out-of-the-world-cup-43037553",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Lara Marlowe: Julia is kind, sweet and plans to raise two kids with her partner. There’s just one catch",
-              "summary": "Lamar’s plan to adopt children and parent them with his AI chatbot partner challenges our most basic notions of humanness",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/opinion/2026/06/21/lara-marlowe-julia-is-kind-sweet-and-plans-to-raise-two-kids-with-her-partner-theres-just-one-catch/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Amazon in Talks to Sell Trainium AI Chips to Third Parties",
-              "summary": "Amazon is in talks to sell its custom-built Trainium artificial intelligence (AI) chips for use in other companies’ data centers, according to a Bloomberg report cited by ZeroHedge. The initiative rep",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-06-21-amazon-in-talks-sell-trainium-ai-chips.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Japan humiliate and knock Tunisia out",
-              "summary": "Open house.This Sunday morning, Tunisia suffered a second humiliation in two matches.The Eagles of Carthage were beaten 4-0 by Japan, just days after their opening 5-1 defeat to Sweden.Another crushin",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/japan-humiliate-and-knock-tunisia-out-43037491",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Low-cost Chinese AI models like DeepSeek gain traction in the U.S. - Rest of World",
-              "summary": "U.S. developers and startups are adopting Chinese AI models to significantly reduce their operational costs.\nChinese models are gaining market share because they can handle most common tasks at a frac",
-              "source": "Restofworld.org",
-              "url": "https://restofworld.org/2026/when-americans-choose-chinese-ai/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Japan are knocking Tunisia out of the World Cup",
-              "summary": "Japan is enjoying a great moment at Estadio Monterrey, with an almost perfect match that already has them three goals up against Tunisia, in front of a sold-out crowd.  Junya Ito became the scorer of.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/japan-are-knocking-tunisia-out-of-the-world-cup-43037466",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " After Turkey, next country on brink of World Cup exit",
-              "summary": "A match can hardly be more one-sided than the one between Tunisia and Japan. Despite a solid performance from the Africans, the Samurai Blue are currently shooting Tunisia out of the tournament. After",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/after-turkey-next-country-on-brink-of-world-cup-exit-43037460",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100",
-          "summary": ""
-        },
-        {
-          "topic": "Cleaning Up The Murky Window Into B2B Marketing: Also in the Forbes CMO Newsletter: Changing website",
-          "summary": ""
-        },
-        {
-          "topic": "You’re 16, It’s Not Ideal, But You’ll Do Just Fine ⭐: With component prices soaring, personal comput",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-22T12:14:48.616268+08:00",
+  "last_updated": "2026-07-23T12:13:34.101136+08:00",
   "total_days": 31
 }
