@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "031774fd",
+      "date": "2026-07-25",
+      "generated_at": "2026-07-25T12:07:13.545799+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Thank your friendly neighborhood data center",
+              "summary": "By Peter C. EarleIronically, data centers are performing an extremely valuable public service: they are revealing regulatory bottlenecks that remained largely invisible while electricity demand was gr",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/thank-your-friendly-neighborhood-data-center/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Trump administration is right to redirect university research",
+              "summary": "By Matthew G. AnderssonThere are better ways to do research, and the White House found it: the private sector.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/the-trump-administration-is-right-to-redirect-university-research/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI video reveals Dem free speech hypocrisy",
+              "summary": "By John KlarVermont Democrats attempt to punish “misinformation” while spewing it endlessly themselves.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/07/ai-video-reveals-dem-free-speech-hypocrisy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Infosys shares fall 3% as JPMorgan downgrades stock, Jefferies cuts target after Q1 results",
+              "summary": "Infosys shares fell after global brokerages turned cautious following the company's Q1 FY27 results and a cut to the upper end of its revenue growth guidance. JPMorgan downgraded the stock, while Jeff",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-fall-3-as-jpmorgan-downgrades-stock-jefferies-cuts-target-after-q1-results/articleshow/132595782.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stocks suffer fresh blow as markets hit by perfect storm",
+              "summary": "HONG KONG: Asian markets sank on Friday (Jul 24) to track a selloff on Wall Street as world markets are battered by a perfect storm of the resurgent Middle East war, a spike in oil prices back past US",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/asian-stocks-down-middle-east-war-ai-tariffs-6275201",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "​ Mexico's women's league will have a new format",
+              "summary": "After many days of waiting, the new format and schedule for the Women’s League have officially been announced. It has been revealed that the tournament will now consist of 14 matchdays, and the tea...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/mexicos-womens-league-will-have-a-new-format-43178817",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why voice, not keyboards, may define AI's next chapter",
+              "summary": "The artificial intelligence race is shifting focus from model size to user interaction.  Voice interfaces will soon replace keyboards for many everyday digital tasks.  India's linguistic diversity pre",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/why-voice-not-keyboards-may-define-ais-next-chapter/articleshow/132595657.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can you feed possums banana?",
+              "summary": "Can You Feed Possums Bananas? A Comprehensive Guide Yes, you can feed possums bananas, and they often enjoy them. However, offering bananas should be done sparingly as part of a varied and balanced di",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-feed-possums-banana/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Says ‘If You Value Tesla as Just an Auto Company, Fundamentally, It’s Just the Wrong Frame",
+          "summary": ""
+        },
+        {
+          "topic": "AI SEO tools small businesses actually use: AI SEO tools for small businesses are essential to keep ",
+          "summary": ""
+        },
+        {
+          "topic": "Bill Ackman Says It 'Makes No Sense' to Educate Top Talent Then Send Them Home, Calls for US Immigra",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "4ed5600a",
       "date": "2026-07-24",
       "generated_at": "2026-07-24T12:12:00.420896+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b829d621",
-      "date": "2026-06-24",
-      "generated_at": "2026-06-24T13:00:55.284960+08:00",
-      "headline": "今日 AI 新闻速览（57 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Salesforce hopes Fin deal can paper over its AI cracks",
-              "summary": "Rationale for the acquisition is clear but also suggests software giant has underperformed its own hype",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/06/23/salesforce-hopes-fin-deal-can-paper-over-its-ai-cracks/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google’s Andi Gutmans on the shift to agent-scale data management",
-              "summary": "We talk to PHP pioneer and Google agentic data cloud vice-president about ensuring agentic quality, including having agents voting against each other, and the risk of LLM lock-in",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366644940/Googles-Andi-Gutmans-on-the-shift-to-agent-scale-data-management",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Yotta Data Services Receives Frost & Sullivan's 2026 Indian Company of the Year Recognition for Leadership in Sovereign AI Infrastructure",
-              "summary": "The company is being recognized for enabling secure, scalable, and AI-ready cloud environments that support India's rapidly expanding digital ecosystem and AI innovation landscape. SAN ANTONIO, June 2",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/yotta-data-services-receives-frost--sullivans-2026-indian-company-of-the-year-recognition-for-leadership-in-sovereign-ai-infrastructure-302806131.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Lawsuit Says Gas Stations Using AI to Inflate Prices in California",
-              "summary": "A group of California consumers claimed in a lawsuit that gas station owners including Walmart Inc., Marathon Petroleum Corp., BP Plc and 7-Eleven Inc. are using artificial intelligence to illegally m",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/west/2026/06/23/874838.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Students protest AI amid growing national concerns",
-              "summary": "As Australia tracks toward becoming a global leader in artificial intelligence infrastructure, a group of high school students is demanding stronger regulation.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-06-23/students-protest-ai-amid-growing-national-concerns/106808776",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tata Motors CV bets on global expansion, EVs and digital businesses for next phase of growth",
-              "summary": "Tata Motors' commercial vehicle division is charting an ambitious growth path, prioritizing global expansion, electric vehicles, and digital services. The company aims to leverage the proposed Iveco a",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-cv-bets-on-global-expansion-evs-and-digital-businesses-for-next-phase-of-growth/articleshow/131925254.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global M&A deal value on track to reach $4 trillion this year: PwC",
-              "summary": "Global deal value of M&A is on track to reach $4 trillion in 2026, making it the strongest year since 2021",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/06/23/global-ma-deal-value-on-track-to-reach-4-trillion-this-year-pwc-.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "After workers, beggars replaced by robots: Viral video from China makes netizens question if begging will face 'layoffs'",
-              "summary": "A Unitree humanoid robot was filmed soliciting donations on a Chinese street, claiming it needed funds for recharging. This incident follows scrutiny of robot capabilities after a chaotic half-maratho",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/after-workers-beggars-replaced-by-robots-viral-video-from-china-makes-netizens-question-if-begging-will-face-layoffs/articleshow/131925127.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Why AI tokens will send your enterprise cloud bill sky-high again: AI tokens will remind many enterp",
-          "summary": ""
-        },
-        {
-          "topic": "Social Media Marketing Will Never Be the Same. Here's Why.: Social Media Marketing Will Never Be the",
-          "summary": ""
-        },
-        {
-          "topic": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More: It’s M",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-24T12:12:00.420896+08:00",
+  "last_updated": "2026-07-25T12:07:13.545799+08:00",
   "total_days": 31
 }
