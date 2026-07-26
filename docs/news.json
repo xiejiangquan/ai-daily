@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "674c2ad8",
+      "date": "2026-07-26",
+      "generated_at": "2026-07-26T12:23:21.924484+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Strengthening Health Cooperation in BRICS: A Focus on AI and Digital Health, ETHealthworld",
+              "summary": "Emphasising that continuity of care lies at the heart of every health system, she said the fundamental challenge before all countries is to ensure that a citizen's healthcare journey remains connected",
+              "source": "The Times of India",
+              "url": "https://health.economictimes.indiatimes.com/news/policy/health-cooperation-remains-a-strong-pillar-of-brics-partnership-health-secretary/132617411",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+              "summary": "The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.",
+              "source": "Nist.gov",
+              "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why are there 100s of black birds in my yard?",
+              "summary": "Why Are There Hundreds of Black Birds in My Yard? Decoding the Mystery Large flocks of black birds congregating in your yard often signal changes in season or attractive food sources; understanding th",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-are-there-100s-of-black-birds-in-my-yard/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How sustainability is becoming the fertiliser industry’s defining growth strategy",
+              "summary": "Explore how sustainability is reshaping India's fertiliser industry, enhancing food security and promoting a resilient, eco-friendly future.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/economy/agri-business/how-sustainability-is-becoming-the-fertiliser-industrys-defining-growth-strategy/article71262860.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do hummingbirds prefer red or blue?",
+              "summary": "Do Hummingbirds Prefer Red or Blue? Unraveling the Color Mystery Hummingbirds are famously attracted to feeders, but do hummingbirds prefer red or blue? The answer is nuanced: While hummingbirds are s",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-hummingbirds-prefer-red-or-blue/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Systemic Advantages Of The Transgender Paradigm (Satire)",
+              "summary": "Photo Credit:\n \n American ThinkerBy Milli SandsUnder the new paradigm, every aspect of American life will be more efficient and affordable.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/07/systemic-advantages-of-the-transgender-paradigm-satire/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI-generated deepfake video of Piyush Goyal leads to FIR",
+              "summary": "Piyush Goyal recently alerted authorities about a deepfake video misrepresenting his statements through AI manipulation. Following this, an FIR was filed at the Chanakyapuri Police Station. Goyal said",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ai-generated-deepfake-video-of-piyush-goyal-leads-to-fir/articleshow/132618425.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Piyush Goyal says AI-generated deepfake video of his remarks circulated, FIR registered",
+              "summary": "Union Minister Piyush Goyal said strict legal action would be taken against everyone involved in creating, circulating or amplifying the alleged fake video. The government also debunked a video circul",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/piyush-goyal-says-ai-generated-deepfake-video-of-his-remarks-circulated-fir-registered/articleshow/132618654.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
+          "summary": ""
+        },
+        {
+          "topic": "Yoroll Launches AI Odyssey, a Playable AI Film Inspired by Homer's Epic: Playable AI film inspired b",
+          "summary": ""
+        },
+        {
+          "topic": "728. The Parisian Heist with Jo Piazza: Jo Piazza is my guest this week to discuss her new book, The",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "031774fd",
       "date": "2026-07-25",
       "generated_at": "2026-07-25T12:07:13.545799+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "e9b4f0e5",
-      "date": "2026-06-25",
-      "generated_at": "2026-06-25T13:03:27.298357+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "BRIN champions AI, digital tech to curb emissions from agriculture",
-              "summary": "The National Research and Innovation Agency (BRIN) is pushing for artificial intelligence (AI) and digital technology adoption in the agricultural sector to ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/420215/brin-champions-ai-digital-tech-to-curb-emissions-from-agriculture",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘I relax when I see a player go flat out’: Fifa signs Dundalk grass expert for World Cup",
-              "summary": "reg Whately has used his horticultural expertise to make sure pitch in Boston is optimal for football",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/sport/soccer/2026/06/24/i-relax-when-i-see-a-player-go-flat-out-fifa-signs-dundalk-grass-expert-for-world-cup/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Andy Burnham will have to be brave if he wants to get Britain’s economy growing again",
-              "summary": "But UK politics is hostile to making tough and necessary choices",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/economy/2026/06/24/andy-burnham-will-have-to-be-brave-if-he-wants-to-get-britains-economy-growing-again/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "WISeKey and Its Subsidiary WISeSat.Space Corp. Announce Filing of Registration Statement on Form F-4 with the U.S. Securities and Exchange Commission",
-              "summary": "WISeKey and Its Subsidiary WISeSat.Space Corp. Announce Filing of Registration Statement on Form F-4 with the U.S. Securities and Exchange Commission ...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/24/3316580/0/en/WISeKey-and-Its-Subsidiary-WISeSat-Space-Corp-Announce-Filing-of-Registration-Statement-on-Form-F-4-with-the-U-S-Securities-and-Exchange-Commission.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Workplace trends 2026: Office-based positions receiving 40% fewer applications than hybrid roles, says recruiter",
-              "summary": "Candidates are evaluating employers just as carefully as employers are evaluating them, says Matrix Recruitment",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/work/2026/06/24/office-based-positions-receiving-40-fewer-applications-than-hybrid-roles-says-recruiter/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Infrastructure Partnership and Brookfield bid for Stack Infrastructure’s Asia-Pacific data centers",
-              "summary": "The potential $30B transaction could redefine APAC data center valuations, highlighting the region's growing strategic importance in AI infrastructure.\nThe post AI Infrastructure Partnership and Brook",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/aip-brookfield-bid-stack-infrastructure-apac-data-centers/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ramayana's Modern Bollywood Avatars",
-              "summary": "Long before Alpha, Bollywood had been retelling the Ramayana in modern settings, sometimes subtly and sometimes not so subtly.",
-              "source": "Rediff.com",
-              "url": "https://www.rediff.com/movies/special/from-tezaab-to-singham-again-10-hindi-films-inspired-by-the-ramayana/20260624.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SoftBank's Son says calling AI a bubble is 'blasphemy'",
-              "summary": "Founder abandons succession plan to chase artificial superintelligence",
-              "source": "Nikkei.com",
-              "url": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-calling-ai-a-bubble-is-blasphemy",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
-          "summary": ""
-        },
-        {
-          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
-          "summary": ""
-        },
-        {
-          "topic": "Hypershell AI Exoskeletons made us feel superhuman — models are up to $800 off for Prime Day: Ever w",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-25T12:07:13.545799+08:00",
+  "last_updated": "2026-07-26T12:23:21.924484+08:00",
   "total_days": 31
 }
