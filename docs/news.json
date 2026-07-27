@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "68afea65",
+      "date": "2026-07-27",
+      "generated_at": "2026-07-27T12:34:57.088488+08:00",
+      "headline": "今日 AI 新闻速览（56 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+              "summary": "Chinese artificial intelligence models are increasingly adopted by American users and businesses. These advanced systems offer competitive performance at significantly lower costs. Companies are switc",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Booted from Malaysia, tech guru Balaji Srinivasan finds a new patron for his ‘nomad’ commune: Kazakhstan",
+              "summary": "It's been a weekslong saga involving crypto-friendly tech utopianism, tensions over the Israeli-Palestinian conflict, and even China’s real estate crash.",
+              "source": "Fortune",
+              "url": "https://fortune.com/2026/07/26/network-school-balaji-srinivasan-malaysia-johor-israel-kazakhstan/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are deer active after 9am?",
+              "summary": "Are Deer Active After 9 AM? Unveiling Deer Activity Patterns Yes, deer are definitely active after 9 AM. While crepuscular periods (dawn and dusk) are their peak activity times, deer can be observed m",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-deer-active-after-9am/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why global automotive suppliers can no longer manage India from Europe",
+              "summary": "As global automakers redraw supply chains and software reshapes the car, FORVIA Chief Executive Officer Martin Fischer says India’s role is changing from an offshore engineering centre to a market wit",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/companies/why-global-automotive-suppliers-can-no-longer-manage-india-from-europe/article71263892.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rescuers scour South China Sea for 23 missing after Vietnamese vessel sinks",
+              "summary": "Cargo vessel Khoi Nguyen 18, with 62 Vietnamese nationals aboard, ran into distress in waters near Fiery Cross Reef, China's state broadcaster CCTV said.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/east-asia/rescue-south-china-sea-vietnamese-vessel-sinks-23-missing-6278706",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Affordability concerns reshape global car buying as EV interest grows: McKinsey",
+              "summary": "Affordability concerns and evolving preferences are reshaping global automotive markets.  Consumers are delaying purchases and considering smaller vehicles due to financial pressures.  Electric vehicl",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/affordability-concerns-reshape-global-car-buying-as-ev-interest-grows-mckinsey/articleshow/132636150.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Food tasting history and the promise of prevention of poisoning",
+              "summary": "When members of the Food and Drug Administration (FDA) recently protested at having to do food tasting for VIPs, it seemed an anachronism.",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/magazines/panache/food-tasting-history-and-the-promise-of-prevention-of-poisoning/articleshow/132635852.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Breaking: América confirm Brian Rodríguez injury",
+              "summary": "Through its social media channels, América confirmed that Brian Rodríguez will be sidelined due to injury. \"Club América reports that Brian Rodríguez suffered a left knee sprain during training,\"...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/breaking-america-confirm-brian-rodriguez-injury-43187048",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "As Wall Street Frets Over Alphabet's AI Spending Binge, Mark Cuban Says Google Is Simply Doing What ",
+          "summary": ""
+        },
+        {
+          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
+          "summary": ""
+        },
+        {
+          "topic": "Yoroll Launches AI Odyssey, a Playable AI Film Inspired by Homer's Epic: Playable AI film inspired b",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "674c2ad8",
       "date": "2026-07-26",
       "generated_at": "2026-07-26T12:23:21.924484+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "bbcbc06c",
-      "date": "2026-06-26",
-      "generated_at": "2026-06-26T13:06:39.223779+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "EZR Spring/Summer 2027",
-              "summary": "EZR's SS27 collection explores the relationship between clothing and feeling, with each look functioning as a form of modern armour that reflects shifting emotional states.\nThe post EZR Spring/Summer ",
-              "source": "Fuckingyoung.es",
-              "url": "https://fuckingyoung.es/ezr-spring-summer-2027/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Acceleration of growth in the third quarter",
-              "summary": "Organic growth of 6.9%, driven by Public Cloud, which grew by more than 20%Strengthening AI Lab with Gladia and a preview of OVHai WorkspaceConfirmation of...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/25/3317268/0/en/Acceleration-of-growth-in-the-third-quarter.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "'Don't die in the meantime': Millionaire Bryan Johnson says some humans may live forever, shares three reasons why",
-              "summary": "Longevity advocate Bryan Johnson predicts a future where humans might live indefinitely, driven by rapid advancements in biotech and AI. He points to natural biological resets, AI's power in decipheri",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/dont-die-in-the-meantime-millionaire-bryan-johnson-says-some-humans-may-live-forever-shares-three-reasons-why/articleshow/131982790.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AMD vs. Marvell Technology: Which Will Be the Next Trillion-Dollar Stock?",
-              "summary": "Shares of Marvell Technology (NASDAQ: MRVL) have soared by almost 200% this year, as of this writing. The company received a major vote of confidence from one of the most authoritative voices in artif",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/8415f38bef4870d7",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
-              "summary": "Legion LegalTech Corp, a legal tech firm based in the US, has initiated legal action against the federal government after a controversial directive mandated AI company Anthropic to restrict access to ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-top-tier-anthropic-models/articleshow/131982621.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Family businesses in Africa sustain growth despite uncertainty — PwC",
-              "summary": "By Peter Egwuatu & Providence Ayanfeoluwa Family businesses across Africa are recording strong growth and demonstrating resilience despite economic uncertainty, regulatory reforms and geopolitical pre",
-              "source": "Vanguard",
-              "url": "https://www.vanguardngr.com/2026/06/family-businesses-in-africa-sustain-growth-despite-uncertainty-pwc/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘Future is atoms, not bits’: Sridhar Vembu reveals where Zoho is betting its R&D dollars",
-              "summary": "Zoho founder Sridhar Vembu is championing a significant investment in research and development-led manufacturing, aligning with the view that future innovation spans both software and the physical eco",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/future-is-atoms-not-bits-sridhar-vembu-reveals-where-zoho-is-betting-its-rd-dollars/articleshow/131982552.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " 13 teams already through to the 2026 World Cup round of 32",
-              "summary": "With another matchday completed, it has been confirmed that 13 teams have already secured their place in the knockout stage.All three hosts have lived up to expectations, while powerhouses like Argent",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/13-teams-already-through-to-the-2026-world-cup-round-of-32-43054631",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Meta Just Made A $900 Million Bet On This Indian Fintech Firm And Tapped Its Founder To Lead WhatsAp",
-          "summary": ""
-        },
-        {
-          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
-          "summary": ""
-        },
-        {
-          "topic": "Trip.com Group Reveals What Travellers Want This Summer: Shorter Trips and Cooler Escapes: Over 40% ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-26T12:23:21.924484+08:00",
+  "last_updated": "2026-07-27T12:34:57.088488+08:00",
   "total_days": 31
 }
