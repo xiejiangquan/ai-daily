@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b8721037",
+      "date": "2026-07-28",
+      "generated_at": "2026-07-28T11:58:35.521245+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " Haaland reacts to the memes made about him at the World Cup",
+              "summary": "One week after the end of the World Cup, Erling Haaland surprised his followers with a video in which he reacts to all the memes made about him during the tournament. Among the highlights were an oni.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/haaland-reacts-to-the-memes-made-about-him-at-the-world-cup-43190687",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Chinese chipmaker CXMT soars more than 500% on debut",
+              "summary": "China's leading memory chipmaker CXMT became the most valuable company in the mainland after soaring 500 percent on its market debut Monday, underscoring the impact of AI-driven demand on the semicond",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/chinese-chipmaker-cxmt-soars-more-than-500-on-debut/articleshow/132651926.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Wall Street eyes Fed decision, AI earnings as traders navigate rising uncertainty",
+              "summary": "Investors await the Federal Reserve's policy decision and major tech earnings this week. Alphabet and Tesla results have already caused market unease regarding AI spending. Microsoft, Amazon, and Meta",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-eyes-fed-decision-ai-earnings-as-traders-navigate-rising-uncertainty/articleshow/132651878.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside Neville Roy Singham's 'Shadowy Influence Campaign to Undermine U.S. AI Efforts'",
+              "summary": "Friday on “The Alex Marlow Show,” Washington Free Beacon Editor-in-Chief Eliana Johnson talked about AI. Johnson said, “Singham is [funding] a campaign that is highlighting, exacerbating, and trying t",
+              "source": "Breitbart News",
+              "url": "https://www.breitbart.com/clips/2026/07/26/inside-neville-roy-singhams-shadowy-influence-campaign-to-undermine-us-ai-efforts/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Highstar Launches Full-Chain Battery Cell Portfolio for AI Data Centers",
+              "summary": "NANTONG, China, July 27, 2026 /PRNewswire/ -- Highstar unveiled its full-chain battery cell solution for artificial intelligence data centers (AIDCs) at the 2026 GGII Energy Storage Industry Summit. T",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/highstar-launches-full-chain-battery-cell-portfolio-for-ai-data-centers-302834902.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
+              "summary": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ETMarkets AIF Talk | Next-generation entrepreneurs will create India's biggest wealth opportunities: Hiren Ved",
+              "summary": "India's next wealth creation wave will emerge from new entrepreneurs in strategic sectors. These founders leverage advanced technologies to build globally competitive businesses with strong growth. In",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-aif-talk-next-generation-entrepreneurs-will-create-indias-biggest-wealth-opportunities-hiren-ved/articleshow/132640711.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Samsung, Hyundai expand AI push from chips to robotics",
+              "summary": "Samsung Electronics and Hyundai Motor Group used the San Francisco AI Summit to outline separate artificial intelligence (AI) expansion plans spanning semiconductors, autonomous driving and robotics.",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260727VL206/samsung-hyundai-broadcom-robotics-chips.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Michael Burry's Chilling Warning as $100 Oil Collides With AI Debt Explosion: 'Not Sure How Much Lon",
+          "summary": ""
+        },
+        {
+          "topic": "As Wall Street Frets Over Alphabet's AI Spending Binge, Mark Cuban Says Google Is Simply Doing What ",
+          "summary": ""
+        },
+        {
+          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "68afea65",
       "date": "2026-07-27",
       "generated_at": "2026-07-27T12:34:57.088488+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f681ce96",
-      "date": "2026-06-27",
-      "generated_at": "2026-06-27T12:51:47.230990+08:00",
-      "headline": "今日 AI 新闻速览（56 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Microsoft under pressure: Why analysts remain bullish despite the recent selloff",
-              "summary": "Microsoft shares have come under pressure following a price-target reduction by Stifel and renewed concerns over the cost of its aggressive AI investments. The stock has also been weighed down by anno",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/markets/us-stocks/news/microsoft-under-pressure-why-analysts-remain-bullish-despite-the-recent-selloff/microsoft-faces-short-term-pressure/slideshow/132007495.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tuya Smart Co-Founder Alex Yang at Summer Davos 2026: The Future of AI Competition Lies in Real-World Applications",
-              "summary": "DALIAN, China, June 26, 2026 /PRNewswire/ -- The 17th Annual Meeting of the New Champions (AMNC, also known as \"Summer Davos\") of the World Economic Forum was held from June 23 to 25 at the Dalian Int",
-              "source": "PR Newswire UK",
-              "url": "https://www.prnewswire.co.uk/news-releases/tuya-smart-co-founder-alex-yang-at-summer-davos-2026-the-future-of-ai-competition-lies-in-real-world-applications-302811525.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Metropolitan Police chief warns against law updates amid substantial tech expansion",
-              "summary": "The Metropolitan Police is set to significantly expand its use of AI, drones and facial recognition in a bid to ‘regain the advantage’ over criminals, but commissioner Mark Rowley warns that progress ",
-              "source": "ComputerWeekly.com",
-              "url": "https://www.computerweekly.com/news/366645086/Metropolitan-Police-chief-warns-against-law-updates-amid-substantial-tech-expansion",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Asian shares sink, with Kospi down 7.5% and Nikkei shedding 4.4%",
-              "summary": "Shares have tumbled in Asia, led by heavy losses in Japan and South Korea as traders sold to lock in gains from recent rallies in stocks related to artificial intelligence. U.S. futures also declined,",
-              "source": "Associated Press",
-              "url": "https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gold, silver prices today, June 26: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-              "summary": "Gold and silver prices today, 26 June: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-june-26-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11782445239050.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "America’s data-centre backlash puts the AI boom at risk: Opposition is spreading across the country",
-              "summary": "FROM THE top of the slide, which curves into a little backyard pool, the view as recently as April would have been of lush Ohio farmland, dense forest and pretty clapboard houses. Now it is of six gia",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-news/4385489/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Legal Tech Needs To Change Now",
-              "summary": "Legal technology is facing a existential crisis even as it flourishes",
-              "source": "Forbes",
-              "url": "https://www.forbes.com/sites/josephandrew/2026/06/26/legal-tech-needs-to-change-now/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is SpaceX Stock Still a Buy After Its Latest Tumble? Here's What the Numbers Show",
-              "summary": "SpaceX shares have dropped 31% since their IPO, sparking debate among investors about whether the stock is a buying opportunity or remains overvalued. Analysts highlight risks and potential growth are",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/spacex-stock-plummets-buying-opportunity-overvalued-risk-1871338",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Hey Meta, look: These ‘futuristic’ smart glasses just dropped to $60 for Prime Day: Don't be dumb. G",
-          "summary": ""
-        },
-        {
-          "topic": "Mark Cuban Says The Real Issue Isn’t Elon Musk Becoming A Trillionaire While Others Can’t Pay Bills ",
-          "summary": ""
-        },
-        {
-          "topic": "Tim Scott, Elizabeth Warren Score Senate Win On Biggest Housing Bill In 30 Years— But Will It Actual",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-27T12:34:57.088488+08:00",
+  "last_updated": "2026-07-28T11:58:35.521245+08:00",
   "total_days": 31
 }
