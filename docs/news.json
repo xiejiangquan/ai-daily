@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "782370b7",
+      "date": "2026-07-30",
+      "generated_at": "2026-07-30T11:54:22.203141+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Protein-packed frozen peanut butter and jelly sandwiches launch at Walmart",
+              "summary": "New frozen protein peanut butter and jelly sandwiches from Jams launch at Walmart, offering 10g protein per sandwich without seed oils or artificial ingredients.",
+              "source": "Britbrief.co.uk",
+              "url": "https://britbrief.co.uk/business/retail/walmarts-protein-pbj-sandwich-healthy-twist-on-classic.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Community unveils Mary Slessor Library, plans Ekubo film village",
+              "summary": "Arochukwu community unveils the Mary Slessor Library in Abia State, honouring the missionary and preserving historical artefacts. Plans for an Alexx Ekubo\n\nRead More: https://punchng.com/community-unv",
+              "source": "The Punch",
+              "url": "https://punchng.com/community-unveils-mary-slessor-library-plans-ekubo-film-village/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sixth Street, SK Telecom, GIC Are Said to Vie for Bain’s Bridge",
+              "summary": "Investment firm Sixth Street Partners and South Korea’s SK Telecom Co. are among bidders for a significant stake in Southeast Asia’s Bridge Data Centres, according to people familiar with the matter.",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-pmn/sixth-street-sk-telecom-gic-are-said-to-vie-for-bains-bridge",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Teenager wins Nomba Hackathon with AI tool for SMEs",
+              "summary": "A 17-year-old Nigerian developer won the Nomba Hackathon with PayWise, an AI tool for SMEs to manage credit sales using voice notes. Learn more about the w\n\nRead More: https://punchng.com/teenager-win",
+              "source": "The Punch",
+              "url": "https://punchng.com/teenager-wins-nomba-hackathon-with-ai-tool-for-smes/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What animals can talk to humans?",
+              "summary": "What Animals Can Talk to Humans? A Surprising Look at Interspecies Communication The ability for true conversation between humans and animals, as we understand it, remains largely in the realm of scie",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-animals-can-talk-to-humans/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Almost every sensitive radiation detector built since 1945 relies on steel salvaged from ships that sank before the first nuclear test, because everything smelted after that date carries a faint trace of the bomb era in its structure, and the supply of pre-war wrecks is finite.",
+              "summary": "A quirk of nuclear physics: the most sensitive instruments for detecting radiation depend on salvaged shipwrecks from before the atomic age, and that irreplaceable supply is running out.\nThe post Almo",
+              "source": "Space Daily",
+              "url": "https://spacedaily.com/t-low-background-steel-shipwreck-radiation-detectors/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Repeated Weight Loss and Regain Was Tied to Four Times More Thigh Muscle Loss in a Four-Year MRI Study",
+              "summary": "An MRI study of 1,433 adults found weight cyclers lost nearly four times more thigh muscle over four years than people with stable weight.",
+              "source": "Medical Daily",
+              "url": "https://www.medicaldaily.com/weight-cycling-thigh-muscle-loss-mri-study-476523",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Workplaces Look For Cheaper AI As 'Tokenmaxxing' Fades As a Corporate Fad",
+              "summary": "An anonymous reader quotes a report from the Associated Press: A corporate fad of \"tokenmaxxing\" on artificial intelligence technology is hitting its limits as workplaces throwing AI at everything are",
+              "source": "Slashdot.org",
+              "url": "https://news.slashdot.org/story/26/07/28/2242250/workplaces-look-for-cheaper-ai-as-tokenmaxxing-fades-as-a-corporate-fad",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Kevin O'Leary Calls 'Shark Tank' Ambassador of the American Dream — 'No Other Country Where People R",
+          "summary": ""
+        },
+        {
+          "topic": "How to determine AI visibility ROI and revenue impact: Determine AI visibility ROI by linking mentio",
+          "summary": ""
+        },
+        {
+          "topic": "How To Scale Your Fintech (The Marketing Edit): Here are the key marketing lessons we have learned f",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "94fe39a4",
       "date": "2026-07-29",
       "generated_at": "2026-07-29T12:09:42.825356+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "e6c198e2",
-      "date": "2026-06-29",
-      "generated_at": "2026-06-29T13:48:05.600251+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "APEC Tourism Ministers push digital innovation for growth",
-              "summary": "Digital innovation, seamless travel, and stronger regional cooperation took center stage as APEC tourism ministers met in Macao, China, to chart the next ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/420676/apec-tourism-ministers-push-digital-innovation-for-growth",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Round of 32 bracket: projections and who has the easier side? ",
-              "summary": "The group stage has come to an end overnight in Italy with yet another Messi masterpiece and Portugal’s draw (CR7 once again anonymous): now the paths to the final are set. Let’s take a look at th...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/round-of-32-bracket-projections-and-who-has-the-easier-side-43067609",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " 2026 World Cup, overnight round-up",
-              "summary": "Every morning, OneFootball will bring you a full recap of the night at the World Cup. The can't-miss story of the nightThat's it, the group stage of this World Cup is now officially over, and the hea.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/2026-world-cup-overnight-round-up-43067607",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China develops extremely powerful weapon that's set to flip the AI race on its head... amid concerns the US is HELPING Beijing get an advantage",
-              "summary": "Beijing-based tech firms 360 Security Technology and Z.ai, also known as Zhipu AI, have narrowed the gap with the US competitor when it comes to finding bugs.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-15935683/China-US-AI-race-Anthropic-cybersecurity.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Prabowo urges vigilance over nuclear and AI developments",
-              "summary": "Indonesian President Prabowo Subianto pointed out that technological developments, including nuclear technology and artificial intelligence (AI), do not ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/420675/prabowo-urges-vigilance-over-nuclear-and-ai-developments",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Japan Reaffirms 10 Trillion Yen Investment in India Over Next Decade",
-              "summary": "Japan reaffirms a 10 trillion yen investment in India over the next decade, boosting ties in infrastructure, AI, semiconductors and manufacturing.",
-              "source": "The Sentinel Assam",
-              "url": "https://www.sentinelassam.com/more-news/business/japan-reaffirms-10-trillion-yen-investment-in-india-over-next-decade",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
-              "summary": "As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/920a07e884e213df",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside Ireland’s cervical cancer test lab: A new start for screening after smear-test controversies",
-              "summary": "The National Cervical Screening Laboratory means most Irish women’s CervicalCheck samples can be tested within the State",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/health/2026/06/28/inside-irelands-cervical-cancer-test-lab-a-new-start-for-screening-after-smear-test-controversies/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Donald Trump Jr. Got A Kalshi Stake For Free— Now It Could Be Worth Billions As Prediction Market Pl",
-          "summary": ""
-        },
-        {
-          "topic": "Announces the NVIDIA Vera Rubin Platform: NVIDIA Corporation (NASDAQ:NVDA) is one of the best trendi",
-          "summary": ""
-        },
-        {
-          "topic": "The US Government’s $250 Million Bet To Solve Two Key AI Problems: Tech startup I-Pulse has secured ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-29T12:09:42.825356+08:00",
+  "last_updated": "2026-07-30T11:54:22.203141+08:00",
   "total_days": 31
 }
