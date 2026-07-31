@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ef383d2e",
+      "date": "2026-07-31",
+      "generated_at": "2026-07-31T12:20:13.124478+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "What should you not feed a baby squirrel?",
+              "summary": "What Should You Not Feed a Baby Squirrel? Protecting vulnerable wildlife means understanding their specific needs. Absolutely never feed a baby squirrel cow’s milk or human formula, as these can be fa",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-should-you-not-feed-a-baby-squirrel/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK slows AI data center roll-out over energy crunch",
+              "summary": "The UK’s energy regulator Ofgem has proposed new grid connection fees for AI data center developers to remove speculative projects amid soaring electricity demand",
+              "source": "RT",
+              "url": "https://www.rt.com/news/643638-uk-ai-data-center-energy-crunch/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the bird ID master app?",
+              "summary": "What is the Bird ID Master App? The Bird ID Master App is a powerful mobile application designed to help bird enthusiasts of all levels identify birds quickly and accurately using a combination of art",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-bird-id-master-app/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Microsoft Cloud Services Surpass $100B",
+              "summary": "Microsoft reported Wednesday that revenue rose 18% to $90 billion in the quarter that endedin June, a sign its investments in data centers will continue and revenue from artificial intelligence (AI) w",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/e156102b33f8229e",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Finance firms set to pour more investment into AI amid ‘data divide’ fears",
+              "summary": "A majority of surveyed global asset management firms plan to raise their artificial intelligence budgets by at least 50 per cent within the next year as the technology transforms the finance industry,",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/1fffa7cffe5982d1",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ennoconn deepens Singapore push with SMF pact and AI forum",
+              "summary": "Ennoconn Technologies held its 2026 Semiconductor x AI Applications Forum at Google's Asia-Pacific headquarters in Singapore on July 29 and signed a memorandum of understanding with the Singapore Manu",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260730PD216/ennoconn-2026-technology-google-manufacturing.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Korean investors face stress after AI bubble bursts, and crypto markets are watching closely",
+              "summary": "The AI bubble burst highlights the volatility of speculative investments, potentially driving renewed interest and capital back into crypto markets.\nThe post Korean investors face stress after AI bubb",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/korean-investors-stress-ai-bubble-bursts/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Humanity consumes roughly 50 billion tonnes of sand and gravel every year—more than any resource except water. Yet most wind-blown desert sand is too fine and rounded to form the main aggregate in strong concrete, forcing even desert cities such as Dubai to rely on carefully processed, quarried, marine or imported material for construction.",
+              "summary": "The world's most abundant building material is running scarce in the places that need it most.\nThe post Humanity consumes roughly 50 billion tonnes of sand and gravel every year—more than any resource",
+              "source": "Space Daily",
+              "url": "https://spacedaily.com/t-50-billion-tonnes-sand-gravel-desert-concrete-dubai/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "As search and social traffic dries up, local newsrooms turn to Reddit: This article was originally p",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk and Brother Ate 4 Meals a Day at Jack in the Box, Showered at the YMCA and Slept in the Of",
+          "summary": ""
+        },
+        {
+          "topic": "Kevin O'Leary Calls 'Shark Tank' Ambassador of the American Dream — 'No Other Country Where People R",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "782370b7",
       "date": "2026-07-30",
       "generated_at": "2026-07-30T11:54:22.203141+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "831fc094",
-      "date": "2026-06-30",
-      "generated_at": "2026-06-30T13:00:53.231167+08:00",
-      "headline": "今日 AI 新闻速览（58 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "WISeKey International Holding Ltd Signs Merger Agreement to Redomicile to the British Virgin Islands",
-              "summary": "WISeKey International Holding Ltd Signs Merger Agreement to Redomicile to the British Virgin Islands  Zug, Switzerland, June 29, 2026 – Ad-Hoc announcement...",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/06/29/3318644/0/en/WISeKey-International-Holding-Ltd-Signs-Merger-Agreement-to-Redomicile-to-the-British-Virgin-Islands.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sarah Moss: Metaphors - why do we fall in love rather than climb, jump or dive?",
-              "summary": "Everything from cancer to hobbies is now described as ‘your journey’, but I prefer words that don’t make false promises",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/life-style/people/2026/06/29/why-do-we-fall-in-love-rather-than-climb-jump-or-dive/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Dangers of Weightlessness and Its Solutions",
-              "summary": "Podcast Transcripts The human body was built for gravity. Take it away, and bones weaken, muscles shrink, fluids shift, and even vision can change.  For astronauts spending months in orbit, zero gravi",
-              "source": "Everything-everywhere.com",
-              "url": "https://everything-everywhere.com/the-dangers-of-weightlessness-and-its-solutions/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you prevent algae in a fish tank?",
-              "summary": "How to Prevent Algae in a Fish Tank: A Comprehensive Guide Effectively prevent algae in your fish tank by maintaining proper lighting, performing regular water changes, and carefully controlling nutri",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-prevent-algae-in-a-fish-tank/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Building AI-Driven Feature Flag Optimization Systems in ASP.NET Core",
-              "summary": "Build AI-driven feature flag optimization in ASP.NET Core using Azure services for smarter, data-driven releases and enhanced performance.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/building-ai-driven-feature-flag-optimization-systems-in-asp-net-core/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Building AI-Powered API Contract Validation Systems in ASP.NET Core",
-              "summary": "Build AI-powered API contract validation in ASP.NET Core. Proactively detect breaking changes, analyze consumer impact, and ensure API reliability.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/building-ai-powered-api-contract-validation-systems-in-asp-net-core/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI-Assisted Kubernetes Troubleshooting for .NET Applications",
-              "summary": "Streamline Kubernetes troubleshooting for .NET apps with AI. Reduce MTTR by analyzing logs, metrics, and events for faster root cause identification.",
-              "source": "C-sharpcorner.com",
-              "url": "https://www.c-sharpcorner.com/article/ai-assisted-kubernetes-troubleshooting-for-net-applications/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia's AI chip sales in China stall, as local chipmakers like Huawei take the lead",
-              "summary": "In the race between the U.S. and China to develop artificial intelligence, the battle over hardware and computing power is heating up as Chinese companies like Huawei overtake global industry leaders ",
-              "source": "seattlepi.com",
-              "url": "https://www.seattlepi.com/news/world/article/nvidia-s-ai-chip-sales-in-china-stall-as-local-22324645.php",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How M",
-          "summary": ""
-        },
-        {
-          "topic": "Polymarket Says 'Contained And Removed' Malicious Bug After Third-Party Vendor Was Hacked; Will Refu",
-          "summary": ""
-        },
-        {
-          "topic": "Donald Trump Jr. Got A Kalshi Stake For Free— Now It Could Be Worth Billions As Prediction Market Pl",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-07-30T11:54:22.203141+08:00",
+  "last_updated": "2026-07-31T12:20:13.124478+08:00",
   "total_days": 31
 }
