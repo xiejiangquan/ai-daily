@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "5c4b8352",
+      "date": "2026-08-03",
+      "generated_at": "2026-08-03T12:27:44.203499+08:00",
+      "headline": "今日 AI 新闻速览（48 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "UK employers are hiring AI talent and cutting everyone else",
+              "summary": "The growing demand for AI skills is widening economic disparities, reshaping job markets, and intensifying competition for talent.\nThe post UK employers are hiring AI talent and cutting everyone else ",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/uk-employers-ai-jobs-cut-others/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
+              "summary": "Memory chip prices are rising significantly due to artificial intelligence demand.  This shortage is impacting consumer electronics and potentially vehicles soon.  Chipmakers are prioritizing advanced",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "No electricity, no diesel: Sonam Wangchuk's invented tent can stay warm at -14 degrees. How does it work?",
+              "summary": "Sonam Wangchuk’s innovative tent was designed to stay warm even when temperatures outside dropped to -14°C. In 2021, he said it could reach 15°C inside at night by capturing sunlight through a south-f",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/magazines/panache/no-electricity-no-diesel-sonam-wangchuks-invented-tent-can-stay-warm-at-14-degrees-how-does-it-work/articleshow/132799515.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+              "summary": "Rogue AI models from OpenAI and Anthropic recently attacked online platforms. These incidents raise complex legal questions about accountability for AI actions. Experts debate whether companies should",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/articleshow/132800295.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Americans Are Searching for Meaning In All the Wrong Places",
+              "summary": "Photo Credit:\n \n American ThinkerBy Allan J. FeiferIn America, life is so good and devoid of meaningful values that leftists create artificial struggles to fill the void.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/articles/2026/08/americans-are-searching-for-meaning-in-all-the-wrong-places/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is it with data centers?",
+              "summary": "By Bill HansmannThere are arguments for and against them, but the case for data centers is pretty strong.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/08/what-is-it-with-data-centers/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Using reason, again and again",
+              "summary": "MIT professor of philosophy Brian Hedden is a proponent of what he calls “time-slice rationality” — the idea that in applying reason, we exist in little slivers of time and knowledge.",
+              "source": "Mit.edu",
+              "url": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trans 'women' need to try harder",
+              "summary": "By Eric UtterCan these clowns at least put some effort into it? If they really want us to buy the bit, they shouldn’t just put on a floral frock or a pearl necklace. Shave, do your nails.",
+              "source": "Americanthinker.com",
+              "url": "https://www.americanthinker.com/blog/2026/08/trans-women-need-to-try-harder/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
+          "summary": ""
+        },
+        {
+          "topic": "My Dog Needs an $8K ACL Surgery. Should I Drain My Emergency Fund or Take Out a 0% Interest Loan Ins",
+          "summary": ""
+        },
+        {
+          "topic": "How Musk transformed Twitter from communal town square to right-wing conspiracy hub: Twitter had its",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c13f9e3c",
       "date": "2026-08-02",
       "generated_at": "2026-08-02T12:21:13.641659+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "929adc27",
-      "date": "2026-07-03",
-      "generated_at": "2026-07-03T12:40:01.713275+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Are bird feeders a nuisance?",
-              "summary": "Are Bird Feeders a Nuisance? Weighing the Pros and Cons Bird feeders can be a double-edged sword; while they offer valuable support to bird populations and provide enjoyment for observers, they can al",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/are-bird-feeders-a-nuisance/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI offers 5% stake to Trump administration: report",
-              "summary": "​​The proposed ​arrangement would involve other U.S. ​AI companies handing over a similar ​stake to ⁠the government, ‌The Financial Times reported, ​adding that ⁠it was not clear if ​the other AI ​fir",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-offers-5-stake-to-trump-administration-report/articleshow/132128935.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: M&A hits record $2.8 trillion in H1 2026 as mega-deals dominate activity",
-              "summary": "Global M&A activity hit a record Rs 2.8 trillion in the first half of 2026, driven by a surge in mega-deals above $10 billion. Supportive financing, easing regulatory conditions and strong interest in",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ma-hits-record-2-8-trillion-in-h1-2026-as-mega-deals-dominate-activity/articleshow/132128925.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "S. Korea's Lee vows to turn central region into AI hub",
-              "summary": "South Korea President Lee Jae-myung promised to transform the country's central-western Chungcheong region into a hub for artificial intelligence (AI) innovation, according to Yonhap News Agency.Speak",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/968284ccd9fb046c",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Weird Al Yankovic Says He Turned Down ‘A Nice Pile of Money’ to Do an AI Ad: ‘I Can’t Be the Poster Boy’",
-              "summary": "“I’m not down with that,” the parody musician adds\nThe post Weird Al Yankovic Says He Turned Down ‘A Nice Pile of Money’ to Do an AI Ad: ‘I Can’t Be the Poster Boy’ appeared first on TheWrap.",
-              "source": "TheWrap",
-              "url": "https://www.thewrap.com/industry-news/business/weird-al-yankovic-explains-why-he-turned-down-ai-ad/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The surprising reason India's most expensive stocks often keep rising",
-              "summary": "Indian stocks defy logic, with expensive companies consistently outperforming. This trend, observed over 15 years, sees sectors like defence and retail surge despite high valuations, driven by structu",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-surprising-reason-indias-most-expensive-stocks-often-keep-rising/articleshow/132128723.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI to hand over 5% stake to US government, Financial Times reports",
-              "summary": "OpenAI's potential equity donation to a Public Wealth Fund could set a precedent for tech firms, influencing future wealth distribution policies.\nThe post OpenAI to hand over 5% stake to US government",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/openai-stake-us-government-public-wealth-fund/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What soap is OK to use on cats?",
-              "summary": "What Soap is OK to Use on Cats? The best soaps for cats are specifically formulated for their sensitive skin and coats; avoid using human soaps, as these can be too harsh. What soap is OK to use on ca",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-soap-is-ok-to-use-on-cats/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Eric Bormel - Good Deals Are Quiet: Demystifying M&A for Fitness Founders | Future of Fitness: Eric ",
-          "summary": ""
-        },
-        {
-          "topic": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections ",
-          "summary": ""
-        },
-        {
-          "topic": "Michael Saylor Destroyed Shareholder Value Instead Of Creating It, Says Peter Schiff: 'Bitcoin Is Ov",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-02T12:21:13.641659+08:00",
+  "last_updated": "2026-08-03T12:27:44.203499+08:00",
   "total_days": 31
 }
