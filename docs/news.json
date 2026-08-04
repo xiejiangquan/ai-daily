@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "1775b357",
+      "date": "2026-08-04",
+      "generated_at": "2026-08-04T12:11:00.175745+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
+              "summary": "US equity funds attracted significant investor inflows, reversing prior withdrawals. Renewed confidence in artificial intelligence and strong tech earnings boosted investor sentiment. Largecap funds r",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
+              "summary": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without ‌making them prohibitively ⁠expensive ⁠to",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CrowdStrike finds AI systems under direct attack as exploit windows shrink",
+              "summary": "Artificial intelligence has become a target for attackers rather than only a tool they use, according to CrowdStrike Holdings Inc.’s “2026 Threat Hunting Report,” released today. The annual report dra",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/08/03/crowdstrike-finds-ai-systems-direct-attack-exploit-windows-shrink/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "PM Wong's National Day Message to be broadcast on Aug 8",
+              "summary": "The first broadcast in English will air on CNA and CNA938 at 6.45pm.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/singapore/national-day-message-pm-lawrence-wong-aug-8-6294356",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Buying TikTok followers can expose users to scams and account theft",
+              "summary": "Buying TikTok followers, likes, or views could do more than inflate engagement metrics. According to Malwarebytes, many services selling social media growth operate through deceptive practices that ca",
+              "source": "Help Net Security",
+              "url": "https://www.helpnetsecurity.com/2026/08/03/malwarebytes-tiktok-followers-scam-risks-report/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Stock Market: Wall Street braces for jobs data, earnings as markets seek fresh direction",
+              "summary": "Investors await crucial July employment data and corporate earnings reports this week. Markets are navigating geopolitical tensions and interest rate uncertainties after recent volatility. The Federal",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-wall-street-braces-for-jobs-data-earnings-as-markets-seek-fresh-direction/articleshow/132818075.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Artificial Analysis finds Chinese AI models lag US rivals by months, not years",
+              "summary": "The narrowing AI gap could disrupt market dynamics, challenging US dominance and impacting AI-related investments and digital asset valuations.\nThe post Artificial Analysis finds Chinese AI models lag",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/chinese-ai-models-lag-us-rivals-months/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Quote of the day by German philosopher Helmuth Plessner: ‘The soul suffers from nothing more than from not being…’ – on humanity's deepest emotional need",
+              "summary": "Quote of the day: German philosopher Helmuth Plessner believed misunderstanding causes deep human suffering.  He argued that complete understanding between individuals is often impossible.  Plessner's",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/australia/quote-of-the-day-by-german-philosopher-helmuth-plessner-the-soul-suffers-from-nothing-more-than-from-not-being-on-humanitys-deepest-emotional-need/articleshow/132817788.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "OpenAI Rehires Thinking Machines Co-Founder Days After Startup Exit: Thinking Machines co-founder Li",
+          "summary": ""
+        },
+        {
+          "topic": "10 Best Keyword Research Tools for SEO and Content Marketing - Top Tech Alternative: Introduction Fi",
+          "summary": ""
+        },
+        {
+          "topic": "Orchestrating docs instead of writing them yourself — podcast with Sarah Deaton of Anthropic: In thi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "5c4b8352",
       "date": "2026-08-03",
       "generated_at": "2026-08-03T12:27:44.203499+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f3d1d235",
-      "date": "2026-07-04",
-      "generated_at": "2026-07-04T12:33:28.285987+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "From Ancient Capital to New Digital Silk Road Hub: The 7th Western Digital Economy Expo Sees Xi'an's Industrial Integration Unleash Strong Momentum",
-              "summary": "XI'AN, China, July 3, 2026 /PRNewswire/ -- Under the theme \"Digital Convergence Revitalizes the Silk Road, Smart Innovation Shapes the West's Future,\" the 7th Western Digital Economy Expo (WDEE Expo) ",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/from-ancient-capital-to-new-digital-silk-road-hub-the-7th-western-digital-economy-expo-sees-xians-industrial-integration-unleash-strong-momentum-302817433.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock market: Fed's Daly says AI, inflation uncertainty clouds interest rate outlook",
-              "summary": "San Francisco Fed President Mary Daly highlighted that US monetary policy remains slightly restrictive, but the economic outlook is increasingly uncertain.  The surge in AI-driven investment and a str",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-daly-says-ai-inflation-uncertainty-clouds-interest-rate-outlook/articleshow/132152452.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sitharaman urges French firms to invest in India's AI, clean energy push",
-              "summary": "Union Finance Minister Nirmala Sitharaman urged French businesses to boost investments in India, highlighting vast opportunities in AI, clean energy, healthcare, and digital infrastructure. She emphas",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/sitharaman-urges-french-firms-to-invest-in-indias-ai-and-clean-energy-push/articleshow/132152274.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What dangers do snails face?",
-              "summary": "What Dangers Do Snails Face? Snails, often overlooked, are vulnerable creatures facing a multitude of threats, from habitat loss and climate change to predation and human activities, significantly imp",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-dangers-do-snails-face/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Soft US jobs data eases Fed rate fears, lifts market sentiment",
-              "summary": "A recent U.S. jobs report, showing slower-than-expected growth and downward revisions, has eased investor fears of persistent inflation and a hawkish Federal Reserve. This cooling labor market data of",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-soft-us-jobs-data-eases-fed-rate-fears-lifts-market-sentiment/articleshow/132152220.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SpaceX Might Be the Most Valuable Money-Losing Company in Market History. Should Investors Care?",
-              "summary": "SpaceX (NASDAQ: SPCX) went public on June 12 at $135 per share, raising $75 billion in the largest initial public offering (IPO) in history. Three weeks later, the rocket, satellite-internet, and arti",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/5799fb94d5b2b05f",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "New infosec products of the week: July 3, 2026",
-              "summary": "Here’s a look at the most interesting products from the past week, featuring releases from Digi International, iboss, Jamf, and Netzilo. Digi International’s DANI automates network diagnostics and dev",
-              "source": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/07/03/new-infosec-products-of-the-week-july-3-2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Devalued American Dream",
-              "summary": "Photo Credit:\n \n American ThinkerBy Michael ApplebaumIn the last several decades, we’ve traveled from the long-standing belief in earned opportunity to fulfill individual dreams to passively expected ",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/the-devalued-american-dream/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Microsoft CEO Satya Nadella outlines AI’s future in proprietary learning loops: Nadella's vision emp",
-          "summary": ""
-        },
-        {
-          "topic": "Robinhood says it just broke a Guinness World Record: Robinhood Markets (NASDAQ: HOOD) says it has l",
-          "summary": ""
-        },
-        {
-          "topic": "Eric Bormel - Good Deals Are Quiet: Demystifying M&A for Fitness Founders | Future of Fitness: Eric ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-03T12:27:44.203499+08:00",
+  "last_updated": "2026-08-04T12:11:00.175745+08:00",
   "total_days": 31
 }
