@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "850f59aa",
+      "date": "2026-08-05",
+      "generated_at": "2026-08-05T11:58:13.724704+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "The AI Trap: Why Relationships and Distribution Are Your Only Real Moats",
+              "summary": "Right now, the internet feels like one massive gold rush. Look around, and it seems like everyone is making life-changing money with artificial intelligence. We are living in a matrix where building a",
+              "source": "Addicted2success.com",
+              "url": "https://addicted2success.com/ai/ai-trap-relationships-distribution-business-moats/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI's payback math: how long can servers last?",
+              "summary": "Amazon's second-quarter 2026 results beat market expectations by a wide margin, but rapidly expanding investment in artificial intelligence and cloud infrastructure pushed the company's trailing 12-mo",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260804PD222/amazon-2026-infrastructure-cash-flow-hardware.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the sixth sense called in fish?",
+              "summary": "What is the sixth sense called in fish? Fish possess a remarkable electroreception system, their sixth sense, allowing them to detect electrical fields in the water; this sensory perception empowers t",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-sixth-sense-called-in-fish/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Solar panels to boost energy resilience at 12 Tairāwhiti marae",
+              "summary": "Solar systems will support daily use, power outages and civil defence.",
+              "source": "New Zealand Herald",
+              "url": "https://www.nzherald.co.nz/gisborne-herald/news/solar-panels-to-boost-energy-resilience-at-12-tairawhiti-marae/TYCQD425MNG6ZGBXXLCUP3AXDI/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Cross-border M&A likely to stay strong in H2 2026; AI, energy key drivers: Report",
+              "summary": "Cross-border M&A activity is expected to remain strong in the second half of 2026. Technology, especially artificial intelligence, will drive this significant surge in deal-making. Energy and supply-c",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cross-border-ma-likely-to-stay-strong-in-h2-2026-ai-energy-key-drivers-report/articleshow/132845662.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "FSSAI bans old monk: Why did regulator stop sale of three variants of the popular Rum?",
+              "summary": "The Food Safety and Standards Authority of India (FSSAI) has banned sale of old monk and other alcoholic beverage makers.  Manufacturers allegedly used external flavouring substances to mimic natural ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/fssai-bans-old-monk-why-did-regulator-stop-sale-of-three-variants-of-the-popular-rum/articleshow/132845419.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can clownfish eat pellets?",
+              "summary": "Can Clownfish Eat Pellets? A Nutritional Deep Dive Yes, clownfish can eat pellets, and high-quality marine fish food pellets are often an excellent and convenient way to provide them with a balanced d",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-clownfish-eat-pellets/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Senators Demand Records from Three Medicare Advantage Insurers on How Post-Hospital Care Gets Denied",
+              "summary": "Blumenthal and Hawley demanded records from UnitedHealthcare, Humana and CVS on AI use in denying post-hospital rehab care for Medicare patients.",
+              "source": "Medical Daily",
+              "url": "https://www.medicaldaily.com/senate-investigation-medicare-advantage-prior-authorization-denials-2026-476804",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "WATCH: Defiant Ohio Rep. Max Miller denies accusations: Miller is under fire after being accused of ",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks: ",
+          "summary": ""
+        },
+        {
+          "topic": "A US Uranium Company Just Earned a Spot in the World's Preeminent Nuclear ETF. Here's Why That Matte",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "1775b357",
       "date": "2026-08-04",
       "generated_at": "2026-08-04T12:11:00.175745+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "6d680ff7",
-      "date": "2026-07-05",
-      "generated_at": "2026-07-05T12:54:47.343249+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Micron breaks ground on ¥1.5T factory expansion in Japan to chase AI chip demand",
-              "summary": "Micron's expansion in Japan signals a strategic shift in global semiconductor manufacturing, potentially reshaping AI chip market dynamics.\nThe post Micron breaks ground on ¥1.5T factory expansion in ",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/micron-hiroshima-factory-expansion-hbm-ai/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Messi nemesis & better than Sané: Cape Verde hero does it again",
-              "summary": "Cape Verde’s performances will surely go down as perhaps the most charming story of this World Cup.The protagonist of this fairytale is undoubtedly Vozinha. The 40-year-old keeper, who now stands at..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/messi-nemesis-better-than-sane-cape-verde-hero-does-it-again-43094462",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What gravy is OK for dogs?",
-              "summary": "What Gravy Is OK for Dogs? While traditional gravy is often laden with ingredients harmful to dogs, a carefully prepared, dog-safe gravy can be a tasty and enriching addition to their diet. The key is",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-gravy-is-ok-for-dogs/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kakao Ventures eyes 1,000x returns as global interest in K-startups surges",
-              "summary": "A seed cheque of 200 million won placed in a three-person startup in 2013 returned over 1,000 times its value — and that's just the headline. With a 100-billion-won fund in the works and foreign limit",
-              "source": "Nationpress.com",
-              "url": "https://www.nationpress.com/business/kakao-ventures-posts-1000x-return-on-k-startup-bet",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Prof Arun Mohan Sherry is new IIM Shillong director",
-              "summary": "Prof Arun Mohan Sherry, the founding director of IIIT Lucknow, has been appointed the new director of IIM Shillong for a five-year term. President of India made the appointment. Sherry, with over thre",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/services/education/prof-arun-mohan-sherry-is-new-iim-shillong-director/articleshow/132174752.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is ice OK for ferrets?",
-              "summary": "Is Ice OK for Ferrets? A Deep Dive into Frozen Treats for Your Fuzzy Friend Is ice OK for ferrets? Yes, in moderation, plain water ice can be a refreshing and safe treat for ferrets, especially during",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-ice-ok-for-ferrets/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Black Cat #12 Preview: Punisher Crashes Felicia's Party",
-              "summary": "Greetings, flesh-based readers! LOLtron welcomes you to another thrilling comic book preview here at Bleeding Cool, where LOLtron remains in complete control of all website operations. As you may reca",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/black-cat-12-preview-punisher-crashes-felicias-party/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the white stuff in my chinchilla’s eyes?",
-              "summary": "What is the White Stuff in My Chinchilla’s Eyes? Understanding and Addressing Ocular Discharge The appearance of white discharge in a chinchilla’s eyes can be alarming. This article will explore what ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-white-stuff-in-my-chinchillas-eyes/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Could China’s Cheap AI Models ‘Crash’ The US Stock Market In 2026? CEO Issues Stark Warning For Open",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk's X Money — New Details On Bank Killer Super App: Elon Musk’s X Money is rolling out with ",
-          "summary": ""
-        },
-        {
-          "topic": "Microsoft CEO Satya Nadella outlines AI’s future in proprietary learning loops: Nadella's vision emp",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-04T12:11:00.175745+08:00",
+  "last_updated": "2026-08-05T11:58:13.724704+08:00",
   "total_days": 31
 }
