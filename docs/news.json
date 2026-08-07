@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "1b473488",
+      "date": "2026-08-07",
+      "generated_at": "2026-08-07T11:48:15.910488+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Major hedge funds targeted in wave of attempted cyberattacks",
+              "summary": "Cybersecurity breaches on Wall Street have surged over the past year, as artificial intelligence tools help bad actors launch attacks relatively cheaply and broadly.",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/77431b9cdb70601a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sam Altman echoes Buffett and Thiel on 1 investing rule",
+              "summary": "Sam Altman is probably the tech honcho you've heard the most about over the past three years.\nThe OpenAI CEO has helped revolutionize artificial intelligence by putting ChatGPT into the hands of milli",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/be6d34bee075872a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What can gorillas not eat?",
+              "summary": "What Gorillas Can’t Eat: A Diet of Dos and Don’ts Gorillas, primarily herbivores, thrive on a diet of plants. However, certain foods are indigestible or toxic to them; what can gorillas not eat? They ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-can-gorillas-not-eat/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is a chinchillas favorite food?",
+              "summary": "What is a Chinchilla’s Favorite Food? Unveiling the Culinary Preferences of these Fluffy Rodents A chinchilla’s favorite food is generally high-quality chinchilla pellets, supplemented with carefully ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-a-chinchillas-favorite-food/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year",
+              "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTIMindtree have shown resilience and growth. These companies are performing well due to strong deal wins and AI in",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/lone-warriors-how-two-mid-tier-tech-stocks-rewarded-investors-in-rs-10-lakh-crore-it-crash-this-year/articleshow/132980074.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "More than half of children and teens are using AI for personal reasons. This comes with risks",
+              "summary": "Navigating personal problems are a normal part of growing up. Young people are now turning to AI for help.",
+              "source": "The Conversation Africa",
+              "url": "https://theconversation.com/more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-comes-with-risks-288951",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " CBF president publicly rejects FIFA Forward Enterprise,",
+              "summary": "Samir Xaud, president of the Brazilian Football Federation, spoke publicly about the FIFA Forward Enterprise (FFE) initiative and became the first South American football chief to reject the now-cance",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/cbf-president-publicly-rejects-fifa-forward-enterprise-43235832",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NEO Semiconductor unveils AI memory platform aimed at easing global bottlenecks",
+              "summary": "NEO Semiconductor has launched NEO.AI, a memory platform it says could help address one of the biggest constraints on artificial intelligence (AI) systems worldwide: limited memory. The company says t",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260806PR200/neo-semiconductor-3d-hbm-efficiency-performance.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Kevin O'Leary Says AI Data Centers Must 'Earn' Community Trust Or Risk Losing the Fight: 'You Can't ",
+          "summary": ""
+        },
+        {
+          "topic": "Brand tracking tools for scaling companies: Brand tracking tools help growth marketers gauge what pe",
+          "summary": ""
+        },
+        {
+          "topic": "Chanel Retains Top Spot, Massimo Dutti, Celine and Phoebe Philo Surge on Lyst’s Hottest Brands Ranki",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "cd431726",
       "date": "2026-08-06",
       "generated_at": "2026-08-06T12:09:26.953819+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9731cbf4",
-      "date": "2026-07-07",
-      "generated_at": "2026-07-07T12:50:20.278376+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Global equity funds attract third straight week of inflows as investors buy AI-linked dip",
-              "summary": "Investors are pouring money into global equities, particularly technology stocks, despite a recent market dip. This surge, marking the third consecutive week of inflows, signals strong confidence in t",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-attract-third-straight-week-of-inflows-as-investors-buy-ai-linked-dip/articleshow/132207442.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Use, Misuse and Abuse: What should AI do for a researcher?",
-              "summary": "AI-powered tools have transformed the way researchers search for literature, analyse data, organise references, improve writing and communicate findings\nThe post Use, Misuse and Abuse: What should AI ",
-              "source": "Vanguard",
-              "url": "https://www.vanguardngr.com/2026/07/use-misuse-and-abuse-what-should-ai-do-for-a-researcher/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Q1 verdict: Can TCS, Infosys, other IT results stop a Rs 17 lakh crore AI-led rout?",
-              "summary": "India's top IT firms like TCS and Infosys face a crucial earnings season after a massive Rs 17 lakh crore market value erosion. Analysts anticipate muted results and weak future guidance, citing clien",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-q1-verdict-can-tcs-infosys-other-it-results-stop-a-rs-17-lakh-crore-ai-led-rout/articleshow/132207116.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do hedgehogs like complete darkness?",
-              "summary": "Do Hedgehogs Like Complete Darkness? Unveiling Their Nocturnal Preferences Hedgehogs thrive in darkness, but not necessarily complete darkness. They are nocturnal animals who need a consistent day/nig",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-hedgehogs-like-complete-darkness/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "We need to know who will control our health data when records are digitised",
-              "summary": "A digital health record is not a filing cabinet, but a clinical instrument in its own right",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/07/06/we-need-to-know-who-will-control-our-health-data-when-records-are-digitised/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What animals Cannot be fossilized?",
-              "summary": "What Animals Cannot Be Fossilized: Understanding the Limits of Paleontology The process of fossilization is highly selective, meaning many animals rarely or never become fossils. The likelihood of fos",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-animals-cannot-be-fossilized/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Climate Change Blamed in Heat Waves: Science or Simulation?",
-              "summary": "Photo Credit:heat wave illustration\n \n pixabayBy Mark KeenanAs Europe and much of North America endured record heat, headlines quickly appeared claiming that the heat wave was \"virtually impossible\" w",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/climate-change-blamed-in-heat-waves-science-or-simulation/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Hexagon Agility receives significant order from Certarus for Mobile Pipeline modules to service data center demand",
-              "summary": "OSLO, Norway, July 6, 2026 /PRNewswire/ -- Hexagon Agility, a subsidiary of Hexagon Composites, has received the largest single order for Mobile Pipeline® modules to date, from Certarus, the North Ame",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/hexagon-agility-receives-significant-order-from-certarus-for-mobile-pipeline-modules-to-service-data-center-demand-302818099.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Elon Musk Says Optimus Production Will Be 'Extremely Slow' in the Beginning: 'This is Not Like Makin",
-          "summary": ""
-        },
-        {
-          "topic": "Why Russian gangs are behind the bizarre adverts featuring AI images of Nigel Farage and Andrew Bail",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Calls Report on SpaceX AI Handheld Device ‘Utterly False’ After Claims of an iPhone Rival ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-06T12:09:26.953819+08:00",
+  "last_updated": "2026-08-07T11:48:15.910488+08:00",
   "total_days": 31
 }
