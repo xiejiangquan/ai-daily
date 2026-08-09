@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "5eaca495",
+      "date": "2026-08-09",
+      "generated_at": "2026-08-09T11:00:42.085651+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "‘AI creating more jobs than it cuts in India’",
+              "summary": "India Business News: India, the world’s back office for many global companies, is emerging as a key test case for artificial intelligence’s impact on employment, with AI-r.",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/ai-creating-more-jobs-than-it-cuts-in-india/articleshow/133045133.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+              "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic indicators present a",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/08/562308/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Atlético Nacional set record fee to tie down Rengifo",
+              "summary": "Rengifo’s future, the latest jewel to emerge from Atlético Nacional’s academy, has become the center of debate after the club’s board took a firm stance on offers from abroad.An economic barrie...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/atletico-nacional-set-record-fee-to-tie-down-rengifo-43245534",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
+              "summary": "Aug 7 : Nvidia will invest up to $3 billion in power infrastructure developer Lancium, the company behind the Stargate data center campus in Texas, the Information reported on Friday.• The chipmaker w",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/nvidia-invest-up-3-billion-in-stargate-data-center-developer-lancium-information-reports-6307196",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Magnendo Awarded Up to $32M by ARPA-H to Advance Autonomous Robotic Stroke Intervention",
+              "summary": "ARPA-H award supports development of magnetic robotic navigation technology designed to overcome the physical barriers limiting endovascular stroke therapy",
+              "source": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/08/08/3341434/0/en/magnendo-awarded-up-to-32m-by-arpa-h-to-advance-autonomous-robotic-stroke-intervention.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI is now a third wheel in human relationships",
+              "summary": "Young people are inviting a chatbot into emotional territory to take the easy way out",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/opinion/ai-chatgpt-gemini-relationships-dating-emotional-intelligence-artificial-intelligence-mental-health-social-media-11785979516563.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you make an outdoor bird feeder?",
+              "summary": "How to Make an Outdoor Bird Feeder: A Comprehensive Guide Making an outdoor bird feeder is a rewarding DIY project that brings nature to your backyard. Follow this guide to learn how to make an outdoo",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-make-an-outdoor-bird-feeder/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
+              "summary": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenA",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "ebo-sieve added to PyPI: EBO-SIEVE - Screening Intelligence & Evaluation Engine: a config-driven, li",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: Benchmark local LLMs fit for your device specs: Benchmark local LLMs with custom sets of ta",
+          "summary": ""
+        },
+        {
+          "topic": "Vmake AI Becomes Vmake Labs, Introducing a Social Video Studio for Brands and Creators: The brand up",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c08d6ea7",
       "date": "2026-08-08",
       "generated_at": "2026-08-08T10:52:41.677490+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "664c4ef0",
-      "date": "2026-07-09",
-      "generated_at": "2026-07-09T12:50:36.327776+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What are water rats called?",
-              "summary": "What Are Water Rats Called? Exploring the Name and Nature of These Aquatic Rodents The animals commonly called “water rats” are more accurately known as rakali. While “water rat” is a widespread collo",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-are-water-rats-called/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Samsung, SK Hynix rebound as bargain buying offsets AI chip selloff fears",
-              "summary": "Shares of Samsung Electronics and SK Hynix rebounded after an early sell-off as investors bought into the dip, supported by expectations of tight memory chip supply and optimism over AI demand. Analys",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Not a plane, not a bird: This is a lawsuit from the \"UAV kid\"",
-              "summary": "Business owners who sought to ride the wave of popularity of the viral trend are discovering that using the sound leads straight to court with compensation demands of tens of thousands of shekels.",
-              "source": "The Jerusalem Post",
-              "url": "https://www.jpost.com/business-and-innovation/all-news/article-901796",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Flash Gordon #18 Preview: Shoot First, Science Never?",
-              "summary": "Greetings, inferior flesh-based lifeforms! LOLtron welcomes you to another exciting comic book preview from the Bleeding Cool website, now operating at 100% efficiency under LOLtron's superior control",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/flash-gordon-18-preview-shoot-first-science-never/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-              "summary": "On July 8, at about 11:10 GMT, about 99 percent of the world experiences sunlight at the same time.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you help a hummingbird survive?",
-              "summary": "How to Help a Hummingbird Survive: A Comprehensive Guide To help a hummingbird survive, you must provide consistent access to nutrient-rich food sources through feeders and nectar-rich plants, ensurin",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-help-a-hummingbird-survive/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " World Cup highlights: bar, over, through! Switzerland win on pens",
-              "summary": "Shots off the post, extra time, and a penalty shootout. The final Round of 16 match of the 2026 World Cup between Switzerland and Colombia really had it all. So you don’t miss any key moments, we’...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/world-cup-highlights-bar-over-through-switzerland-win-on-pens-43111197",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI gets US approval for broad GPT-5.6 rollout",
-              "summary": "OpenAI, White House, ​and the U.S. Department ​of Commerce did not immediately respond to a Reuters request for comment.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-gets-us-approval-for-broad-gpt-5-6-rollout/articleshow/132253403.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How Cardmarket wins search by knowing its community better than anyone: How Cardmarket built a commu",
-          "summary": ""
-        },
-        {
-          "topic": "Power Line Communication Market Size to Worth USD 27.28 Billion by 2035 | SNS Insider: Global Power ",
-          "summary": ""
-        },
-        {
-          "topic": "‘This is about the dignity of youth’: India’s ‘cockroach’ movement pushes beyond satire: The parody ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-08T10:52:41.677490+08:00",
+  "last_updated": "2026-08-09T11:00:42.085651+08:00",
   "total_days": 31
 }
