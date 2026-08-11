@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "d2f9059c",
+      "date": "2026-08-11",
+      "generated_at": "2026-08-11T11:03:07.285995+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Advertisers are trying to influence AI bots with secret ads",
+              "summary": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare.",
+              "source": "Theregister.com",
+              "url": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OPPO Reno16 Pro 5G Review",
+              "summary": "OPPO’s Reno series has always focused on bringing stylish designs and camera-focused experience. With the new Reno16 Pro 5G, OPPO...\nThe post OPPO Reno16 Pro 5G Review appeared first on YugaTech | Phi",
+              "source": "Yugatech.com",
+              "url": "https://www.yugatech.com/gadget-reviews/oppo-reno16-pro-5g-review/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Helped British Airways Reach Its Best On-Time Performance",
+              "summary": "British Airways spent years struggling with delays and cancellations at its Heathrow hub, and the airline now says artificial intelligence is why that has changed.\nCEO Sean Doyle called the technology",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/4d3de68d00de89bb",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Machine keeps rolling in the Leagues Cup",
+              "summary": "Cruz Azul is closing in on the next round of the Leagues Cup, with six points from six possible. In the match against New York City Football Club, the cementeros took the lead early, but everything wa",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/the-machine-keeps-rolling-in-the-leagues-cup-43253586",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+              "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. The reports collectively reveal a Nepal that",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/10/562546/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wesfarmers shares are up 10%: Why experts are saying sell",
+              "summary": "Wesfarmers’ growth looks impressive, but how much is already priced into shares?\nThe post Wesfarmers shares are up 10%: Why experts are saying sell appeared first on The Motley Fool Australia.",
+              "source": "Motley Fool Australia",
+              "url": "https://www.fool.com.au/2026/08/10/wesfarmers-shares-are-up-10-why-experts-are-saying-sell/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AP Memory Strengthens Global Leadership Team with Appointment of Former Qualcomm Vice President Jian Zhang",
+              "summary": "HSINCHU, Aug. 9, 2026 /PRNewswire/ -- AP Memory, a leading global design company providing customized memory solutions, today announced the appointment of Jian Zhang to its leadership team. Jian will ",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/ap-memory-strengthens-global-leadership-team-with-appointment-of-former-qualcomm-vice-president-jian-zhang-302845742.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Macros weigh on ecommerce sales; District CEO on growth plan",
+              "summary": "Happy Monday! Inflation and pricier inputs may take some shine off this year's ecommerce festive sales. This and more in today’s ETtech Morning Dispatch.",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/macros-weigh-on-ecommerce-sales-district-ceo-on-growth-plan/articleshow/133077353.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The 1224 Page YouTube & Video Marketing PLR Deal: The 1,224 Page YouTube & Video Marketing PLR Deal ",
+          "summary": ""
+        },
+        {
+          "topic": "Raoul Pal Says Most People Think Crypto Is About Tokens Going Up and Down, but Today It Is About 'Ow",
+          "summary": ""
+        },
+        {
+          "topic": "AI Affiliate Marketing for Absolute Beginners With $0 Budget\" – Affiliate Income Stream: Learn how t",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ffde85cc",
       "date": "2026-08-10",
       "generated_at": "2026-08-10T11:09:56.637334+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "a085d362",
-      "date": "2026-07-11",
-      "generated_at": "2026-07-11T12:10:51.704090+08:00",
-      "headline": "今日 AI 新闻速览（58 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Adani Flagship Is the Next Big India Pick for Singapore’s Helios",
-              "summary": "Helios Capital Management is betting on the flagship stock of India’s Adani Group to be the next big winner for its funds in a market left behind in the global AI frenzy.",
-              "source": "Financial Post",
-              "url": "https://financialpost.com/pmn/business-pmn/adani-flagship-is-the-next-big-india-pick-for-singapores-helios",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why do spiders hate light blue?",
-              "summary": "Why Do Spiders Hate Light Blue? Unveiling the Arachnid Aversion Spiders generally avoid light blue because their limited vision perceives it as a potential hazard or an unsuitable environment, leading",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-do-spiders-hate-light-blue/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "New infosec products of the week: July 10, 2026",
-              "summary": "Here’s a look at the most interesting products from the past week, featuring releases from Attestiv, Automox, Codenotary, and First Recon AI. Codenotary launches AI security platform that learns from ",
-              "source": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/07/10/new-infosec-products-of-the-week-july-10-2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ZiNRAi: How to Think Like an Investor in Everyday Life",
-              "summary": "When most people hear the word \"investor,\" they immediately think of stocks, real estate, cryptocurrency, or financial markets.",
-              "source": "Radaronline.com",
-              "url": "https://radaronline.com/p/zinrai-how-to-think-like-an-investor-in-everyday-life/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The EU says keep your eyes on the road, because big brother’s eyes are on you",
-              "summary": "By Eric UtterWhat could go wrong?",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/07/the-eu-says-keep-your-eyes-on-the-road-because-big-brother-s-eyes-are-on-you/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The last painting contractor",
-              "summary": "By David DeMayOne afternoon I only wanted to know what it would cost to repaint a rental house interior; instead, I caught a glimpse of the future.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/07/the-last-painting-contractor/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you attract opossums?",
-              "summary": "How to Lure These Curious Creatures: Attracting Opossums to Your Yard Want to know how do you attract opossums? The secret lies in providing readily available food and shelter; however, it’s crucial t",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-attract-opossums/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI, Iran war risks weigh on Indian IT firms’ earnings outlook",
-              "summary": "Earnings at Taiwan Semiconductor Manufacturing Co. will serve as a key reality check for Taiwan’s stock market, which remains in the grip of the AI boom",
-              "source": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-10/indian-it-firms-earnings-face-ai-middle-east-war-risks",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How a Lean Marketing Team of 3–10 People Can Run Full-Channel Marketing With an AI Crew: A 3–10 pers",
-          "summary": ""
-        },
-        {
-          "topic": "How to Use Social Listening to Understand Your Audience and Improve Your Marketing: Millions of peop",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Replen – maps your repos to a knowledge graph to match open-source: Article URL: https://gi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-10T11:09:56.637334+08:00",
+  "last_updated": "2026-08-11T11:03:07.285995+08:00",
   "total_days": 31
 }
