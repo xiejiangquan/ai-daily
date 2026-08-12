@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "fe7d09b1",
+      "date": "2026-08-12",
+      "generated_at": "2026-08-12T11:21:17.211534+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Official: Améric announce their new signing",
+              "summary": "Through its social media, América officially announced the signing of Edwin Cerrillo for the Apertura 2026.The player arrives from LA Galaxy and said that the Coapa club is the team of his dreams, as.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/official-americ-announce-their-new-signing-43258670",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google's DeepMind team warns job seekers of unreliable HR filters",
+              "summary": "Google team is encouraging candidates for its open roles to fill out a special form alongside their application to eliminate the risk it may be automatically screened out by the company's AI systems",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/google-s-deepmind-team-warns-job-seekers-of-unreliable-hr-filters-126081100112_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Structural issues driving money from India: Ex-RBI chief Duvvuri Subbarao",
+              "summary": "Subbarao said a move in June aimed at drawing more foreign currency by incentivizing non-resident Indians is \"too costly\" to justify if the main purpose is simply to bolster confidence in the rupee",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/finance/news/structural-issues-driving-money-from-india-ex-rbi-chief-duvvuri-subbarao-126081100106_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can you put hummingbird feeder on table?",
+              "summary": "Can You Put a Hummingbird Feeder on a Table?: A Comprehensive Guide It’s possible to put a hummingbird feeder on a table, but not ideal. Consider alternative locations such as hanging from a branch or",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-put-hummingbird-feeder-on-table/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NUS students to get ChatGPT access; AI module compulsory for incoming freshmen",
+              "summary": "Announcing a partnership with OpenAI, NUS said all students, faculty and staff will get access to ChatGPT Edu from Aug 31.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/singapore/nus-chatgpt-compulsory-ai-module-6306826",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "YAGEO, Walsin post record July sales as AI demand lifts passive components",
+              "summary": "YAGEO and Walsin Technology reported strong July 2026 revenue as artificial intelligence demand continued to lift Taiwan's passive components sector. Both companies said orders from AI-related, networ",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260811PD204/walsin-revenue-demand-passive-2026.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do squirrels abandon sick babies?",
+              "summary": "Do Squirrels Abandon Sick Babies? Untangling Fact from Fiction The question of whether squirrels abandon their sick offspring is complex. While seemingly harsh, the reality is often rooted in survival",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-squirrels-abandon-sick-babies/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Taiwan and China see more students choose STEM as tech demand rises",
+              "summary": "For students and employers worldwide, the shift toward science and engineering degrees in Taiwan and China underscores how artificial intelligence, advanced manufacturing, and semiconductor demand are",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260811PD206/taiwan-stem-industrial-demand-2026.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
+          "summary": ""
+        },
+        {
+          "topic": "WATCH: Can Myspace make a comeback?: Sirius XM radio host Mike Muse and The New York Times' Gen Z re",
+          "summary": ""
+        },
+        {
+          "topic": "Paul Graham Says His Wife’s First Tesla FSD Experience Was Like a ‘Religious Revelation’— and AI Chi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "d2f9059c",
       "date": "2026-08-11",
       "generated_at": "2026-08-11T11:03:07.285995+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c5bd03e7",
-      "date": "2026-07-12",
-      "generated_at": "2026-07-12T12:23:21.821030+08:00",
-      "headline": "今日 AI 新闻速览（58 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "‘Patch and Pray’ IT Culture is a Dangerous Game",
-              "summary": "Photo Credit:\n \n Christoph ScholzBy Julio RiveraCybersecurity is one of the only sectors where failure is not only expected, it has actually been normalized.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/patch-and-pray-it-culture-is-a-dangerous-game/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Climate resilience must become the organising principle of Indian agriculture",
-              "summary": "As climate risks grow and events like El Nino are redefining the risks, the need to farm smarter, diversify and strengthen resilience has never been greater",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/agri-business/climate-resilience-must-become-the-organising-principle-of-indian-agriculture/article71206516.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "In 2026, the FCC authorized radio operations for Reflect Orbital’s first 18-metre space mirror, a single demonstration for a proposed 50,000-satellite system that one astronomy model says could raise the natural night-sky background by 200% to 300%",
-              "summary": "The Federal Communications Commission has authorized radio operations for Eärendil-1, a demonstration satellite built around a reflector measuring roughly 18 metres by 18 metres. If it reaches orbit a",
-              "source": "Space Daily",
-              "url": "https://spacedaily.com/sd-the-fcc-just-greenlit-a-satellite-designed-to-shine-sunlight-down-at-night-and-astronomers-are-warning-its-the-opening-move-in-something-that-could-triple-sky-brightness-worldwide/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you bread bait fish?",
-              "summary": "How to Bread Bait Fish: The Definitive Guide Learn how to bread bait fish effectively with this comprehensive guide. Breading provides a simple, versatile, and often irresistible attractant for a vari",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-bread-bait-fish/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Raghuram Rajan, Microsoft's Asha Sharma among Indian-origin appointees to US Fed review panels",
-              "summary": "US Federal Reserve appointed Indian-origin experts for policy review. Raghuram Rajan and Raj Chetty will join task forces. Asha Sharma will assess technology's impact on jobs and growth. These panels ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/raghuram-rajan-microsofts-asha-sharma-among-indian-origin-appointees-to-us-fed-review-panels/articleshow/132324231.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is it bad to feed crows?",
-              "summary": "Is It Bad to Feed Crows? A Balanced Perspective Feeding crows is a surprisingly complex issue. While seemingly harmless, understanding the potential ramifications on both the crows themselves and the ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-it-bad-to-feed-crows/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta pulls new AI image feature after days of backlash",
-              "summary": "Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram.\nThe feature was part of a broad rollout ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/325bcc45c030dd10",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ERAS Shareholder Alert: Erasca, Inc. Securities Class Action Lawsuit - Investors Should Contact The Gross Law Firm",
-              "summary": "NEW YORK, July 10, 2026 (GLOBE NEWSWIRE) -- The Gross Law Firm issues the following notice to shareholders of Erasca, Inc. (NASDAQ: ERAS).",
-              "source": "Associated Press",
-              "url": "https://apnews.com/press-release/globenewswire-mobile/press-release-d236677ddbd357966a2877c226c1d747",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Robinhood CEO Vlad Tenev Says 'Only 62% of Americans' Exposed to Stocks: 'I'd Like to Get That to 10",
-          "summary": ""
-        },
-        {
-          "topic": "How a Lean Marketing Team of 3–10 People Can Run Full-Channel Marketing With an AI Crew: A 3–10 pers",
-          "summary": ""
-        },
-        {
-          "topic": "How to Use Social Listening to Understand Your Audience and Improve Your Marketing: Millions of peop",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-11T11:03:07.285995+08:00",
+  "last_updated": "2026-08-12T11:21:17.211534+08:00",
   "total_days": 31
 }
