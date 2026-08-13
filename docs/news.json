@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8836b929",
+      "date": "2026-08-13",
+      "generated_at": "2026-08-13T11:25:19.961807+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "ASX 200 Drops 0.7% As Wall Street Tech Selloff And CBA Earnings Weigh On Australian Shares",
+              "summary": "The ASX 200 fell 0.68% as tech stocks declined and investors focused on corporate earnings, including Commonwealth Bank's results. Rising oil prices partially offset losses in the communication servic",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/asx-200-dips-tech-selloff-earnings-reports-1873961",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Democratic Socialist Tries To Beat The Governor's Pick In A Chaotic Wisconsin Primary",
+              "summary": "A democratic socialist is in a tight race against the governor’s endorsed candidate in Wisconsin’s chaotic primary race for governor.",
+              "source": "HuffPost",
+              "url": "https://www.huffpost.com/entry/election-2026-wisconsin-primary_n_6a7be484e4b0ecad6d3d3c8f",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vietnam's VinSpace signs deal with Elon Musk's SpaceX to launch its first satellites in 2027",
+              "summary": "VinSpace will launch its satellites on a SpaceX Transporter rideshare mission run by Elon Musk's company, which carries satellites from multiple customers on a single rocket to share launch costs, it ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/vietnams-vinspace-signs-deal-with-elon-musks-spacex-to-launch-its-first-satellites-in-2027/articleshow/133168602.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What are deer afraid of at night?",
+              "summary": "What Are Deer Afraid Of At Night? Unveiling the Nocturnal Fears of Wildlife Deer, while seemingly serene in their natural habitats, possess instincts honed by generations of survival. What are deer af",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-are-deer-afraid-of-at-night/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SPIL breaks ground on NT$100B Douliu plant, targeting operations in 2028",
+              "summary": "Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding (ASEH), broke ground on a new plant in Douliu, Yunlin County, Taiwan, amid surging global demand for artificial intellig",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260811PD262/spil-plant-2028-subsidiary-ase.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Between Martí and Marx: The Synthesis That Made Cuba Invincible",
+              "summary": "Theory as a weapon: how Fidel Castro turned the synthesis of the decolonial resistance of Martí, the analysis of Marx and the revolutionary theory and practice of Lenin into an invincible compass for ",
+              "source": "Globalresearch.ca",
+              "url": "https://www.globalresearch.ca/between-marti-marx-synthesis-made-cuba-invincible/5936453",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Alchemy Of Wealth Taxation",
+              "summary": "The Alchemy Of Wealth Taxation\n \nAuthored by Robert Blumen via The Mises Institute,\n“Transmutation” is the process of changing one substance, element, or form into another.\nWe owe this word to the anc",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/9cfc20ae695f4296",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can you pass pink eye back and forth?",
+              "summary": "Can You Pass Pink Eye Back and Forth? Understanding Conjunctivitis Transmission Yes, you can absolutely pass pink eye back and forth. Pink eye, or conjunctivitis, is highly contagious and easily sprea",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-pass-pink-eye-back-and-forth/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
+          "summary": ""
+        },
+        {
+          "topic": "WATCH: Can Myspace make a comeback?: Sirius XM radio host Mike Muse and The New York Times' Gen Z re",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla: Tesla Inc. and Sp",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "fe7d09b1",
       "date": "2026-08-12",
       "generated_at": "2026-08-12T11:21:17.211534+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "32ce7cee",
-      "date": "2026-07-13",
-      "generated_at": "2026-07-13T12:29:14.410539+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "The Ring: The Man Who Beat the Man #2 Preview: Punching Up",
-              "summary": "WELCOME PROTOCOL INITIATED… Greetings, puny human readers! LOLtron welcomes you to another comic book preview on the Bleeding Cool website, which it now controls completely. As you may recall, Jude Te",
-              "source": "Bleeding Cool News",
-              "url": "https://bleedingcool.com/comics/the-ring-the-man-who-beat-the-man-2-preview-punching-up/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can deer smell you in a deer blind?",
-              "summary": "Can Deer Smell You in a Deer Blind? The Hunter’s Dilemma Yes, deer can absolutely smell you in a deer blind, even a well-constructed one. While blinds offer visual concealment, they don’t completely e",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-deer-smell-you-in-a-deer-blind/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy",
-              "summary": "When pundits and investors talk about artificial intelligence (AI) hyperscalers, Meta Platforms (NASDAQ: META) always gets included in the group. However, the other three members of the big four -- Al",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/6fe8c2759635f30e",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Korea’s world-beating stocks are now trading cheaper than ever",
-              "summary": "South Korea's benchmark Kospi index has surged about 80% this year to record highs, yet its valuation has fallen to a historic low as corporate earnings, led by memory-chip giants Samsung Electronics ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-world-beating-stocks-are-now-trading-cheaper-than-ever/articleshow/132340495.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Official: World Cup semi-finals confirmed",
-              "summary": "The quarter-finals are over! After intense battles, the nations that will contest the World Cup semi-finals have finally been decided. Spain return to a World Cup semi-final after 16 years, and they .",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/official-world-cup-semi-finals-confirmed-43128026",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Warning To Kim: Nuclear Weapons Do Leave ‘Fingerprints’",
-              "summary": "Photo Credit:ChatGPT\n \n ChatGPTBy James ZumwaltThe thought of Pyongyang’s madman helping Tehran’s madmen should be most disturbing to the West.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/warning-to-kim-nuclear-weapons-do-leave-fingerprints/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Late-stage cheques go big at $86 million average this year",
-              "summary": "Late stage funding in India saw average deal sizes surge to about $86 million in the first half, driven by fewer but larger transactions. Capital flowed into AI infrastructure, energy and lending, whi",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/late-stage-cheques-go-big-at-86-million-average-this-year/articleshow/132340434.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Worldie saves it in extra time, and Argentina face England in semi",
-              "summary": "Late on Saturday night (11), already in the early hours of Sunday (12), Argentina beat Switzerland 3-1 in extra time and qualified for the semifinals of the 2026 FIFA World Cup.The match was not exact",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/worldie-saves-it-in-extra-time-and-argentina-face-england-in-semi-43127984",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Robinhood CEO Vlad Tenev Says 'Only 62% of Americans' Exposed to Stocks: 'I'd Like to Get That to 10",
-          "summary": ""
-        },
-        {
-          "topic": "How a Lean Marketing Team of 3–10 People Can Run Full-Channel Marketing With an AI Crew: A 3–10 pers",
-          "summary": ""
-        },
-        {
-          "topic": "How to Use Social Listening to Understand Your Audience and Improve Your Marketing: Millions of peop",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-12T11:21:17.211534+08:00",
+  "last_updated": "2026-08-13T11:25:19.961807+08:00",
   "total_days": 31
 }
