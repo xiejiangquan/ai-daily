@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3600eb14",
+      "date": "2026-08-14",
+      "generated_at": "2026-08-14T11:22:53.827572+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Manitoba farmers gather to learn how new technology can help them adapt to climate change",
+              "summary": "With this season's tumultuous weather, Manitoba farmers gathered in Grosse Isle on Wednesday to learn about how they can harness new technologies to help mitigate risks to their harvests and better ad",
+              "source": "CBC News",
+              "url": "https://www.cbc.ca/news/canada/manitoba/farmers-agricultural-technology-climate-change-9.7305530",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Michael Burry's Nebius Short Is Underwater After a 454% Revenue Quarter",
+              "summary": "On Aug. 6, Michael Burry disclosed a short position in Nebius Group (NASDAQ: NBIS) at around $212 a share, a bet he described as larger than the one he placed against Oracle at the same time. Six days",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/2ccfde686f98160a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
+              "summary": "Published\nTwitch is now allowing users to stop Amazon from training their generative artificial intelligence (AI) models using users' content, the popular streaming platform said.\nThe US company said ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/eae2bd0a66ac5f90",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+              "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bruno Guimarães scores penalty on Arsenal debut; watch ",
+              "summary": "Bruno Guimarães faced a “ghost” this Wednesday (12), fittingly in his debut as an Arsenal player.In a friendly against Como, the midfielder had to take a penalty for the first time since missing ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/bruno-guimaraes-scores-penalty-on-arsenal-debut-watch-43268926",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
+              "summary": "About 60% of respondents said AI is being used only in some parts of their companies or in other limited ways. Another 18% said they have not decided whether to introduce AI into the workplace while 6",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/articleshow/133196390.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "When Will AI Take My Job?",
+              "summary": "Explore projected AI-driven unemployment across 725 U.S. occupations from 2025 to 2039.",
+              "source": "Whenwillaitakemyjob.ai",
+              "url": "https://whenwillaitakemyjob.ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Cartoonists fear for industry with rise of AI-generated illustrations",
+              "summary": "AI-generated illustrations published in Australian newspapers have raised fears about the future of the cartooning industry, which one artist says is \"shrinking dramatically\".",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-08-13/ai-newspaper-illustrations-cartoons-media-industry/107027784",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "HTX Releases July Performance Report: TradFi Zone Evolves, Reaching Record Daily Trading Volume: API",
+          "summary": ""
+        },
+        {
+          "topic": "Our Boomer Mother-in-Law Wants Us to Keep 2 Cars in Case She Needs a Lift. My Wife Is Ready to Give ",
+          "summary": ""
+        },
+        {
+          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8836b929",
       "date": "2026-08-13",
       "generated_at": "2026-08-13T11:25:19.961807+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "57dbdb32",
-      "date": "2026-07-14",
-      "generated_at": "2026-07-14T11:54:47.427054+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Do chimpanzees know they exist?",
-              "summary": "Do Chimpanzees Know They Exist?: Exploring Chimpanzee Self-Awareness Do chimpanzees know they exist? Evidence suggests that chimpanzees, particularly those that have undergone mirror self-recognition ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-chimpanzees-know-they-exist/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "KOSPI Plunges Nearly 7% Below 7,000 as US-Iran Conflict Escalates, SK Hynix Stock Slides Sharply",
-              "summary": "South Korea's KOSPI index dropped 6.99% amid US-Iran tensions and a chip stock selloff, raising concerns over market volatility and potential interest rate hikes due to rising oil prices.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/kospi-index-plummets-us-iran-tensions-chip-stock-decline-1872174",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Microsoft CEO Satya Nadella warns of 'Reverse Information Paradox' facing businesses in AI Age",
-              "summary": "Microsoft CEO Satya Nadella warns businesses about the 'Reverse Information Paradox' in the AI age, emphasizing the need for trust and control.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/microsoft-ceo-satya-nadella-warns-of-reverse-information-paradox-facing-businesses-in-ai-age/article71215870.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Malaysia’s data centre pipeline beats neighbours, but Singapore will keep premium status: JPMorgan",
-              "summary": "The Republic’s tighter green rules hand scale and new projects to Malaysia, but it will keep premium status. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/companies-markets/malaysias-data-centre-pipeline-beats-neighbours-but-singapore-will-keep-premium-status-jpmorgan",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says",
-              "summary": "By Wen-Yee Lee TAIPEI, July 13 (Reuters) - Taiwan Semiconductor Manufacturing Co (TSMC) will add two advanced chip packaging plants in the Chiayi Science Par...",
-              "source": "Yahoo Entertainment",
-              "url": "https://finance.yahoo.com/technology/articles/tsmc-add-2-advanced-chip-034251078.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " With an emotional message: how Haaland bid farewell to the World Cup",
-              "summary": "Erling Haaland became one of the fans’ favorite players at the World Cup thanks to his discipline, charisma, and quality football.  The Manchester City player said goodbye to the competition with e...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/with-an-emotional-message-how-haaland-bid-farewell-to-the-world-cup-43131385",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "「Claude Fable 5」のアクセス期間が全ての有料プランで7月19日まで延長、Claude Codeの週次レート制限も50％増量を維持",
-              "summary": "2026年7月13日、Anthropicが、最先端モデル「Claude Fable 5」を追加費用なしで利用できる期間を2026年7月20日16時(日本時間)まで延長することを明らかにしました。さらに、Claude Codeの利用制限量を増量するキャンペーンも延長しています。As before, you can use up to half of your weekly usage limit o",
-              "source": "Livedoor.com",
-              "url": "https://news.livedoor.com/article/detail/31812083/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What plants are good for sugar gliders?",
-              "summary": "What Plants Are Good For Sugar Gliders? Discovering what plants are good for sugar gliders is crucial for their health and enrichment; many are safe and offer nutritional benefits, while others are hi",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-plants-are-good-for-sugar-gliders/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Could AI Pay Americans $1 Million Each? New Think Tank Forecast Sparks Jim Chanos' SpaceX Jab: 'Seem",
-          "summary": ""
-        },
-        {
-          "topic": "Autonomous Marketing Platforms for B2B Business Growth 2026: Learn how autonomous marketing platform",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-13T11:25:19.961807+08:00",
+  "last_updated": "2026-08-14T11:22:53.827572+08:00",
   "total_days": 31
 }
