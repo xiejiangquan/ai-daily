@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "29355418",
+      "date": "2026-08-15",
+      "generated_at": "2026-08-15T10:12:06.635087+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Map finds native water mammal rakali thriving in Melbourne's waterways",
+              "summary": "A native water mammal once dismissed as a \"water rat\" is quietly thriving in Melbourne's waterways, according to a new University of Melbourne mapping project.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-08-14/melbourne-university-map-tracks-native-water-mammal-rakali/107027312",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How Indonesia Can Get Ahead in the Artificial Intelligence Race",
+              "summary": "The country has the abundant land and energy resources needed to power hyperscale data centers. Can it harness them effectively?",
+              "source": "The Diplomat",
+              "url": "https://thediplomat.com/2026/08/how-indonesia-can-get-ahead-in-the-artificial-intelligence-race/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SMIC plans to single out AI chip revenue as demand outpaces its current reporting categories",
+              "summary": "Semiconductor Manufacturing International Corporation (SMIC) is considering disclosing revenue from artificial intelligence (AI)-related \"peripheral chips\" as a standalone line item, possibly from the",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260814VL208/smic-ai-chip-revenue-capacity-demand.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Babylon Bee Sues New Mexico Over Restrictions On AI Satirical Posts",
+              "summary": "Babylon Bee Sues New Mexico Over Restrictions On AI Satirical Posts\n \nAuthored by Kevin Stocklin via The Epoch Times,\nThe Babylon Bee, a satirical online publication, is suing the state of New Mexico ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/563de2dc78d743aa",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
+              "summary": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
+              "source": "Fox News",
+              "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "At last they won! Santos Laguna end winless run",
+              "summary": "Since March, the Warriors hadn’t known what it was like to win. Against all odds, and after suffering two defeats in this edition of the tournament, Santos Laguna beat the Philadelphia Union 2-0.Thi..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/at-last-they-won-santos-laguna-end-winless-run-43273937",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CNBC Daily Open: An 'indefinite' war, and a record-breaking rally",
+              "summary": "Hegseth says the U.S. Navy can blockade Iran for as long as it takes, while Wall Street responded by sending the S&P 500 to another day of record high.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What universities can offer in the age of AI",
+              "summary": "Taylor’s University is rethinking how artificial intelligence prepares graduates to apply knowledge, exercise judgment and adapt to constant change.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/advertorial/what-universities-can-offer-in-age-ai-6282021",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What is a social media AI agent? How they work + real examples: Curious about social media AI agents",
+          "summary": ""
+        },
+        {
+          "topic": "HTX Releases July Performance Report: TradFi Zone Evolves, Reaching Record Daily Trading Volume: API",
+          "summary": ""
+        },
+        {
+          "topic": "Our Boomer Mother-in-Law Wants Us to Keep 2 Cars in Case She Needs a Lift. My Wife Is Ready to Give ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3600eb14",
       "date": "2026-08-14",
       "generated_at": "2026-08-14T11:22:53.827572+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b29765ad",
-      "date": "2026-07-15",
-      "generated_at": "2026-07-15T11:56:16.796815+08:00",
-      "headline": "今日 AI 新闻速览（57 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "China's exports surge 27% from year earlier as AI boom drives strong demand",
-              "summary": "China's exports soared 27% in June, driven by AI demand, surpassing expectations and boosting import growth significantly.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/news/world/chinas-exports-surge-27-from-year-earlier-as-ai-boom-drives-strong-demand/article71219777.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China's exports surge 27% from a year earlier as AI boom drives strong demand",
-              "summary": "China's exports jumped twenty-seven percent in June, driven by strong artificial intelligence demand. Imports also surged significantly, reflecting increased global needs for electronics. This export ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-exports-surge-27-from-a-year-earlier-as-ai-boom-drives-strong-demand/articleshow/132380235.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom",
-              "summary": "Oil prices extend surge after Trump reinstates Iran shipping blockade\nBy Jihoon Lee\nSEOUL, July 14 (Reuters) - South Korea pledged on Tuesday to swiftly advance artificial intelligence investments to ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/1a4323806d2c88af",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Astronauts returning from long missions can initially struggle to stand, walk, and judge the weight of ordinary objects — because the brain must relearn a gravitational world it once treated as automatic",
-              "summary": "An astronaut does not return to Earth as someone who has forgotten gravity. The problem is quieter than that. After a long mission, the body knows intellectually that the floor is back, but the nervou",
-              "source": "Space Daily",
-              "url": "https://spacedaily.com/t-astronauts-returning-from-long-missions-struggle-stand-walk-judge-weight-ordinary-objects-brain-relearn-gravity/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Over 200 Economists Say 'We Must Act Now' On AI's Economic Impact",
-              "summary": "An anonymous reader quotes a report from the Associated Press: Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the ",
-              "source": "Slashdot.org",
-              "url": "https://slashdot.org/story/26/07/13/2210232/over-200-economists-say-we-must-act-now-on-ais-economic-impact",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SBI Funds Management IPO: Company expects stock market listing next week",
-              "summary": "SBI Funds Management Ltd. expects to list on the stock exchanges next week after the close of its Rs 11,692 crore IPO, with the company currently undertaking investor outreach programmes across major ",
-              "source": "ANI News",
-              "url": "https://www.aninews.in/news/business/sbi-funds-management-ipo-company-expects-stock-market-listing-next-week20260713181659",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの",
-              "summary": "ビジネス系SNS「LinkedIn」を調査したところ、長文投稿の40.5％がAI生成だった、というレポートが発表されました。AI Content Is Everywhere on Social Media, Especially LinkedIn | Pangram Labshttps://www.pangram.com/blog/ai-in-your-feedAlmost Half Of All",
-              "source": "Livedoor.com",
-              "url": "https://news.livedoor.com/article/detail/31820465/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China's trade expands on AI boom, offsetting weak sectors",
-              "summary": "TOKYO -- China's trade surged in the first six months of 2026, riding global investment in artificial intelligence-related industries to overcome geopolitical uncertainty and offset sluggish domestic ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/1548fca0e8094074",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Marc Andreessen Says AI Is 'Already a Better Doctor Than 99.99% of Human Doctors': Venture capitalis",
-          "summary": ""
-        },
-        {
-          "topic": "We Are Social’s Monday Mashup #782: TikTok launches AI literacy tools, X adds new video editor and r",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Another terminal UI for stock, but with news sentiments: Terminal stock dashboard: live quo",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-14T11:22:53.827572+08:00",
+  "last_updated": "2026-08-15T10:12:06.635087+08:00",
   "total_days": 31
 }
