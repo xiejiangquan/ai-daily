@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b8c00f94",
+      "date": "2026-08-21",
+      "generated_at": "2026-08-21T10:21:36.400157+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Xiaomi's AI strategy moves beyond models as MiMo becomes the intelligence layer across human-car-home ecosystem",
+              "summary": "As competition in artificial intelligence shifts from model development toward real-world deployment, Xiaomi is betting that its advantage will come not only from building foundation models, but from ",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260819VL220/xiaomi-competition-development-hardware-2026.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do bats drink water while flying?",
+              "summary": "Do Bats Drink Water While Flying? Splash-and-Dash Hydration in the Sky Yes, bats do drink water while flying. This risky behavior, known as aerial drinking, allows them to replenish fluids quickly and",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-bats-drink-water-while-flying/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "No royal role for Sussexes: King Charles welcomes Harry, Meghan’s UK return - Report",
+              "summary": "Prince Harry and Meghan Markle are set to visit Britain later this month, bringing along their children, Archie and Lilibet, who will soon attend a British school. King Charles is eager for the chance",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/uk/no-royal-role-for-sussexes-king-charles-welcomes-harry-meghans-uk-return-report/articleshow/133361785.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Kenya helicopter crash kills 7, including 5 Americans, Ecuador intelligence chief and his wife",
+              "summary": "Rest of World News: Five American nationals and Ecuador’s intelligence chief Michele Sensi-Contugi were among seven people killed when a safari helicopter crashed in Keny.",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kenya-helicopter-crash-kills-7-including-5-americans-ecuador-intelligence-chief-and-his-wife/articleshow/133361825.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘Fundamentally differed’: US military newspaper publisher quits amid Pentagon row over editorial freedom",
+              "summary": "Max Lederer Jr., the publisher of Stars and Stripes, has stepped down amidst disputes over editorial independence. The Pentagon's push for more oversight has sparked tension regarding the military new",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/us/fundamentally-differed-us-military-newspaper-publisher-quits-amid-pentagon-row-over-editorial-freedom/articleshow/133361929.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Will hold retest of 3 subjects of UGC-NET: Govt",
+              "summary": "India News: NEW DELHI: Centre informed Delhi high court Wednesday that a retest is being conducted for three subjects of UGC-NET June-2026 examination, including .",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/india/will-hold-retest-of-3-subjects-of-ugc-net-govt/articleshow/133361943.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Statues vandalised, vehicles torched after students' bike rally turns violent in Meghalaya",
+              "summary": "During a turbulent Khasi Students' Union bike rally in Shillong, statues were defaced and government vehicles set ablaze, highlighting the escalating agitation over a five-point charter of demands. Th",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/city/shillong/shillong-tense-after-students-bike-rally-vivekananda-netaji-statues-vandalised-vehicles-torched/articleshow/133361784.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OKC Thunder to face Lakers, Nuggets during 2026-27 NBA Rivals week",
+              "summary": "Oklahoma City Thunder to face Los Angeles Lakers, Denver Nuggets during 2026-27 NBA Rivals week.",
+              "source": "USA Today",
+              "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/08/19/okc-thunder-to-face-lakers-nuggets-during-2026-27-nba-rivals-week/91381108007/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "a16z Partner Asks Why California Politicians ‘Want to Push Away Startups,’ Says State Already Lost T",
+          "summary": ""
+        },
+        {
+          "topic": "Back In The ‘90s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent — Now",
+          "summary": ""
+        },
+        {
+          "topic": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 ‘James Bond’ After Dramatic 82-MPH Highway Collision Avo",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "400edb9e",
       "date": "2026-08-20",
       "generated_at": "2026-08-20T10:15:32.011005+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "351e0857",
-      "date": "2026-07-21",
-      "generated_at": "2026-07-21T12:13:14.235078+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "China's Zhongji Innolight sees shares surge after Hong Kong listing approval",
-              "summary": "The deal size will exceed Luxshare Precision's $3.1 billion IPO earlier this month, making it the largest listing in Hong Kong this ​year.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/07/20/-chinas-zhongji-innolight-sees-shares-surge-after-hong-kong-listing-approval-.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI may predict harmful chemical exposures affecting human health",
-              "summary": "Artificial intelligence is rapidly improving scientists' ability to detect chemicals in the environment and human body.",
-              "source": "News-Medical.Net",
-              "url": "https://www.news-medical.net/news/20260719/AI-may-predict-harmful-chemical-exposures-affecting-human-health.aspx",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: CXMT's $8.6 billion IPO draws strong demand despite cooling enthusiasm for chip stocks",
-              "summary": "Chinese memory chipmaker CXMT Corp's IPO saw oversubscription by institutional investors. This robust demand highlights continued investor interest in China's semiconductor sector. The company's listi",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-cxmts-8-6-billion-ipo-draws-strong-demand-despite-cooling-enthusiasm-for-chip-stocks/articleshow/132505737.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Vision Storylines That Completely Changed the MCU’s Synthezoid’s Place in Marvel Comics",
-              "summary": "Image Courtesy of Marvel Comics\n\nVision has been one of Marvel Comics’ most unique characters for years for a really important reason. His origin story saw Ultron create Vision to be his “son” while u",
-              "source": "ComicBook.com",
-              "url": "http://comicbook.com/comics/list/the-vision-storylines-that-completely-changed-the-mcus-synthezoids-place-in-marvel-comics/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Earnings season gathers pace as AI heavyweights, chipmakers take centre stage",
-              "summary": "US corporate earnings season is set to accelerate this week with key tech giants announcing their results for this quarter. Investors anticipate strong artificial intelligence growth while monitoring ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-earnings-season-gathers-pace-as-ai-heavyweights-chipmakers-take-centre-stage/articleshow/132505605.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "EVA LIVE TARGETS A $3 TRILLION GLOBAL DEFENSE, SATELLITE AND AI INFRASTRUCTURE OPPORTUNITY WITH PROPOSED ACQUISITION OF AIRBEAM WIRELESS TECHNOLOGIES",
-              "summary": "Proposed acquisition brings access to more than 260 patents and advanced millimeter-wave semiconductor technology built upon a technology lineage that benefited from more than $150 million in cumulati",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/07/20/3329416/0/en/EVA-LIVE-TARGETS-A-3-TRILLION-GLOBAL-DEFENSE-SATELLITE-AND-AI-INFRASTRUCTURE-OPPORTUNITY-WITH-PROPOSED-ACQUISITION-OF-AIRBEAM-WIRELESS-TECHNOLOGIES.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Who Watches the Watchers?",
-              "summary": "Photo Credit:History changed graphic montage\n \n chatgptBy Brian C. Joondeph Trust is important. Verification is essential.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/who-watches-the-watchers/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Taiwan-US 'co-make' white paper debuts amid investment boom",
-              "summary": "Taiwan Semiconductor Manufacturing Company's (TSMC) announcement of an additional US$100 billion investment into US manufacturing has brought renewed attention to manufacturing in the US. The Internat",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260719PD200/taiwan-investment-tsmc-manufacturing-technology.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "As SpaceX Declines, Gary Black Says He Won't Get Excited Until SPCX Stock Falls Below $100—Ross Gerb",
-          "summary": ""
-        },
-        {
-          "topic": "Trump Slams New York Data Center Moratorium as 'Terrible Decision' While Bill Ackman Points to AI Ra",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Reacts to Jamie Dimon's ‘Einstein’ Praise With Two-Word Reply as Viral Post Hails His Spac",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-20T10:15:32.011005+08:00",
+  "last_updated": "2026-08-21T10:21:36.400157+08:00",
   "total_days": 31
 }
