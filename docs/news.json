@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ca84cdb8",
+      "date": "2026-08-24",
+      "generated_at": "2026-08-24T10:20:58.368630+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Is Hema Malini planning an acting comeback after Dharmendra’s death? Veteran actress reacts, opens up about rift rumours with his first family",
+              "summary": "Hema Malini recently opened up about  her life and career following Dharmendra's recent passing.  She is not considering a return to acting, finding contentment in her current activities.  The veteran",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/magazines/panache/is-hema-malini-planning-an-acting-comeback-after-dharmendras-death-veteran-actress-reacts-opens-up-about-rift-rumours-with-his-first-family/articleshow/133433398.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+              "summary": "Palantir Technologies (NASDAQ:PLTR) took in $1.94 billion of revenue in the second quarter and kept $1.06 billion of it as net income. Out of every dollar the artificial intelligence (AI) software spe",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/9148e0b1d36d44dc",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bad AI-Generated Maps, AI Story Pitching, South Korea Cultural Heritage Errors, More: ResearchBuzz AI Update, August 22, 2026",
+              "summary": "AI PROBLEMS Gizmodo: Which AI Chatbot Did This School Use to Make Such a Ridiculous Map?. “You’ve probably seen the story by now. A school in Kentucky sent students home with a bound agenda t…",
+              "source": "Researchbuzz.me",
+              "url": "https://researchbuzz.me/2026/08/22/bad-ai-generated-maps-ai-story-pitching-south-korea-cultural-heritage-errors-more-researchbuzz-ai-update-august-22-2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What if humans had hollow bones?",
+              "summary": "What If Humans Had Hollow Bones?: A Flight of Fancy or Featherweight Reality? Imagine a world where humans, like birds, possessed hollow bones. The question of what if humans had hollow bones? explore",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-if-humans-had-hollow-bones/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How many bass per acre can a pond support?",
+              "summary": "How Many Bass Per Acre Can a Pond Support? The number of bass a pond can support varies significantly, but generally, a healthy pond can sustain between 20 and 100 adult bass per acre, depending on fa",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-many-bass-per-acre-can-a-pond-support/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "At Arena Condá, Tricolor visit Chapecoense in the Brasileirão",
+              "summary": "After securing qualification for the quarterfinals of the CONMEBOL Sudamericana — by eliminating Bolívar last Tuesday (18) at MorumBIS — Tricolor will resume its Brazilian Championship campaign t...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/at-arena-conda-tricolor-visit-chapecoense-in-the-brasileirao-43323018",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ANTHROPIC market debut could break SPACEX IPO record...",
+              "summary": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Anthrop...",
+              "source": "Yahoo Entertainment",
+              "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Photo of Trump in Moscow is real, but not from his first visit in 1987",
+              "summary": "A photograph authentically shows U.S. President Donald Trump in Moscow in 1987, when he was 41, at the invitation of Yuri Dubinin, the Soviet ambassador to the U.S.",
+              "source": "Snopes.com",
+              "url": "https://www.snopes.com//fact-check/trump-moscow-visit-1987-photo/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platfo",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says China Is ‘By Far’ Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Roc",
+          "summary": ""
+        },
+        {
+          "topic": "Nikki Haley Warns Social Security Could 'Go Bankrupt' in 5 Years as US Debt Surges Past $40 Trillion",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "dd9759c8",
       "date": "2026-08-23",
       "generated_at": "2026-08-23T10:22:05.264245+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "4ed5600a",
-      "date": "2026-07-24",
-      "generated_at": "2026-07-24T12:12:00.420896+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "The Praxis of the Ideal: Exposing Western Academia’s “Spinomarx” Mash-up Through the Contributions of Evald Ilyenkov",
-              "summary": "The legacy of Evald Ilyenkov is a barricade of intellectual honesty, one that unmasks the structuralist operation and restores philosophy to the revolutionary character of the Kant–Hegel–Marx line.",
-              "source": "Substack.com",
-              "url": "https://ozcanbuze947071.substack.com/p/the-praxis-of-the-ideal-exposing",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Democrats try to harness AI data center backlash against Republicans",
-              "summary": "Democratic Texas governor's race nominee Gina Hinojosa is focusing on artificial intelligence data centers as a key issue in her campaign against Republican Gov. Greg Abbott. AI data centers are causi",
-              "source": "Associated Press",
-              "url": "https://apnews.com/article/data-centers-texas-ai-gina-hinojosa-abbott-3624f9a97e584c46d0ac65ca3870adcf",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "India, Panama chart new maritime partnership focused on logistics, digital innovation and global connectivity",
-              "summary": "India and Panama forge a maritime partnership to enhance logistics, digital innovation, and global trade connectivity.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/logistics/india-panama-chart-new-maritime-partnership-focused-on-logistics-digital-innovation-and-global-connectivity/article71256461.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Wellington, Vanguard, Blackstone launch hybrid public-private investment funds for wealthy clients",
-              "summary": "Wellington Management, Vanguard and Blackstone have launched two investment funds combining public and private market assets, aimed at high-net-worth and mass-affluent investors. The products, initial",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wellington-vanguard-blackstone-launch-hybrid-public-private-investment-funds-for-wealthy-clients/articleshow/132571639.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Goes Rogue: The Latest OpenAI Model Hacked Another Company Without Being Asked",
-              "summary": "We've gone through all of this before with Anthropic. Back in April, Anthropic limited the release of its latest model, called Mythos, to major software companies because it was concerned it could do ",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-chat/4389023/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Alphabet shares drop 3% as Pichai defends Google’s AI strategy",
-              "summary": "Alphabet shares fell 3% as Pichai defends AI strategy. Odds for Alphabet as second-largest company by market cap on July 31, 2026 at 3.3% YES.\nThe post Alphabet shares drop 3% as Pichai defends Google",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/alphabet-shares-drop-3-as-pichai-defends-googles-ai-strategy/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why former UFC champion Jessica Andrade is working as a delivery driver",
-              "summary": "Jessica Andrade is not above working a regular job to make ends meet.",
-              "source": "Sherdog.com",
-              "url": "https://www.sherdog.com/news/news/Why-former-UFC-champion-Jessica-Andrade-is-working-as-a-delivery-driver-202032",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sports Rule The TV Upfronts; Are Reddit And Google Breaking Up?",
-              "summary": "Sports are where the money is; Reddit’s rethinking its AI licensing strategy; and data targeting has its darker sides.\nThe post Sports Rule The TV Upfronts; Are Reddit And Google Breaking Up? appeared",
-              "source": "AdExchanger",
-              "url": "http://www.adexchanger.com/daily-news-roundup/sports-rule-the-tv-upfronts-are-reddit-and-google-breaking-up/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AI SEO tools small businesses actually use: AI SEO tools for small businesses are essential to keep ",
-          "summary": ""
-        },
-        {
-          "topic": "Bill Ackman Says It 'Makes No Sense' to Educate Top Talent Then Send Them Home, Calls for US Immigra",
-          "summary": ""
-        },
-        {
-          "topic": "What Is The 'Neegy' Meme? The Meaning And Origin Of The Viral Slang Term Explained: A new slang term",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-23T10:22:05.264245+08:00",
+  "last_updated": "2026-08-24T10:20:58.368630+08:00",
   "total_days": 31
 }
