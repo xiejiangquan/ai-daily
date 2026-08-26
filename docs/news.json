@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ef28c107",
+      "date": "2026-08-26",
+      "generated_at": "2026-08-26T10:22:59.017130+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Hyundai Motor's union reaches tentative wage deal, averting more strikes",
+              "summary": "Hyundai Motor's South Korean union said on Tuesday (Aug 25) it has reached a tentative agreement with management, averting further production losses after staging its first full strike in",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/hyundai-motors-union-reaches-tentative-wage-deal-averting-more-strikes-6338421",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+              "summary": "South Korea’s Jeonbuk Bank has tapped Ripple for cross border payments, while Pakistan has begun the process of licensing crypto exchanges.",
+              "source": "Cointelegraph",
+              "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NVIDIA Groq 3 LPX が量産開始、エージェント型 AI 向けに世界トップクラスの処理速度を実現",
+              "summary": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/648/12662-648-a48509fab7336a40595b1cfd4b79449f-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+              "source": "Prtimes.jp",
+              "url": "https://prtimes.jp/main/html/rd/p/000000648.000012662.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "3D-Printed Skin Gives Robots the Sensation of Touch",
+              "summary": "Hypoesthesia, more commonly referred to as numbness, is one of the more distressing ailments that can affect us humans, primarily because it reminds us of just how much we rely on our sensation of …",
+              "source": "Hackaday",
+              "url": "https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ETSA 2026: Jury to pick winners today; SoftBank trims Lenskart stake",
+              "summary": "The day has arrived! The elite jury of The Economic Times Startup Awards 2026 will convene in Bengaluru today to select the brightest stars in India’s startup galaxy. This and more in today’s ETtech M",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/etsa-2026-jury-to-pick-winners-today-softbank-trims-lenskart-stake/articleshow/133486863.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI infrastructure boom drives Taiwan export orders, exposing power bottleneck, net-zero tech needs",
+              "summary": "Global artificial intelligence infrastructure buildouts and rising capex by cloud service providers pushed Taiwan's July export orders for information and communications technology (ICT) products, led",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260825PD201/infrastructure-taiwan-net-zero-competition-technology.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI to build world's biggest AI data center in Ohio. What we know",
+              "summary": "A massive data center for OpenAI, the artificial intelligence company that created ChatGPT, is planned for Southern Ohio.\nThe San Francisco-based company announced Aug. 17 it will lease space for its ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/a16db4b624fac089",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Semianalysis Deep Dive",
+              "summary": "SemiAnalysis. talk about SpaceX’s 10 GW AI compute ambitions. Frontier labs can generate ~$100 million of revenue per megawatt per year today on API inference with GB300-class systems. Cost of the und",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/08/semianalysis-deep-dive.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More: A package gets in",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says SPCX Could Reach 10,000 Starship Launches Annually by 2030: ‘Still Tiny’ Compared Wit",
+          "summary": ""
+        },
+        {
+          "topic": "Trump Administration 'Panicked' by Announcing Treasury Bailout, Says Peter Schiff: 'Sounding' the Al",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3d198854",
       "date": "2026-08-25",
       "generated_at": "2026-08-25T10:16:24.245003+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "674c2ad8",
-      "date": "2026-07-26",
-      "generated_at": "2026-07-26T12:23:21.924484+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Strengthening Health Cooperation in BRICS: A Focus on AI and Digital Health, ETHealthworld",
-              "summary": "Emphasising that continuity of care lies at the heart of every health system, she said the fundamental challenge before all countries is to ensure that a citizen's healthcare journey remains connected",
-              "source": "The Times of India",
-              "url": "https://health.economictimes.indiatimes.com/news/policy/health-cooperation-remains-a-strong-pillar-of-brics-partnership-health-secretary/132617411",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-              "summary": "The UK Artificial Intelligence Security Institute (UK AISI) and the U.S.",
-              "source": "Nist.gov",
-              "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why are there 100s of black birds in my yard?",
-              "summary": "Why Are There Hundreds of Black Birds in My Yard? Decoding the Mystery Large flocks of black birds congregating in your yard often signal changes in season or attractive food sources; understanding th",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-are-there-100s-of-black-birds-in-my-yard/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How sustainability is becoming the fertiliser industry’s defining growth strategy",
-              "summary": "Explore how sustainability is reshaping India's fertiliser industry, enhancing food security and promoting a resilient, eco-friendly future.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/agri-business/how-sustainability-is-becoming-the-fertiliser-industrys-defining-growth-strategy/article71262860.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do hummingbirds prefer red or blue?",
-              "summary": "Do Hummingbirds Prefer Red or Blue? Unraveling the Color Mystery Hummingbirds are famously attracted to feeders, but do hummingbirds prefer red or blue? The answer is nuanced: While hummingbirds are s",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-hummingbirds-prefer-red-or-blue/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Systemic Advantages Of The Transgender Paradigm (Satire)",
-              "summary": "Photo Credit:\n \n American ThinkerBy Milli SandsUnder the new paradigm, every aspect of American life will be more efficient and affordable.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/07/systemic-advantages-of-the-transgender-paradigm-satire/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI-generated deepfake video of Piyush Goyal leads to FIR",
-              "summary": "Piyush Goyal recently alerted authorities about a deepfake video misrepresenting his statements through AI manipulation. Following this, an FIR was filed at the Chanakyapuri Police Station. Goyal said",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ai-generated-deepfake-video-of-piyush-goyal-leads-to-fir/articleshow/132618425.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Piyush Goyal says AI-generated deepfake video of his remarks circulated, FIR registered",
-              "summary": "Union Minister Piyush Goyal said strict legal action would be taken against everyone involved in creating, circulating or amplifying the alleged fake video. The government also debunked a video circul",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/piyush-goyal-says-ai-generated-deepfake-video-of-his-remarks-circulated-fir-registered/articleshow/132618654.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
-          "summary": ""
-        },
-        {
-          "topic": "Yoroll Launches AI Odyssey, a Playable AI Film Inspired by Homer's Epic: Playable AI film inspired b",
-          "summary": ""
-        },
-        {
-          "topic": "728. The Parisian Heist with Jo Piazza: Jo Piazza is my guest this week to discuss her new book, The",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-25T10:16:24.245003+08:00",
+  "last_updated": "2026-08-26T10:22:59.017130+08:00",
   "total_days": 31
 }
