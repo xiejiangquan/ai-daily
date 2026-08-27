@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "bc969955",
+      "date": "2026-08-27",
+      "generated_at": "2026-08-27T18:53:33.068858+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Why Atiku’s subsidy plan is flawed – Tinubu’s aide",
+              "summary": "Tinubu’s aide criticises Atiku’s proposal to subsidise crude oil for local refineries, warning of fiscal holes and market distortions.\n\nRead More: https://punchng.com/why-atikus-subsidy-plan-is-flawed",
+              "source": "The Punch",
+              "url": "https://punchng.com/why-atikus-subsidy-plan-is-flawed-tinubus-aide/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "MiniMax Announces First Half 2026 Financial Results",
+              "summary": "HONG KONG, Aug. 26, 2026 /PRNewswire/ -- MiniMax Group Inc. (\"MiniMax\" or the \"Company\"; HKEX: 00100), a leading global artificial intelligence company, today announced its unaudited financial results",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/minimax-announces-first-half-2026-financial-results-302860489.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "from waste to resource: what space reveals about circular design",
+              "summary": "from water recovery on the ISS to experiments in growing food and reusing materials, space habitats offer a useful test for how circular our buildings and products really are.\nThe post from waste to r",
+              "source": "Designboom",
+              "url": "https://www.designboom.com/technology/waste-resource-space-circular-design/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "JinkoSolar Announces Second Quarter 2026 Financial Results",
+              "summary": "SHANGRAO, China, Aug. 26, 2026 /PRNewswire/ -- JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), a global leader in clean energy technology, today announced its unaudited finan",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/jinkosolar-announces-second-quarter-2026-financial-results-302860485.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Seahawks sale for $9.6 billion to be finalized today",
+              "summary": "National Football League owners are meeting in Atlanta today to vote on the proposed sale of the Seattle Seahawks to venture capitalist Vinod Khosla.",
+              "source": "Yahoo Entertainment",
+              "url": "https://sports.yahoo.com/articles/seahawks-sale-9-6-billion-104735846.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sensex settles 183 pts lower; Nifty ends above 24,250",
+              "summary": "As per provisional closing data, the S&P BSE Sensex declined 183.15 points or 0.24% to 77,472.94. The Nifty 50 index lost 126.80 points or 0.52% to 24,207.75.",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-183-pts-lower-nifty-ends-below-24-250-126082600775_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nancy Pelosi Makes Massive Bet On AI’s Energy Boom",
+              "summary": "Former House Speaker Nancy Pelosi’s family invested millions of dollars in an energy company positioned to profit from the artificial intelligence industry’s surging demand for electricity, according ",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-bloggers/4393157/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "M&A deals double, but execution holds the key for investors: Crisil Ratings",
+              "summary": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded a",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How to manage social media as a one-person team: As the hub of cultural conversations and online act",
+          "summary": ""
+        },
+        {
+          "topic": "US Homebuyers Are ‘Quitting’ as Sellers Outnumber Buyers by 51.3%: Buyer Count Hits Record Low: Mark",
+          "summary": ""
+        },
+        {
+          "topic": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Gro",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ef28c107",
       "date": "2026-08-26",
       "generated_at": "2026-08-26T10:22:59.017130+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "68afea65",
-      "date": "2026-07-27",
-      "generated_at": "2026-07-27T12:34:57.088488+08:00",
-      "headline": "今日 AI 新闻速览（56 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
-              "summary": "Chinese artificial intelligence models are increasingly adopted by American users and businesses. These advanced systems offer competitive performance at significantly lower costs. Companies are switc",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cheaper-open-and-intelligent-chinese-ai-models-gain-ground-as-they-make-inroads-in-the-us/articleshow/132636291.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Booted from Malaysia, tech guru Balaji Srinivasan finds a new patron for his ‘nomad’ commune: Kazakhstan",
-              "summary": "It's been a weekslong saga involving crypto-friendly tech utopianism, tensions over the Israeli-Palestinian conflict, and even China’s real estate crash.",
-              "source": "Fortune",
-              "url": "https://fortune.com/2026/07/26/network-school-balaji-srinivasan-malaysia-johor-israel-kazakhstan/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Are deer active after 9am?",
-              "summary": "Are Deer Active After 9 AM? Unveiling Deer Activity Patterns Yes, deer are definitely active after 9 AM. While crepuscular periods (dawn and dusk) are their peak activity times, deer can be observed m",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/are-deer-active-after-9am/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why global automotive suppliers can no longer manage India from Europe",
-              "summary": "As global automakers redraw supply chains and software reshapes the car, FORVIA Chief Executive Officer Martin Fischer says India’s role is changing from an offshore engineering centre to a market wit",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/companies/why-global-automotive-suppliers-can-no-longer-manage-india-from-europe/article71263892.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Rescuers scour South China Sea for 23 missing after Vietnamese vessel sinks",
-              "summary": "Cargo vessel Khoi Nguyen 18, with 62 Vietnamese nationals aboard, ran into distress in waters near Fiery Cross Reef, China's state broadcaster CCTV said.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/east-asia/rescue-south-china-sea-vietnamese-vessel-sinks-23-missing-6278706",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Affordability concerns reshape global car buying as EV interest grows: McKinsey",
-              "summary": "Affordability concerns and evolving preferences are reshaping global automotive markets.  Consumers are delaying purchases and considering smaller vehicles due to financial pressures.  Electric vehicl",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/affordability-concerns-reshape-global-car-buying-as-ev-interest-grows-mckinsey/articleshow/132636150.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Food tasting history and the promise of prevention of poisoning",
-              "summary": "When members of the Food and Drug Administration (FDA) recently protested at having to do food tasting for VIPs, it seemed an anachronism.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/food-tasting-history-and-the-promise-of-prevention-of-poisoning/articleshow/132635852.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Breaking: América confirm Brian Rodríguez injury",
-              "summary": "Through its social media channels, América confirmed that Brian Rodríguez will be sidelined due to injury. \"Club América reports that Brian Rodríguez suffered a left knee sprain during training,\"...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/breaking-america-confirm-brian-rodriguez-injury-43187048",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "As Wall Street Frets Over Alphabet's AI Spending Binge, Mark Cuban Says Google Is Simply Doing What ",
-          "summary": ""
-        },
-        {
-          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
-          "summary": ""
-        },
-        {
-          "topic": "Yoroll Launches AI Odyssey, a Playable AI Film Inspired by Homer's Epic: Playable AI film inspired b",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-26T10:22:59.017130+08:00",
+  "last_updated": "2026-08-27T18:53:33.068858+08:00",
   "total_days": 31
 }
