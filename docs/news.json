@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "2c8e53c4",
+      "date": "2026-08-28",
+      "generated_at": "2026-08-28T20:29:08.615996+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Exploited Data Workers in the Global South Are \"the Secret Ingredient of AI Itself\"",
+              "summary": "Despite being branded as autonomous and self-sustaining, artificial intelligence relies heavily on human labor — an army of data workers all over the world, primarily in the Global South. These worker",
+              "source": "Democracy Now!",
+              "url": "https://www.democracynow.org/2026/8/27/data_workers",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Quick Scatter Pro by Krykftn | Advanced Editor Tools & Systems",
+              "summary": "Scatter prefabs over your terrain by rule, then read what actually happened: the spacing really achieved, how many things overlap, and why every candidate that did not land was thrown away.A report me",
+              "source": "Unity.com",
+              "url": "https://assetstore.unity.com/packages/tools/terrain/quick-scatter-pro-400016",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "HP has a solution to expensive AI tokens: Buy a more expensive PC",
+              "summary": "Rising cloud AI costs are pushing workloads onto pricier PCs – which just happen to be better for PC maker's margins",
+              "source": "Theregister.com",
+              "url": "https://www.theregister.com/personal-tech/2026/08/27/hp-has-a-solution-to-expensive-ai-tokens-buy-a-more-expensive-pc/5292922",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing",
+              "summary": "Planned United States data center developments face significant delays and cancellations. Aging electrical grids and supply chain issues are hindering rapid expansion efforts. Local communities are ra",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/americas-power-grid-cant-keep-up-with-ai-why-hundreds-of-data-center-projects-are-freezing/articleshow/133568281.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Neopharma Technologies Achieves ISO/IEC 42001:2023 AI Management System Certification for NEOVAULT® Global Diagnostics Platform",
+              "summary": "Certification strengthens the governance framework behind NEOVAULT® as Neopharma expands from Fit-for-Duty into broader human health diagnostics NEW YORK, Aug. 27, 2026 /PRNewswire/ -- Neopharma Techn",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/neopharma-technologies-achieves-isoiec-420012023-ai-management-system-certification-for-neovault-global-diagnostics-platform-302861806.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Quote of the day by Tom Ford: 'From the time we're born until we die, we're kept busy with artificial stuff that...' Life lessons from American fashion designer & filmmaker on simplicity, purpose and living a meaningful life",
+              "summary": "Quote of the day today by Tom Ford: Tom Ford’s insightful words encourage us to reflect on the importance of authenticity in our lives. In today’s fast-paced world, we can easily lose sight of what tr",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-tom-ford-from-the-time-were-born-until-we-die-were-kept-busy-with-artificial-stuff-that-life-lessons-from-american-fashion-designer-filmmaker-on-simplicity-purpose-and-living-a-meaningful-life/articleshow/133568005.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Made Nvidia Shares To Jump 7% After Earnings",
+              "summary": "Nvidia shares jumped about 7% in premarket trading Thursday after the chipmaker delivered stronger-than-expected results and offered an upbeat outlook for artificial intelligence demand. The gains als",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/aaa2327f727f448a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "COMMHIT RECEIVES $43.6 MILLION DOLLAR GRANT: LAUNCHES VISION TO TRANSFORM RURAL HEALTHCARE ACROSS FLORIDA",
+              "summary": "From lifesaving drones and AI-powered clinical support to Michael Feinstein's Music Forms Memories and hospital-level care at home, Dr. Kendra Siler is bringing together technology and humanity to cre",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/commhit-receives-43-6-million-dollar-grant-launches-vision-to-transform-rural-healthcare-across-florida-302861259.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Elon Musk Reveals Why SpaceX Launched Tesla’s Roadster Into Orbit: ‘We Didn’t Want to Risk Anything ",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says Grok Is Taking Over Starlink Support: 15,000+ Calls a Day, 3,000+ Orders a Week: Elon",
+          "summary": ""
+        },
+        {
+          "topic": "Rick Scott Warns $3 Billion Daily Debt Interest Is ‘Unsustainable,’ Says America Must ‘Balance the B",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "bc969955",
       "date": "2026-08-27",
       "generated_at": "2026-08-27T18:53:33.068858+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b8721037",
-      "date": "2026-07-28",
-      "generated_at": "2026-07-28T11:58:35.521245+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " Haaland reacts to the memes made about him at the World Cup",
-              "summary": "One week after the end of the World Cup, Erling Haaland surprised his followers with a video in which he reacts to all the memes made about him during the tournament. Among the highlights were an oni.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/haaland-reacts-to-the-memes-made-about-him-at-the-world-cup-43190687",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chinese chipmaker CXMT soars more than 500% on debut",
-              "summary": "China's leading memory chipmaker CXMT became the most valuable company in the mainland after soaring 500 percent on its market debut Monday, underscoring the impact of AI-driven demand on the semicond",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/chinese-chipmaker-cxmt-soars-more-than-500-on-debut/articleshow/132651926.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Wall Street eyes Fed decision, AI earnings as traders navigate rising uncertainty",
-              "summary": "Investors await the Federal Reserve's policy decision and major tech earnings this week. Alphabet and Tesla results have already caused market unease regarding AI spending. Microsoft, Amazon, and Meta",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-eyes-fed-decision-ai-earnings-as-traders-navigate-rising-uncertainty/articleshow/132651878.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside Neville Roy Singham's 'Shadowy Influence Campaign to Undermine U.S. AI Efforts'",
-              "summary": "Friday on “The Alex Marlow Show,” Washington Free Beacon Editor-in-Chief Eliana Johnson talked about AI. Johnson said, “Singham is [funding] a campaign that is highlighting, exacerbating, and trying t",
-              "source": "Breitbart News",
-              "url": "https://www.breitbart.com/clips/2026/07/26/inside-neville-roy-singhams-shadowy-influence-campaign-to-undermine-us-ai-efforts/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Highstar Launches Full-Chain Battery Cell Portfolio for AI Data Centers",
-              "summary": "NANTONG, China, July 27, 2026 /PRNewswire/ -- Highstar unveiled its full-chain battery cell solution for artificial intelligence data centers (AIDCs) at the 2026 GGII Energy Storage Industry Summit. T",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/highstar-launches-full-chain-battery-cell-portfolio-for-ai-data-centers-302834902.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
-              "summary": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
-              "source": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ETMarkets AIF Talk | Next-generation entrepreneurs will create India's biggest wealth opportunities: Hiren Ved",
-              "summary": "India's next wealth creation wave will emerge from new entrepreneurs in strategic sectors. These founders leverage advanced technologies to build globally competitive businesses with strong growth. In",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-aif-talk-next-generation-entrepreneurs-will-create-indias-biggest-wealth-opportunities-hiren-ved/articleshow/132640711.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Samsung, Hyundai expand AI push from chips to robotics",
-              "summary": "Samsung Electronics and Hyundai Motor Group used the San Francisco AI Summit to outline separate artificial intelligence (AI) expansion plans spanning semiconductors, autonomous driving and robotics.",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260727VL206/samsung-hyundai-broadcom-robotics-chips.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Michael Burry's Chilling Warning as $100 Oil Collides With AI Debt Explosion: 'Not Sure How Much Lon",
-          "summary": ""
-        },
-        {
-          "topic": "As Wall Street Frets Over Alphabet's AI Spending Binge, Mark Cuban Says Google Is Simply Doing What ",
-          "summary": ""
-        },
-        {
-          "topic": "Tesla Could 'Eventually Drop a Bomb on Waymo,' Gene Munster Says, After AI Chief Signals Statewide R",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-27T18:53:33.068858+08:00",
+  "last_updated": "2026-08-28T20:29:08.615996+08:00",
   "total_days": 31
 }
