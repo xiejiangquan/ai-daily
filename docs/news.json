@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f39e2dd9",
+      "date": "2026-08-29",
+      "generated_at": "2026-08-29T15:38:51.043242+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "India plans to buy battle-tested Javelin anti-tank system from US: Sergio Gor",
+              "summary": "India intends to purchase the battle-tested Javelin anti-tank missile system from the United States. This proposed acquisition signifies a deepening of defense cooperation between the two nations. The",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/defence/india-plans-to-buy-battle-tested-javelin-anti-tank-system-from-us-sergio-gor/articleshow/133586445.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wipro rises after expanding AI partnership with Google Cloud",
+              "summary": "Wipro rose 2.36% to Rs 180.56 after the company announced an expansion of its partnership with Google Cloud to accelerate enterprise-wide adoption of Gemini Enterprise and agentic artificial intellige",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/capital-market-news/wipro-rises-after-expanding-ai-partnership-with-google-cloud-126082800541_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI, OTT, gaming to drive India's media market towards $36.7 billion by 2030",
+              "summary": "PwC's latest outlook sees India's media and entertainment market expanding rapidly, with digital advertising, gaming, streaming and connectivity among key growth areas",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/industry/news/ai-ott-gaming-to-drive-india-s-media-market-towards-36-7-billion-by-2030-126082800536_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How Is Microsoft’s Stock Performance Compared to Other Software Services Stocks?",
+              "summary": "Microsoft Corporation (MSFT) is one of the world’s largest technology companies, with a broad ecosystem spanning cloud computing, artificial intelligence, productivity software, operating systems, cyb",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/0c32289847fa91bd",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anna Paulina Luna Says China Is 'Manufacturing' US Political Divisions After X Uncovers 200,000-Account Bot…",
+              "summary": "GOP lawmaker Rep. Anna Paulina Luna (R-Fla.) said foreign actors are helping manufacture political divisions in the U.S. after X said it uncovered roughly 200,000 suspected Chinese inauthentic account",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/2440dc4161527bcb",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
+              "summary": "At a meeting in Hanoi on Thursday, Communist Party General Secretary and President To ‌Lam asked ⁠Qualcomm Chief ⁠Executive Cristiano Amon to increase its investment in areas including AI, semiconduct",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/vietnam-urges-qualcomm-samsung-to-deepen-ai-chip-investment-as-it-seeks-tech-upgrade/articleshow/133586362.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Today’s 5⃣ stories: tough Champions draw, Atleti-Barça war..",
+              "summary": "A Friday, August 28 packed with transfers, news, results... gets underway, so let’s wrap up a week that also brings the start of a new matchday.Barça tighten their grip on top spot against Athletic...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/todays-5-stories-tough-champions-draw-atleti-barca-war-43353669",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SoftBank seeks another $10 billion loan for OpenAI stake funding",
+              "summary": "The interest margin on the two-year facility would be around 275 basis point over the benchmark Secured Overnight Financing Rate, and Mizuho Bank Ltd. is the mandated lead arranger and bookrunner, sai",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/technology/softbank-seeks-another-10-billion-loan-for-openai-stake-funding/articleshow/133586218.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Gen Z’s bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cup",
+          "summary": ""
+        },
+        {
+          "topic": "‘Rich Dad, Poor Dad’ Author Robert Kiyosaki Warns 401(k) and IRA Investors ‘We May Be on the Brink o",
+          "summary": ""
+        },
+        {
+          "topic": "A Gen Xer Asked, Are You Better Off Than Your Parents Were? 'I Have More Money Than They Did. But Th",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2c8e53c4",
       "date": "2026-08-28",
       "generated_at": "2026-08-28T20:29:08.615996+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "94fe39a4",
-      "date": "2026-07-29",
-      "generated_at": "2026-07-29T12:09:42.825356+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "South Korea’s Kospi index sinks more than 10% on heavy selling of chipmaking stocks",
-              "summary": "South Korea’s Kospi index plunged more than 10% on Tuesday on heavy selling of chipmaking stocks that have gyrated recently due to concerns over the sustaina...",
-              "source": "Yahoo Entertainment",
-              "url": "https://finance.yahoo.com/markets/world-indices/articles/south-korea-kospi-index-sinks-040623347.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chengdu's Magnetic Appeal Through the Lens of APEC Digital Week",
-              "summary": "From July 16 to 29, the 2026 Asia-Pacific Economic Cooperation (APEC) Digital and AI Ministerial Meeting, alongside other events of the Digital Week, is held ...",
-              "source": "Antaranews.com",
-              "url": "https://en.antaranews.com/news/424212/chengdus-magnetic-appeal-through-the-lens-of-apec-digital-week",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Zhongji Innolight raises $6.81 billion in Hong Kong listing, Asia’s second-biggest IPO of 2026",
-              "summary": "Chinese optical components maker Zhongji Innolight has priced its Hong Kong share sale at HK$980 per share, raising HK$53.41 billion in the city’s largest equity offering in nearly seven years. The AI",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-zhongji-innolight-raises-6-81-billion-in-hong-kong-listing-asias-second-biggest-ipo-of-2026/articleshow/132674737.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chip firms fall in US and Asia as AI jitters rattle investors",
-              "summary": "Published\nShares in major chip firms have fallen sharply in the US and Asia as a sell-off in artificial intelligence-related stocks deepened.\nTrading on South Korea's benchmark Kospi index was paused ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/c805542f3dad4991",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the most non aggressive ape?",
-              "summary": "What is the Most Non-Aggressive Ape? Understanding Ape Temperaments The most non-aggressive ape is generally considered to be the bonobo. Known for their complex social structures built around coopera",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-most-non-aggressive-ape/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chipmakers fall in US and Asia as AI jitters rattle investors",
-              "summary": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after sliding by 8%.",
-              "source": "BBC News",
-              "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Samsung, SK Hynix plunge up to 11% as investors reassess AI chip boom",
-              "summary": "South Korean chip stocks experienced sharp declines on Tuesday. Major companies like Samsung Electronics and SK Hynix saw significant drops. Investors scaled back artificial intelligence-related bets ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-samsung-sk-hynix-plunge-up-to-11-as-investors-reassess-ai-chip-boom/articleshow/132674566.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Marvell Technology vs. UiPath: Which Tech Stock Is a Better Buy in 2026?",
-              "summary": "Investors seeking exposure to artificial intelligence (AI) often look to hardware and software leaders. Deciding between Marvell Technology (NASDAQ:MRVL) and UiPath (NYSE:PATH) requires weighing a fas",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/b319057304753f43",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How to determine AI visibility ROI and revenue impact: Determine AI visibility ROI by linking mentio",
-          "summary": ""
-        },
-        {
-          "topic": "How To Scale Your Fintech (The Marketing Edit): Here are the key marketing lessons we have learned f",
-          "summary": ""
-        },
-        {
-          "topic": "Michael Burry's Chilling Warning as $100 Oil Collides With AI Debt Explosion: 'Not Sure How Much Lon",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-08-28T20:29:08.615996+08:00",
+  "last_updated": "2026-08-29T15:38:51.043242+08:00",
   "total_days": 31
 }
