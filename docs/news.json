@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f89b5be3",
+      "date": "2026-09-02",
+      "generated_at": "2026-09-02T13:26:03.613725+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " €150m move? These mega deals await on Deadline Day",
+              "summary": "This evening, the transfer window closes in most European countries. But before the squads for the coming months are finalized, quite a few players are still set to switch clubs.These are the biggest ",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/150m-move-these-mega-deals-await-on-deadline-day-43379159",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Siemens Healthineers showcases its AI-powered technological innovations to redefine healthcare delivery in Southeast Asia",
+              "summary": "Spotlights how scaling AI and big data can make clinical pathways more efficient Hosts its second ASEAN CEO Summit to drive collaboration amongst healthcare leaders to redefine care delivery in Southe",
+              "source": "Associated Press",
+              "url": "https://apnews.com/press-release/pr-newswire/press-release-33d500855de9bcb12b265bff4542434d",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: AI hardware demand powers Asia’s manufacturing growth in August",
+              "summary": "AI hardware demand helped sustain manufacturing growth across several Asian economies in August, with China, Japan and South Korea recording expansion. Strong semiconductor and technology exports supp",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-hardware-demand-powers-asias-manufacturing-growth-in-august/articleshow/133668954.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "2.6 million students return to schools as 2027 year begins",
+              "summary": "From a nationwide cellphone ban to AI lessons and financial education, millions of Israeli students are heading back to school for a year of major changes.",
+              "source": "Israelnationalnews.com",
+              "url": "https://www.israelnationalnews.com/news/432525",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "John Ternus to lead Apple into the age of AI",
+              "summary": "John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenge",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/d14423b941eb85ff",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How many babies do Dubia roaches lay?",
+              "summary": "How Many Babies Do Dubia Roaches Lay? The Ultimate Guide Dubia roaches ( Blaptica dubia ) are prolific breeders. Under ideal conditions, a single female can produce 20 to 40 nymphs per ootheca, leadin",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-many-babies-do-dubia-roaches-lay/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "In 2018, New York used 43,200 cubic yards of material from the old Tappan Zee Bridge across six artificial reef sites; the first 35-acre site was about 2 miles offshore",
+              "summary": "The remnants of the Old Tappan Zee Bridge have found a new lease on life beneath the Atlantic Ocean. These repurposed materials were purposefully integrated into artificial reef sites surrounding Long",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/science/in-2018-new-york-turned-43200-cubic-yards-of-the-old-tappan-zee-bridge-into-six-artificial-reefs-the-first-35-acre-site-was-built-2-miles-off-long-island/articleshow/133650156.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the 7th Bell’s palsy?",
+              "summary": "What is the 7th Bell’s Palsy? Understanding Facial Nerve Dysfunction Bell’s palsy is a neurological disorder causing sudden weakness in facial muscles, stemming from dysfunction of the 7th cranial ner",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-7th-bells-palsy/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "⛳️ Y! Sports Biz: Adjusting for golflation: Scottie's earnings are juiced by Tiger's impact.",
+          "summary": ""
+        },
+        {
+          "topic": "Digital Marketing Resources: Best Tools and Guides for 2026: Explore the best digital marketing reso",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana: S",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3c54c31c",
       "date": "2026-09-01",
       "generated_at": "2026-09-01T14:00:05.429859+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c13f9e3c",
-      "date": "2026-08-02",
-      "generated_at": "2026-08-02T12:21:13.641659+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "AI set to reshape insurance economics, push industry towards scale, specialisation: Report",
-              "summary": "Artificial intelligence is set to reshape the economics of the global insurance industry, with carriers, brokers and technology providers that move early potentially gaining a significant competitive ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/ai-set-to-reshape-insurance-economics-push-industry-towards-scale-specialisation-report/articleshow/132781142.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Data centers: Unions are among the only supporters of projects",
-              "summary": "For many residents of Western Massachusetts, the proposal to build a massive data center complex in Westfield seems like a nightmare. For some tradespeople, it sounds like a dream come true.",
-              "source": "The Boston Globe",
-              "url": "https://www.bostonglobe.com/2026/08/01/business/data-centers-unions/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 11th July 2026",
-              "summary": "Archives (PRELIMS  Focus) (MAINS Focus)  \nThe post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 11th July 2026 appeared first on IASbaba.",
-              "source": "Iasbaba.com",
-              "url": "https://iasbaba.com/2026/08/daily-current-affairs-ias-upsc-prelims-and-mains-exam-11th-july-2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
-              "summary": "President Donald Trump has been losing his own battle to cut interest rates.  Trump for months publicly pressured the Federal Reserve to slash its benchmark...",
-              "source": "Yahoo Entertainment",
-              "url": "https://finance.yahoo.com/economy/policy/articles/trump-wanted-interest-rate-cuts-040051373.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "XPENG Announces Vehicle Delivery Results for July 2026",
-              "summary": "GUANGZHOU, China, Aug. 1, 2026 /PRNewswire/ -- XPeng Inc. (\"XPENG\" or the \"Company,\" NYSE: XPEV and HKEX: 9868), a leading global Physical AI company, today announced its vehicle delivery results for ",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/xpeng-announces-vehicle-delivery-results-for-july-2026-302840496.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Fauci’s diary reveals how the leftist monolith works",
-              "summary": "By Robert DeMayThe truth sounds so bizarre that it sounds like a movie plot, but it happened because the media gatekeepers, rather than exposing it, were complicit.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/08/fauci-s-diary-reveals-how-the-leftist-monolith-works/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TikTok CEO Chew Shou Zi urges NTU doctoral graduates to 'actively seek the unknown' at conferment ceremony",
-              "summary": "In a 10-minute speech at the ceremony, the 43-year-old Singaporean spoke about his upbringing in Yio Chu Kang, his early encounters with technology to eventually leading the Chinese social media platf",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/tiktok-ceo-chew-shou-zi-technology-ntu-graduation-ceremony-6292416",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "14 Years Later, Tom Holland Reunites With One Of His First Co-Stars In Spider-Man: Brand New Day",
-              "summary": "14 years after his breakout role, Tom Holland reunites with one of his very first co-stars in Spider-Man: Brand New Day with a fun surprise character.",
-              "source": "Screen Rant",
-              "url": "https://screenrant.com/tom-holland-reunites-with-first-co-star-in-spider-man-brand-new-day-naomi-watts/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How Musk transformed Twitter from communal town square to right-wing conspiracy hub: Twitter had its",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says Only 1% of Government Workers Actually Work 40 Hours a Week — Aside From Security Gua",
-          "summary": ""
-        },
-        {
-          "topic": "Tech founder forced to apologize after sparking backlash with free tattoo stunt: 'I messed up': This",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-01T14:00:05.429859+08:00",
+  "last_updated": "2026-09-02T13:26:03.613725+08:00",
   "total_days": 31
 }
