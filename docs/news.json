@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8bf56f4c",
+      "date": "2026-09-03",
+      "generated_at": "2026-09-03T13:27:40.593813+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "​US 10-year bond yield topping 5% a near-term risk for markets: Chris Wood",
+              "summary": "The rate on 10-year Japanese government notes, too, climbed higher to hit 3 per cent for the first time since 1996, while UK 30-year yields reached the highest since 1998.",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/news/us-10-year-bond-yield-topping-5-a-near-term-risk-for-markets-chris-wood-126090200298_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Janmashtami 2026: How to dress your kids as Kanha Ji & Radha Ji using simple things you already have at home",
+              "summary": "Janmashtami Radha Krishna dress ideas: Janmashtami celebrations offer a lovely opportunity to dress children as Kanha ji or Radha ji. Simple household items can be creatively used to put together fest",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/janmashtami-2026-how-to-dress-your-kids-as-kanha-ji-radha-ji-using-simple-things-you-already-have-at-home/articleshow/133698589.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Erdoğan wraps up SCO summit with bilateral talks",
+              "summary": "President Recep Tayyip Erdoğan concluded his visit to Kyrgyzstan on Sept. 1 after attending the Shanghai Cooperation Organization (SCO) summit, which ended with the approval of 28 documents and a seri",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/erdogan-wraps-up-sco-summit-with-bilateral-talks-226341",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Insurance Industry Employee Confidence Tanks on AI Concerns: Report",
+              "summary": "A new report highlights insurance industry employees’ growing negativity toward artificial intelligence job displacement, as sector employment dropped 21% yera-over-year, and entry-level adjuster posi",
+              "source": "Carriermanagement.com",
+              "url": "https://www.carriermanagement.com/news/2026/08/28/291495.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Business Transformation Masterclass: The enterprise AI questions every CEO, CIO and CTO should be asking now",
+              "summary": "AI investment is accelerating, but the harder part is deciding where to place the next bet. From choosing the right use cases to proving ROI and preparing the organisation for scale, enterprise leader",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/services/education/ai-business-transformation-masterclass-the-enterprise-ai-questions-every-ceo-cio-and-cto-should-be-asking-now/articleshow/133698272.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's solar capacity tops coal for first time: Where does India stand?",
+              "summary": "China's solar capacity has overtaken coal for the first time, marking a major shift in its power sector; coal's share of electricity generation also fell below 50 per cent in the first half of 2026",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/china-solar-capacity-overtakes-coal-power-generation-india-energy-sources-126090200246_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What bird sounds like a smoke alarm?",
+              "summary": "What Bird Sounds Like a Smoke Alarm? The Gray Catbird (Dumetella carolinensis) is the bird most commonly mistaken for a smoke alarm due to its repertoire of mimicking sounds, which can include a high-",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-bird-sounds-like-a-smoke-alarm/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Find Stability in Changing Times - The Crosswalk Devotional - September 2",
+              "summary": "You don't have to be stressed by all the change around you when you remember that the Holy Spirit lives inside you.",
+              "source": "Crosswalk.com",
+              "url": "https://www.crosswalk.com/devotionals/crosswalk-devo/find-stability-in-changing-times-the-crosswalk-devotional.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Why brands are turning to older creators for authenticity AI can’t fake: Millennial and Gen X conten",
+          "summary": ""
+        },
+        {
+          "topic": "Chamath Palihapitiya Says ‘Trust the Experts’ Approach To AI Is a Trap, Warns it Could Make COVID ‘P",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: EU-hosted content extraction API: I built Danubia, a web scraping and content extraction AP",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f89b5be3",
       "date": "2026-09-02",
       "generated_at": "2026-09-02T13:26:03.613725+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "5c4b8352",
-      "date": "2026-08-03",
-      "generated_at": "2026-08-03T12:27:44.203499+08:00",
-      "headline": "今日 AI 新闻速览（48 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "UK employers are hiring AI talent and cutting everyone else",
-              "summary": "The growing demand for AI skills is widening economic disparities, reshaping job markets, and intensifying competition for talent.\nThe post UK employers are hiring AI talent and cutting everyone else ",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/uk-employers-ai-jobs-cut-others/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI keeps consumer prices high in 'RAMaggedon' chip crunch",
-              "summary": "Memory chip prices are rising significantly due to artificial intelligence demand.  This shortage is impacting consumer electronics and potentially vehicles soon.  Chipmakers are prioritizing advanced",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "No electricity, no diesel: Sonam Wangchuk's invented tent can stay warm at -14 degrees. How does it work?",
-              "summary": "Sonam Wangchuk’s innovative tent was designed to stay warm even when temperatures outside dropped to -14°C. In 2021, he said it could reach 15°C inside at night by capturing sunlight through a south-f",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/no-electricity-no-diesel-sonam-wangchuks-invented-tent-can-stay-warm-at-14-degrees-how-does-it-work/articleshow/132799515.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "When rogue AI launches a cyberattack, who is legally responsible?",
-              "summary": "Rogue AI models from OpenAI and Anthropic recently attacked online platforms. These incidents raise complex legal questions about accountability for AI actions. Experts debate whether companies should",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/articleshow/132800295.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Americans Are Searching for Meaning In All the Wrong Places",
-              "summary": "Photo Credit:\n \n American ThinkerBy Allan J. FeiferIn America, life is so good and devoid of meaningful values that leftists create artificial struggles to fill the void.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/articles/2026/08/americans-are-searching-for-meaning-in-all-the-wrong-places/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is it with data centers?",
-              "summary": "By Bill HansmannThere are arguments for and against them, but the case for data centers is pretty strong.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/08/what-is-it-with-data-centers/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Using reason, again and again",
-              "summary": "MIT professor of philosophy Brian Hedden is a proponent of what he calls “time-slice rationality” — the idea that in applying reason, we exist in little slivers of time and knowledge.",
-              "source": "Mit.edu",
-              "url": "https://news.mit.edu/2026/using-reason-again-and-again-brian-hedden-0802",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trans 'women' need to try harder",
-              "summary": "By Eric UtterCan these clowns at least put some effort into it? If they really want us to buy the bit, they shouldn’t just put on a floral frock or a pearl necklace. Shave, do your nails.",
-              "source": "Americanthinker.com",
-              "url": "https://www.americanthinker.com/blog/2026/08/trans-women-need-to-try-harder/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
-          "summary": ""
-        },
-        {
-          "topic": "My Dog Needs an $8K ACL Surgery. Should I Drain My Emergency Fund or Take Out a 0% Interest Loan Ins",
-          "summary": ""
-        },
-        {
-          "topic": "How Musk transformed Twitter from communal town square to right-wing conspiracy hub: Twitter had its",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-02T13:26:03.613725+08:00",
+  "last_updated": "2026-09-03T13:27:40.593813+08:00",
   "total_days": 31
 }
