@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3f4ee1c7",
+      "date": "2026-09-04",
+      "generated_at": "2026-09-04T13:29:04.660085+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Nvidia CEO Jensen Huang says this is the ‘most noble’ career in the AI era",
+              "summary": "Nvidia CEO Jensen Huang has called engineering the “most noble” profession, saying it provides the foundation for modern society. Reflecting on his own career, Huang said engineering combines mathemat",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/education/news/nvidia-ceo-jensen-huang-says-this-is-the-most-noble-career-in-the-ai-era/articleshow/133726125.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+              "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs",
+              "source": "Internet",
+              "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Viewpoint: Commercial P/C Talent Gap 5 Years On—Are We Asking the Right Question",
+              "summary": "For more than four decades, I have worked across the commercial property/casualty insurance ecosystem. Over those years, I have watched our industry attract people, develop underwriters, transfer know",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/09/03/883744.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ghana hosts 2nd African Digital Humanism Summer School",
+              "summary": "Ghana is hosting the second African Digital Humanism Summer School, bringing together researchers, academics, students and technology experts from across Africa and Europe to examine how emerging tech",
+              "source": "Thechronicle.com.gh",
+              "url": "https://thechronicle.com.gh/ghana-hosts-2nd-african-digital-humanism-summer-school/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " América come from behind to beat Rayados in Leagues Cup semi-final",
+              "summary": "The final phase of América vs. Rayados lights up in the Leagues Cup semifinal, with the Águilas mounting a comeback. Matías Almeyda’s side struck first with a stunning goal from Diego Rossi. An a...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/america-come-from-behind-to-beat-rayados-in-leagues-cup-semi-final-43392617",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Skeptical Science New Research for Week #36 2026",
+              "summary": "Open access notables\n\nMisrepresentation of Human Climate Fingerprint in DOE Report, Santer et al., Earth s Future\n\nA July 2025 report from the U.S. Department of Energy (DOE) made the key claim that t",
+              "source": "Skepticalscience.com",
+              "url": "https://skepticalscience.com/new_research_2026_36.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
+              "summary": "Artificial intelligence (AI) stocks have been leading the market higher over the past year, and some have gone absolutely parabolic with gains of 500% or more. However, that doesn't mean they may not ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/0c487bcd04858560",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign",
+              "summary": "Vivian Jenna Wilson, aka Elon Musk's eldest daughter, cavorts with a humanoid robot in Desigual's fall 2026 campaign. She speaks out against AI, alogrithms.",
+              "source": "WWD",
+              "url": "http://wwd.com/fashion-news/designer-luxury/elon-musk-daugher-desigual-campaign-vivian-ai-robots-1239194367/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "quant-trade-agent-tools added to PyPI: Independent multi-harness, multi-model agent tools for quant_",
+          "summary": ""
+        },
+        {
+          "topic": "What are the latest Hootsuite product features? [July 2026]: Get deeper LinkedIn analytics, and clea",
+          "summary": ""
+        },
+        {
+          "topic": "How To Earn $500 A Month From Broadcom Stock Ahead Of Q3 Earnings: Broadcom Inc. will release earnin",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8bf56f4c",
       "date": "2026-09-03",
       "generated_at": "2026-09-03T13:27:40.593813+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "1775b357",
-      "date": "2026-08-04",
-      "generated_at": "2026-08-04T12:11:00.175745+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "US equity funds see inflows as AI optimism revives demand for tech stocks",
-              "summary": "US equity funds attracted significant investor inflows, reversing prior withdrawals. Renewed confidence in artificial intelligence and strong tech earnings boosted investor sentiment. Largecap funds r",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-equity-funds-see-inflows-as-ai-optimism-revives-demand-for-tech-stocks/articleshow/132818268.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
-              "summary": "Chinese tech companies - a huge force in open-weight AI models globally - are locked in a fierce and fast-moving battle to build more powerful systems without ‌making them prohibitively ⁠expensive ⁠to",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-its-most-capable-ai-model-to-date-not-far-behind-moonshots-in-size/articleshow/132818289.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CrowdStrike finds AI systems under direct attack as exploit windows shrink",
-              "summary": "Artificial intelligence has become a target for attackers rather than only a tool they use, according to CrowdStrike Holdings Inc.’s “2026 Threat Hunting Report,” released today. The annual report dra",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/08/03/crowdstrike-finds-ai-systems-direct-attack-exploit-windows-shrink/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "PM Wong's National Day Message to be broadcast on Aug 8",
-              "summary": "The first broadcast in English will air on CNA and CNA938 at 6.45pm.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/national-day-message-pm-lawrence-wong-aug-8-6294356",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Buying TikTok followers can expose users to scams and account theft",
-              "summary": "Buying TikTok followers, likes, or views could do more than inflate engagement metrics. According to Malwarebytes, many services selling social media growth operate through deceptive practices that ca",
-              "source": "Help Net Security",
-              "url": "https://www.helpnetsecurity.com/2026/08/03/malwarebytes-tiktok-followers-scam-risks-report/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Wall Street braces for jobs data, earnings as markets seek fresh direction",
-              "summary": "Investors await crucial July employment data and corporate earnings reports this week. Markets are navigating geopolitical tensions and interest rate uncertainties after recent volatility. The Federal",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-wall-street-braces-for-jobs-data-earnings-as-markets-seek-fresh-direction/articleshow/132818075.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Artificial Analysis finds Chinese AI models lag US rivals by months, not years",
-              "summary": "The narrowing AI gap could disrupt market dynamics, challenging US dominance and impacting AI-related investments and digital asset valuations.\nThe post Artificial Analysis finds Chinese AI models lag",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/chinese-ai-models-lag-us-rivals-months/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Quote of the day by German philosopher Helmuth Plessner: ‘The soul suffers from nothing more than from not being…’ – on humanity's deepest emotional need",
-              "summary": "Quote of the day: German philosopher Helmuth Plessner believed misunderstanding causes deep human suffering.  He argued that complete understanding between individuals is often impossible.  Plessner's",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/australia/quote-of-the-day-by-german-philosopher-helmuth-plessner-the-soul-suffers-from-nothing-more-than-from-not-being-on-humanitys-deepest-emotional-need/articleshow/132817788.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "OpenAI Rehires Thinking Machines Co-Founder Days After Startup Exit: Thinking Machines co-founder Li",
-          "summary": ""
-        },
-        {
-          "topic": "10 Best Keyword Research Tools for SEO and Content Marketing - Top Tech Alternative: Introduction Fi",
-          "summary": ""
-        },
-        {
-          "topic": "Orchestrating docs instead of writing them yourself — podcast with Sarah Deaton of Anthropic: In thi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-03T13:27:40.593813+08:00",
+  "last_updated": "2026-09-04T13:29:04.660085+08:00",
   "total_days": 31
 }
