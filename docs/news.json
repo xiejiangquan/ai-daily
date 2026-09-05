@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9bcaa9d0",
+      "date": "2026-09-05",
+      "generated_at": "2026-09-05T13:14:40.330378+08:00",
+      "headline": "今日 AI 新闻速览（58 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Flock surveillance cameras become midterm campaign target as voters balk at tech companies' power",
+              "summary": "Across the country and up and down the ballot, candidates from both parties are increasingly on the attack over Flock cameras",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/Technology/wireStory/flock-surveillance-cameras-become-midterm-campaign-target-voters-136193737",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sterlite Tech shares hit 5% upper circuit as firm targets Rs 20,000 crore revenue by FY29 amid booming AI demand",
+              "summary": "Sterlite Technologies shares hit a 5% upper circuit after unveiling ambitious FY29 growth targets, including Rs 20,000 crore revenue and global top-five positioning. The company approved Rs 3,000 cror",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-tech-shares-hit-5-upper-circuit-as-firm-targets-rs-20000-crore-revenue-by-fy29-amid-booming-ai-demand/articleshow/133752549.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Deleveraging clouds China’s AI trade as rising US Treasury yields, inflation fears persist",
+              "summary": "Chinese leveraged traders continue to unwind their bets on stocks, as unease over rising global bond yields and a lingering oil shock add uncertainty to the artificial intelligence trade.\nThe outstand",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/ed15e5d3f06412b5",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Viewpoint: Global Reinsurance Pricing to Remain Under Pressure Through 2027",
+              "summary": "S&P Global Ratings maintains a stable view of the global reinsurance sector. Reinsurers entered the 2026 hurricane season from a position of strength, supported by record-high capital adequacy and str",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/international/2026/09/04/883905.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Market: Rising R-star adds to pressure on US Treasury yields as AI investment, borrowing lift demand for capital",
+              "summary": "US Treasury yields are rising partly on expectations that R-star, the economy’s neutral interest rate, may be structurally higher. Heavy government borrowing and AI investment are boosting capital dem",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-rising-r-star-adds-to-pressure-on-us-treasury-yields-as-ai-investment-borrowing-lift-demand-for-capital/articleshow/133752321.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "European Healthtech, MedTech and Health AI IPO Outlook: Top 10 Listing Candidates for 2026, 2027, 2028",
+              "summary": "The European healthcare technology, medical devices (Medtech) and artificial intelligence (Health AI) ecosystems have transitioned from post-pandemic venture fragmentation into a disciplined era of in",
+              "source": "Healthcare.digital",
+              "url": "https://www.healthcare.digital/single-post/european-healthtech-medtech-and-health-ai-ipo-outlook-top-10-listing-candidates-for-2026-2027-20",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+              "summary": "OpenAI’s next big model is here: GPT-6 Astra. The company calls it a “generational leap in capability” for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-news/4394181/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesia disperses 8 tons of salt in Jambi cloud-seeding efforts",
+              "summary": "Indonesia&rsquo;s National Disaster Mitigation Agency (BNPB) reported intensive weather modification operations to contain wildfires in Jambi, involving the ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/429853/indonesia-disperses-8-tons-of-salt-in-jambi-cloud-seeding-efforts",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Student-Loan Borrowers Have Until September 30 to Claim a Temporary 1-Point Interest Rate Cut: What ",
+          "summary": ""
+        },
+        {
+          "topic": "What Is GMGN AI? The Crypto Trading Platform Helping Traders Track Smart Money and Find Memecoins: G",
+          "summary": ""
+        },
+        {
+          "topic": "David Sacks Urges AI Companies to Fund Trump Accounts, Says It Would 'Improve the Public’s Image of ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3f4ee1c7",
       "date": "2026-09-04",
       "generated_at": "2026-09-04T13:29:04.660085+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "850f59aa",
-      "date": "2026-08-05",
-      "generated_at": "2026-08-05T11:58:13.724704+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "The AI Trap: Why Relationships and Distribution Are Your Only Real Moats",
-              "summary": "Right now, the internet feels like one massive gold rush. Look around, and it seems like everyone is making life-changing money with artificial intelligence. We are living in a matrix where building a",
-              "source": "Addicted2success.com",
-              "url": "https://addicted2success.com/ai/ai-trap-relationships-distribution-business-moats/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI's payback math: how long can servers last?",
-              "summary": "Amazon's second-quarter 2026 results beat market expectations by a wide margin, but rapidly expanding investment in artificial intelligence and cloud infrastructure pushed the company's trailing 12-mo",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260804PD222/amazon-2026-infrastructure-cash-flow-hardware.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the sixth sense called in fish?",
-              "summary": "What is the sixth sense called in fish? Fish possess a remarkable electroreception system, their sixth sense, allowing them to detect electrical fields in the water; this sensory perception empowers t",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-sixth-sense-called-in-fish/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Solar panels to boost energy resilience at 12 Tairāwhiti marae",
-              "summary": "Solar systems will support daily use, power outages and civil defence.",
-              "source": "New Zealand Herald",
-              "url": "https://www.nzherald.co.nz/gisborne-herald/news/solar-panels-to-boost-energy-resilience-at-12-tairawhiti-marae/TYCQD425MNG6ZGBXXLCUP3AXDI/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Cross-border M&A likely to stay strong in H2 2026; AI, energy key drivers: Report",
-              "summary": "Cross-border M&A activity is expected to remain strong in the second half of 2026. Technology, especially artificial intelligence, will drive this significant surge in deal-making. Energy and supply-c",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cross-border-ma-likely-to-stay-strong-in-h2-2026-ai-energy-key-drivers-report/articleshow/132845662.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "FSSAI bans old monk: Why did regulator stop sale of three variants of the popular Rum?",
-              "summary": "The Food Safety and Standards Authority of India (FSSAI) has banned sale of old monk and other alcoholic beverage makers.  Manufacturers allegedly used external flavouring substances to mimic natural ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/fssai-bans-old-monk-why-did-regulator-stop-sale-of-three-variants-of-the-popular-rum/articleshow/132845419.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can clownfish eat pellets?",
-              "summary": "Can Clownfish Eat Pellets? A Nutritional Deep Dive Yes, clownfish can eat pellets, and high-quality marine fish food pellets are often an excellent and convenient way to provide them with a balanced d",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-clownfish-eat-pellets/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Senators Demand Records from Three Medicare Advantage Insurers on How Post-Hospital Care Gets Denied",
-              "summary": "Blumenthal and Hawley demanded records from UnitedHealthcare, Humana and CVS on AI use in denying post-hospital rehab care for Medicare patients.",
-              "source": "Medical Daily",
-              "url": "https://www.medicaldaily.com/senate-investigation-medicare-advantage-prior-authorization-denials-2026-476804",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "WATCH: Defiant Ohio Rep. Max Miller denies accusations: Miller is under fire after being accused of ",
-          "summary": ""
-        },
-        {
-          "topic": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks: ",
-          "summary": ""
-        },
-        {
-          "topic": "A US Uranium Company Just Earned a Spot in the World's Preeminent Nuclear ETF. Here's Why That Matte",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-04T13:29:04.660085+08:00",
+  "last_updated": "2026-09-05T13:14:40.330378+08:00",
   "total_days": 31
 }
