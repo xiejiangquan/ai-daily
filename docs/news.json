@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "66a517e3",
+      "date": "2026-09-07",
+      "generated_at": "2026-09-07T13:40:21.384396+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Do ghost crabs come out at night?",
+              "summary": "Do Ghost Crabs Come Out at Night? Unveiling the Secrets of the Sand Dwellers Do ghost crabs come out at night? Yes, indeed! Ghost crabs are predominantly nocturnal creatures, meaning they are most act",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-ghost-crabs-come-out-at-night/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What smells attract deer?",
+              "summary": "What Smells Attract Deer? Unlocking the Secrets of Deer Olfaction Deer are primarily attracted to scents associated with food sources and potential mates. What smells attract deer? These smells includ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-smells-attract-deer/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "jedi-board-of-directors added to PyPI",
+              "summary": "A board of directors made of free models: independent votes, blind ranking, a chair that didn't vote.",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/jedi-board-of-directors/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you keep a possum happy?",
+              "summary": "How to Ensure a Happy Possum: A Guide to Possum Welfare Keeping a possum happy focuses on providing a safe, natural environment that allows them to express their innate behaviors, ensuring they feel s",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-keep-a-possum-happy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Where Will Rigetti Computing Stock Be in 3 Years?",
+              "summary": "While quantum computing doesn't yet have widespread practical applications, the technologies involved with it are improving. Artificial intelligence (AI) is widely believed to help accelerate quantum ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/934b966cd9bdf1ed",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Think a ₹10,000 income mismatch is too small to matter? Tax expert explains why it could trigger an Income Tax notice",
+              "summary": "A small  ₹10,000 income mismatch in savings interest, dividends or freelance receipts could trigger an income tax notice. Tax expert urges taxpayers to reconcile AIS and TIS statements before filing r",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/money/personal-finance/think-a-10-000-income-mismatch-is-too-small-to-matter-tax-expert-explains-why-it-could-trigger-an-income-tax-notice-11788525453178.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic delays its IPO plans, listing expected in November",
+              "summary": "Anthropic has delayed its initial public offering marketing to mid-October at the earliest, with completion targeted just before the US midterm elections in November. The potential $2 trillion AI list",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-delays-its-ipo-plans-listing-expected-in-november/articleshow/133825809.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What factors influence mate choice?",
+              "summary": "What Factors Influence Mate Choice? Mate choice is a complex process driven by a multitude of interacting forces. What factors influence mate choice? The answer lies in a combination of evolutionary p",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-factors-influence-mate-choice/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Tesla's Cybercab 'Storm' Was More of a 'Drizzle,' WSJ's Tim Higgins Says: Tesla Inc. shares were dow",
+          "summary": ""
+        },
+        {
+          "topic": "Mark Cuban Says Raise Taxes on Any Company That Won’t Give Every Employee Equity — ‘If They Get Rich",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Says Tesla Cybercab’s Rare-Earth-Free Motor Was ‘Extremely Hard’ To Achieve — Gary Black C",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c1541485",
       "date": "2026-09-06",
       "generated_at": "2026-09-06T13:28:50.243345+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "1b473488",
-      "date": "2026-08-07",
-      "generated_at": "2026-08-07T11:48:15.910488+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Major hedge funds targeted in wave of attempted cyberattacks",
-              "summary": "Cybersecurity breaches on Wall Street have surged over the past year, as artificial intelligence tools help bad actors launch attacks relatively cheaply and broadly.",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/77431b9cdb70601a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sam Altman echoes Buffett and Thiel on 1 investing rule",
-              "summary": "Sam Altman is probably the tech honcho you've heard the most about over the past three years.\nThe OpenAI CEO has helped revolutionize artificial intelligence by putting ChatGPT into the hands of milli",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/be6d34bee075872a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What can gorillas not eat?",
-              "summary": "What Gorillas Can’t Eat: A Diet of Dos and Don’ts Gorillas, primarily herbivores, thrive on a diet of plants. However, certain foods are indigestible or toxic to them; what can gorillas not eat? They ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-can-gorillas-not-eat/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is a chinchillas favorite food?",
-              "summary": "What is a Chinchilla’s Favorite Food? Unveiling the Culinary Preferences of these Fluffy Rodents A chinchilla’s favorite food is generally high-quality chinchilla pellets, supplemented with carefully ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-a-chinchillas-favorite-food/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year",
-              "summary": "Indian IT stocks have seen significant value erosion this year. However, Coforge and LTIMindtree have shown resilience and growth. These companies are performing well due to strong deal wins and AI in",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/lone-warriors-how-two-mid-tier-tech-stocks-rewarded-investors-in-rs-10-lakh-crore-it-crash-this-year/articleshow/132980074.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "More than half of children and teens are using AI for personal reasons. This comes with risks",
-              "summary": "Navigating personal problems are a normal part of growing up. Young people are now turning to AI for help.",
-              "source": "The Conversation Africa",
-              "url": "https://theconversation.com/more-than-half-of-children-and-teens-are-using-ai-for-personal-reasons-this-comes-with-risks-288951",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " CBF president publicly rejects FIFA Forward Enterprise,",
-              "summary": "Samir Xaud, president of the Brazilian Football Federation, spoke publicly about the FIFA Forward Enterprise (FFE) initiative and became the first South American football chief to reject the now-cance",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/cbf-president-publicly-rejects-fifa-forward-enterprise-43235832",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "NEO Semiconductor unveils AI memory platform aimed at easing global bottlenecks",
-              "summary": "NEO Semiconductor has launched NEO.AI, a memory platform it says could help address one of the biggest constraints on artificial intelligence (AI) systems worldwide: limited memory. The company says t",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260806PR200/neo-semiconductor-3d-hbm-efficiency-performance.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Kevin O'Leary Says AI Data Centers Must 'Earn' Community Trust Or Risk Losing the Fight: 'You Can't ",
-          "summary": ""
-        },
-        {
-          "topic": "Brand tracking tools for scaling companies: Brand tracking tools help growth marketers gauge what pe",
-          "summary": ""
-        },
-        {
-          "topic": "Chanel Retains Top Spot, Massimo Dutti, Celine and Phoebe Philo Surge on Lyst’s Hottest Brands Ranki",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-06T13:28:50.243345+08:00",
+  "last_updated": "2026-09-07T13:40:21.384396+08:00",
   "total_days": 31
 }
