@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "2aded5fd",
+      "date": "2026-09-08",
+      "generated_at": "2026-09-08T13:35:02.987076+08:00",
+      "headline": "今日 AI 新闻速览（47 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "OpenAI unveils GPT 6 Astra: Faster screen control, smarter logic, and upgraded safeguards",
+              "summary": "OpenAI has officially announced its next generation flagship artificial intelligence model, GPT 6 Astra. Positioned as a major leap forward from GPT 5.6 Sol, the company claims Astra is its most intel",
+              "source": "SoyaCincau.com",
+              "url": "https://soyacincau.com/2026/09/07/openai-unveils-gpt-6-astra/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI data centers are less thirsty now, tech giants say",
+              "summary": "American chip giant Nvidia said in a June report that it can eliminate water consumption almost entirely at some facilities when deploying DSX, its newest system for designing and managing AI data cen",
+              "source": "Digital Journal",
+              "url": "https://www.digitaljournal.com/article/ai-data-centers-are-less-thirsty-now-tech-giants-say/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Fintech Fest: How Adyen powers payments for global ambition and expansion",
+              "summary": "The payments ecosystem in India is moving beyond just digitisation, and towards infrastructure that can operate seamlessly across borders, and connected ecosystems. Adyen, a global fintech company wit",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/global-fintech-fest-how-adyen-powers-payments-for-global-ambition-and-expansion/articleshow/133864168.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gujarat uses AI-based grain analyser to grade paddy at MSP procurement centres",
+              "summary": "Gujarat implements AI grain analysers at MSP centres to enhance paddy quality assessment, ensuring transparency and efficiency in procurement.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/economy/agri-business/gujarat-uses-ai-based-grain-analyser-to-grade-paddy-at-msp-procurement-centres/article71437481.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Diet management, which has been ambitiously started after downloading the health care app, often fiz.. - MK",
+              "summary": "Diet management, which has been ambitiously started after downloading the health care app, often fizzles out in a few days. This is often attributed to a lack of individual will, but in reality, it ha",
+              "source": "Mk.co.kr",
+              "url": "https://www.mk.co.kr/en/it/12145931",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What attracts deer quickly?",
+              "summary": "What Attracts Deer Quickly: A Comprehensive Guide The key to rapidly attracting deer lies in understanding their core needs: food, water, and safety. Providing irresistible, readily available sources ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-attracts-deer-quickly/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Kindness Stones– Q and A",
+              "summary": "1) How long did it take to write these stories?  Did they all sort of spill out of you in a short period of time or have they been marinating for a while in your imagination?      Short answer—most st",
+              "source": "Patheos",
+              "url": "https://www.patheos.com/blogs/bibleandculture/2026/09/07/kindness-stones-q-and-a/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘I’d love a new interest or hobby, but not anything too formal or academic’",
+              "summary": "Ask Brian: The social side is one of the most underrated benefits of adult education",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/education/2026/09/07/id-love-a-new-interest-or-hobby-but-not-anything-too-formal-or-academic/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "makervox-publish added to PyPI: Self-hosted social publishing for people who bring their own develop",
+          "summary": ""
+        },
+        {
+          "topic": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but A",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Cheers Heart Aerospace’s $5 Electric Aircraft Flight — Says ‘An Important Next Step Is Mak",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "66a517e3",
       "date": "2026-09-07",
       "generated_at": "2026-09-07T13:40:21.384396+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c08d6ea7",
-      "date": "2026-08-08",
-      "generated_at": "2026-08-08T10:52:41.677490+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "A Guide to Photographing the Geometry Of Modern Architecture",
-              "summary": "Architectural photography is an endlessly interesting discipline. From ancient monuments, through the structures of the Industrial Revolution to the ultra-modern skyscrapers of today, the sheer variet",
-              "source": "Lightstalking.com",
-              "url": "https://www.lightstalking.com/photographing-geometry-modern-architecture/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ARKQ vs BOTZ: Which Robotics ETF Is the Better Buy in 2026?",
-              "summary": "The ARK Autonomous Technology & Robotics ETF (NYSEMKT:ARKQ) offers an actively managed portfolio of leading tech companies investing in automation, while the Global X - Robotics and Artificial Intelli",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/8047198cb0d77b38",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Where Will Sandisk Stock Be in 5 Years?",
-              "summary": "For technology investors, generative artificial intelligence (AI) has been a once-in-a-lifetime opportunity to lock in massive equity returns in a relatively short period of time. Sandisk (NASDAQ: SND",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/c916154e7feccb38",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Vanishing Art Of Presence",
-              "summary": "The Vanishing Art Of Presence\n \nAuthored by Joseph Varon via Brownstone Institute,\nMedicine is always changing. In my career, I have seen intensive care units go from simple rooms with oxygen, monitor",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/1ae0673c042da132",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can hedgehogs eat bread?",
-              "summary": "Can Hedgehogs Eat Bread? A Deep Dive Can hedgehogs eat bread? The short answer is a resounding no. Bread offers little to no nutritional value for hedgehogs and can, in fact, be harmful to their healt",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-hedgehogs-eat-bread/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ETMarkets Management Talk| North America, AI adoption and recurring revenues to fuel Newgen's next leg of growth: Tarun Nadwani",
-              "summary": "What is particularly encouraging is the shift in customer priorities. Enterprises are moving beyond automating individual processes and are looking to embed AI across core business operations to impro",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-management-talk-north-america-ai-adoption-and-recurring-revenues-to-fuel-newgens-next-leg-of-growth-tarun-nadwani/articleshow/133019456.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Today in sports history, August 18",
-              "summary": "Today in sports history, August 18",
-              "source": "USA Today",
-              "url": "https://www.usatoday.com/story/sports/history/2026/08/06/today-in-sports-history-august-18/91151483007/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Today in sports history, August 17",
-              "summary": "Today in sports history, August 17",
-              "source": "USA Today",
-              "url": "https://www.usatoday.com/story/sports/history/2026/08/06/today-in-sports-history-august-17/91151228007/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Vmake AI Becomes Vmake Labs, Introducing a Social Video Studio for Brands and Creators: The brand up",
-          "summary": ""
-        },
-        {
-          "topic": "Oxylabs Research: What Nearly 1 Million Job Postings Reveal About the Tech Tools U.S. Employers Want",
-          "summary": ""
-        },
-        {
-          "topic": "Mark Cuban Turned to Grok to Test Zohran Mamdani's City-Owned Grocery Plan for NYC— and He Got a Rou",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-07T13:40:21.384396+08:00",
+  "last_updated": "2026-09-08T13:35:02.987076+08:00",
   "total_days": 31
 }
