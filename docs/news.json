@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "d4e58217",
+      "date": "2026-09-09",
+      "generated_at": "2026-09-09T13:42:23.559677+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Can you give birds apple juice?",
+              "summary": "Apple Juice for Birds: A Sweet Treat or a Risky Offering? Giving birds apple juice can be potentially harmful due to its high sugar content and lack of nutritional value, making it a treat best avoide",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-give-birds-apple-juice/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
+              "summary": "The French artificial-intelligence startup said it had raised $3.48 billion from a pool of existing investors such as Samsung and ASML Holding, as well as new backers.",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/7527b96a05c96937",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Huawei invests in lithography chipmaking equipment to boost domestic supply chain",
+              "summary": "Huawei's investment in lithography equipment could reduce China's reliance on foreign tech, potentially reshaping global semiconductor dynamics.\nThe post Huawei invests in lithography chipmaking equip",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/huawei-lithography-chipmaking-investment/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are bear paws worth money?",
+              "summary": "Are Bear Paws Worth Money? Unveiling the Value of Wildlife Parts The question of whether bear paws are worth money is complex and multifaceted, hinging on legal restrictions, cultural significance, an",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-bear-paws-worth-money/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump's claim that America owns the moon draws criticism",
+              "summary": "US President Donald Trump garnered special attention by posting \"THE MOON IS OURS\" (සඳ අපේ ය) on the Truth Social social media network at 1:56 PM on Sunday, September 6, 2026. This post, published wit",
+              "source": "Gossiplankanews.com",
+              "url": "https://english.gossiplankanews.com/2026/09/trumps-claim-that-america-owns-moon.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Lumiere Declaration Sets 15 Principles for Global Film Governance, Calling Audience Attention ‘a Trust to Be Honored, Not a Resource to Be Captured’",
+              "summary": "Representatives of countries, international organizations, film, television and gaming industry leaders, creators, festivals and cultural institutions from across the world adopted the Lumière Declara",
+              "source": "Variety",
+              "url": "https://variety.com/2026/film/news/lumiere-declaration-global-film-governance-1236854395/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
+              "summary": "A Mistral event in Paris in May. The company, which started making artificial intelligence models in 2023, will now also build data centers and other A.I. infrastructure in Europe.",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/7104f1c5aae480e9",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ai is changing the high school classroom, teachers says",
+              "summary": "Technological advances and students’ use of AI have left high school teacher Bodil-Marie Gade worried. A high school student says the debate lacks nuance. Teachers, after all, use AI themselves.",
+              "source": "Politiken.dk",
+              "url": "https://politiken.dk/edition/features/art10973616/Ai-is-changing-the-high-school-classroom-teachers-says",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "makervox-publish added to PyPI: Self-hosted social publishing for people who bring their own develop",
+          "summary": ""
+        },
+        {
+          "topic": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but A",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Cheers Heart Aerospace’s $5 Electric Aircraft Flight — Says ‘An Important Next Step Is Mak",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2aded5fd",
       "date": "2026-09-08",
       "generated_at": "2026-09-08T13:35:02.987076+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "5eaca495",
-      "date": "2026-08-09",
-      "generated_at": "2026-08-09T11:00:42.085651+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "‘AI creating more jobs than it cuts in India’",
-              "summary": "India Business News: India, the world’s back office for many global companies, is emerging as a key test case for artificial intelligence’s impact on employment, with AI-r.",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/ai-creating-more-jobs-than-it-cuts-in-india/articleshow/133045133.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Economic Digest: A Snapshot of Nepal’s Business News",
-              "summary": "KATHMANDU: Economic Digest presents a brief yet comprehensive roundup of major business developments in Nepal, delivered in clear and accessible summaries. Nepal’s latest economic indicators present a",
-              "source": "Khabarhub.com",
-              "url": "https://english.khabarhub.com/2026/08/562308/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Atlético Nacional set record fee to tie down Rengifo",
-              "summary": "Rengifo’s future, the latest jewel to emerge from Atlético Nacional’s academy, has become the center of debate after the club’s board took a firm stance on offers from abroad.An economic barrie...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/atletico-nacional-set-record-fee-to-tie-down-rengifo-43245534",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
-              "summary": "Aug 7 : Nvidia will invest up to $3 billion in power infrastructure developer Lancium, the company behind the Stargate data center campus in Texas, the Information reported on Friday.• The chipmaker w",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/business/nvidia-invest-up-3-billion-in-stargate-data-center-developer-lancium-information-reports-6307196",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Magnendo Awarded Up to $32M by ARPA-H to Advance Autonomous Robotic Stroke Intervention",
-              "summary": "ARPA-H award supports development of magnetic robotic navigation technology designed to overcome the physical barriers limiting endovascular stroke therapy",
-              "source": "GlobeNewswire",
-              "url": "https://www.globenewswire.com/news-release/2026/08/08/3341434/0/en/magnendo-awarded-up-to-32m-by-arpa-h-to-advance-autonomous-robotic-stroke-intervention.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI is now a third wheel in human relationships",
-              "summary": "Young people are inviting a chatbot into emotional territory to take the easy way out",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/opinion/ai-chatgpt-gemini-relationships-dating-emotional-intelligence-artificial-intelligence-mental-health-social-media-11785979516563.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you make an outdoor bird feeder?",
-              "summary": "How to Make an Outdoor Bird Feeder: A Comprehensive Guide Making an outdoor bird feeder is a rewarding DIY project that brings nature to your backyard. Follow this guide to learn how to make an outdoo",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-make-an-outdoor-bird-feeder/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities",
-              "summary": "OpenAI Group PBC today disclosed that one of its unreleased large language models may pose a significant cybersecurity risk. The algorithm, which is known as Astra, was first detailed last week. OpenA",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/08/07/openai-reveals-upcoming-astra-model-may-possess-critical-hacking-capabilities/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "ebo-sieve added to PyPI: EBO-SIEVE - Screening Intelligence & Evaluation Engine: a config-driven, li",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Benchmark local LLMs fit for your device specs: Benchmark local LLMs with custom sets of ta",
-          "summary": ""
-        },
-        {
-          "topic": "Vmake AI Becomes Vmake Labs, Introducing a Social Video Studio for Brands and Creators: The brand up",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-08T13:35:02.987076+08:00",
+  "last_updated": "2026-09-09T13:42:23.559677+08:00",
   "total_days": 31
 }
