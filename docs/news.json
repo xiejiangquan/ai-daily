@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "aa62138e",
+      "date": "2026-09-10",
+      "generated_at": "2026-09-10T13:34:51.398684+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Marvell Technology shares soar: What’s driving the AI chip rally?",
+              "summary": "Marvell Technology has emerged as a major beneficiary of the artificial intelligence boom, with its shares delivering a massive rally over the past year. The gains reflect growing investor confidence ",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/marvell-technology-shares-soar-whats-driving-the-ai-chip-rally/marvell-stocks-stunning-rally/slideshow/133954721.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Reasons to go to college",
+              "summary": "That is the topic of my latest Free Press column, here is one excerpt:\n…college is a great place to make friends, date, and possibly meet a spouse. Those features are ever more important as America su",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/3df81dc2e5e8d495",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A Teen Home Alone with Sudden Testicular Pain Asked ChatGPT What to Do and Kept His Testicle",
+              "summary": "A 15-year-old alone at home typed his symptoms into ChatGPT. He reached the ER in two hours, and surgeons saved the twisted testicle.",
+              "source": "Medical Daily",
+              "url": "https://www.medicaldaily.com/chatgpt-teen-testicular-torsion-case-report-478401",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Canada eyes researchers looking to leave ‘hostile’ US",
+              "summary": "The former University of Colorado researcher, now with the University of Montreal, is one of the dozens of scientists to quit US-based posts in recent months for a role in Canada, which is making a pu",
+              "source": "Digital Journal",
+              "url": "https://www.digitaljournal.com/article/canada-eyes-researchers-looking-to-leave-hostile-us/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do deer drink water every day?",
+              "summary": "Do Deer Drink Water Every Day? The Hydration Habits of Whitetails and More Yes, deer generally need to drink water every day, but their hydration needs can be met through various sources, including di",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-deer-drink-water-every-day/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump strikes Indian IT again! Why tech stocks lost Rs 55,000 crore in a single session",
+              "summary": "Indian IT stocks lost around Rs 55,000 crore in market value after the US suspended Cognizant’s PERM labour certification filings, raising fresh concerns over tighter scrutiny of work visas and allege",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/trump-strikes-indian-it-again-why-tech-stocks-lost-rs-55000-crore-in-a-single-session/articleshow/133953804.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI says AI solved one of math’s hardest problems in days",
+              "summary": "Researchers at OpenAI said it took just days -- and millions of dollars in computing power -- to crack what is known as the Navier-Stokes problem. Navier-Stokes is one of the seven Millennium Prize Pr",
+              "source": "Digital Journal",
+              "url": "https://www.digitaljournal.com/article/openai-says-ai-solved-one-of-maths-hardest-problems-in-days/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Southeast Asia’s Subtle Shift on Taiwan",
+              "summary": "An erratic United States and a rising China have the region recalibrating.",
+              "source": "Foreign Policy",
+              "url": "http://foreignpolicy.com/2026/09/09/southeast-asia-brief-taiwan-china-stance/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How To Earn $500 A Month From Signet Jewelers Stock Ahead Of Q2 Earnings: Signet Jewelers Limited wi",
+          "summary": ""
+        },
+        {
+          "topic": "Dr. Copper Says the AI Boom Is Spreading Through the Real Economy: The clearest evidence this week t",
+          "summary": ""
+        },
+        {
+          "topic": "makervox-publish added to PyPI: Self-hosted social publishing for people who bring their own develop",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "d4e58217",
       "date": "2026-09-09",
       "generated_at": "2026-09-09T13:42:23.559677+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "ffde85cc",
-      "date": "2026-08-10",
-      "generated_at": "2026-08-10T11:09:56.637334+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Bank of America spots new curveball for Magnificent Seven stocks",
-              "summary": "The ‘Magnificent Seven’ stocks spent years convincing investors that their tremendous AI spending would translate into sustainable growth, powerful cash flow...",
-              "source": "TheStreet",
-              "url": "https://www.thestreet.com/investing/stocks/bofa-magnificent-seven-ai-risk",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How good is a raccoons eyesight?",
-              "summary": "How Good is a Raccoon’s Eyesight? A raccoon’s eyesight isn’t its strongest sense; while they can see reasonably well, especially at night, their vision is best described as adequate rather than except",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-good-is-a-raccoons-eyesight/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SEBI’s Project Sudarsan flags 20,000 fraudulent posts as 62% of investors are influenced by finfluencers",
-              "summary": "SEBI’s AI-powered Project Sudarsan has identified more than 20,000 fraudulent social media posts since its launch in November 2025. The platform scans videos, images, messages and advertisements for m",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/money/personal-finance/sebis-project-sudarsan-flags-20-000-fraudulent-posts-as-62-of-investors-are-influenced-by-finfluencers-11786243711745.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What dried fruit is safe for birds?",
-              "summary": "What Dried Fruit is Safe for Birds? Certain types of dried fruit, like unsulphured apricots, cranberries, raisins (in moderation), and blueberries, can be a healthy and convenient treat for birds. How",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-dried-fruit-is-safe-for-birds/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What size tank does a baby Oscar need?",
-              "summary": "What Size Tank Does a Baby Oscar Need? A baby Oscar requires a tank of at least 30 gallons to thrive initially; however, be prepared to upgrade to a larger tank as it grows rapidly. Investing in the r",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-size-tank-does-a-baby-oscar-need/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Christopher Reeve Keeping Hope in Motion 2007 1080p WEB h264-CBFM",
-              "summary": "A riding accident in 1995 left Superman star Christopher Reeve paralysed and in a wheelchair. This update from 2004 to the original documentary, Hope in Motion, follows Reeve as he decides to undergo ",
-              "source": "Rlsbb.cc",
-              "url": "https://post.rlsbb.cc/christopher-reeve-keeping-hope-in-motion-2007-1080p-web-h264-cbfm/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Big change in the bottom four: see the new Brasileirão table ",
-              "summary": "Brasileirão had four Matchday 22 games played this Saturday (8).Among them were several teams battling near the bottom of the table.The relegation zone saw an important change, with Grêmio climbing ..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/big-change-in-the-bottom-four-see-the-new-brasileirao-table-43249915",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Tributes, a minute's silence, messages...all backing Messi",
-              "summary": "Following the confirmation of the tragic news of the passing of Jorge Messi, father of the Argentine star, pitches, stadiums, and platforms around the world have rallied in support of the Argentina na",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/tributes-a-minutes-silence-messagesall-backing-messi-43249903",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AI Affiliate Marketing for Absolute Beginners With $0 Budget\" – Affiliate Income Stream: Learn how t",
-          "summary": ""
-        },
-        {
-          "topic": "ebo-sieve added to PyPI: EBO-SIEVE - Screening Intelligence & Evaluation Engine: a config-driven, li",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: Benchmark local LLMs fit for your device specs: Benchmark local LLMs with custom sets of ta",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-09T13:42:23.559677+08:00",
+  "last_updated": "2026-09-10T13:34:51.398684+08:00",
   "total_days": 31
 }
