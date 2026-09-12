@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e2bc9cd8",
+      "date": "2026-09-12",
+      "generated_at": "2026-09-12T13:23:36.512117+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Indo Russia ‘Innopraktika’ Technology Hub seals four agreements at Innoprom India 2026",
+              "summary": "The Indo Russia 'Innopraktika' Technology Hub signed four strategic MOUs at Innoprom India 2026. These agreements aim to deepen technology and innovation ties between India and Russia. Partnerships we",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/indo-russia-innopraktika-technology-hub-seals-four-agreements-at-innoprom-india-2026/articleshow/134047324.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you get close to birds without scaring them?",
+              "summary": "How to Approach Birds Without Sending Them Flying: A Guide to Respectful Observation Discover the secrets of approaching birds without alarming them! How do you get close to birds without scaring them",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-get-close-to-birds-without-scaring-them/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "BRICS Business Forum 2026: Jaishankar calls for resilient supply chains, predictable business environment across BRICS countries",
+              "summary": "External Affairs Minister S Jaishankar urged BRICS nations for predictable business environments. He called for resilient supply chains and diversified trade relationships among the grouping.  The min",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/jaishankar-calls-for-resilient-supply-chains-predictable-business-environment-across-brics-countries/articleshow/134047191.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "More US lawmakers call for new AI rules after Anthropic researchers warn of human extinction",
+              "summary": "By Courtney Rozen Sept 10 (Reuters) - Growing numbers of U.S. lawmakers are calling for new rules to govern AI systems after dire warnings from two Anthropic researchers that rapidly",
+              "source": "Lufkindailynews.com",
+              "url": "https://lufkindailynews.com/news_reuters/business/more-us-lawmakers-seek-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction/article_8c2e920b-b7d9-5dc7-98c8-1fd1ce07fb16.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Malaysia targeted by election manipulation operation using 1,000 fake accounts, bogus news site: Anthropic",
+              "summary": "Anthropic says its Claude AI was used to build a voter-targeting system covering all 222 parliamentary constituencies in Malaysia, while the threat actor also unsuccessfully pursued a contract with th",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/asia/anthropic-disrupt-malaysia-election-manipulation-operation-6377936",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Did lions and tigers coexist?",
+              "summary": "Did Lions and Tigers Coexist? A Historical and Geographic Analysis The question of did lions and tigers coexist? is complex, but generally, the answer is no, they did not broadly coexist in recent his",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/did-lions-and-tigers-coexist/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
+              "summary": "Meta Platforms, Inc. (NASDAQ: META) launched Muse this week. The long-touted AI assistant, powered by its Muse Spark model, is aimed at customers and small businesses.\nWith the tech giant having spent",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/713d4c357016401a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic predicts AI to drive 15% GDP growth, mass unemployment by 2030",
+              "summary": "AI-driven economic growth may boost valuations but poses challenges with potential unemployment, creating uncertainty in future economic stability.\nThe post Anthropic predicts AI to drive 15% GDP grow",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/anthropic-predicts-ai-to-drive-15-gdp-growth-mass-unemployment-by-2030/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Social listening metrics: The 7 that actually matter (and how to act on them): Not all social listen",
+          "summary": ""
+        },
+        {
+          "topic": "Why the current tech backlash feels different: This interview has been lightly edited for length and",
+          "summary": ""
+        },
+        {
+          "topic": "How To Earn $500 A Month From American Eagle Stock Ahead Of Q2 Earnings: American Eagle Outfitters, ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c4d2ccdc",
       "date": "2026-09-11",
       "generated_at": "2026-09-11T13:36:33.349728+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "fe7d09b1",
-      "date": "2026-08-12",
-      "generated_at": "2026-08-12T11:21:17.211534+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Official: Améric announce their new signing",
-              "summary": "Through its social media, América officially announced the signing of Edwin Cerrillo for the Apertura 2026.The player arrives from LA Galaxy and said that the Coapa club is the team of his dreams, as.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/official-americ-announce-their-new-signing-43258670",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google's DeepMind team warns job seekers of unreliable HR filters",
-              "summary": "Google team is encouraging candidates for its open roles to fill out a special form alongside their application to eliminate the risk it may be automatically screened out by the company's AI systems",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/google-s-deepmind-team-warns-job-seekers-of-unreliable-hr-filters-126081100112_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Structural issues driving money from India: Ex-RBI chief Duvvuri Subbarao",
-              "summary": "Subbarao said a move in June aimed at drawing more foreign currency by incentivizing non-resident Indians is \"too costly\" to justify if the main purpose is simply to bolster confidence in the rupee",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/finance/news/structural-issues-driving-money-from-india-ex-rbi-chief-duvvuri-subbarao-126081100106_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can you put hummingbird feeder on table?",
-              "summary": "Can You Put a Hummingbird Feeder on a Table?: A Comprehensive Guide It’s possible to put a hummingbird feeder on a table, but not ideal. Consider alternative locations such as hanging from a branch or",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-put-hummingbird-feeder-on-table/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "NUS students to get ChatGPT access; AI module compulsory for incoming freshmen",
-              "summary": "Announcing a partnership with OpenAI, NUS said all students, faculty and staff will get access to ChatGPT Edu from Aug 31.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/nus-chatgpt-compulsory-ai-module-6306826",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "YAGEO, Walsin post record July sales as AI demand lifts passive components",
-              "summary": "YAGEO and Walsin Technology reported strong July 2026 revenue as artificial intelligence demand continued to lift Taiwan's passive components sector. Both companies said orders from AI-related, networ",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260811PD204/walsin-revenue-demand-passive-2026.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do squirrels abandon sick babies?",
-              "summary": "Do Squirrels Abandon Sick Babies? Untangling Fact from Fiction The question of whether squirrels abandon their sick offspring is complex. While seemingly harsh, the reality is often rooted in survival",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-squirrels-abandon-sick-babies/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Taiwan and China see more students choose STEM as tech demand rises",
-              "summary": "For students and employers worldwide, the shift toward science and engineering degrees in Taiwan and China underscores how artificial intelligence, advanced manufacturing, and semiconductor demand are",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260811PD206/taiwan-stem-industrial-demand-2026.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
-          "summary": ""
-        },
-        {
-          "topic": "WATCH: Can Myspace make a comeback?: Sirius XM radio host Mike Muse and The New York Times' Gen Z re",
-          "summary": ""
-        },
-        {
-          "topic": "Paul Graham Says His Wife’s First Tesla FSD Experience Was Like a ‘Religious Revelation’— and AI Chi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-11T13:36:33.349728+08:00",
+  "last_updated": "2026-09-12T13:23:36.512117+08:00",
   "total_days": 31
 }
