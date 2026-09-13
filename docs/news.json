@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c2990d79",
+      "date": "2026-09-13",
+      "generated_at": "2026-09-13T13:38:45.472011+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "BRICS meets in India: What’s on the agenda, why it matters",
+              "summary": "This year's summit comes amid the US-Israel war on Iran, Russia's war on Ukraine and global economic challenges.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Oracle to spend an additional $700 million on more job cuts",
+              "summary": "Oracle’s “2026 Restructuring Plan” job cuts are now estimated to cost about $2.8 billion, primarily in severance payments to laid-off employees",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why Power Integrations (POWI) Stock Is Trading Up Today",
+              "summary": "What Happened?\nShares of semiconductor designer Power Integrations (NASDAQ:POWI) jumped 6.3% in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coup",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/c686e1d73aff38aa",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indian stock markets are losing their sheen as global funds exit. Here’s why",
+              "summary": "Global funds are increasingly exiting Indian stocks, citing lackluster growth and high valuations amid a shift towards AI-focused markets.",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic says it blocked possible attempts to use AI to develop bioweapons",
+              "summary": "Anthropic says it has blocked multiple accounts that used the company’s artificial intelligence models in ways that could support the development of biological weapons. In a report published Thursday,",
+              "source": "Freerepublic.com",
+              "url": "https://freerepublic.com/focus/f-chat/4395219/posts",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can you put cold sugar water in hummingbird feeder?",
+              "summary": "Can You Put Cold Sugar Water in Hummingbird Feeder?: A Comprehensive Guide Yes, you can put cold sugar water in a hummingbird feeder. In fact, providing slightly chilled nectar can actually be benefic",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-put-cold-sugar-water-in-hummingbird-feeder/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "'We Need to Slow Down': AI Crowd Reacts to Viral Human Extinction Warning",
+              "summary": "AI researcher Jacob Coxon's resignation message has been seen by millions of people. Here's what his colleagues, critics, and major politicians think about his warning.\nArtificial intelligence researc",
+              "source": "PCMag.com",
+              "url": "https://me.pcmag.com/en/ai/38038/we-need-to-slow-down-ai-crowd-reacts-to-viral-human-extinction-warning",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Researchers Mapped a Fruit Fly Brain. Software Engineers Got It to Play Doom",
+              "summary": "This 'foundational resource for neuroscience' has turned into a fun side project for dozens of software engineers. Fruit flies, however, aren't going to win any esports tournaments.\nResearchers recent",
+              "source": "PCMag.com",
+              "url": "https://me.pcmag.com/en/games/38037/researchers-mapped-a-fruit-fly-brain-software-engineers-got-it-to-play-doom",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Peter Schiff Warns Trump’s $5,000 Voter 'Bribe' Could Trigger 'Massive Inflation' Worse Than Under B",
+          "summary": ""
+        },
+        {
+          "topic": "Do images show former NFL star Clay Matthews after plastic surgery?: Some social media users specula",
+          "summary": ""
+        },
+        {
+          "topic": "Social listening metrics: The 7 that actually matter (and how to act on them): Not all social listen",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e2bc9cd8",
       "date": "2026-09-12",
       "generated_at": "2026-09-12T13:23:36.512117+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "8836b929",
-      "date": "2026-08-13",
-      "generated_at": "2026-08-13T11:25:19.961807+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "ASX 200 Drops 0.7% As Wall Street Tech Selloff And CBA Earnings Weigh On Australian Shares",
-              "summary": "The ASX 200 fell 0.68% as tech stocks declined and investors focused on corporate earnings, including Commonwealth Bank's results. Rising oil prices partially offset losses in the communication servic",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/asx-200-dips-tech-selloff-earnings-reports-1873961",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Democratic Socialist Tries To Beat The Governor's Pick In A Chaotic Wisconsin Primary",
-              "summary": "A democratic socialist is in a tight race against the governor’s endorsed candidate in Wisconsin’s chaotic primary race for governor.",
-              "source": "HuffPost",
-              "url": "https://www.huffpost.com/entry/election-2026-wisconsin-primary_n_6a7be484e4b0ecad6d3d3c8f",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Vietnam's VinSpace signs deal with Elon Musk's SpaceX to launch its first satellites in 2027",
-              "summary": "VinSpace will launch its satellites on a SpaceX Transporter rideshare mission run by Elon Musk's company, which carries satellites from multiple customers on a single rocket to share launch costs, it ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/vietnams-vinspace-signs-deal-with-elon-musks-spacex-to-launch-its-first-satellites-in-2027/articleshow/133168602.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What are deer afraid of at night?",
-              "summary": "What Are Deer Afraid Of At Night? Unveiling the Nocturnal Fears of Wildlife Deer, while seemingly serene in their natural habitats, possess instincts honed by generations of survival. What are deer af",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-are-deer-afraid-of-at-night/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SPIL breaks ground on NT$100B Douliu plant, targeting operations in 2028",
-              "summary": "Siliconware Precision Industries (SPIL), a subsidiary of ASE Technology Holding (ASEH), broke ground on a new plant in Douliu, Yunlin County, Taiwan, amid surging global demand for artificial intellig",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260811PD262/spil-plant-2028-subsidiary-ase.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Between Martí and Marx: The Synthesis That Made Cuba Invincible",
-              "summary": "Theory as a weapon: how Fidel Castro turned the synthesis of the decolonial resistance of Martí, the analysis of Marx and the revolutionary theory and practice of Lenin into an invincible compass for ",
-              "source": "Globalresearch.ca",
-              "url": "https://www.globalresearch.ca/between-marti-marx-synthesis-made-cuba-invincible/5936453",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Alchemy Of Wealth Taxation",
-              "summary": "The Alchemy Of Wealth Taxation\n \nAuthored by Robert Blumen via The Mises Institute,\n“Transmutation” is the process of changing one substance, element, or form into another.\nWe owe this word to the anc",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/9cfc20ae695f4296",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can you pass pink eye back and forth?",
-              "summary": "Can You Pass Pink Eye Back and Forth? Understanding Conjunctivitis Transmission Yes, you can absolutely pass pink eye back and forth. Pink eye, or conjunctivitis, is highly contagious and easily sprea",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-pass-pink-eye-back-and-forth/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
-          "summary": ""
-        },
-        {
-          "topic": "WATCH: Can Myspace make a comeback?: Sirius XM radio host Mike Muse and The New York Times' Gen Z re",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says SpaceX Will Consume Three Times More Terafab AI Compute Than Tesla: Tesla Inc. and Sp",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-12T13:23:36.512117+08:00",
+  "last_updated": "2026-09-13T13:38:45.472011+08:00",
   "total_days": 31
 }
