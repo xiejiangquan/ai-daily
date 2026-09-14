@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "d209e981",
+      "date": "2026-09-14",
+      "generated_at": "2026-09-14T13:46:29.160923+08:00",
+      "headline": "今日 AI 新闻速览（60 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR",
+              "summary": "Manipal Health Enterprises Ltd is setting its sights on expansion in various states, including Telangana, Keralam, and Delhi-NCR, while pivoting towards a \"physical plus digital\" healthcare model driv",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-126091300110_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "(VIDEO) Tesla Confirms Next-Generation Roadster Reveal Date of October 1 in Waco, Texas, After Long Delays",
+              "summary": "Tesla says it will unveil the long-delayed second-generation Roadster on 1 October in Waco, Texas, though production specifications, pricing and delivery timing remain uncertain.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/tesla-roadster-reveal-date-october-1-1875437",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What season do birds come back?",
+              "summary": "What Season Do Birds Come Back? Unveiling the Mystery of Avian Migration Migratory birds generally return in the spring, though the precise timing varies greatly depending on the species, geographic l",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-season-do-birds-come-back/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What light spectrum is best for algae growth?",
+              "summary": "What Light Spectrum is Best for Algae Growth? The most effective light spectrum for algae growth generally lies within the blue (400-500 nm) and red (600-700 nm) regions, as these wavelengths are most",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-light-spectrum-is-best-for-algae-growth/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s data regulator plans standards for embodied artificial intelligence",
+              "summary": "China's push for embodied AI standards could accelerate innovation, giving firms aligning early a competitive edge in a rapidly evolving market.\nThe post China’s data regulator plans standards for emb",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/china-data-regulator-embodied-ai-standards/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+              "summary": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors\nC3.ai: Navigating Consecutive Quarters of Revenue Contraction\nC3.ai (NYSE:AI) primarily earns its c",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/f7f7a1be0b144de1",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic CEO calls for slower AI model development amid rising risks",
+              "summary": "Dario Amodei warned that fast-improving AI models could raise risks of loss of control, cyberattacks, bioterrorism and economic disruption",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/technology/artificial-intelligence/technology-tech-news-anthropic-ceo-urges-ai-companies-slow-model-development-126091300130_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Manipal Hospitals scouts for acquisitions in Andhra, Keralam, Delhi-NCR; bets on AI-led healthcare",
+              "summary": "Manipal Health Enterprises plans significant expansion across several Indian states.  The company is adopting a digital-physical healthcare model driven by Artificial Intelligence.  Strategic acquisit",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/manipal-hospitals-scouts-for-acquisitions-in-andhra-keralam-delhi-ncr-bets-on-ai-led-healthcare/articleshow/134179222.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Hunter Biden Should 'Go Back to Painting,' Says Eric Trump as LAPTOP Coin Sinks 98% Soon After Launc",
+          "summary": ""
+        },
+        {
+          "topic": "Kevin O'Leary Wants 5% of His Portfolio in One Unusual Asset Class: ‘It's a Real Problem’: “Shark Ta",
+          "summary": ""
+        },
+        {
+          "topic": "Millennials May Not Be the Ones Who Inherit Boomer Wealth. Healthcare and Private Equity Could Get I",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c2990d79",
       "date": "2026-09-13",
       "generated_at": "2026-09-13T13:38:45.472011+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3600eb14",
-      "date": "2026-08-14",
-      "generated_at": "2026-08-14T11:22:53.827572+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Manitoba farmers gather to learn how new technology can help them adapt to climate change",
-              "summary": "With this season's tumultuous weather, Manitoba farmers gathered in Grosse Isle on Wednesday to learn about how they can harness new technologies to help mitigate risks to their harvests and better ad",
-              "source": "CBC News",
-              "url": "https://www.cbc.ca/news/canada/manitoba/farmers-agricultural-technology-climate-change-9.7305530",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Michael Burry's Nebius Short Is Underwater After a 454% Revenue Quarter",
-              "summary": "On Aug. 6, Michael Burry disclosed a short position in Nebius Group (NASDAQ: NBIS) at around $212 a share, a bet he described as larger than the one he placed against Oracle at the same time. Six days",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/2ccfde686f98160a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Twitch faces backlash over Amazon training AI on its users' livestreams",
-              "summary": "Published\nTwitch is now allowing users to stop Amazon from training their generative artificial intelligence (AI) models using users' content, the popular streaming platform said.\nThe US company said ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/eae2bd0a66ac5f90",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-              "summary": "Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bruno Guimarães scores penalty on Arsenal debut; watch ",
-              "summary": "Bruno Guimarães faced a “ghost” this Wednesday (12), fittingly in his debut as an Arsenal player.In a friendly against Como, the midfielder had to take a penalty for the first time since missing ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/bruno-guimaraes-scores-penalty-on-arsenal-debut-watch-43268926",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll",
-              "summary": "About 60% of respondents said AI is being used only in some parts of their companies or in other limited ways. Another 18% said they have not decided whether to introduce AI into the workplace while 6",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/strong-majority-of-japanese-firms-have-yet-to-fully-embrace-ai-reuters-poll/articleshow/133196390.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "When Will AI Take My Job?",
-              "summary": "Explore projected AI-driven unemployment across 725 U.S. occupations from 2025 to 2039.",
-              "source": "Whenwillaitakemyjob.ai",
-              "url": "https://whenwillaitakemyjob.ai",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Cartoonists fear for industry with rise of AI-generated illustrations",
-              "summary": "AI-generated illustrations published in Australian newspapers have raised fears about the future of the cartooning industry, which one artist says is \"shrinking dramatically\".",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-08-13/ai-newspaper-illustrations-cartoons-media-industry/107027784",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "HTX Releases July Performance Report: TradFi Zone Evolves, Reaching Record Daily Trading Volume: API",
-          "summary": ""
-        },
-        {
-          "topic": "Our Boomer Mother-in-Law Wants Us to Keep 2 Cars in Case She Needs a Lift. My Wife Is Ready to Give ",
-          "summary": ""
-        },
-        {
-          "topic": "Policy as code: What happens when you layer policy enforcement onto the automation you already have:",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-13T13:38:45.472011+08:00",
+  "last_updated": "2026-09-14T13:46:29.160923+08:00",
   "total_days": 31
 }
