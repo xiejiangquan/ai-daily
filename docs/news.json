@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9383fd1b",
+      "date": "2026-09-15",
+      "generated_at": "2026-09-15T13:47:46.245236+08:00",
+      "headline": "今日 AI 新闻速览（53 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI might kill us all but we want it",
+              "summary": "Developing countries hope that AI will allow them to leapfrog entire stages of technology development",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/world/2026/09/14/west-fears-ai-may-kill-us-all-but-china-and-others-see-immense-opportunity/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What does a hedgehog see?",
+              "summary": "What Does a Hedgehog See?: A Peek into a Prickly Perspective Hedgehogs live in a world perceived through limited color vision, akin to human red-green colorblindness, focusing heavily on motion and sc",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-does-a-hedgehog-see/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "「投稿した記憶のない娘の個人情報」をMeta AIが知人の投稿などから正確に推測するという恐怖体験を母親が告白",
+              "summary": "Instagramに娘の動画を投稿したところ、これまで投稿した記憶のない「娘の氏名」や「生年月日」といった個人情報を、MetaのAIアシスタントであるMeta AIが正確に提示してきたという恐怖体験が投稿され話題となっています。Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information",
+              "source": "Livedoor.com",
+              "url": "https://news.livedoor.com/article/detail/32320455/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New warnings about the risks of AI to humanity revive a long-running debate",
+              "summary": "The CEO of Anthropic, the San Francisco company behind Claude, said he thought the industry needed to reduce the speed of its work, cautioning Saturday that a swarm of AI agents might be able to take ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/articleshow/134233583.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Medvedev: Corporate greed will block AI rules",
+              "summary": "Russian Security Council Deputy Chairman Dmitry Medvedev expressed his belief that countries could establish artificial intelligence safeguards, but corporate interests would prevent such an agreement",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/9c06c78860bb49bf",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Africa, Ethiopia and Egypt Review Bilateral Cooperation with Putin at New Delhi BRICS Summit",
+              "summary": "South Africa, Ethiopia and Egypt with Russian President Vladimir Putin, on the sidelines of BRICS, the Global South grouping of emerging countries, reviewed their strategic bilateral cooperation, whil",
+              "source": "Globalresearch.ca",
+              "url": "https://www.globalresearch.ca/south-africa-ethiopia-egypt-bilateral-cooperation-putin/5940267",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump Downplays Push to Slow AI",
+              "summary": "Standing near the 18th hole at the Irish Open, President Trump made clear he has no interest in tapping the brakes on artificial intelligence, the Washington Post reports. \"Whoever wins AI wins,\" he s",
+              "source": "Newser",
+              "url": "https://www.newser.com/story/396362/trump-downplays-push-to-slow-ai.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is EasyGrow Worth It",
+              "summary": "EasyGrow is a high-ticket client-acquisition program created by Charlie Morgan and Imperium Acquisition. It is designed for marketing-agency owners, coaches, consultants, and course sellers who want t",
+              "source": "Themattwalshblog.com",
+              "url": "https://themattwalshblog.com/is-easygrow-worth-it/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Keys to Trusting Your Gut: Story at-a-glance Editor’s Note: This article is a reprint. It was or",
+          "summary": ""
+        },
+        {
+          "topic": "Ross Gerber Trashes Trump's $5,000 Dividend Plan, Justin Wolfers Says 'You Accidentally Started Anot",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter: My AI chats were spli",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "d209e981",
       "date": "2026-09-14",
       "generated_at": "2026-09-14T13:46:29.160923+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "29355418",
-      "date": "2026-08-15",
-      "generated_at": "2026-08-15T10:12:06.635087+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Map finds native water mammal rakali thriving in Melbourne's waterways",
-              "summary": "A native water mammal once dismissed as a \"water rat\" is quietly thriving in Melbourne's waterways, according to a new University of Melbourne mapping project.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-08-14/melbourne-university-map-tracks-native-water-mammal-rakali/107027312",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How Indonesia Can Get Ahead in the Artificial Intelligence Race",
-              "summary": "The country has the abundant land and energy resources needed to power hyperscale data centers. Can it harness them effectively?",
-              "source": "The Diplomat",
-              "url": "https://thediplomat.com/2026/08/how-indonesia-can-get-ahead-in-the-artificial-intelligence-race/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SMIC plans to single out AI chip revenue as demand outpaces its current reporting categories",
-              "summary": "Semiconductor Manufacturing International Corporation (SMIC) is considering disclosing revenue from artificial intelligence (AI)-related \"peripheral chips\" as a standalone line item, possibly from the",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260814VL208/smic-ai-chip-revenue-capacity-demand.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Babylon Bee Sues New Mexico Over Restrictions On AI Satirical Posts",
-              "summary": "Babylon Bee Sues New Mexico Over Restrictions On AI Satirical Posts\n \nAuthored by Kevin Stocklin via The Epoch Times,\nThe Babylon Bee, a satirical online publication, is suing the state of New Mexico ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/563de2dc78d743aa",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
-              "summary": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
-              "source": "Fox News",
-              "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "At last they won! Santos Laguna end winless run",
-              "summary": "Since March, the Warriors hadn’t known what it was like to win. Against all odds, and after suffering two defeats in this edition of the tournament, Santos Laguna beat the Philadelphia Union 2-0.Thi..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/at-last-they-won-santos-laguna-end-winless-run-43273937",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CNBC Daily Open: An 'indefinite' war, and a record-breaking rally",
-              "summary": "Hegseth says the U.S. Navy can blockade Iran for as long as it takes, while Wall Street responded by sending the S&P 500 to another day of record high.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/08/14/us-iran-war-hormuz-ai-south-korea-openai-anthropic-meta-.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What universities can offer in the age of AI",
-              "summary": "Taylor’s University is rethinking how artificial intelligence prepares graduates to apply knowledge, exercise judgment and adapt to constant change.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/advertorial/what-universities-can-offer-in-age-ai-6282021",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "What is a social media AI agent? How they work + real examples: Curious about social media AI agents",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Releases July Performance Report: TradFi Zone Evolves, Reaching Record Daily Trading Volume: API",
-          "summary": ""
-        },
-        {
-          "topic": "Our Boomer Mother-in-Law Wants Us to Keep 2 Cars in Case She Needs a Lift. My Wife Is Ready to Give ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-14T13:46:29.160923+08:00",
+  "last_updated": "2026-09-15T13:47:46.245236+08:00",
   "total_days": 31
 }
