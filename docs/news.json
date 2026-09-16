@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8f4bfc50",
+      "date": "2026-09-16",
+      "generated_at": "2026-09-16T13:37:37.665382+08:00",
+      "headline": "今日 AI 新闻速览（46 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "How do birds know which direction they are going?",
+              "summary": "How Do Birds Know Which Direction They Are Going? Navigating the Avian World Birds navigate using a complex interplay of innate abilities and learned behaviors. They employ multiple cues, including Ea",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-birds-know-which-direction-they-are-going/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Thai official points to surging investment as stability returns",
+              "summary": "Thailand has relatively low inflation, strong external finances and accommodative monetary policy.  Read more at straitstimes.com.",
+              "source": "The Straits Times",
+              "url": "https://www.straitstimes.com/business/thai-official-points-to-surging-investment-as-stability-returns",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI camera targeting U-turns at crash hotspot",
+              "summary": "A camera that uses artificial intelligence technology to detect dangerous U-turns has been installed at a crash hotspot.\nVision Zero South West, a road safety partnership involving 17 different organi",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/b777c7bcaf546265",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump Dismisses AI Safety Alarm, Says US Already Has Tools to Police Industry",
+              "summary": "President Donald Trump said on Sept. 14 that the U.S. already has guardrails in place to regulate and prosecute AI companies, appearing to play down concerns expressed by industry leaders over the wee",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/09/15/885066.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Government documents reveal AI could train on data without paying creators",
+              "summary": "Leaked government documents reveal AI companies would be allowed to train their models on online content without paying its creators as long as they struck deals with enough rights holders.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access",
+              "summary": "Bill Gates is warning technology companies and world leaders that they must act now to ensure artificial intelligence combats social inequities.",
+              "source": "WJXT News4JAX",
+              "url": "https://www.news4jax.com/business/2026/09/15/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-1b-to-expand-access/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK and Indian industry join forces to combat digital fraud",
+              "summary": "Telecommunications industry leaders in the UK and India will harness the power of Artificial Intelligence (AI) to tackle online fraud, scams and harms.",
+              "source": "Www.gov.uk",
+              "url": "https://www.gov.uk/government/news/uk-and-indian-industry-join-forces-to-combat-digital-fraud",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff",
+              "summary": "Japan’s Nikkei recovered from early losses to rise around 1%, driven by a 9.13% rebound in SoftBank as investors reassessed concerns over slowing AI investment. Technology and semiconductor shares adv",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-1-as-softbank-rebounds-from-ai-selloff/articleshow/134252512.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation: SAN",
+          "summary": ""
+        },
+        {
+          "topic": "Steam Frame review: The king of convenience.",
+          "summary": ""
+        },
+        {
+          "topic": "Marjorie Taylor Greene Says 'Everything We Buy Is Delivered by Diesel' as Fuel Crosses $6 Mark: 'End",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9383fd1b",
       "date": "2026-09-15",
       "generated_at": "2026-09-15T13:47:46.245236+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "a36d2361",
-      "date": "2026-08-16",
-      "generated_at": "2026-08-16T10:19:32.231267+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Situational Awareness filing shows AI bets before forced portfolio sale to Citadel",
-              "summary": "Leopold Aschenbrenner's latest regulatory filing shows Situational Awareness loaded up on a group of artificial intelliegence stocks just before they became some of the market's biggest casualties in ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/dbf9852649dfae82",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Independence Day 2026: Delhi on high alert; over 25,000 personnel deployed",
-              "summary": "The capital is on high alert in view of Independence Day celebrations, with more than 25,000 Delhi Police and paramilitary personnel deployed across the city to maintain law and order, while a multi-l",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/india-news/independence-day-2026-delhi-on-high-alert-over-25-000-personnel-deployed-126081500090_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Who wins Hulk or Superman?",
-              "summary": "Who Wins Hulk or Superman? The Ultimate Showdown The age-old question is finally answered! In a hypothetical battle of titans, Superman ultimately emerges victorious against the Hulk, owing to his vas",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/who-wins-hulk-or-superman/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Elon Musk's giant Texas microchip factory will be the largest building on earth - and the neighbors HATE it",
-              "summary": "Elon Musk's new plan to build a 100-million sq ft facility in Grimes County, where 30,000 residents live, is drawing backlash from frustrated residents.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/yourmoney/article-16053409/elon-musk-texas-factory-backlash.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can AI make you a better thinker?",
-              "summary": "Whether your mental abilities weaken or strengthen is more up to you than you think.&nbsp;",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/opinion/online-views/can-ai-make-you-a-better-thinker-11786601526360.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Chipmaking equipment supplier Lam Research to spend $3B+ on new labs",
-              "summary": "Lam Research Corp., a major supplier of chipmaker equipment, plans to spend more than $3 billion over the next five years to enhance its engineering capabilities. The company detailed the initiative o",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/08/14/chipmaking-equipment-supplier-lam-research-spend-3b-new-labs/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What do black bears do at night?",
-              "summary": "What Do Black Bears Do At Night? Exploring Nocturnal Behavior What do black bears do at night? Black bears are generally crepuscular and nocturnal, meaning they are most active at dawn, dusk, and duri",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-do-black-bears-do-at-night/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US to tell partners they must pick sides in AI race with China",
-              "summary": "\"Signature of the Pax Silica Declaration is not merely a membership subscription, but a commitment,\" the draft letter says, referring to the United States-led AI coalition launched last year.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/east-asia/us-china-ai-race-pax-silica-waico-6320671",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How Identity Drives MSP Profitability: An Analyst’s Perspective: Identity is the new perimeter. Disc",
-          "summary": ""
-        },
-        {
-          "topic": "The best AI tools for social media content creation in 2026: Discover the best AI social media tools",
-          "summary": ""
-        },
-        {
-          "topic": "What is a social media AI agent? How they work + real examples: Curious about social media AI agents",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-15T13:47:46.245236+08:00",
+  "last_updated": "2026-09-16T13:37:37.665382+08:00",
   "total_days": 31
 }
