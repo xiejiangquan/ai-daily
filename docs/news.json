@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "e7154e03",
+      "date": "2026-09-17",
+      "generated_at": "2026-09-17T13:42:54.315901+08:00",
+      "headline": "今日 AI 新闻速览（59 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Star Health FY26 Data Highlights How Young India is Driving the Digital Health Insurance Revolution",
+              "summary": "Star Health FY26 Data Highlights How Young India is Driving the\nDigital Health Insurance Revolution\n\n\n\n \n\n\n[16-September-2026]\n\n\n \n\n\n\n\n\n\nDirect dig",
+              "source": "Crweworld.com",
+              "url": "https://crweworld.com/article/news-provided-by-pr-newswire/3906060/star-health-fy26-data-highlights-how-young-india-is-driving-the-digital-health-insurance-revolution",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Role of Sensory Marketing in Consumer Engagement - Zion Wifi",
+              "summary": "Crafting immersive experiences that resonate with consumers, sensory marketing tactics ignite emotions, driving brand loyalty and influencing purchasing decisions.",
+              "source": "Zionwifi.com",
+              "url": "https://zionwifi.com/marketing/the-role-of-sensory-marketing-in-consumer-engagement/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What trees do mourning doves live in?",
+              "summary": "What Trees Do Mourning Doves Live In? Mourning doves are adaptable birds that nest in a variety of trees, preferring those offering sufficient branch support and cover; they are not particularly choos",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-trees-do-mourning-doves-live-in/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google CEO Sundar Pichai outlines tech giant's AI efforts across health, weather and learning",
+              "summary": "Amid the ongoing debate over slowing the pace of artificial intelligence development, Google CEO Sundar Pichai has highlighted the tech giant's AI efforts across health, wealth and education, arguing ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-ceo-sundar-pichai-outlines-tech-giants-ai-efforts-across-health-weather-and-learning/articleshow/134279075.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do scarecrows scare raccoons?",
+              "summary": "Do Scarecrows Scare Raccoons? A Practical Guide While the image of a scarecrow warding off garden pests is iconic, the effectiveness of scarecrows against raccoons is debatable. In general, scarecrows",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-scarecrows-scare-raccoons/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indian economy at inflection point, needs growth rethink: CEA Nageswaran",
+              "summary": "Nageswaran argued that India needs to rethink its development model for the AI era, using artificial intelligence to boost workers rather than replace them",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/economy/news/indian-economy-at-inflection-point-needs-growth-rethink-cea-nageswaran-126091600288_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Hong Kong Five-Year Plan Sets Priorities for Education, Health and Housing - OpenGov Asia",
+              "summary": "Hong Kong’s First Five-Year Plan for Economic and Social Development for 2026-2030 outlines a broad programme of reforms aimed at improving social well-being,",
+              "source": "Opengovasia.com",
+              "url": "https://opengovasia.com/hong-kong-five-year-plan-sets-priorities-for-education-health-and-housing/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
+              "summary": "China's first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Pensioners are ‘big winners’ with triple-lock set to rise by 3.9%, lifting state pension to £13,000 ",
+          "summary": ""
+        },
+        {
+          "topic": "Sam Altman Warns AI Race With China Can’t Justify ‘Recklessness’—‘No Reason Any of Us Should Come to",
+          "summary": ""
+        },
+        {
+          "topic": "How much of F-Droid is LLM generated?: Investigating the use of LLMs in the Android FOSS community",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8f4bfc50",
       "date": "2026-09-16",
       "generated_at": "2026-09-16T13:37:37.665382+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "163a0431",
-      "date": "2026-08-17",
-      "generated_at": "2026-08-17T10:18:06.956010+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "How rare is it to see murmuration?",
-              "summary": "How Rare is it to See Murmuration? The Spectacular Dance of Starlings Witnessing a starling murmuration – a breathtaking aerial ballet of thousands of birds swirling in unison – is a truly unforgettab",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-rare-is-it-to-see-murmuration/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UK inflation set to rise as AI chip crunch, energy costs add pressure",
-              "summary": "Data on Wednesday are set to show inflation accelerating for the first time in four months, with the median economist estimate in a Bloomberg survey predicting a 2.9% jump in July",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/uk-inflation-set-to-rise-as-ai-chip-crunch-energy-costs-add-pressure-126081600048_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "No room for data centers? South Korea wants to build one underwater",
-              "summary": "SEOUL -- South Korea is developing plans for an underwater data center, seeking space to accommodate artificial intelligence infrastructure in a country with limited land area.\nPilot project off Ulsan",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/a64b6a0acfa40884",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nvidia-OpenAI partnership: US chipmaker plans to invest $3 billion in SB Energy; what we know",
-              "summary": "Nvidia is in talks to invest roughly $3 billion in SB Energy while discussing up to $100 billion in credit support for an Ohio data centre project for OpenAI.",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/companies/news/nvidiaopenai-partnership-us-chipmaker-plans-to-invest-3-billion-in-sb-energy-what-we-know-11786845477477.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Updated Brasileirão table after the start of matchday 23",
-              "summary": "Matchday 23 of the 2026 Brasileirão kicked off this Saturday (15).In the first match of the day, Fluminense came from behind to beat Palmeiras 3-2 at the Maracanã.The match featured refereeing contr..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/updated-brasileirao-table-after-the-start-of-matchday-23-43284057",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " São Paulo draw at home to Coritiba, bizarre winless run goes on",
-              "summary": "São Paulo and Coritiba drew 1-1 this Saturday (15), in the 23rd round of the 2026 Brasileirão.The match marked Tricolor Paulista’s return to MorumBIS after 81 days!The “return home” was the fu...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/sao-paulo-held-by-coritiba-at-home-bizarre-winless-run-goes-on-43284012",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "In Ekiti, students abandon school for online scam as mums form ‘Iya Omo Ologo Association’",
-              "summary": "For decades, Ekiti State has proudly wore the badge of Nigeria’s ‘Land of Honour’, a state celebrated for producing some of the country’s finest academics, professionals, public servants and intellect",
-              "source": "Vanguard",
-              "url": "https://www.vanguardngr.com/2026/08/in-ekiti-students-abandon-school-for-online-scam-as-mums-form-iya-omo-ologo-association/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The cut-throat wearables battle is about more than tracking your fitness",
-              "summary": "Google, Apple, Samsung and upstarts such as Oura are racing to integrate data from their wearable devices into the health care system.",
-              "source": "Australian Financial Review",
-              "url": "https://www.afr.com/policy/health-and-education/the-cut-throat-wearables-battle-is-about-more-than-tracking-your-fitness-20260816-p60oph",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Automated AI Affiliate Marketing: Work Smarter and Earn More – Affiliate Income Stream: Learn how au",
-          "summary": ""
-        },
-        {
-          "topic": "Jensen Huang Says Nvidia’s 2020 A100 GPUs Can Stay ‘Mission-Capable’ Through 2029—Here’s Why It Matt",
-          "summary": ""
-        },
-        {
-          "topic": "Early Tesla Investor Steve Jurvetson Bets on SpaceX Alumni to Solve AI’s Power Problem: ‘The Endgame",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-16T13:37:37.665382+08:00",
+  "last_updated": "2026-09-17T13:42:54.315901+08:00",
   "total_days": 31
 }
