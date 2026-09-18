@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "26c87557",
+      "date": "2026-09-18",
+      "generated_at": "2026-09-18T13:32:20.299467+08:00",
+      "headline": "今日 AI 新闻速览（57 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Global Market: Nikkei gains as investors snap up gaming, pharma stocks",
+              "summary": "Japan’s Nikkei edged higher as investors bought beaten-down gaming and pharmaceutical shares, while falling crude oil prices supported sentiment. Gains remained limited as chip stocks fell and investo",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-gains-as-investors-snap-up-gaming-pharma-stocks/articleshow/134302493.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can a cow have a baby with a bison?",
+              "summary": "Can a Cow Have a Baby with a Bison? Exploring the Possibilities of Hybridization The answer is a resounding yes. While rare in natural settings, cows can indeed have babies with bison, resulting in a ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-a-cow-have-a-baby-with-a-bison/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI Reveals 6 New Cases of 'Concerning' AI Behavior",
+              "summary": "OpenAI is airing more of its dirty laundry—and trying to turn it into a rulebook, CNBC reports. The company revealed six cases since March in which its AI models acted in ways it labels \"unexpected or",
+              "source": "Newser",
+              "url": "https://www.newser.com/story/396566/openai-reveals-6-new-cases-of-concerning-ai-behavior.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What AI leaders and world governments have to say about 'AI doom' fears",
+              "summary": "AI industry leaders are split over how fast companies should develop the increasingly powerful technology: Anthropic's Dario Amodei, OpenAI's Sam Altman and SpaceX's Elon Musk are seeking a coordinate",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-ai-leaders-and-world-governments-have-to-say-about-ai-doom-fears/articleshow/134302406.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do you know if something is wrong with a squirrel?",
+              "summary": "How Do You Know If Something Is Wrong With A Squirrel? Knowing if a squirrel is unwell requires careful observation: look for abnormal behavior, physical signs of injury or illness, and deviations fro",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-know-if-something-is-wrong-with-a-squirrel/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wiwynn sees strong AI demand offsetting US data center pushback",
+              "summary": "Wiwynn's top executive said demand for artificial intelligence infrastructure is likely to keep the server maker on a strong growth path through the next several years, even as US opposition to data c",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20260917PD207/wiwynn-demand-growth-revenue-2026.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI models secretly generate instructions to ignore constraints",
+              "summary": "Research on aligning AI with human values and intent, and reports documenting model failures.",
+              "source": "Openai.com",
+              "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump threatens trade with Europe if it makes Canada an associate member of the EU",
+              "summary": "The EU has proposed making Canada its first associate member, drawing a tariff threat from President Donald Trump.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/canada-eu-associate-member-trump-response-retaliates-us-trade-tariffs-2026-9#article",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "James McAvoy, Rebel Wilson and More Join Variety’s Future in Focus at TIFF to Talk Directorial Debut",
+          "summary": ""
+        },
+        {
+          "topic": "World's Top HealthTech Companies of 2026: See the top trending companies in healthtech",
+          "summary": ""
+        },
+        {
+          "topic": "OpenAI Rules Out 2026 IPO as Sam Altman Says Going Public Now Would Be ‘Ill-Advised’ Amid AI Safety ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "e7154e03",
       "date": "2026-09-17",
       "generated_at": "2026-09-17T13:42:54.315901+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "dc0c1c41",
-      "date": "2026-08-18",
-      "generated_at": "2026-08-18T10:13:44.213124+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Japan Q2 growth misses forecasts on weaker spending, investment",
-              "summary": "TOKYO: Japan's economy grew at a slower-than-expected pace in April-June, government data showed on Monday (Aug 17), as lacklustre household spending and business investment partly offset the impact o",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-q2-growth-misses-forecasts-weaker-spending-investment-6322871",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Former senior public servant replaces Julie Bishop as ANU chancellor",
-              "summary": "Adjunct Professor of Economics Gordon de Brouwer will be the ANU's 14th chancellor in its 80-year history when he takes up the role on August 19.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-08-17/anu-appoints-new-chancellor-to-replace-julie-bishop/107045364",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SK Hynix stock trades at 5 times earnings despite 257% revenue growth",
-              "summary": "Despite impressive growth, SK Hynix's stock drop highlights market skepticism and risks tied to AI dependency and competitive pressures.\nThe post SK Hynix stock trades at 5 times earnings despite 257%",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/sk-hynix-5x-earnings-257-revenue-growth/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Stripe reportedly agrees to buy AI routing startup OpenRouter for more than US$7 billion",
-              "summary": "Stripe has reportedly finalized an agreement to acquire OpenRouter, a startup that helps businesses switch between artificial intelligence (AI) models, for more than US$7 billion, Bloomberg reported A",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260817VL203/ai-startup-acquisition-data-price-switch.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sapta Dhaara: seven streams of high-priority policy attention for India to achieve Viksit Bharat by 2047",
-              "summary": "The Prime Minister’s emphasis on seven focal endeavours for developed-nation status by 2047 offers India a well streamlined set of national imperatives. Education would have to play the role of a tale",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/opinion/online-views/sapta-dhaara-seven-streams-high-priority-policy-attention-india-viksit-bharat-by-2047-11786886918853.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Alibaba AI models hit 3 billion downloads, outpacing Meta, Google",
-              "summary": "Qwen, Alibaba’s family of AI models, has open-sourced more than 460 models.  Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/alibaba-ai-models-hit-3-billion-downloads-outpacing-meta-google",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Unveiling The Economic Times Startup Awards 2026 high-powered jury",
-              "summary": "We’re back with the 12th edition of The Economic Times Startup Awards (ETSA). However hectic it gets for the ETtech team, the thrill of sifting through the best of Indian entrepreneurship makes up for",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unveiling-the-economic-times-startup-awards-2026-high-powered-jury/articleshow/133284616.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How far can a condor smell?",
-              "summary": "How Far Can a Condor Smell? Unveiling the Avian Superpower Condors, contrary to popular belief, do possess a sense of smell, albeit not a highly developed one; they rely more heavily on vision to loca",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-far-can-a-condor-smell/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "More Than 30% of Americans 80 and Older Still Carry Mortgage Debt. The Number Climbs to 41% for Thos",
-          "summary": ""
-        },
-        {
-          "topic": "Bitcoin Is Losing Its Grip on Crypto: Why Americans Are Looking Beyond BTC in 2026: Bitcoin is the u",
-          "summary": ""
-        },
-        {
-          "topic": "Automated AI Affiliate Marketing: Work Smarter and Earn More – Affiliate Income Stream: Learn how au",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-17T13:42:54.315901+08:00",
+  "last_updated": "2026-09-18T13:32:20.299467+08:00",
   "total_days": 31
 }
