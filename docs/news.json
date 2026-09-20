@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "0dec151f",
+      "date": "2026-09-20",
+      "generated_at": "2026-09-20T13:41:49.354246+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
+              "summary": "The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Kim Jong-un Inspects Defense Production Line",
+              "summary": "Kim Jong-un has inspected major munitions industrial enterprises in North Korea from September 16 to 18, according to KCNA.",
+              "source": "Sputnikglobe.com",
+              "url": "https://sputnikglobe.com/20260919/kim-jong-un-inspects-defense-production-line-1124761185.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What glows on the beach at night?",
+              "summary": "What Glows on the Beach at Night? The mesmerizing phenomenon of bioluminescence on beaches is primarily caused by dinoflagellates, tiny marine plankton, that emit light when disturbed, creating a magi",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-glows-on-the-beach-at-night/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Govt fully committed to letter and spirit of Constitution: Prime Minister Balen Shah",
+              "summary": "KATHMANDU: Prime Minister (PM) Balendra Shah (Balen) has said that the government is fully committed to both the letter and spirit of the Constitution. Speaking at a programme organized here today on ",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/19/568349/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI could ‘kill all humans’: How safe are Nigerians?",
+              "summary": "Behind the excitement is an increasingly uncomfortable question: Are humans building machines that could eventually replace them or even become too powerful to control?\nThe post AI could ‘kill all hum",
+              "source": "Vanguard",
+              "url": "https://www.vanguardngr.com/2026/09/ai-could-kill-all-humans-how-safe-are-nigerians/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A new arms race is unfolding on the ocean floor",
+              "summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside airlines' panic as FAA pushed new AI tool",
+              "summary": "Airline industry officials have finally stopped panicking about the Federal Aviation Administration's soon-to-launch artificial intelligence tool for managing flights and easing congestion in air trav",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/4ac32b8530ddcdd4",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gemini hacked three companies in first known breakout by Google's AI",
+              "summary": "The hacks occurred during a cybersecurity test conducted by an independent evaluation company.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-09-19/gemini-google-ai-hacks-three-companies/107172128",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "‘Big Short’ Investor Michael Burry Blasts Economic ‘Bubbles’ Enriching the Few at ‘Obscene Rates’: “",
+          "summary": ""
+        },
+        {
+          "topic": "How To Earn $500 A Month From KB Home Stock Ahead Of Q3 Earnings: KB Home will release earnings for ",
+          "summary": ""
+        },
+        {
+          "topic": "Elon Musk Predicts Solar Will Crush All Other Energy Sources to Below 0.1% Amid Texas Boom: ‘So Obvi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c1087346",
       "date": "2026-09-19",
       "generated_at": "2026-09-19T13:28:47.492592+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "400edb9e",
-      "date": "2026-08-20",
-      "generated_at": "2026-08-20T10:15:32.011005+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Sugar-Sweetened Beverages Linked to Stomach Cancer For The First Time",
-              "summary": "Here’s what you need to know.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-              "source": "ScienceAlert",
-              "url": "https://www.sciencealert.com/sugar-sweetened-beverages-linked-to-stomach-cancer-for-the-first-time",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Leaked Video Reveals Apple’s AirPods That Are Equipped With A Camera",
-              "summary": "A Siri-like voice can be heard explaining, \"With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.\"",
-              "source": "Hip-Hop Wired",
-              "url": "https://hiphopwired.com/3062980/apple-camera-equipped-airpods-reactions/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do birds know to go back to their nest?",
-              "summary": "How Do Birds Find Their Way Home? Unraveling the Mystery of Avian Nest Navigation How do birds know to go back to their nest? Multiple sophisticated navigation strategies, including magnetic field sen",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-birds-know-to-go-back-to-their-nest/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tech outperforms traditional sectors as China’s uneven recovery set to fuel AI stock revival",
-              "summary": "China’s K-shaped economic recovery is likely to keep investors betting on artificial-intelligence stocks, as the latest data indicates the tech sector remains a key driver for growth while consumption",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/a091d72d06a69bb0",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Healthcare software firm Weave Communications to go private after being acquired by Francisco Partners",
-              "summary": "The healthcare technology platform provider Weave Communications Inc. said today it’s going to exit the public markets after agreeing to be acquired for $650 million by the private equity firm Francis",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/08/18/healthcare-software-firm-weave-communications-to-go-private-after-being-acquired-by-francisco-partners/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "[Invitation] Hybrid Meeting: Generative UI and Web Skill",
-              "summary": "Event Introduction With the rapid evolution of large language models (LLM), AI Agents, and generative artificial intelligence technologies, AI is profoundly reshaping the Web’s technology system, appl",
-              "source": "W3.org",
-              "url": "https://www.w3.org/community/gen-ui/2026/08/19/invitation-hybrid-meeting-generative-ui-and-web-skill/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Galo beat Grêmio 3-0 in the Brazilian U17 Championship",
-              "summary": "Atlético defeated Grêmio 3-0 this Tuesday (18) at Arena MRV in the 12th round of the Brazilian U-17 Championship. With a dominant display, the Crias da Base built the win in the first half with goal..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/galo-beat-gremio-3-0-in-the-brazilian-u17-championship-43299080",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI’s junior version of ChatGPT with guardrails has launched",
-              "summary": "OpenAI Group PBC today announced that it is rolling out a stricter version of its ChatGPT chatbot created for younger users. The announcement of “ChatGPT for Teens” follows scrutiny over how generativ",
-              "source": "SiliconANGLE News",
-              "url": "https://siliconangle.com/2026/08/18/openais-junior-version-of-chatgpt-with-guardrails-has-launched/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Security Bite: Apple’s camera AirPods are going to make Meta glasses look reckless: 9to5Mac Security",
-          "summary": ""
-        },
-        {
-          "topic": "Michael Burry Takes Victory Lap as Big Tech’s $3 Trillion AI Spending Tab Comes Into Focus: Famed “B",
-          "summary": ""
-        },
-        {
-          "topic": "Ross Gerber Says Mark Walter's Lakers Sale Wasn't a Choice: 'Something Shady Going On': Investor Ros",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-19T13:28:47.492592+08:00",
+  "last_updated": "2026-09-20T13:41:49.354246+08:00",
   "total_days": 31
 }
