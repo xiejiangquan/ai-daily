@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "6fd2517e",
+      "date": "2026-09-21",
+      "generated_at": "2026-09-21T13:53:29.683585+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
+              "summary": "Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropic’s Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a priva",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do marshmallows harm alligators?",
+              "summary": "Do Marshmallows Harm Alligators? The Surprising Truth The short answer: No, marshmallows are unlikely to directly harm alligators. However, the practice of feeding alligators, including with marshmall",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-marshmallows-harm-alligators/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Introducing the DeepMind Institute — DeepMind Institute",
+              "summary": "The DeepMind Institute advances bold thinking about artificial general intelligence (AGI) and its profound implications for society.",
+              "source": "Deepmind.com",
+              "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Policymakers and the Public Need to Know About the Cult of AI | TechPolicy.Press",
+              "summary": "Nathalie Maréchal asks, why are we betting the economy and the future of democracy on cult-like beliefs?",
+              "source": "Techpolicy.press",
+              "url": "https://techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump once slammed China. Why is he now rolling out the red carpet for Xi?",
+              "summary": "When President Donald Trump first ran for office, he called out China as a menace to the US economy, saying it had gutted America's factories and eroded the middle class.\nThat tough talk helped Trump ",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/trump-once-slammed-china-why-is-he-now-rolling-out-the-red-carpet-for-xi-126092000138_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Where do deer get salt naturally?",
+              "summary": "Where Do Deer Get Salt Naturally? Deer primarily obtain salt, or sodium, from natural salt licks, mineral springs, and through the consumption of certain plants and soils that contain sodium. These so",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/where-do-deer-get-salt-naturally/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián",
+              "summary": "One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformati",
+              "source": "Variety",
+              "url": "https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is AI really stealing from artists? The uncomfortable truth about originality in art",
+              "summary": "The feature explores how AI is reshaping ideas of art, originality and authorship, arguing that artists have always borrowed, adapted and collaborated. Indian contemporary artists such as Pushpamala N",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/magazines/panache/is-ai-really-stealing-from-artists-the-uncomfortable-truth-about-originality-in-art/articleshow/134363638.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Kevin O’Leary Warns Investors About the ‘Biggest Killer’ of Investment Value: 'Your Equity Can get W",
+          "summary": ""
+        },
+        {
+          "topic": "‘Big Short’ Investor Michael Burry Blasts Economic ‘Bubbles’ Enriching the Few at ‘Obscene Rates’: “",
+          "summary": ""
+        },
+        {
+          "topic": "How To Earn $500 A Month From KB Home Stock Ahead Of Q3 Earnings: KB Home will release earnings for ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "0dec151f",
       "date": "2026-09-20",
       "generated_at": "2026-09-20T13:41:49.354246+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "b8c00f94",
-      "date": "2026-08-21",
-      "generated_at": "2026-08-21T10:21:36.400157+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Xiaomi's AI strategy moves beyond models as MiMo becomes the intelligence layer across human-car-home ecosystem",
-              "summary": "As competition in artificial intelligence shifts from model development toward real-world deployment, Xiaomi is betting that its advantage will come not only from building foundation models, but from ",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260819VL220/xiaomi-competition-development-hardware-2026.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do bats drink water while flying?",
-              "summary": "Do Bats Drink Water While Flying? Splash-and-Dash Hydration in the Sky Yes, bats do drink water while flying. This risky behavior, known as aerial drinking, allows them to replenish fluids quickly and",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-bats-drink-water-while-flying/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "No royal role for Sussexes: King Charles welcomes Harry, Meghan’s UK return - Report",
-              "summary": "Prince Harry and Meghan Markle are set to visit Britain later this month, bringing along their children, Archie and Lilibet, who will soon attend a British school. King Charles is eager for the chance",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/world/uk/no-royal-role-for-sussexes-king-charles-welcomes-harry-meghans-uk-return-report/articleshow/133361785.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kenya helicopter crash kills 7, including 5 Americans, Ecuador intelligence chief and his wife",
-              "summary": "Rest of World News: Five American nationals and Ecuador’s intelligence chief Michele Sensi-Contugi were among seven people killed when a safari helicopter crashed in Keny.",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kenya-helicopter-crash-kills-7-including-5-americans-ecuador-intelligence-chief-and-his-wife/articleshow/133361825.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘Fundamentally differed’: US military newspaper publisher quits amid Pentagon row over editorial freedom",
-              "summary": "Max Lederer Jr., the publisher of Stars and Stripes, has stepped down amidst disputes over editorial independence. The Pentagon's push for more oversight has sparked tension regarding the military new",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/world/us/fundamentally-differed-us-military-newspaper-publisher-quits-amid-pentagon-row-over-editorial-freedom/articleshow/133361929.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Will hold retest of 3 subjects of UGC-NET: Govt",
-              "summary": "India News: NEW DELHI: Centre informed Delhi high court Wednesday that a retest is being conducted for three subjects of UGC-NET June-2026 examination, including .",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/india/will-hold-retest-of-3-subjects-of-ugc-net-govt/articleshow/133361943.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Statues vandalised, vehicles torched after students' bike rally turns violent in Meghalaya",
-              "summary": "During a turbulent Khasi Students' Union bike rally in Shillong, statues were defaced and government vehicles set ablaze, highlighting the escalating agitation over a five-point charter of demands. Th",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/city/shillong/shillong-tense-after-students-bike-rally-vivekananda-netaji-statues-vandalised-vehicles-torched/articleshow/133361784.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OKC Thunder to face Lakers, Nuggets during 2026-27 NBA Rivals week",
-              "summary": "Oklahoma City Thunder to face Los Angeles Lakers, Denver Nuggets during 2026-27 NBA Rivals week.",
-              "source": "USA Today",
-              "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/08/19/okc-thunder-to-face-lakers-nuggets-during-2026-27-nba-rivals-week/91381108007/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "a16z Partner Asks Why California Politicians ‘Want to Push Away Startups,’ Says State Already Lost T",
-          "summary": ""
-        },
-        {
-          "topic": "Back In The ‘90s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent — Now",
-          "summary": ""
-        },
-        {
-          "topic": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 ‘James Bond’ After Dramatic 82-MPH Highway Collision Avo",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-20T13:41:49.354246+08:00",
+  "last_updated": "2026-09-21T13:53:29.683585+08:00",
   "total_days": 31
 }
