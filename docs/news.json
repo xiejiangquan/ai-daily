@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9c25c3c5",
+      "date": "2026-09-22",
+      "generated_at": "2026-09-22T13:50:54.617370+08:00",
+      "headline": "今日 AI 新闻速览（55 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "The open houses at the edge of disaster",
+              "summary": "What are buyers being told about climate risk in Miami? I posed as one to find out.",
+              "source": "Heated.world",
+              "url": "https://heated.world/p/the-open-houses-at-the-edge-of-disaster",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Flamengo go three points clear at top of Brasileirão Betano",
+              "summary": "Varela and Pedro scored the goals in Flamengo’s 2-1 win over Red Bull Bragantino in the 28th round of the Brasileirão BetanoCredits: Adriano Fontes/FlamengoFlamengo’s 2-1 victory over Red Bull Br...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/flamengo-go-three-points-clear-at-top-of-brasileirao-betano-43496900",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China, US hold 'candid, in-depth' talks on tariffs, AI issues ahead of Xi-Trump meeting",
+              "summary": "China and the US engage in crucial talks on tariffs and AI ahead of Xi Jinping's September visit to Washington.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/world/china-us-hold-candid-in-depth-talks-on-tariffs-ai-issues-ahead-of-xi-trump-meeting/article71490221.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India needs to move beyond chip manufacturing, use Indian chips in products designed and made locally: Report",
+              "summary": "India’s next phase of semiconductor growth should focus beyond manufacturing capacity on building a domestic ecosystem where chips designed, produced and packaged in India are used in locally designed",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/india-needs-to-move-beyond-chip-manufacturing-use-indian-chips-in-products-designed-and-made-locally-report/articleshow/134380798.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do small hermit crabs pinch?",
+              "summary": "Do Small Hermit Crabs Pinch? Unveiling the Truth Yes, small hermit crabs can and do pinch, though their pinch is typically more of a nip and rarely causes serious harm. Understanding their behavior an",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-small-hermit-crabs-pinch/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can a bison and a cow have a baby?",
+              "summary": "Can a Bison and a Cow Have a Baby? Exploring Bovine Hybrids The answer is a resounding yes. The offspring, often called a beefalo or cattalo, demonstrates that can a bison and a cow have a baby, provi",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-a-bison-and-a-cow-have-a-baby/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China and the US are competing for AI dominance but have shared concerns over safety",
+              "summary": "The risks of artificial intelligence are expected to be a focus as U.S. President Donald Trump and Chinese leader Xi Jinping prepare to meet in Washington",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/Technology/wireStory/china-us-competing-ai-dominance-shared-concerns-safety-136610599",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "$68 billion in U.S. data center projects hit roadblocks as opposition grows",
+              "summary": "(Bloomberg) -- Opposition to data centers continues to mount in the US.Most Read from Bloomberg<ul><li>Qatar Energy Chief Says Bessent ‘Wrong’ About Hormuz Future</li><li>Saudis Give European Oil Buye",
+              "source": "Yahoo Entertainment",
+              "url": "https://finance.yahoo.com/technology/ai/articles/data-centers-worth-68-billion-053233556.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How To Earn $500 A Month From Cracker Barrel Stock Ahead Of Q4 Earnings: Cracker Barrel Old Country ",
+          "summary": ""
+        },
+        {
+          "topic": "Netflix Content Chief Shrugs Off YouTube Threat: ‘Young People Only Watch Short Things’ Isn’t True: ",
+          "summary": ""
+        },
+        {
+          "topic": "Kevin O’Leary Warns Investors About the ‘Biggest Killer’ of Investment Value: 'Your Equity Can get W",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "6fd2517e",
       "date": "2026-09-21",
       "generated_at": "2026-09-21T13:53:29.683585+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9e8cd220",
-      "date": "2026-08-22",
-      "generated_at": "2026-08-22T10:14:04.643707+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Stripe and Ramp Are Betting on AI Traffic Controllers",
-              "summary": "Stripe is known for processing payments. Ramp is known for managing corporate expenses. But this week, the two companies made almost identical moves: building the layer that decides which artificial i",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/f2e4bb121f0e44e4",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Expert warning over all the ways your boss could be snooping on you: 'This is what they're watching'",
-              "summary": "An expert revealed how technology advancements have allowed employers to track productivity and collect data on workers that have raised privacy concerns for employees- even in their own homes.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16068471/expert-warning-boss-snooping-watching.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Economic Times Startup Awards 2026: Nominees for Startup of the Year and Midas Touch",
-              "summary": "Happy Friday! We are excited to bring to you the 12th edition of The Economic Times Startup Awards (ETSA). A few days before our esteemed jury convenes to pick the winners, we reveal nominees for the ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/the-economic-times-startup-awards-2026-nominees-for-startup-of-the-year-and-midas-touch/articleshow/133390674.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Berkshire Hathaway Just Bought More of This Brilliant Artificial Intelligence (AI) Stock",
-              "summary": "While Warren Buffett may no longer be the CEO of Berkshire Hathaway (NYSE: BRKA) (NYSE: BRKB), it remains a very popular company to follow because it still adheres to his principles. Furthermore, Buff",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/a8dabceae1f1fa5d",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Max Verstappen's Red Bull commitment closes the door on F1 exit speculation",
-              "summary": "One of 2026's biggest narratives was centred around the future of Max Verstappen in Formula 1. Though, with the announcement on the eve of the…",
-              "source": "F1chronicle.com",
-              "url": "https://f1chronicle.com/max-verstappen-closes-door-on-red-bull-f1-exit/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korea early exports extend gains, supporting rate hike case",
-              "summary": "Exports adjusted for working-day differences climbed 61.5 per cent from a year earlier in the first 20 days of August. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/south-korea-early-exports-extend-gains-supporting-rate-hike-case",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-              "summary": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Berkeley Law prohibits AI use in classes (by default)",
-              "summary": "Effective Summer 2026 Purpose Future lawyers may need to use artificial intelligence (“AI”) fluently. But the current state of the technology requires that AI use be coupled with the cognitive […]",
-              "source": "Berkeley.edu",
-              "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "AEO audit tools — the best options on the market: AEO audit tools have become essential for any team",
-          "summary": ""
-        },
-        {
-          "topic": "Exclusive: Marjorie Taylor Greene Warns Social Security Will Go ‘Bankrupt’—But Wall Street CIO Backs",
-          "summary": ""
-        },
-        {
-          "topic": "Elizabeth Warren Slams Trump’s Economic Record as July Jobs Fall, Wage Growth Slows: ‘Families Are G",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-21T13:53:29.683585+08:00",
+  "last_updated": "2026-09-22T13:50:54.617370+08:00",
   "total_days": 31
 }
