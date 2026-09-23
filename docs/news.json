@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ef53d310",
+      "date": "2026-09-23",
+      "generated_at": "2026-09-23T13:28:49.825066+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "UN General Assembly 2026: When is it, who is speaking and when?",
+              "summary": "September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
+              "summary": "Alibaba shares jumped 3% in Hong Kong on Tuesday as the tech giant unveiled a new AI chip and plans to sharply expand its global data center capacity",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What bug looks like a piece of moss?",
+              "summary": "What Bug Looks Like a Piece of Moss? A Camouflaged Marvel The moss mimic stick insect (scientific name Trychopeplus laciniosus) is the most accurate answer to what bug looks like a piece of moss? It a",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-bug-looks-like-a-piece-of-moss/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "This stock just beat AI star HFCL’s 230% rally to top Nifty 500 gainers in 2026. Can outperformance last?",
+              "summary": "Welspun Corp has emerged as the top-performing Nifty 500 stock in 2026 after a 236% rally, overtaking AI infrastructure play HFCL. The sharp gains have been driven by strong investor interest in the c",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/this-stock-just-beat-ai-star-hfcls-230-rally-to-top-nifty-500-gainers-in-2026-can-outperformance-last/articleshow/134403063.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EU to Require Data Centers to Disclose Energy and Water Efficiency",
+              "summary": "The European Commission proposed rules on Monday requiring data centers in Europe to disclose how efficiently they use energy and water, as concerns grow over their consumption of resources. The EU wa",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/international/2026/09/22/886230.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
+              "summary": "President Donald Trump is set to address the U.N. General Assembly on Tuesday at a tumultuous moment for the world - and for his presidency.\nThe global economy has been shaken by his decision to launc",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "tribunus-brasil-mcp added to PyPI",
+              "summary": "Tribunus Brasil MCP - Civic scrutiny and diagnostic server for the Brazilian National Congress",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/tribunus-brasil-mcp/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Special edition of Studies published to coincide with Convention on Education",
+              "summary": "Academics, teachers, students and parents make a ‘contribution to the conversation’ on future of Irish education",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/ireland/education/2026/09/22/special-edition-of-studies-published-to-coincide-with-convention-on-education/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Comedians You Should and Will Know of 2026: Presenting Vulture’s 2026 Comedians You Should and W",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks: A ",
+          "summary": ""
+        },
+        {
+          "topic": "I'm 59 And I Just Cut Off My 29-Year-Old Son's Emergency Credit Card — With All the Money I Gave Him",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9c25c3c5",
       "date": "2026-09-22",
       "generated_at": "2026-09-22T13:50:54.617370+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "dd9759c8",
-      "date": "2026-08-23",
-      "generated_at": "2026-08-23T10:22:05.264245+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What animal can’t breed?",
-              "summary": "What Animal Can’t Breed? The Mystery Unraveled The answer to “What animal can’t breed?” is complex, but generally, hybrid animals such as the mule, the sterile offspring of a male donkey and a female ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-animal-cant-breed/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Apple cuts jobs in Siri, Vision Pro immersive video and gaming teams",
-              "summary": "As part of the changes, the company is largely shutting down a Vision Pro team focused on gaming for the headset and reducing the size of a unit responsible for producing the device’s immersive video ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams/articleshow/133416060.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Colorado Is Writing AI Transparency Rules. The FTC Says Federal Law May Override Them.",
-              "summary": "A quiet but profound structural tension is currently defining the landscape of American artificial intelligence regulation. In Colorado, the state Attorney General’s office is moving forward with the ",
-              "source": "Forkast.news",
-              "url": "https://forkast.news/colorado-is-writing-ai-transparency-rules-the-ftc-says-federal-law-may-override-them/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do I make my hedgehog less smelly?",
-              "summary": "How to Make Your Hedgehog Less Smelly: A Comprehensive Guide How do I make my hedgehog less smelly? Managing your hedgehog’s odor involves consistent cage cleaning, a balanced diet, and addressing pot",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-i-make-my-hedgehog-less-smelly/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘Bold and hungry’ for the Super Cup against Bayern Munich",
-              "summary": "Current situationIn six friendly matches, Borussia Dortmund showed a clear upward trend. After a win against Rot-Weiß Oberhausen and a defeat to Fortuna Düsseldorf, the Japan tour also produced mixe..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/bold-and-hungry-for-the-super-cup-against-bayern-munich-43317037",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is it normal for birds to fly at night?",
-              "summary": "Is It Normal for Birds to Fly at Night? Exploring Nocturnal Avian Activity While most birds are active during the day (diurnal), it is normal for certain species to fly at night (nocturnal) or during ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-it-normal-for-birds-to-fly-at-night/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Microsoft receives Nvidia's Vera Rubin AI systems",
-              "summary": "Microsoft received its first production Nvidia artificial intelligence (AI) platform Vera Rubin, marking a milestone in the expansion of high-end artificial intelligence infrastructure.\"Delivery day a",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/9aceef1339a0ef35",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "3,085 CwSN benefit in Meghalaya, but terrain and digital gaps remain challenges",
-              "summary": "As many as 3,085 Children with Special Needs (CwSN) in Meghalaya have benefited from various interventions under the inclusive education framework over the past five years, but difficult terrain and g",
-              "source": "Syllad.com",
-              "url": "https://www.syllad.com/3085-cwsn-benefit-in-meghalaya-but-terrain-and-digital-gaps-remain-challenges/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Mark Cuban Fires Back At AI Warning: ‘No Chance Radiologists Get Replaced’ (CORRECTED): Editor’s Not",
-          "summary": ""
-        },
-        {
-          "topic": "Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% o",
-          "summary": ""
-        },
-        {
-          "topic": "Waymo Pioneer Sebastian Thrun Is Quietly Building a New Robotics Startup: Sebastian Thrun, the engin",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-22T13:50:54.617370+08:00",
+  "last_updated": "2026-09-23T13:28:49.825066+08:00",
   "total_days": 31
 }
