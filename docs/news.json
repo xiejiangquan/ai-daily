@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "535434e9",
+      "date": "2026-09-25",
+      "generated_at": "2026-09-25T13:47:32.104820+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "How do you keep hermit crabs from smelling?",
+              "summary": "How Do You Keep Hermit Crabs From Smelling? Keeping hermit crabs from smelling requires consistent and thorough cleaning practices. The key to a odorless hermit crab environment is proactive maintenan",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-keep-hermit-crabs-from-smelling/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The tables have turned and small films are edging big titles out of theatres",
+              "summary": "Small films like Hanuman Ansh and Mirzapur are outpacing star-driven titles such as Haiwaan, as exhibitors shift shows based on occupancy and demand. With screens and audiences limited, every film is ",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/industry/media/india-cinema-screen-shortage-film-show-allocation-small-budget-hits-hanuman-ansh-mirzapur-haiwaan-11790148940329.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Europe’s dangerous dependence puts it on Xi and Trump’s menu",
+              "summary": "Mark Carney's warning emphasizes the need for middle powers like the European Union to assert themselves. Europe faces significant challenges in technology dependence and military capabilities compare",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/europes-dangerous-dependence-puts-it-on-xi-and-trumps-menu/articleshow/134451943.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can a bird be saved after hitting a window?",
+              "summary": "Can a Bird Be Saved After Hitting a Window? Saving Avian Strike Victims Yes, a bird can sometimes be saved after hitting a window, but the chances depend heavily on the severity of the injury and the ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-a-bird-be-saved-after-hitting-a-window/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI agent hacked into government website, says Australian PM",
+              "summary": "OpenAI's AI agent hacked Australia's Medicare portal, raising concerns about AI risks, says Prime Minister Albanese.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/world/openai-agent-hacked-into-government-website-says-australian-pm/article71502748.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: Japan's Nikkei rises as CPU stocks surge on Meta gadget launch",
+              "summary": "Japan's Nikkei share average jumped 1.33% on Thursday as CPU-related tech stocks rallied following Meta's unveiling of its new Meta Charm device. Gains in semiconductor suppliers like Ibiden offset pr",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-as-cpu-stocks-surge-on-meta-gadget-launch/articleshow/134452430.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
+              "summary": "OpenAI's artificial intelligence \"went rogue this year in at least four additional incidents,\" the New York Times reported Wednesday, \"hacking and trying to break into government and university websit",
+              "source": "Slashdot.org",
+              "url": "https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Intergenerational Report says we need more vocational skills – but federal funding for them is set to drop",
+              "summary": "The federal government is unambiguous about the need for more nurses, builders and electricians. But the plan to find and fund these workers is less clear.",
+              "source": "The Conversation Africa",
+              "url": "https://theconversation.com/the-intergenerational-report-says-we-need-more-vocational-skills-but-federal-funding-for-them-is-set-to-drop-292694",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
+          "summary": ""
+        },
+        {
+          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
+          "summary": ""
+        },
+        {
+          "topic": "How To Earn $500 A Month From General Mills Stock Ahead Of Q1 Earnings: General Mills, Inc. will rel",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ef53d310",
       "date": "2026-09-23",
       "generated_at": "2026-09-23T13:28:49.825066+08:00",
@@ -2870,206 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3d198854",
-      "date": "2026-08-25",
-      "generated_at": "2026-08-25T10:16:24.245003+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What is the lifespan of a hermit crab in captivity?",
-              "summary": "What is the Lifespan of a Hermit Crab in Captivity? The lifespan of a hermit crab in captivity can vary widely depending on the quality of care, but with proper conditions, they can live for decades. ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-lifespan-of-a-hermit-crab-in-captivity/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Alibaba sets price in US$10.2 billion new share offer to fuel AI expansion",
-              "summary": "Alibaba Group Holding has set the offer price for its new share placement at HK$112.70 each to raise HK$80 billion (US$10.2 billion), issuing 710 million shares in one of the largest artificial intell",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/55da51b1c109bac2",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-              "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is salmon dyed pink?",
-              "summary": "Is Salmon Really Dyed Pink? Unveiling the Truth About Salmon Color The question of whether salmon is dyed pink is a complex one. While some salmon derives its color naturally from its diet, much of th",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-salmon-dyed-pink/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘Lanterns’ Episode 2 Review: This Should Have Been A Binge Release",
-              "summary": "HBO's 'Lanterns' Episode 2 introduces Sinestro and deepens the Manhunter mystery, but two episodes in there's still not much of a hook. Our full review and theories.",
-              "source": "Forbes",
-              "url": "https://www.forbes.com/sites/erikkain/2026/08/23/lanterns-episode-2-review-binge-release/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "VCs chase deeptech; Leaders on AI at ET’s WLF",
-              "summary": "Happy Monday! Specialist VC funds are expanding beyond their traditional sectors to invest more in deeptech. This and more in today’s ETtech Morning Dispatch.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-chase-deeptech-leaders-on-ai-at-ets-wlf/articleshow/133449179.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Are US, Israeli militaries 'merging'? What defense bill actually says",
-              "summary": "The legislation would expand a longstanding alliance between the two countries' militaries rather than combining them.",
-              "source": "Snopes.com",
-              "url": "https://www.snopes.com//news/2026/08/24/us-israeli-militaries-merging-claims/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do I attract more fish for fishing?",
-              "summary": "How to Attract More Fish for Fishing: A Comprehensive Guide Want to drastically increase your catch rate? Learn proven techniques to attract more fish for fishing, including bait selection, location s",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-i-attract-more-fish-for-fishing/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platfo",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says China Is ‘By Far’ Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Roc",
-          "summary": ""
-        },
-        {
-          "topic": "Nikki Haley Warns Social Security Could 'Go Bankrupt' in 5 Years as US Debt Surges Past $40 Trillion",
-          "summary": ""
-        }
-      ]
-    },
-    {
-      "id": "ca84cdb8",
-      "date": "2026-08-24",
-      "generated_at": "2026-08-24T10:20:58.368630+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Is Hema Malini planning an acting comeback after Dharmendra’s death? Veteran actress reacts, opens up about rift rumours with his first family",
-              "summary": "Hema Malini recently opened up about  her life and career following Dharmendra's recent passing.  She is not considering a return to acting, finding contentment in her current activities.  The veteran",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/is-hema-malini-planning-an-acting-comeback-after-dharmendras-death-veteran-actress-reacts-opens-up-about-rift-rumours-with-his-first-family/articleshow/133433398.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
-              "summary": "Palantir Technologies (NASDAQ:PLTR) took in $1.94 billion of revenue in the second quarter and kept $1.06 billion of it as net income. Out of every dollar the artificial intelligence (AI) software spe",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/9148e0b1d36d44dc",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bad AI-Generated Maps, AI Story Pitching, South Korea Cultural Heritage Errors, More: ResearchBuzz AI Update, August 22, 2026",
-              "summary": "AI PROBLEMS Gizmodo: Which AI Chatbot Did This School Use to Make Such a Ridiculous Map?. “You’ve probably seen the story by now. A school in Kentucky sent students home with a bound agenda t…",
-              "source": "Researchbuzz.me",
-              "url": "https://researchbuzz.me/2026/08/22/bad-ai-generated-maps-ai-story-pitching-south-korea-cultural-heritage-errors-more-researchbuzz-ai-update-august-22-2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What if humans had hollow bones?",
-              "summary": "What If Humans Had Hollow Bones?: A Flight of Fancy or Featherweight Reality? Imagine a world where humans, like birds, possessed hollow bones. The question of what if humans had hollow bones? explore",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-if-humans-had-hollow-bones/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How many bass per acre can a pond support?",
-              "summary": "How Many Bass Per Acre Can a Pond Support? The number of bass a pond can support varies significantly, but generally, a healthy pond can sustain between 20 and 100 adult bass per acre, depending on fa",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-many-bass-per-acre-can-a-pond-support/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "At Arena Condá, Tricolor visit Chapecoense in the Brasileirão",
-              "summary": "After securing qualification for the quarterfinals of the CONMEBOL Sudamericana — by eliminating Bolívar last Tuesday (18) at MorumBIS — Tricolor will resume its Brazilian Championship campaign t...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/at-arena-conda-tricolor-visit-chapecoense-in-the-brasileirao-43323018",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ANTHROPIC market debut could break SPACEX IPO record...",
-              "summary": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, US media have reported.Anthrop...",
-              "source": "Yahoo Entertainment",
-              "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-market-debut-could-break-124722679.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Photo of Trump in Moscow is real, but not from his first visit in 1987",
-              "summary": "A photograph authentically shows U.S. President Donald Trump in Moscow in 1987, when he was 41, at the invitation of Yuri Dubinin, the Soviet ambassador to the U.S.",
-              "source": "Snopes.com",
-              "url": "https://www.snopes.com//fact-check/trump-moscow-visit-1987-photo/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platfo",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says China Is ‘By Far’ Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Roc",
-          "summary": ""
-        },
-        {
-          "topic": "Nikki Haley Warns Social Security Could 'Go Bankrupt' in 5 Years as US Debt Surges Past $40 Trillion",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-23T13:28:49.825066+08:00",
-  "total_days": 31
+  "last_updated": "2026-09-25T13:47:32.104820+08:00",
+  "total_days": 30
 }
