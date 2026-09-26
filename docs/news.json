@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "78354caa",
+      "date": "2026-09-26",
+      "generated_at": "2026-09-26T13:50:22.608667+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Roma target Kvernadze, Inter eye Beltrán , McTominay back ☀️",
+              "summary": "Only a few hours remain until Roberto Mancini’s new Italy makes its debut tonight against Belgium. While we wait to see the Azzurri on the pitch, let’s take a look at how Serie A’s big clubs are...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/roma-target-kvernadze-inter-eye-beltran-mctominay-back-43516865",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meta shares soar after launch of Muse AI",
+              "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent which presents an opportunity to generate revenue beyo",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How scientific publishers are fighting back against fraudulent papermills | Physics World",
+              "summary": "The growth of AI and papermills has caused scientific publishers countless headaches, but they are beginning to fight back. Dr. Ferric C. Fang, a professor of laboratory medicine and pathology at the ",
+              "source": "physicsworld.com",
+              "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The ACToRS in AI Framework – Hedgehog Librarian",
+              "summary": "About a year ago I was invited to give a lecture designed to spark critical thinking in graduate students when considering using generative AI and other tools that had started applying the “a…",
+              "source": "Hedgehoglibrarian.com",
+              "url": "https://hedgehoglibrarian.com/2026/09/22/the-actors-in-ai-framework/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Outrage as mistress reads chilling texts to court from American Idol singer who allegedly asked her to abandon her kids before killing his wife",
+              "summary": "Caleb Flynn's mistress told jurors she warned the married father that being with her could mean losing half his time with his two young daughters.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-16159265/caleb-flynn-american-idol-wife-murder-trial.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
+              "summary": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI complements radiologists to help improve brain aneurysm detection",
+              "summary": "In a real-world study, an AI algorithm increased aneurysm detection on CT scans. Notably, the AI and radiologists had different strengths, suggesting that combining AI with physician interpretation co",
+              "source": "Medical News Today",
+              "url": "https://www.medicalnewstoday.com/articles/ai-complements-radiologists-improve-brain-aneurysm-detection",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Iran says it's up to U.S. to end war as China presses for de-escalation",
+              "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
+          "summary": ""
+        },
+        {
+          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
+          "summary": ""
+        },
+        {
+          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "535434e9",
       "date": "2026-09-25",
       "generated_at": "2026-09-25T13:47:32.104820+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "ef28c107",
-      "date": "2026-08-26",
-      "generated_at": "2026-08-26T10:22:59.017130+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Hyundai Motor's union reaches tentative wage deal, averting more strikes",
-              "summary": "Hyundai Motor's South Korean union said on Tuesday (Aug 25) it has reached a tentative agreement with management, averting further production losses after staging its first full strike in",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/business/hyundai-motors-union-reaches-tentative-wage-deal-averting-more-strikes-6338421",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-              "summary": "South Korea’s Jeonbuk Bank has tapped Ripple for cross border payments, while Pakistan has begun the process of licensing crypto exchanges.",
-              "source": "Cointelegraph",
-              "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "NVIDIA Groq 3 LPX が量産開始、エージェント型 AI 向けに世界トップクラスの処理速度を実現",
-              "summary": "[NVIDIA]\n[画像: https://prcdn.freetls.fastly.net/release_image/12662/648/12662-648-a48509fab7336a40595b1cfd4b79449f-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
-              "source": "Prtimes.jp",
-              "url": "https://prtimes.jp/main/html/rd/p/000000648.000012662.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "3D-Printed Skin Gives Robots the Sensation of Touch",
-              "summary": "Hypoesthesia, more commonly referred to as numbness, is one of the more distressing ailments that can affect us humans, primarily because it reminds us of just how much we rely on our sensation of …",
-              "source": "Hackaday",
-              "url": "https://hackaday.com/2026/08/24/3d-printed-skin-gives-robots-the-sensation-of-touch/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ETSA 2026: Jury to pick winners today; SoftBank trims Lenskart stake",
-              "summary": "The day has arrived! The elite jury of The Economic Times Startup Awards 2026 will convene in Bengaluru today to select the brightest stars in India’s startup galaxy. This and more in today’s ETtech M",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/etsa-2026-jury-to-pick-winners-today-softbank-trims-lenskart-stake/articleshow/133486863.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI infrastructure boom drives Taiwan export orders, exposing power bottleneck, net-zero tech needs",
-              "summary": "Global artificial intelligence infrastructure buildouts and rising capex by cloud service providers pushed Taiwan's July export orders for information and communications technology (ICT) products, led",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20260825PD201/infrastructure-taiwan-net-zero-competition-technology.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI to build world's biggest AI data center in Ohio. What we know",
-              "summary": "A massive data center for OpenAI, the artificial intelligence company that created ChatGPT, is planned for Southern Ohio.\nThe San Francisco-based company announced Aug. 17 it will lease space for its ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/a16db4b624fac089",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Semianalysis Deep Dive",
-              "summary": "SemiAnalysis. talk about SpaceX’s 10 GW AI compute ambitions. Frontier labs can generate ~$100 million of revenue per megawatt per year today on API inference with GB300-class systems. Cost of the und",
-              "source": "Next Big Future",
-              "url": "https://www.nextbigfuture.com/2026/08/semianalysis-deep-dive.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More: A package gets in",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says SPCX Could Reach 10,000 Starship Launches Annually by 2030: ‘Still Tiny’ Compared Wit",
-          "summary": ""
-        },
-        {
-          "topic": "Trump Administration 'Panicked' by Announcing Treasury Bailout, Says Peter Schiff: 'Sounding' the Al",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-25T13:47:32.104820+08:00",
+  "last_updated": "2026-09-26T13:50:22.608667+08:00",
   "total_days": 30
 }
