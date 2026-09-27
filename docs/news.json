@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "272cf954",
+      "date": "2026-09-27",
+      "generated_at": "2026-09-27T14:11:42.634682+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " That's just unfair! The world's best team get a new cheat code",
+              "summary": "Spain are without any doubt THE dominant football nation of recent years. The Iberians are European champions at U19 level, as well as European and world champions at senior level. After a dry spell b",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/thats-just-unfair-the-worlds-best-team-get-a-new-cheat-code-43521897",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can a lake be man-made?",
+              "summary": "Can a Lake Be Man-Made? Yes, lakes can absolutely be man-made. These engineered bodies of water, often referred to as reservoirs or artificial lakes, serve a variety of critical purposes, impacting ev",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-a-lake-be-man-made/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI is shopping for you now. What does that mean for ecommerce in India?",
+              "summary": "AI agents could soon handle shopping decisions and transactions for consumers, forcing ecommerce, travel, and insurance platforms to rethink pricing, customer engagement, and security",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/industry/news/ai-is-shopping-for-you-now-what-does-that-mean-for-ecommerce-in-india-126092600312_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mumbai bids adieu to iconic Ganpatis after marathon immersion processions",
+              "summary": "Thousands of devotees gathered at Girgaon Chowpatty to witness the immersion of iconic Ganesh idols. Crowds accompanied the processions, which lasted over 21 hours and spanned through the night. The i",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/mumbai-bids-adieu-to-iconic-ganpatis-after-marathon-immersion-processions/articleshow/134498504.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "BYD Dolphin G DM-i review: Is Britain's first plug-in hybrid supermini worth the £24,000 price tag?",
+              "summary": "Is Briain's first plug-in hybrid supermini a good buy? Freda Lewis-Stempel reviews the £24k BYD Dolphin G DM-i B-segment car to see if it good value for money.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/money/cars/article-16147727/BYD-Dolphin-G-DM-plug-hybrid-supermini-review.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
+              "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council (UNSC) on Sept. 23, according to CNBC and Reuters. The session, convened by France, examined artificial",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wright Says U.S. Power Grid Needs More Generation as Electricity Demand Rises",
+              "summary": "Energy Secretary Chris Wright said the U.S. must expand electricity generation and transmission capacity to meet rising demand, according to remarks reported by The Associated Press. Wright pointed to",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-26-wright-says-us-power-grid-needs-generation.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US, China to set up 'communication channel' for AI incidents",
+              "summary": "The two countries established a \"US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits\" of AI, the White House said in a fact sheet.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
+          "summary": ""
+        },
+        {
+          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
+          "summary": ""
+        },
+        {
+          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "78354caa",
       "date": "2026-09-26",
       "generated_at": "2026-09-26T13:50:22.608667+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "bc969955",
-      "date": "2026-08-27",
-      "generated_at": "2026-08-27T18:53:33.068858+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Why Atiku’s subsidy plan is flawed – Tinubu’s aide",
-              "summary": "Tinubu’s aide criticises Atiku’s proposal to subsidise crude oil for local refineries, warning of fiscal holes and market distortions.\n\nRead More: https://punchng.com/why-atikus-subsidy-plan-is-flawed",
-              "source": "The Punch",
-              "url": "https://punchng.com/why-atikus-subsidy-plan-is-flawed-tinubus-aide/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "MiniMax Announces First Half 2026 Financial Results",
-              "summary": "HONG KONG, Aug. 26, 2026 /PRNewswire/ -- MiniMax Group Inc. (\"MiniMax\" or the \"Company\"; HKEX: 00100), a leading global artificial intelligence company, today announced its unaudited financial results",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/minimax-announces-first-half-2026-financial-results-302860489.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "from waste to resource: what space reveals about circular design",
-              "summary": "from water recovery on the ISS to experiments in growing food and reusing materials, space habitats offer a useful test for how circular our buildings and products really are.\nThe post from waste to r",
-              "source": "Designboom",
-              "url": "https://www.designboom.com/technology/waste-resource-space-circular-design/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "JinkoSolar Announces Second Quarter 2026 Financial Results",
-              "summary": "SHANGRAO, China, Aug. 26, 2026 /PRNewswire/ -- JinkoSolar Holding Co., Ltd. (\"JinkoSolar\" or the \"Company\") (NYSE: JKS), a global leader in clean energy technology, today announced its unaudited finan",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/jinkosolar-announces-second-quarter-2026-financial-results-302860485.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Seahawks sale for $9.6 billion to be finalized today",
-              "summary": "National Football League owners are meeting in Atlanta today to vote on the proposed sale of the Seattle Seahawks to venture capitalist Vinod Khosla.",
-              "source": "Yahoo Entertainment",
-              "url": "https://sports.yahoo.com/articles/seahawks-sale-9-6-billion-104735846.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sensex settles 183 pts lower; Nifty ends above 24,250",
-              "summary": "As per provisional closing data, the S&P BSE Sensex declined 183.15 points or 0.24% to 77,472.94. The Nifty 50 index lost 126.80 points or 0.52% to 24,207.75.",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-183-pts-lower-nifty-ends-below-24-250-126082600775_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nancy Pelosi Makes Massive Bet On AI’s Energy Boom",
-              "summary": "Former House Speaker Nancy Pelosi’s family invested millions of dollars in an energy company positioned to profit from the artificial intelligence industry’s surging demand for electricity, according ",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-bloggers/4393157/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "M&A deals double, but execution holds the key for investors: Crisil Ratings",
-              "summary": "India Inc’s annual M&A volumes have more than doubled since fiscal 2017 as companies pursue faster growth, market expansion and new capabilities. Crisil Ratings found two-thirds of major debt-funded a",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "How to manage social media as a one-person team: As the hub of cultural conversations and online act",
-          "summary": ""
-        },
-        {
-          "topic": "US Homebuyers Are ‘Quitting’ as Sellers Outnumber Buyers by 51.3%: Buyer Count Hits Record Low: Mark",
-          "summary": ""
-        },
-        {
-          "topic": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Gro",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-26T13:50:22.608667+08:00",
+  "last_updated": "2026-09-27T14:11:42.634682+08:00",
   "total_days": 30
 }
