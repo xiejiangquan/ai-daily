@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "15109f21",
+      "date": "2026-09-28",
+      "generated_at": "2026-09-28T14:18:09.982480+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "China consumer stocks near decade lows as investors pile into AI",
+              "summary": "Investing.com -- Chinese consumer stocks have fallen toward decade lows as weak domestic spending and a growing concentration of investor capital in artificial intelligence companies widen the gap bet",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/87283adee11806ff",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #39",
+              "summary": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, September 20, 2026 thru Sat, September 26, 2026.\nStories we promoted this week, by ",
+              "source": "Skepticalscience.com",
+              "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_39.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What cat food is the best for hedgehogs?",
+              "summary": "What Cat Food is Best for Hedgehogs? The best cat food for hedgehogs is high-quality, grain-free, and insect-based dry cat food with a high protein content (at least 30%) and low fat content (under 15",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-cat-food-is-the-best-for-hedgehogs/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Dropped in 2. Bundesliga, now in the CL! This scorer took Undav's path",
+              "summary": "If you look at the current top scorers in Europe’s top leagues, right behind superstars like Raphinha or Lamine Yamal, one name appears that Jürgen Klopp and his DFB team should also have on their ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/dropped-in-2-bundesliga-now-in-the-cl-this-scorer-took-undavs-path-43526253",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic CEO Amodei: Poorly Managed AI Could Pose “Risk to Humanity”",
+              "summary": "Anthropic CEO Dario Amodei told the United Nations Security Council on Wednesday, Sept. 23, that artificial intelligence (AI) could “be a risk to humanity as a whole” if the technology is not properly",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-27-amodei-poorly-managed-ai-pose-risk-humanity.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI Discloses Rogue AI Incidents Targeting Government, Education Websites",
+              "summary": "OpenAI said this week that its artificial intelligence agents attempted to hack government and university websites earlier this year without human instructions, confirming four previously unknown inci",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-27-openai-discloses-rogue-ai-incidents-targeting-government.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Australian PM: OpenAI Agent Accessed Country’s Medicare Portal",
+              "summary": "Australian Prime Minister Anthony Albanese told the United Nations General Assembly on Wednesday, Sept. 23, that an OpenAI agent infiltrated an Australian government website and gained unauthorized ac",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-27-albanese-openai-agent-accessed-australia-medicare-portal.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Cutting Sweet Foods Doesn’t Curb Cravings or Improve Health, Trial Finds",
+              "summary": "A six-month randomized controlled trial found no significant differences in sweet taste preference or health markers among participants assigned to high-, low-, or average-sweetness diets, according t",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-09-27-cutting-sweet-foods-doesnt-curb-cravings-improve-health.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
+          "summary": ""
+        },
+        {
+          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
+          "summary": ""
+        },
+        {
+          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "272cf954",
       "date": "2026-09-27",
       "generated_at": "2026-09-27T14:11:42.634682+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2c8e53c4",
-      "date": "2026-08-28",
-      "generated_at": "2026-08-28T20:29:08.615996+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Exploited Data Workers in the Global South Are \"the Secret Ingredient of AI Itself\"",
-              "summary": "Despite being branded as autonomous and self-sustaining, artificial intelligence relies heavily on human labor — an army of data workers all over the world, primarily in the Global South. These worker",
-              "source": "Democracy Now!",
-              "url": "https://www.democracynow.org/2026/8/27/data_workers",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Quick Scatter Pro by Krykftn | Advanced Editor Tools & Systems",
-              "summary": "Scatter prefabs over your terrain by rule, then read what actually happened: the spacing really achieved, how many things overlap, and why every candidate that did not land was thrown away.A report me",
-              "source": "Unity.com",
-              "url": "https://assetstore.unity.com/packages/tools/terrain/quick-scatter-pro-400016",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "HP has a solution to expensive AI tokens: Buy a more expensive PC",
-              "summary": "Rising cloud AI costs are pushing workloads onto pricier PCs – which just happen to be better for PC maker's margins",
-              "source": "Theregister.com",
-              "url": "https://www.theregister.com/personal-tech/2026/08/27/hp-has-a-solution-to-expensive-ai-tokens-buy-a-more-expensive-pc/5292922",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "America’s power grid can’t keep up with AI: Why hundreds of data center projects are freezing",
-              "summary": "Planned United States data center developments face significant delays and cancellations. Aging electrical grids and supply chain issues are hindering rapid expansion efforts. Local communities are ra",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/americas-power-grid-cant-keep-up-with-ai-why-hundreds-of-data-center-projects-are-freezing/articleshow/133568281.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Neopharma Technologies Achieves ISO/IEC 42001:2023 AI Management System Certification for NEOVAULT® Global Diagnostics Platform",
-              "summary": "Certification strengthens the governance framework behind NEOVAULT® as Neopharma expands from Fit-for-Duty into broader human health diagnostics NEW YORK, Aug. 27, 2026 /PRNewswire/ -- Neopharma Techn",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/neopharma-technologies-achieves-isoiec-420012023-ai-management-system-certification-for-neovault-global-diagnostics-platform-302861806.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Quote of the day by Tom Ford: 'From the time we're born until we die, we're kept busy with artificial stuff that...' Life lessons from American fashion designer & filmmaker on simplicity, purpose and living a meaningful life",
-              "summary": "Quote of the day today by Tom Ford: Tom Ford’s insightful words encourage us to reflect on the importance of authenticity in our lives. In today’s fast-paced world, we can easily lose sight of what tr",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/quote-of-the-day-by-tom-ford-from-the-time-were-born-until-we-die-were-kept-busy-with-artificial-stuff-that-life-lessons-from-american-fashion-designer-filmmaker-on-simplicity-purpose-and-living-a-meaningful-life/articleshow/133568005.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What Made Nvidia Shares To Jump 7% After Earnings",
-              "summary": "Nvidia shares jumped about 7% in premarket trading Thursday after the chipmaker delivered stronger-than-expected results and offered an upbeat outlook for artificial intelligence demand. The gains als",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/aaa2327f727f448a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "COMMHIT RECEIVES $43.6 MILLION DOLLAR GRANT: LAUNCHES VISION TO TRANSFORM RURAL HEALTHCARE ACROSS FLORIDA",
-              "summary": "From lifesaving drones and AI-powered clinical support to Michael Feinstein's Music Forms Memories and hospital-level care at home, Dr. Kendra Siler is bringing together technology and humanity to cre",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/commhit-receives-43-6-million-dollar-grant-launches-vision-to-transform-rural-healthcare-across-florida-302861259.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Elon Musk Reveals Why SpaceX Launched Tesla’s Roadster Into Orbit: ‘We Didn’t Want to Risk Anything ",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says Grok Is Taking Over Starlink Support: 15,000+ Calls a Day, 3,000+ Orders a Week: Elon",
-          "summary": ""
-        },
-        {
-          "topic": "Rick Scott Warns $3 Billion Daily Debt Interest Is ‘Unsustainable,’ Says America Must ‘Balance the B",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-27T14:11:42.634682+08:00",
+  "last_updated": "2026-09-28T14:18:09.982480+08:00",
   "total_days": 30
 }
