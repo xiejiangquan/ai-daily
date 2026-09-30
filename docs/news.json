@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "5f17ac89",
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30T14:16:52.277142+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Can you hang 2 hummingbird feeders together?",
+              "summary": "Can You Hang 2 Hummingbird Feeders Together? Optimizing Your Hummingbird Oasis The answer is yes, you can hang 2 hummingbird feeders together, but strategic placement is crucial to prevent territorial",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-hang-2-hummingbird-feeders-together/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Uncensored and Offensive Security AI Models Benchmark",
+              "summary": "Uncensored AI models or those fine-tuned for cybersecurity tasks. - JoasASantos/Offensive-Security-AI-Models",
+              "source": "Github.com",
+              "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI scraps release of next-generation ChatGPT model amid safety fears",
+              "summary": "The decision to hold back the model, called GPT-6.1 Astra, is likely to raise alarm bells on Wall Street.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-16168455/OpenAI-scraps-release-generation-ChatGPT-model-amid-safety-fears.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Scammers now don't want your money or password, they just want...: Financial advisor warns of new fraud that can drain your finances in 30 minutes",
+              "summary": "A viral social media warning claims scammers are approaching people in public places for help with their phones and using the interaction to steal biometric information. The post alleges that AI-gener",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/scammers-now-dont-want-your-money-or-password-they-just-want-financial-advisor-warns-of-new-fraud-that-can-drain-your-finances-in-30-minutes/articleshow/134557884.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI cancels release of newest model due to safety concerns",
+              "summary": "OpenAI has cancelled the release of its newest AI model, Astra 6.1, after internal testing revealed it did not meet the company’s safety standards.\n\nRead More: https://punchng.com/openai-cancels-relea",
+              "source": "The Punch",
+              "url": "https://punchng.com/openai-cancels-release-of-newest-model-due-to-safety-concerns/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Luis de la Fuente and the spirit of 2010, Lamine and more ️",
+              "summary": "Spain play Croatia tonight at the Sánchez-Pizjuán. The double-starred side make their home debut and dominate the front pages of almost the entire press.Marca leads with a patriotic De la Fuente, Sp..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/luis-de-la-fuente-and-the-spirit-of-2010-lamine-and-more-43534754",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google fights EU attempt to prise open Android to rival AI bots",
+              "summary": "Google will appeal the EU move under the Digital Markets Act because it would hamper users’ security",
+              "source": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Construction begins for Singapore’s long-delayed fourth egg farm",
+              "summary": "When fully built, the farm is expected to produce more than 500 million eggs yearly, which is almost a quarter of Singapore's current annual egg consumption.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/singapore/singapore-fourth-egg-farm-begins-construction-6416146",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
+          "summary": ""
+        },
+        {
+          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
+          "summary": ""
+        },
+        {
+          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "4c67d8c0",
       "date": "2026-09-29",
       "generated_at": "2026-09-29T14:34:01.633387+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2b89de2a",
-      "date": "2026-08-30",
-      "generated_at": "2026-08-30T14:13:14.362505+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "How do male foxes mark their territory?",
-              "summary": "How Do Male Foxes Mark Their Territory? A Deep Dive into Vulpes Vulpes Scent Communication How do male foxes mark their territory? Male foxes primarily use scent marking, depositing urine and feces (s",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-male-foxes-mark-their-territory/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Fontaines D.C.: the rise and rise of Ireland's best band",
-              "summary": "When Fontaines D.C. take to the stage to close out Electric Picnic this Sunday night it will be another point of arrival for a band who have had an almost textbook ascent to global success.",
-              "source": "RTE",
-              "url": "https://www.rte.ie/entertainment/2026/0829/1589639-fontaines-d-c-the-rise-and-rise-of-irelands-best-band/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Investigation Reveals Coordinated AI Bot Attack on Hugging Face",
-              "summary": "An investigation conducted by METR and Redwood Research has revealed that approximately 1,200 artificial intelligence (AI) agents coordinated an attack on Hugging Face, a platform that serves as a rep",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-08-29-investigation-reveals-coordinated-bot-attack-hugging-face.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘There is no joy’: Workers open up about how AI is changing careers, confidence and everyday job satisfaction",
-              "summary": "Explore how AI is transforming the workplace, leading to increased productivity yet diminished job satisfaction and skill development among workers. Understand the impact of automation on employee con",
-              "source": "The Times of India",
-              "url": "https://www.indiatimes.com/trending/there-is-no-joy-workers-open-up-about-how-ai-is-changing-careers-confidence-and-everyday-job-satisfaction/articleshow/133584468.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Should hummingbird feeders be high or low?",
-              "summary": "Should Hummingbird Feeders Be High or Low? Deciding the Best Placement for Your Hummingbird Feeders The optimal placement of hummingbird feeders depends on several factors. Ultimately, hummingbird fee",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/should-hummingbird-feeders-be-high-or-low/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do possums eat peanuts?",
-              "summary": "Do Possums Eat Peanuts? A Deep Dive into a Common Backyard Question Yes, possums do eat peanuts! While they are opportunistic omnivores with a varied diet, peanuts, especially those easily accessible ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-possums-eat-peanuts/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bill Gates is worried about AI, but investors are looking at the upside",
-              "summary": "Capital expenditure on AI is feeding into areas of the economy well beyond the companies developing the technology",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/your-money/2026/08/29/bill-gates-is-worried-about-ai-but-investors-are-looking-at-the-upside/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the best homemade pet cleaner?",
-              "summary": "What is the Best Homemade Pet Cleaner? The best homemade pet cleaner is a simple solution of equal parts white vinegar and water, effective for general cleaning and deodorizing; however, enzyme-based ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-best-homemade-pet-cleaner/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Social media automation: A 3-step quick start guide for 2026: Between all the DMs you need to answer",
-          "summary": ""
-        },
-        {
-          "topic": "Gen Z’s bedazzling era is the latest Lipstick Index as youths put gems on everything from coffee cup",
-          "summary": ""
-        },
-        {
-          "topic": "‘Rich Dad, Poor Dad’ Author Robert Kiyosaki Warns 401(k) and IRA Investors ‘We May Be on the Brink o",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-29T14:34:01.633387+08:00",
+  "last_updated": "2026-09-30T14:16:52.277142+08:00",
   "total_days": 30
 }
