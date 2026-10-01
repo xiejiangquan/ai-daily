@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "2bd0333c",
+      "date": "2026-10-01",
+      "generated_at": "2026-10-01T14:48:48.703922+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Tom Cruise, Alejandro G. Iñárritu Talk Digger at Academy Museum",
+              "summary": "“I was very successful since I was a kid,” Cruise told a packed Academy Museum screening. With his latest film, the actor, and Oscar-winning director Alejandro G. Iñárritu, are putting that star power",
+              "source": "Hollywood Reporter",
+              "url": "http://www.hollywoodreporter.com/movies/movie-news/digger-tom-cruise-academy-museum-alejandro-g-inarritu-1236716822/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China factory activity returns to growth in September",
+              "summary": "China’s factory activity returned to growth in September after two months of contraction, official data showed on Sept. 30, offering a modest sign of improvement as Beijing steps up support for the wo",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/china-factory-activity-returns-to-growth-in-september-227538",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Ergonomic Office Chair in the Age of AI",
+              "summary": "The office chair has evolved alongside changing workplaces over time. In each office era, the chair has reflected the way people work. Early office seating was built for clerical work: fixed wooden ch",
+              "source": "ArchDaily",
+              "url": "https://www.archdaily.com/1185014/the-ergonomic-office-chair-in-the-age-of-ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tech leaders sign AI self-regulation pledge",
+              "summary": "U.S. President Donald Trump said on Sept. 29 that technology executives had signed a voluntary agreement on artificial intelligence safeguards, describing their commitment to self-regulation as “moral",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/tech-leaders-sign-ai-self-regulation-pledge-227536",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☕️ What's going on with Raphinha?, fire in the Premier and today's 5️⃣ stories",
+              "summary": "Today international football gives us a breather, but the news cycle never stops and the spotlight is on England. The extremely harsh punishment looming over Manchester City for breaking every financi",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/whats-going-on-with-raphinha-fire-in-the-premier-and-todays-5-stories-43539609",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Fragmented road data may slow ADAS adoption in India: Here Technologies",
+              "summary": "The company said wider access to speed limits, road restrictions, lane information and road-sign data held by government agencies would help scale advanced driving applications",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/industry/auto/india-fragmented-road-data-adas-autonomous-driving-here-technologies-126093000409_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ASCI issues guidelines for labelling synthetically generated content in ads",
+              "summary": "ASCI's Guidelines for Synthetically Generated Content: The new ASCI guidelines specify when advertisers must disclose synthetically generated content, which uses are prohibited and when labels are not",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/industry/news/asci-issues-guidelines-for-labelling-synthetically-generated-content-in-ads-126093000414_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
+              "summary": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported the rebound, though",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What is audience intelligence? A guide for marketing teams: What is audience intelligence, and why s",
+          "summary": ""
+        },
+        {
+          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
+          "summary": ""
+        },
+        {
+          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "5f17ac89",
       "date": "2026-09-30",
       "generated_at": "2026-09-30T14:16:52.277142+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "baabad16",
-      "date": "2026-08-31",
-      "generated_at": "2026-08-31T14:38:56.745493+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What sounds do owls don’t like?",
-              "summary": "What Sounds Do Owls Dislike? Unveiling the Sonic Aversions of Nocturnal Predators Owls, masters of silent flight and keen hearing, are surprisingly sensitive to certain sounds. What sounds do owls don",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-sounds-do-owls-dont-like/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "️ Ambitious Madrid, Atleti revived, Barça market... Sunday headlines",
-              "summary": "Sunday football is shaped by José Mourinho's ambition in the capital, Atlético de Madrid's emphatic win in Nervión, Barcelona's financial moves in the market, and a league matchday full of goals an...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/ambitious-madrid-atleti-revived-barca-market-sunday-headlines-43366651",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Two keepers, one fate! Have they blown it this summer?",
-              "summary": "Two goalkeepers had the same plan for this summer’s transfer window. They wanted to move abroad. But shortly before Deadline Day, it looks as though both may have badly miscalculated. Both Noah Atub..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/two-keepers-one-fate-have-they-blown-it-this-summer-43366639",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "10-year-old girl molested on Raksha Bandhan in Himachal Pradesh",
-              "summary": "On the festival of Raksha Bandhan, a distressing incident occurred where a minor girl was reportedly assaulted by an unidentified individual. Authorities have registered a case under applicable legal ",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/city/shimla/10-year-old-girl-molested-on-raksha-bandhan-in-himachal-pradesh/articleshow/133624502.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What does it mean when a fox is screaming?",
-              "summary": "Unraveling the Night: What Does It Mean When a Fox Is Screaming? Fox screams aren’t just random noises; they are complex vocalizations used primarily for communication during mating season and territo",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-a-fox-is-screaming/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Julaha, Ansari or Momin? Census faces Muslim puzzle",
-              "summary": "Census 2027 will record Muslim caste for the first time since 1931. Overlapping caste, occupation, and surnames pose unique identification challenges for Muslim biradaris. Legal cases highlight discre",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/julaha-ansari-or-momin-census-faces-muslim-puzzle/articleshow/133624124.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Daily Consumption of Sugar-Sweetened Beverages Linked to Higher Gastric Cancer Risk, Study Finds",
-              "summary": "A study conducted by researchers at Massachusetts General Hospital and Harvard Medical School has linked daily consumption of sugar-sweetened beverages to more than double the risk of developing gastr",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-08-30-daily-consumption-sugar-sweetened-beverages-linked-gastric-cancer.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Big Pharma’s deceptive cancer guidelines: How the American Cancer Society pushes toxic diets while suppressing the truth",
-              "summary": "The ACS focuses on weight loss and exercise while ignoring the real cancer drivers: toxic food additives, GMOs, pesticides, chemtrails and mRNA spike protein damage—all part of the globalist depopulat",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-08-30-big-pharma-deceptive-cancer-guidelines-suppressing-truth.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "'Shark Tank' Star Kevin O'Leary Buys $29 Walmart Jeans And Bulk Bounty Paper Towels — 'I'm Always Lo",
-          "summary": ""
-        },
-        {
-          "topic": "'Institutions Are Buying Real Estate,' Says Grant Cardone. He Asks, 'What Do They Know That You Don'",
-          "summary": ""
-        },
-        {
-          "topic": "Social media automation: A 3-step quick start guide for 2026: Between all the DMs you need to answer",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-09-30T14:16:52.277142+08:00",
+  "last_updated": "2026-10-01T14:48:48.703922+08:00",
   "total_days": 30
 }
