@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4914dee6",
+      "date": "2026-10-02",
+      "generated_at": "2026-10-02T14:40:19.442198+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " Cristiano Ronaldo back in Madrid after leaving Portugal squad!",
+              "summary": "Although he always has been, Cristiano Ronaldo is one of the names of the moment. After Jorge Jesus’ press conference, the Portuguese forward left Portugal’s training camp after learning he would ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/cristiano-ronaldo-back-in-madrid-after-leaving-portugal-squad-43544173",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "त्योहारी सीजन से पहले आम आदमी की जेब पर ढाका: रसोई गैस सिलेंडर हुआ महंगा, जानें आपके शहर में क्या है नया भाव?",
+              "summary": "find the latest news on  Government  Elections  Policies  Law  Democracy  Parliament/Congress  Diplomacy  Leadership  Economy and Business  Inflation  Markets  Trade  Investment  Stock market  Unemplo",
+              "source": "Dainiknavajyoti.com",
+              "url": "https://dainiknavajyoti.com/leads/before-the-festival-season-dhaka-lpg-cylinder-becomes-costlier-on/article-167144",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A16z Crypto’s Miles Jennings says the Genius Act makes the onchain shift hard to reverse",
+              "summary": "The GENIUS Act's entrenchment of stablecoin regulations could solidify blockchain finance's permanence, fostering global market stability.\nThe post A16z Crypto’s Miles Jennings says the Genius Act mak",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/a16z-miles-jennings-genius-act-korea-summit/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Could quitting ultra-processed food boost your mental health?",
+              "summary": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the ",
+              "source": "Science Daily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic's IPO pitch embraces AI's promise and peril",
+              "summary": "Anthropic’s IPO prospectus underscores AI’s potential and peril, dedicating a third to risk while asserting safety through greater power.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/anthropics-ipo-pitch-embraces-ais-promise-and-peril/article71531301.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "$2 billion gone in two days! FIIs accelerate selling as Nifty, Sensex set to fall for 8th week running. Will they make a comeback?",
+              "summary": "Foreign institutional investors pulled out over Rs 20,000 crore from Indian equities in two trading sessions as the Nifty and Sensex head for an eighth straight weekly decline. Elevated crude prices, ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/2-billion-gone-in-two-days-fiis-accelerate-selling-as-nifty-sensex-set-to-fall-for-8th-week-running-will-they-make-a-comeback/articleshow/134610354.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India's domestic funds push IPO valuations lower amid market strain",
+              "summary": "The median price-to-book ratio for IPOs raising at least ₹1,000 crore fell to 7.4 times in 2026 from 10.2 times last year as local funds push for lower valuations",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/ipo/india-s-domestic-funds-push-ipo-valuations-lower-amid-market-strain-126100100399_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Thales Strengthens Data Security Posture Management to Address Emerging Risks of AI",
+              "summary": "Thales’ CipherTrust Data Security Posture Management platform brings together data discovery, risk analysis and integrated protection to help organizations move from identifying exposure to actively r",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/thales-strengthens-data-security-posture-management-to-address-emerging-risks-of-ai",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Creatorverse: Creators Are on the Forefront of AI – Whether They Like It Or Not: TheWrap and What's ",
+          "summary": ""
+        },
+        {
+          "topic": "Trump posts 'super intelligence' document with U.S. spelled as 'Unites States': U.S. President Donal",
+          "summary": ""
+        },
+        {
+          "topic": "Trump posts 'super intelligence' document with U.S. spelt as 'Unites States': U.S. President Donald ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2bd0333c",
       "date": "2026-10-01",
       "generated_at": "2026-10-01T14:48:48.703922+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3c54c31c",
-      "date": "2026-09-01",
-      "generated_at": "2026-09-01T14:00:05.429859+08:00",
-      "headline": "今日 AI 新闻速览（56 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Global Empire as Domestic Policy",
-              "summary": "While many mainstream commentators blanch at the characterization of the United States as an empire, the hard data show that it is today possible to seriously dispute. The U.S. military operates betwe",
-              "source": "CounterPunch",
-              "url": "https://www.counterpunch.org/2026/08/31/global-empire-as-domestic-policy/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Where is AI headed? Two media theorists from the 1960s can help us figure it out",
-              "summary": "AI is a kind of media – and we’ve seen before what new media can do to society.",
-              "source": "The Conversation Africa",
-              "url": "https://theconversation.com/where-is-ai-headed-two-media-theorists-from-the-1960s-can-help-us-figure-it-out-290733",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How many litters do flying squirrels have?",
-              "summary": "How Many Litters Do Flying Squirrels Have? Understanding Their Reproductive Cycle Flying squirrels, those enchanting nocturnal gliders, typically have one to two litters per year, depending on the spe",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-many-litters-do-flying-squirrels-have/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-              "summary": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong\nChinese markets are booming with new public share listings driven by the craze for artificial intelligence\nHONG KONG -- Chinese m",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/3f083410699e4c82",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
-              "summary": "Some exchange-traded funds (ETFs) hold hundreds, or even thousands, of individual stocks. The iShares A.I. Innovation and Tech Active ETF (NYSEMKT: BAI) holds just 49, because it only invests in selec",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/afffe250e2a2519d",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Top tennis is here! Stream every US Open match on NOW ",
-              "summary": "The tennis summer is heating up even more and heading straight to New York. The hard courts of Flushing Meadows are ready to host the final and highly anticipated Grand Slam event: the 2026 US Open.Fr",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/top-tennis-is-here-stream-every-us-open-match-on-now-43372852",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China’s factory activity contracts in August despite an uptick in export demand",
-              "summary": "An official survey shows China's factory activity improved in August, with export demand holding strong",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/International/wireStory/chinas-factory-activity-contracts-august-despite-uptick-export-136079610",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Stock Market: Jobs data, Broadcom results to test stock rally near record highs",
-              "summary": "US stocks are trading near record highs, but the rally faces key tests this week from August jobs data and Broadcom’s quarterly results. Investors will closely watch labour-market signals for clues on",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-jobs-data-broadcom-results-to-test-stock-rally-near-record-highs/articleshow/133642919.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Digital Marketing Resources: Best Tools and Guides for 2026: Explore the best digital marketing reso",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana: S",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Touts $3.5 Trillion Revenue For SpaceX By 2033, Seven Years Earlier Than Morgan Stanley's ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-01T14:48:48.703922+08:00",
+  "last_updated": "2026-10-02T14:40:19.442198+08:00",
   "total_days": 30
 }
