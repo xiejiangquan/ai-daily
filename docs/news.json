@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4703253c",
+      "date": "2026-10-03",
+      "generated_at": "2026-10-03T14:01:26.946173+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Scientist warns that AI could “spiral out of control” without global safeguards",
+              "summary": "Karen Hallberg, head of the Nobel Peace Prize-winning Pugwash Conferences, warned that self-improving AI may already be advancing beyond human control and urged governments and corporations to establi",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-10-02-scientist-ai-spiral-uncontrollably-without-global-safeguards.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google’s Gemini 4 “Argon” Faces Internal Doubts Over Real-World Coding Performance",
+              "summary": "Google parent company Alphabet on Wednesday unveiled Gemini 4 “Argon,” its flagship artificial intelligence model, according to the company. Alphabet shares traded about 2% higher after hours followin",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-10-02-google-gemini-argon-faces-internal-doubts.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic IPO Prospectus Reveals Company Bleeding Cash, Striving for $2T Valuation",
+              "summary": "Anthropic disclosed a net loss of $42 billion for 2025 and $518 billion in planned cloud, computing and infrastructure obligations in a draft initial public offering (IPO) prospectus reviewed by Reute",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-10-02-anthropic-ipo-prospectus-reveals-company-bleeding-cash.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "California tech exec arrested in US$300M Nvidia AI server smuggling case",
+              "summary": "US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial int",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "So You Think You Could Be An Electrician?—Asterisk",
+              "summary": "Funny how the people telling kids to get jobs in the trades tend to be white-collar.",
+              "source": "Asteriskmag.com",
+              "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "nvidia/Nemotron-3-Diarization · Hugging Face",
+              "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "source": "Huggingface.co",
+              "url": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why would a hummingbird hang upside down on a feeder?",
+              "summary": "Why Would a Hummingbird Hang Upside Down on a Feeder? Understanding This Odd Behavior Why would a hummingbird hang upside down on a feeder? Hummingbirds hanging upside down are usually signaling stres",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-would-a-hummingbird-hang-upside-down-on-a-feeder/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "FTC Probing OpenAI, Anthropic Over Product Safety Concerns",
+              "summary": "The Federal Trade Commission is scrutinizing OpenAI, Anthropic PBC and other artificial intelligence companies about the safety of their products amid high-profile cybersecurity incidents, according t",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/10/02/887673.htm",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The latest ploy to get you to spend more money: Bizarre cross-brand collabs: It's harder than ever t",
+          "summary": ""
+        },
+        {
+          "topic": "Creatorverse: Creators Are on the Forefront of AI – Whether They Like It Or Not: TheWrap and What's ",
+          "summary": ""
+        },
+        {
+          "topic": "Trump posts 'super intelligence' document with U.S. spelled as 'Unites States': U.S. President Donal",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "4914dee6",
       "date": "2026-10-02",
       "generated_at": "2026-10-02T14:40:19.442198+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f89b5be3",
-      "date": "2026-09-02",
-      "generated_at": "2026-09-02T13:26:03.613725+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " €150m move? These mega deals await on Deadline Day",
-              "summary": "This evening, the transfer window closes in most European countries. But before the squads for the coming months are finalized, quite a few players are still set to switch clubs.These are the biggest ",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/150m-move-these-mega-deals-await-on-deadline-day-43379159",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Siemens Healthineers showcases its AI-powered technological innovations to redefine healthcare delivery in Southeast Asia",
-              "summary": "Spotlights how scaling AI and big data can make clinical pathways more efficient Hosts its second ASEAN CEO Summit to drive collaboration amongst healthcare leaders to redefine care delivery in Southe",
-              "source": "Associated Press",
-              "url": "https://apnews.com/press-release/pr-newswire/press-release-33d500855de9bcb12b265bff4542434d",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: AI hardware demand powers Asia’s manufacturing growth in August",
-              "summary": "AI hardware demand helped sustain manufacturing growth across several Asian economies in August, with China, Japan and South Korea recording expansion. Strong semiconductor and technology exports supp",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-hardware-demand-powers-asias-manufacturing-growth-in-august/articleshow/133668954.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "2.6 million students return to schools as 2027 year begins",
-              "summary": "From a nationwide cellphone ban to AI lessons and financial education, millions of Israeli students are heading back to school for a year of major changes.",
-              "source": "Israelnationalnews.com",
-              "url": "https://www.israelnationalnews.com/news/432525",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "John Ternus to lead Apple into the age of AI",
-              "summary": "John Ternus takes over as Apple’s chief executive on Tuesday, inheriting a company that towers over the smartphone market but trails its rivals in artificial intelligence.\nOne of his biggest challenge",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/d14423b941eb85ff",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How many babies do Dubia roaches lay?",
-              "summary": "How Many Babies Do Dubia Roaches Lay? The Ultimate Guide Dubia roaches ( Blaptica dubia ) are prolific breeders. Under ideal conditions, a single female can produce 20 to 40 nymphs per ootheca, leadin",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-many-babies-do-dubia-roaches-lay/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "In 2018, New York used 43,200 cubic yards of material from the old Tappan Zee Bridge across six artificial reef sites; the first 35-acre site was about 2 miles offshore",
-              "summary": "The remnants of the Old Tappan Zee Bridge have found a new lease on life beneath the Atlantic Ocean. These repurposed materials were purposefully integrated into artificial reef sites surrounding Long",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/science/in-2018-new-york-turned-43200-cubic-yards-of-the-old-tappan-zee-bridge-into-six-artificial-reefs-the-first-35-acre-site-was-built-2-miles-off-long-island/articleshow/133650156.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the 7th Bell’s palsy?",
-              "summary": "What is the 7th Bell’s Palsy? Understanding Facial Nerve Dysfunction Bell’s palsy is a neurological disorder causing sudden weakness in facial muscles, stemming from dysfunction of the 7th cranial ner",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-7th-bells-palsy/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⛳️ Y! Sports Biz: Adjusting for golflation: Scottie's earnings are juiced by Tiger's impact.",
-          "summary": ""
-        },
-        {
-          "topic": "Digital Marketing Resources: Best Tools and Guides for 2026: Explore the best digital marketing reso",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana: S",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-02T14:40:19.442198+08:00",
+  "last_updated": "2026-10-03T14:01:26.946173+08:00",
   "total_days": 30
 }
