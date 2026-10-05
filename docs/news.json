@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "1e356f10",
+      "date": "2026-10-05",
+      "generated_at": "2026-10-05T14:32:20.639616+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "What is possum bait?",
+              "summary": "What is Possum Bait? Possum bait is a specially formulated substance designed to attract and eliminate possums, primarily to protect native flora and fauna. It typically consists of a palatable food s",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-possum-bait/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
+              "summary": "Clayton's leadership could shape US AI policy, influencing global tech dynamics and ensuring national security in the evolving AI landscape.\nThe post Trump names Jay Clayton AI czar to lead new Super ",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/trump-appoints-jay-clayton-ai-czar/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why dig a fox hole?",
+              "summary": "Why Dig a Fox Hole? The Ultimate Survival Defense The answer to why dig a fox hole? is simple: to increase your chances of survival in a combat zone by providing crucial protection from enemy fire and",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-dig-a-fox-hole/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "$1.99 | How Not to Be Wrong: The Power of Mathematical Thinking (eBook) by Jordan Ellenberg",
+              "summary": "*Available Retailers:*[list][*]Amazon [amazon.com] (Kindle eBook)[*]iBooks [apple.com][*]Barnes & Noble [barnesandnoble.com] (NOOK eBook)[*]Google Play Store [google.com][*]Kobo [kobo.com][*]Bookshop.",
+              "source": "Slickdeals.net",
+              "url": "https://slickdeals.net/f/20094732-1-99-how-not-to-be-wrong-the-power-of-mathematical-thinking-ebook-by-jordan-ellenberg",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "South Korean president orders probe into data leaks across financial industry",
+              "summary": "SOUTHKOREA-HACK:South Korean president orders probe into data leaks across financial industry",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/south-korean-president-orders-probe-into-data-leaks-across-financial-industry-11791094811850.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Jio Platforms IPO likely by Oct end at enterprise valuation of $143-146 billion",
+              "summary": "Jio Platforms eyes India's largest IPO by Oct end, valuing the enterprise at $143-146 billion (~₹12 lakh crore) with about $3.8 billion offering.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/markets/jio-platforms-ipo-likely-by-oct-end-at-enterprise-valuation-of-143-146-billion/article71543036.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Provocation timed to perfection: did he spark Germany into life?",
+              "summary": "Jürgen Klopp’s first matches in charge of the Germany team have sparked mixed feelings across football-loving Germany. The almost unanimous verdict: the debut against the Netherlands was still quit...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/provocation-timed-to-perfection-did-he-spark-germany-into-life-43558365",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
+              "summary": "Jio Platforms IPO is touted as India's largest public offer at an estimated size of $3.8 billion",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/ipo/jio-ipo-likely-by-oct-end-at-enterprise-valuation-of-above-12-trillion-126100400146_1.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
+          "summary": ""
+        },
+        {
+          "topic": "Latest Trends in Digital Marketing: AI SEO and Social Media: Discover how AI SEO and social media ar",
+          "summary": ""
+        },
+        {
+          "topic": "How to post on social media from Claude (with Hootsuite’s connector): Claude can do more than write ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7216f4d3",
       "date": "2026-10-04",
       "generated_at": "2026-10-04T14:36:34.787363+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "3f4ee1c7",
-      "date": "2026-09-04",
-      "generated_at": "2026-09-04T13:29:04.660085+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Nvidia CEO Jensen Huang says this is the ‘most noble’ career in the AI era",
-              "summary": "Nvidia CEO Jensen Huang has called engineering the “most noble” profession, saying it provides the foundation for modern society. Reflecting on his own career, Huang said engineering combines mathemat",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/education/news/nvidia-ceo-jensen-huang-says-this-is-the-most-noble-career-in-the-ai-era/articleshow/133726125.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-              "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs",
-              "source": "Internet",
-              "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Viewpoint: Commercial P/C Talent Gap 5 Years On—Are We Asking the Right Question",
-              "summary": "For more than four decades, I have worked across the commercial property/casualty insurance ecosystem. Over those years, I have watched our industry attract people, develop underwriters, transfer know",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/09/03/883744.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ghana hosts 2nd African Digital Humanism Summer School",
-              "summary": "Ghana is hosting the second African Digital Humanism Summer School, bringing together researchers, academics, students and technology experts from across Africa and Europe to examine how emerging tech",
-              "source": "Thechronicle.com.gh",
-              "url": "https://thechronicle.com.gh/ghana-hosts-2nd-african-digital-humanism-summer-school/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " América come from behind to beat Rayados in Leagues Cup semi-final",
-              "summary": "The final phase of América vs. Rayados lights up in the Leagues Cup semifinal, with the Águilas mounting a comeback. Matías Almeyda’s side struck first with a stunning goal from Diego Rossi. An a...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/america-come-from-behind-to-beat-rayados-in-leagues-cup-semi-final-43392617",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Skeptical Science New Research for Week #36 2026",
-              "summary": "Open access notables\n\nMisrepresentation of Human Climate Fingerprint in DOE Report, Santer et al., Earth s Future\n\nA July 2025 report from the U.S. Department of Energy (DOE) made the key claim that t",
-              "source": "Skepticalscience.com",
-              "url": "https://skepticalscience.com/new_research_2026_36.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "3 AI Stocks Up 500% or More in the Past Year That Could Have More Room to Run",
-              "summary": "Artificial intelligence (AI) stocks have been leading the market higher over the past year, and some have gone absolutely parabolic with gains of 500% or more. However, that doesn't mean they may not ",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/0c487bcd04858560",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign",
-              "summary": "Vivian Jenna Wilson, aka Elon Musk's eldest daughter, cavorts with a humanoid robot in Desigual's fall 2026 campaign. She speaks out against AI, alogrithms.",
-              "source": "WWD",
-              "url": "http://wwd.com/fashion-news/designer-luxury/elon-musk-daugher-desigual-campaign-vivian-ai-robots-1239194367/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "quant-trade-agent-tools added to PyPI: Independent multi-harness, multi-model agent tools for quant_",
-          "summary": ""
-        },
-        {
-          "topic": "What are the latest Hootsuite product features? [July 2026]: Get deeper LinkedIn analytics, and clea",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From Broadcom Stock Ahead Of Q3 Earnings: Broadcom Inc. will release earnin",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-04T14:36:34.787363+08:00",
+  "last_updated": "2026-10-05T14:32:20.639616+08:00",
   "total_days": 30
 }
