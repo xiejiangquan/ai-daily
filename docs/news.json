@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "50033112",
+      "date": "2026-10-07",
+      "generated_at": "2026-10-07T14:50:03.880548+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Renewables: International investment interest in Greek offshore wind farms",
+              "summary": "Greece participated with a national pavilion at WindEnergy Hamburg 2026, the leading international exhibition for wind energy, held in Hamburg.\nAccording to Enterprise Greece, which organised the Gree",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2171200/renewables-international-investment-interest-in-greek-offshore-wind-farms/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "World Bank raises India FY27 growth forecast to 7.1%, flags oil, El Niño risks",
+              "summary": "The World Bank has upgraded India's economic growth forecast to 7.1% for fiscal 2026-27. This change reflects strong domestic consumption, despite ongoing inflationary pressures. Other major forecaste",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/economy/indicators/world-bank-raises-india-fy27-growth-forecast-to-7-1-flags-oil-el-nio-risks/articleshow/134725867.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☕️ Messi says goodbye, Mbappe distrusts the doctor and today's 5️⃣ stories",
+              "summary": "Today we’ll wrap up the international break by enjoying Spain in action once again, as they look to secure their place in the Nations League quarter-finals in Croatia. Then, in the early hours, we ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/messi-says-goodbye-mbappe-distrusts-the-doctor-and-todays-5-stories-43567250",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What animal is closest to our intelligence?",
+              "summary": "What Animal Is Closest to Our Intelligence? The animal kingdom boasts a diverse array of cognitive abilities, but chimpanzees, along with other great apes, are widely considered the closest animals to",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-animal-is-closest-to-our-intelligence/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Germany is turning abandoned coal mines into 23 lakes and a wetland landscape",
+              "summary": "In eastern Germany, enormous pits carved into the landscape by decades of lignite mining are being transformed into a vast network of lakes, wetlands and",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EU vows AI rules will protect Europeans. Will they?",
+              "summary": "The EU says its AI Act is strong enough to address risks from advanced AI systems, including loss-of-control incidents, but lawmakers and experts warn of gaps around liability, enforcement capacity an",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/international/business/eu-vows-ai-rules-will-protect-europeans-will-they/articleshow/134725459.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ASX 200 Rises for Third Day as Property Stocks Rebound Despite Consumer Sentiment Plunge After RBA Hike",
+              "summary": "Australian shares extended their recovery, with the S&P/ASX 200 rising 0.57% as property stocks and miners advanced despite sharply weaker consumer confidence following the RBA's rate hike.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/australian-shares-rise-consumer-confidence-collapse-1876308",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Piyush Goyal takes India investment pitch to AIA, MetLife, IBM and General Atlantic",
+              "summary": "Commerce Minister Piyush Goyal promoted India as an investment destination during meetings with leading global firms. He highlighted the country's regulatory reforms and demand for services, especiall",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/india/piyush-goyal-takes-india-investment-pitch-to-aia-metlife-ibm-and-general-atlantic/articleshow/134724830.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The End of Social Media: Algorithms and short-form video drove engagement. They also made it easier ",
+          "summary": ""
+        },
+        {
+          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
+          "summary": ""
+        },
+        {
+          "topic": "Latest Trends in Digital Marketing: AI SEO and Social Media: Discover how AI SEO and social media ar",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "51b4d90e",
       "date": "2026-10-06",
       "generated_at": "2026-10-06T15:10:08.803706+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c1541485",
-      "date": "2026-09-06",
-      "generated_at": "2026-09-06T13:28:50.243345+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Has the Kia EV2 finally cracked the formula for a stellar small family SUV?",
-              "summary": "Kia has built a reputation for producing reliable, stylish and practical electric cars. Now it hopes to repeat the trick with its smallest and cheapest EV yet: the EV2.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/money/electriccars/article-16066335/Kia-EV2-small-family-SUV-review.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-              "summary": "Researchers at UC San Diego have demonstrated that a key cellular enzyme can accurately read an eight-letter genetic alphabet, doubling the four letters used by all known life on Earth. Detailed imagi",
-              "source": "Science Daily",
-              "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What dry food can hedgehogs eat?",
-              "summary": "What Dry Food Can Hedgehogs Eat? Hedgehogs can safely consume high-quality, insect-based dry cat food as a significant part of their diet, but it must be carefully selected for specific protein, fat, ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-dry-food-can-hedgehogs-eat/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Best AI Side Hustle 2026",
-              "summary": "The best AI side hustles in 2026 include AI-assisted freelance writing, video repurposing, local-business marketing, workflow automation, chatbot development, graphic design, digital products, online ",
-              "source": "Themattwalshblog.com",
-              "url": "https://themattwalshblog.com/best-ai-side-hustle-2026/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Blanca Félix reached 100 clean sheets with Chivas Femenil!",
-              "summary": "One of the footballers who has taken Mexican women’s soccer to the very top is Blanca María Félix Castro. Tonight, at the Estadio Jalisco, during the Clásico Tapatío, the captain of Chivas Femen...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/blanca-felix-reached-100-clean-sheets-with-chivas-femenil-43404660",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Make Money with AI Tools Course",
-              "summary": "A Make Money With AI Tools course is an online training program that teaches people how to use artificial intelligence for freelancing, content production, business automation, consulting, digital pro",
-              "source": "Themattwalshblog.com",
-              "url": "https://themattwalshblog.com/make-money-with-ai-tools-course/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Americans are revolted as restaurants create vile and dystopian menus with AI in a failed attempt to make their food look irresistible",
-              "summary": "Restaurants, food trucks and cafes are increasingly turning to AI to create images for their menus and marketing - but diners are disgusted.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/yourmoney/article-16104531/restaurants-ai-food-images-backlash.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why does my body smell like popcorn?",
-              "summary": "Why Does My Body Smell Like Popcorn? Unveiling the Sweet, Buttery Mystery The aroma of popcorn emanating from your body is usually harmless and related to your diet. The smell of popcorn often arises ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-does-my-body-smell-like-popcorn/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Elon Musk Touts a ‘Storm’ of Tesla Cybercabs in Austin, Says They Offer Better ‘Operational Efficien",
-          "summary": ""
-        },
-        {
-          "topic": "Kevin O’Leary Says Forget Work-Life Balance If You Want to Win: ‘Success Takes Sacrifice’: Shark Tan",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From Oxford Industries Stock Ahead Of Q2 Earnings: Oxford Industries, Inc. ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-06T15:10:08.803706+08:00",
+  "last_updated": "2026-10-07T14:50:03.880548+08:00",
   "total_days": 30
 }
