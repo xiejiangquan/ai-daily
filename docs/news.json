@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "4babbeb8",
+      "date": "2026-10-09",
+      "generated_at": "2026-10-09T15:07:18.982579+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Arden University and Google Cloud Form Strategic Partnership to Ensure Development of Job-Ready, AI-Native Graduates",
+              "summary": "Partnership will put artificial intelligence at the heart of the university's offer, with students gaining full access to Gemini Enterprise This comes as Google research links advanced AI use to bette",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/arden-university-and-google-cloud-form-strategic-partnership-to-ensure-development-of-job-ready-ai-native-graduates-302901909.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Symposium on the CCW GGE LAWS: Once in a Lifecycle-Same as It Ever Was in the GGE’s Elements",
+              "summary": "[Netta Goussac is an Associate Senior Researcher at the Stockholm International Peace Research Institute and Associate Partner at Lexbridge. Netta has taken part in the GGE since 2017 and was a member",
+              "source": "Opiniojuris.org",
+              "url": "http://opiniojuris.org/2026/10/08/symposium-on-the-ccw-gge-laws-once-in-a-lifecycle-same-as-it-ever-was-in-the-gges-elements/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mapping AI Ecosystems in the Netherlands and the United Kingdom",
+              "summary": "This report maps UK and Dutch AI ecosystems, identifying collaboration opportunities in health, agrifood and compute. The UK offers scale, frontier research and investment; the Netherlands offers spec",
+              "source": "Rand.org",
+              "url": "https://www.rand.org/pubs/research_reports/RRA4654-1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Adobe and Heathrow Airport Partner to Transform the Digital Experience for Millions of Passengers in the AI Era",
+              "summary": "Adobe CX Enterprise solutions will help drive Heathrow's long-term digital transformation and support the airport in delivering AI-powered, personalised experiences to over 84 million passengers each ",
+              "source": "PR Newswire UK",
+              "url": "https://www.prnewswire.co.uk/news-releases/adobe-and-heathrow-airport-partner-to-transform-the-digital-experience-for-millions-of-passengers-in-the-ai-era-302901431.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘Data Empire’ and Data-Driven Campus Decision-Making",
+              "summary": "‘Data Empire’ and Data-Driven Campus Decision-Making\n\n \n\n\n \njoshua.m.kim@d…\n\nThu, 10/08/2026 - 03:00 AM\n\nAI and data-governance conversations through the lens of power.\n \n Byline(s)\n \n Joshua Kim\n \n \n",
+              "source": "Inside Higher Ed",
+              "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/10/08/data-empire-and-data-driven-campus-decision-making",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "She Started as the Receptionist. Now She’s the CEO.",
+              "summary": "On this episode of Suite Success, host Katie Cline sits down with Angela Val, President and CEO of Visit Philadelphia, to talk about her remarkable journey from answering phones as the organization’s ",
+              "source": "Skift",
+              "url": "https://skift.com/2026/10/08/she-started-as-the-receptionist-now-shes-the-ceo/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI ecosystems in the Netherlands and the UK: Compute for AI",
+              "summary": "This research briefing identifies opportunities for UK–Netherlands collaboration on AI in life sciences and health, linking UK commercial scale and research depth with Dutch clinical integration, vali",
+              "source": "Rand.org",
+              "url": "https://www.rand.org/pubs/research_briefs/RBA4654-1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI ecosystems in the Netherlands and the UK: Agrifood & agritech",
+              "summary": "This research briefing identifies opportunities for UK–Netherlands collaboration on AI in agrifood and agritech, combining UK research and digital innovation with Dutch strengths in deployment, scalin",
+              "source": "Rand.org",
+              "url": "https://www.rand.org/pubs/research_briefs/RBA4654-3.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Grok Bot gains native X search, analyzing more than 100 posts per prompt: Grok Bot's enhanced capabi",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: InBrief – open-source AI news aggregator with LLM filtering: Open-source AI news aggregator",
+          "summary": ""
+        },
+        {
+          "topic": "Treg (OpenRouter for Tools): OpenRouter for agent tools. Join community here: https://discord.gg/6mQ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "6a6a88c7",
       "date": "2026-10-08",
       "generated_at": "2026-10-08T14:58:58.095668+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2aded5fd",
-      "date": "2026-09-08",
-      "generated_at": "2026-09-08T13:35:02.987076+08:00",
-      "headline": "今日 AI 新闻速览（47 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "OpenAI unveils GPT 6 Astra: Faster screen control, smarter logic, and upgraded safeguards",
-              "summary": "OpenAI has officially announced its next generation flagship artificial intelligence model, GPT 6 Astra. Positioned as a major leap forward from GPT 5.6 Sol, the company claims Astra is its most intel",
-              "source": "SoyaCincau.com",
-              "url": "https://soyacincau.com/2026/09/07/openai-unveils-gpt-6-astra/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI data centers are less thirsty now, tech giants say",
-              "summary": "American chip giant Nvidia said in a June report that it can eliminate water consumption almost entirely at some facilities when deploying DSX, its newest system for designing and managing AI data cen",
-              "source": "Digital Journal",
-              "url": "https://www.digitaljournal.com/article/ai-data-centers-are-less-thirsty-now-tech-giants-say/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Fintech Fest: How Adyen powers payments for global ambition and expansion",
-              "summary": "The payments ecosystem in India is moving beyond just digitisation, and towards infrastructure that can operate seamlessly across borders, and connected ecosystems. Adyen, a global fintech company wit",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/global-fintech-fest-how-adyen-powers-payments-for-global-ambition-and-expansion/articleshow/133864168.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gujarat uses AI-based grain analyser to grade paddy at MSP procurement centres",
-              "summary": "Gujarat implements AI grain analysers at MSP centres to enhance paddy quality assessment, ensuring transparency and efficiency in procurement.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/agri-business/gujarat-uses-ai-based-grain-analyser-to-grade-paddy-at-msp-procurement-centres/article71437481.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Diet management, which has been ambitiously started after downloading the health care app, often fiz.. - MK",
-              "summary": "Diet management, which has been ambitiously started after downloading the health care app, often fizzles out in a few days. This is often attributed to a lack of individual will, but in reality, it ha",
-              "source": "Mk.co.kr",
-              "url": "https://www.mk.co.kr/en/it/12145931",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What attracts deer quickly?",
-              "summary": "What Attracts Deer Quickly: A Comprehensive Guide The key to rapidly attracting deer lies in understanding their core needs: food, water, and safety. Providing irresistible, readily available sources ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-attracts-deer-quickly/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kindness Stones– Q and A",
-              "summary": "1) How long did it take to write these stories?  Did they all sort of spill out of you in a short period of time or have they been marinating for a while in your imagination?      Short answer—most st",
-              "source": "Patheos",
-              "url": "https://www.patheos.com/blogs/bibleandculture/2026/09/07/kindness-stones-q-and-a/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘I’d love a new interest or hobby, but not anything too formal or academic’",
-              "summary": "Ask Brian: The social side is one of the most underrated benefits of adult education",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/education/2026/09/07/id-love-a-new-interest-or-hobby-but-not-anything-too-formal-or-academic/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "makervox-publish added to PyPI: Self-hosted social publishing for people who bring their own develop",
-          "summary": ""
-        },
-        {
-          "topic": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but A",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Cheers Heart Aerospace’s $5 Electric Aircraft Flight — Says ‘An Important Next Step Is Mak",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-08T14:58:58.095668+08:00",
+  "last_updated": "2026-10-09T15:07:18.982579+08:00",
   "total_days": 30
 }
