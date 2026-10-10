@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f54a636c",
+      "date": "2026-10-10",
+      "generated_at": "2026-10-10T14:40:20.925219+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "U.N. Rights Chief: Legacy of Slavery and Colonialism Still Fuels Racism",
+              "summary": "Source: United Nations News\r\nOver 30 million people were violently uprooted from Africa and condemned to a life of slavery, yet no country involved in the slave trade or colonialism has fully confront",
+              "source": "UN News",
+              "url": "https://news.un.org/en/story/2026/10/1168554",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The auditor is no longer alone. There’s another intelligence in the room",
+              "summary": "Auditors are increasingly adopting artificial intelligence to enhance the efficiency and accuracy of audits in India. These technological advancements allow auditors to analyze vast amounts of data an",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/ai-is-reshaping-the-future-of-auditing-creating-new-opportunities-and-changing-audit-jobs-deloitte-ey-kpmg-pwc-and-bdo/articleshow/134814978.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mind games: AI behaves more like a brain than a database - Asia Times",
+              "summary": "When people think about what ChatGPT or other large language models are doing behind the scenes, it’s common to reach for the language of computing. You",
+              "source": "Asia Times",
+              "url": "https://asiatimes.com/2026/10/mind-games-ai-behaves-more-like-a-brain-than-a-database/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the rarest bat species in the world?",
+              "summary": "What is the Rarest Bat Species in the World? The Critically Endangered Bulmer’s Fruit Bat (Aproteles bulmerae) of Papua New Guinea is widely considered the rarest bat species in the world, with extrem",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-rarest-bat-species-in-the-world/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Today in Germany: A roundup of the latest news on Friday",
+              "summary": "Two officials killed in shooting during routine weapons check, Left Party ready to move forward with coalition talks in Berlin, the British Prime Minister meets Merz in Germany to strengthen ties and ",
+              "source": "The Local Germany",
+              "url": "https://www.thelocal.de/20261009/today-in-germany-a-roundup-of-the-latest-news-on-friday-143",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Digital Culture Review: welcome to the age of verification",
+              "summary": "It’s common to wake up in the morning to receive a host of videos from your friends and family, sharing the most outrageous things that happened over the last few hours. But, when everything is turned",
+              "source": "Wearesocial.com",
+              "url": "https://wearesocial.com/us/blog/2026/10/digital-culture-review-welcome-to-the-age-of-verification/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☕️ The league and Ronaldinho are finally back, plus Friday's 5️⃣ stories",
+              "summary": "It's Friday, and the elite football we've missed so much returns to our lives in Europe's top leagues. Here are our five top stories to get you ready for a day packed with great football.  Which ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/the-league-and-ronaldinho-are-finally-back-plus-fridays-5-stories-43582091",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "3 Reasons To Add Kim Young Kwang And Chae Soo Bin’s Rom-Com “Take Charge Of My Heart” To Your Watchlist",
+              "summary": "Netflix’s new series “Take Charge of My Heart” is premiering today! Based on a web novel, “Take Charge of My Heart” is an electrifying romantic comedy about a man whose artificial heart is running out",
+              "source": "soompi",
+              "url": "http://www.soompi.com/article/1876580wpp/3-reasons-to-add-kim-young-kwang-and-chae-soo-bins-rom-com-take-charge-of-my-heart-to-your-watchlist",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "MrBeast, Alex Cooper and Khaby Lame Lead ESHAP and What’s Trending 2nd Annual Creator Map | Exclusiv",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: I gave my Pi agent eyes on X: pi-x is a pi extension that lets Pi coding agent to interact ",
+          "summary": ""
+        },
+        {
+          "topic": "Grok Bot gains native X search, analyzing more than 100 posts per prompt: Grok Bot's enhanced capabi",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "4babbeb8",
       "date": "2026-10-09",
       "generated_at": "2026-10-09T15:07:18.982579+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "d4e58217",
-      "date": "2026-09-09",
-      "generated_at": "2026-09-09T13:42:23.559677+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Can you give birds apple juice?",
-              "summary": "Apple Juice for Birds: A Sweet Treat or a Risky Offering? Giving birds apple juice can be potentially harmful due to its high sugar content and lack of nutritional value, making it a treat best avoide",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-give-birds-apple-juice/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment Round",
-              "summary": "The French artificial-intelligence startup said it had raised $3.48 billion from a pool of existing investors such as Samsung and ASML Holding, as well as new backers.",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/7527b96a05c96937",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Huawei invests in lithography chipmaking equipment to boost domestic supply chain",
-              "summary": "Huawei's investment in lithography equipment could reduce China's reliance on foreign tech, potentially reshaping global semiconductor dynamics.\nThe post Huawei invests in lithography chipmaking equip",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/huawei-lithography-chipmaking-investment/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Are bear paws worth money?",
-              "summary": "Are Bear Paws Worth Money? Unveiling the Value of Wildlife Parts The question of whether bear paws are worth money is complex and multifaceted, hinging on legal restrictions, cultural significance, an",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/are-bear-paws-worth-money/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump's claim that America owns the moon draws criticism",
-              "summary": "US President Donald Trump garnered special attention by posting \"THE MOON IS OURS\" (සඳ අපේ ය) on the Truth Social social media network at 1:56 PM on Sunday, September 6, 2026. This post, published wit",
-              "source": "Gossiplankanews.com",
-              "url": "https://english.gossiplankanews.com/2026/09/trumps-claim-that-america-owns-moon.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Lumiere Declaration Sets 15 Principles for Global Film Governance, Calling Audience Attention ‘a Trust to Be Honored, Not a Resource to Be Captured’",
-              "summary": "Representatives of countries, international organizations, film, television and gaming industry leaders, creators, festivals and cultural institutions from across the world adopted the Lumière Declara",
-              "source": "Variety",
-              "url": "https://variety.com/2026/film/news/lumiere-declaration-global-film-governance-1236854395/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-              "summary": "A Mistral event in Paris in May. The company, which started making artificial intelligence models in 2023, will now also build data centers and other A.I. infrastructure in Europe.",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/7104f1c5aae480e9",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ai is changing the high school classroom, teachers says",
-              "summary": "Technological advances and students’ use of AI have left high school teacher Bodil-Marie Gade worried. A high school student says the debate lacks nuance. Teachers, after all, use AI themselves.",
-              "source": "Politiken.dk",
-              "url": "https://politiken.dk/edition/features/art10973616/Ai-is-changing-the-high-school-classroom-teachers-says",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "makervox-publish added to PyPI: Self-hosted social publishing for people who bring their own develop",
-          "summary": ""
-        },
-        {
-          "topic": "Eric Trump Says Our Mission Hasn't Changed as American Bitcoin Marks One Year of Going Public, but A",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Cheers Heart Aerospace’s $5 Electric Aircraft Flight — Says ‘An Important Next Step Is Mak",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-09T15:07:18.982579+08:00",
+  "last_updated": "2026-10-10T14:40:20.925219+08:00",
   "total_days": 30
 }
