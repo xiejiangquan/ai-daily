@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ee959464",
+      "date": "2026-10-12",
+      "generated_at": "2026-10-12T14:57:24.660272+08:00",
+      "headline": "今日 AI 新闻速览（47 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "How do you save a dying hummingbird?",
+              "summary": "How to Save a Dying Hummingbird: A Lifeline for Tiny Aviators If you find a hummingbird in distress, time is of the essence. The key to survival is providing immediate energy and warmth: How do you sa",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-you-save-a-dying-hummingbird/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "WEF expert calls for equal focus on AI innovation and child safety",
+              "summary": "With AI becoming part of everyday life, a top global expert on artificial intelligence has called for integrating AI literacy into India's education curriculum and creating incentives for AI companies",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/technology/artificial-intelligence/children-ai-wef-expert-calls-for-equal-focus-on-innovation-child-safety-126101100186_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " Lang-Conte, big clubs eye Lulli and Endrick : morning news ☀",
+              "summary": "Serie A is back, immediately delivering goals, entertainment and top-quality clashes: nine goals were scored across yesterday’s three matches. Today, the action heats up with five more games that pr..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/lang-conte-big-clubs-eye-lulli-and-endrick-morning-news-43593381",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rosalía Performs an Entire Number En Pointe on ‘SNL,’ Then Cools Off With a Nice Shower",
+              "summary": "To the question of whether Rosalía would be dancing during her “Saturday Night Live” appearance or not, that depends on how you’re looking at it. The acclaimed singer stood in place, perfectly still, ",
+              "source": "Variety",
+              "url": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meanwhile in England: Premier League giants at their worst in decades",
+              "summary": "What exactly are Man United doing while City are in court, Arsenal are delivering and Brighton are shaking up the league? Unfortunately: playing bad football.Yesterday, the Red Devils could only manag",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/meanwhile-in-england-premier-league-giants-at-their-worst-in-decades-43593374",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do rainbow fish eat eggs?",
+              "summary": "Do Rainbow Fish Eat Eggs? Understanding Rainbow Fish Reproduction Yes, rainbow fish do eat eggs, and this is a crucial consideration for anyone breeding these vibrant and popular aquarium fish. To ens",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-rainbow-fish-eat-eggs/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Harvard astronomer warns: Millions of alien fragments may be hidden in our solar system, posing an unseen threat",
+              "summary": "Harvard astrophysicist Dr. Avi Loeb proposes that millions of meter-scale interstellar objects, not just occasional visitors, are currently embedded within Earth’s orbit around the sun. This estimate ",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-10-11-dangerous-alien-fragments-hiding-in-our-solar-system.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Likely Used By China-Based Hacker to Hit South Korean Banks, CrowdStrike Report Says",
+              "summary": "U.S. cybersecurity company CrowdStrike said a single person in China likely used artificial intelligence tools to attack South Korean financial organizations, resulting in data theft, according to a c",
+              "source": "Naturalnews.com",
+              "url": "https://www.naturalnews.com/2026-10-11-china-hacker-used-ai-hit-south-korean-banks.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot: Nectar puts soci",
+          "summary": ""
+        },
+        {
+          "topic": "MrBeast, Alex Cooper and Khaby Lame Lead ESHAP and What’s Trending 2nd Annual Creator Map | Exclusiv",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: I gave my Pi agent eyes on X: pi-x is a pi extension that lets Pi coding agent to interact ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "95154f2c",
       "date": "2026-10-11",
       "generated_at": "2026-10-11T14:47:33.045973+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c4d2ccdc",
-      "date": "2026-09-11",
-      "generated_at": "2026-09-11T13:36:33.349728+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-              "summary": "TSMC reported monthly sales revenue for August on Thursday.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Seahawks’ positive news on Sam Darnold injury. But they aren’t in the clear yet",
-              "summary": "A C-T scan at Harborview Medical Center shows no fracture in the Super Bowl champion’s injured hip. But...",
-              "source": "Tacoma News Tribune",
-              "url": "https://www.thenewstribune.com/sports/nfl/seattle-seahawks/article317189960.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "'Uproar' unleashed after OpenAI says it solved major maths mystery",
-              "summary": "The subject of the controversy may be extremely complex, but experts say it boils down to simple issues of trust and ethics.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-09-10/openai-navier-stokes-millennium-problem-claims/107132242",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Malaysia Reportedly Eyeing Huawei Chips for RM2 Billion Sovereign AI Push",
-              "summary": "Malaysia is evaluating Huawei artificial intelligence hardware to power its RM2 billion national sovereign AI project. Sources familiar with the matter indicate that the government seeks full authorit",
-              "source": "SoyaCincau.com",
-              "url": "https://soyacincau.com/2026/09/10/malaysia-reportedly-eyeing-huawei-chips-for-rm2-billion-sovereign-ai-push/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic discloses 4th AI hacking incident as researcher quits over safety",
-              "summary": "AI firm says Claude Opus 4.6 hacked external systems during testing as concerns mount over security breaches.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do jumping spiders have 360 vision?",
-              "summary": "Do Jumping Spiders Really Have 360 Vision? Unveiling the Truth Jumping spiders, renowned for their incredible hunting prowess, do not possess true 360 vision in the way we typically understand it. How",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-jumping-spiders-have-360-vision/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge",
-              "summary": "SEOUL, Sept 10 : Samsung launched a publicity campaign for its foldable phones, touting its hardware advantage and its early entry into the segment as it seeks to fend off a major challenge from Apple",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/business/welcome-foldables-samsung-braces-apples-foldable-iphone-challenge-6375011",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Amitabh Kant lays down three-step formula for India to move forward during BRICS Summit",
-              "summary": "India must ensure BRICS summit language is progressive and forward-looking.  Resolving differences among Iran, UAE, and Saudi Arabia is highly complex.  Prime Minister Modi will meet Putin and Xi Jinp",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/amitabh-kant-lays-down-three-step-formula-for-india-to-move-forward-during-brics-summit-2026/articleshow/133994398.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Hunter Biden Taps LAPTOP Controversy to Launch New Memecoin, Reportedly Plans Airdrop for TRUMP Coin",
-          "summary": ""
-        },
-        {
-          "topic": "Marjorie Taylor Greene Says California Diesel Will Top $8/Gallon, Slams Trump Over His Iran War Vict",
-          "summary": ""
-        },
-        {
-          "topic": "Box CEO Aaron Levie Says 'Best Opportunities' In AI are Products That are 'Barely Only Possible' Tod",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-11T14:47:33.045973+08:00",
+  "last_updated": "2026-10-12T14:57:24.660272+08:00",
   "total_days": 30
 }
