@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "123af442",
+      "date": "2026-10-13",
+      "generated_at": "2026-10-13T15:20:25.330139+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "☕️ Breakfast FC : Kvara sends IShowSpeed wild , Seedorf in Brazil ",
+              "summary": "Kvara makes IShowSpeed lose it A big moment on the internet this Sunday evening: Khvicha Kvaratskhelia joined the famous American content creator IShowSpeed on a livestream.The pair played EA FC 2...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/breakfast-fc-kvara-sends-ishowspeed-wild-seedorf-in-brazil-43598537",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Jio IPO may be valued at Rs 11 lakh crore: What it means for RIL, Bharti Airtel and telecom stocks",
+              "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO could become India’s biggest-ever share sale, valuing Mukesh Ambani’s digital business at up to Rs 11 lakh crore. With global and domestic investors showing",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": " I hope if they touch a hair on my head…: Cucurella on Vinicius' red card",
+              "summary": "The controversial sending-off of Vinicius Júnior following an incident with Nathan Saliba continues to have repercussions, with key moments unfolding away from the main action. The tension on the pit.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/i-hope-if-they-touch-a-hair-on-my-head-cucurella-on-vinicius-red-card-43598506",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ukraine says Putin is ignoring Trump's 'energy ceasefire' claim, with power plants already hit",
+              "summary": "Ukraine has accused Russia of striking a power plant in Kyiv after Donald Trump announced an 'energy ceasefire' between the warring countries.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-16201679/Ukraine-says-Putin-ignoring-Trumps-energy-ceasefire-claim-power-plants-hit.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TCS to hire 80% of workforce with digital, AI skills; expects margin gains",
+              "summary": "As much as 80 per cent of TCS' new hires will be talent with digital and Artificial Intelligence (AI) skills going forward, a top company official has said.\nWith the share of AI-led work in overall re",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/tcs-to-hire-80-of-workforce-with-digital-ai-skills-expects-margin-gains-126101200249_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tech company Tines to create 100 jobs in Ireland over two years and open new facility",
+              "summary": "More than half will be entry-level positions",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/10/12/tech-company-tines-to-create-100-jobs-in-ireland-over-two-years-and-open-new-facility/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Employers use AI to monitor staff who also don’t benefit from the tech, conference hears",
+              "summary": "Moves are also afoot in some sectors, such as the legal profession, to ‘completely eliminate’ a lot of  entry levels roles and work",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/work/2026/10/12/employers-use-ai-to-monitor-staff-who-also-dont-benefit-from-the-tech-conference-hears/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do tropical fish spawn in lush caves?",
+              "summary": "Do Tropical Fish Spawn in Lush Caves? Unveiling the Underwater Nursery Do tropical fish spawn in lush caves? The answer is a nuanced no. While lush caves provide excellent habitat, tropical fish do no",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-tropical-fish-spawn-in-lush-caves/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "TESLA only met 13% of cyberstruck goal...: Elon Musk had ambitious goals for the Cybertruck, the ele",
+          "summary": ""
+        },
+        {
+          "topic": "Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot: Nectar puts soci",
+          "summary": ""
+        },
+        {
+          "topic": "MrBeast, Alex Cooper and Khaby Lame Lead ESHAP and What’s Trending 2nd Annual Creator Map | Exclusiv",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ee959464",
       "date": "2026-10-12",
       "generated_at": "2026-10-12T14:57:24.660272+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "e2bc9cd8",
-      "date": "2026-09-12",
-      "generated_at": "2026-09-12T13:23:36.512117+08:00",
-      "headline": "今日 AI 新闻速览（60 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Indo Russia ‘Innopraktika’ Technology Hub seals four agreements at Innoprom India 2026",
-              "summary": "The Indo Russia 'Innopraktika' Technology Hub signed four strategic MOUs at Innoprom India 2026. These agreements aim to deepen technology and innovation ties between India and Russia. Partnerships we",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/indo-russia-innopraktika-technology-hub-seals-four-agreements-at-innoprom-india-2026/articleshow/134047324.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How do you get close to birds without scaring them?",
-              "summary": "How to Approach Birds Without Sending Them Flying: A Guide to Respectful Observation Discover the secrets of approaching birds without alarming them! How do you get close to birds without scaring them",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-get-close-to-birds-without-scaring-them/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "BRICS Business Forum 2026: Jaishankar calls for resilient supply chains, predictable business environment across BRICS countries",
-              "summary": "External Affairs Minister S Jaishankar urged BRICS nations for predictable business environments. He called for resilient supply chains and diversified trade relationships among the grouping.  The min",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/jaishankar-calls-for-resilient-supply-chains-predictable-business-environment-across-brics-countries/articleshow/134047191.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "More US lawmakers call for new AI rules after Anthropic researchers warn of human extinction",
-              "summary": "By Courtney Rozen Sept 10 (Reuters) - Growing numbers of U.S. lawmakers are calling for new rules to govern AI systems after dire warnings from two Anthropic researchers that rapidly",
-              "source": "Lufkindailynews.com",
-              "url": "https://lufkindailynews.com/news_reuters/business/more-us-lawmakers-seek-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction/article_8c2e920b-b7d9-5dc7-98c8-1fd1ce07fb16.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Malaysia targeted by election manipulation operation using 1,000 fake accounts, bogus news site: Anthropic",
-              "summary": "Anthropic says its Claude AI was used to build a voter-targeting system covering all 222 parliamentary constituencies in Malaysia, while the threat actor also unsuccessfully pursued a contract with th",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/asia/anthropic-disrupt-malaysia-election-manipulation-operation-6377936",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Did lions and tigers coexist?",
-              "summary": "Did Lions and Tigers Coexist? A Historical and Geographic Analysis The question of did lions and tigers coexist? is complex, but generally, the answer is no, they did not broadly coexist in recent his",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/did-lions-and-tigers-coexist/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta’s (META) Muse Launch Turns the AI Debate toward Subscription Economics",
-              "summary": "Meta Platforms, Inc. (NASDAQ: META) launched Muse this week. The long-touted AI assistant, powered by its Muse Spark model, is aimed at customers and small businesses.\nWith the tech giant having spent",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/713d4c357016401a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic predicts AI to drive 15% GDP growth, mass unemployment by 2030",
-              "summary": "AI-driven economic growth may boost valuations but poses challenges with potential unemployment, creating uncertainty in future economic stability.\nThe post Anthropic predicts AI to drive 15% GDP grow",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/anthropic-predicts-ai-to-drive-15-gdp-growth-mass-unemployment-by-2030/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Social listening metrics: The 7 that actually matter (and how to act on them): Not all social listen",
-          "summary": ""
-        },
-        {
-          "topic": "Why the current tech backlash feels different: This interview has been lightly edited for length and",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From American Eagle Stock Ahead Of Q2 Earnings: American Eagle Outfitters, ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-12T14:57:24.660272+08:00",
+  "last_updated": "2026-10-13T15:20:25.330139+08:00",
   "total_days": 30
 }
