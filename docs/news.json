@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ffc0eef4",
+      "date": "2026-10-16",
+      "generated_at": "2026-10-16T13:25:44.012271+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Skeptical Science New Research for Week #42 2026",
+              "summary": "Open access notables\n\nFingerprint Evidence for Human Effects on Climate: Advances After the 2009 Endangerment Finding, Santer et al., Earth s Future\n\nHere we briefly review key advances in the field o",
+              "source": "Skepticalscience.com",
+              "url": "https://skepticalscience.com/new_research_2026_42.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Eight States Sue OpenAI, Claiming ChatGPT Harms Children",
+              "summary": "A bipartisan group of eight states said on Wednesday they had sued OpenAI in courts across the country over harms they say ChatGPT has caused to their residents, alleging the chatbot has coached its u",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/10/15/888955.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "5 Years on, the UK and ASEAN must keep advancing together: op-ed by Helen Fazey",
+              "summary": "As the UK-ASEAN Dialogue Partnership marks its fifth year, Helen Fazey highlights progress and future opportunities for collaboration.",
+              "source": "Www.gov.uk",
+              "url": "https://www.gov.uk/government/news/5-years-on-the-uk-and-asean-must-keep-advancing-together-op-ed-by-helen-fazey",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI flags AI adoption gap in Europe despite 8-fold surge in agent use among small businesses",
+              "summary": "Report urges European firms to move beyond experimentation as SMB agent use rises more than eightfold since May",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/openai-flags-ai-adoption-gap-in-europe-despite-8-fold-surge-in-agent-use-among-small-businesses/article71586516.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
+              "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, while investors await",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Which part of human body has no blood?",
+              "summary": "Which Part of the Human Body Has No Blood? The cornea, the clear front part of the eye, is the only part of the human body that naturally has no blood supply. This unique characteristic allows for cle",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/which-part-of-human-body-has-no-blood/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook",
+              "summary": "The IMF warned that Asia’s economic growth may slow to 4.4% in 2027 amid energy price shocks, Middle East conflict, AI market correction risks and rising bond yields. It urged central banks to priorit",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-imf-warns-of-energy-shock-ai-correction-risks-to-asias-growth-outlook/articleshow/134957808.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "YouTube to label AI-Generated songs across its platforms to increase transparency",
+              "summary": "The markers will apply to songs on YouTube, through its own detection tools and those made by its music partners",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/youtube-to-label-ai-generated-songs-across-its-platforms-to-increase-transparency/article71586504.ece",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
+          "summary": ""
+        },
+        {
+          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
+          "summary": ""
+        },
+        {
+          "topic": "Bybit Revamps App to Reflect New Financial Platform Positioning, Unifying Crypto, Stocks, Macro Asse",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "2a3138d0",
       "date": "2026-10-15",
       "generated_at": "2026-10-15T13:32:34.898795+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9383fd1b",
-      "date": "2026-09-15",
-      "generated_at": "2026-09-15T13:47:46.245236+08:00",
-      "headline": "今日 AI 新闻速览（53 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "AI might kill us all but we want it",
-              "summary": "Developing countries hope that AI will allow them to leapfrog entire stages of technology development",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/world/2026/09/14/west-fears-ai-may-kill-us-all-but-china-and-others-see-immense-opportunity/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What does a hedgehog see?",
-              "summary": "What Does a Hedgehog See?: A Peek into a Prickly Perspective Hedgehogs live in a world perceived through limited color vision, akin to human red-green colorblindness, focusing heavily on motion and sc",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-does-a-hedgehog-see/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "「投稿した記憶のない娘の個人情報」をMeta AIが知人の投稿などから正確に推測するという恐怖体験を母親が告白",
-              "summary": "Instagramに娘の動画を投稿したところ、これまで投稿した記憶のない「娘の氏名」や「生年月日」といった個人情報を、MetaのAIアシスタントであるMeta AIが正確に提示してきたという恐怖体験が投稿され話題となっています。Mother Horrified When Meta's AI Scours Instagram and Facebook for Invasive Information",
-              "source": "Livedoor.com",
-              "url": "https://news.livedoor.com/article/detail/32320455/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "New warnings about the risks of AI to humanity revive a long-running debate",
-              "summary": "The CEO of Anthropic, the San Francisco company behind Claude, said he thought the industry needed to reduce the speed of its work, cautioning Saturday that a swarm of AI agents might be able to take ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/articleshow/134233583.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Medvedev: Corporate greed will block AI rules",
-              "summary": "Russian Security Council Deputy Chairman Dmitry Medvedev expressed his belief that countries could establish artificial intelligence safeguards, but corporate interests would prevent such an agreement",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/9c06c78860bb49bf",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Africa, Ethiopia and Egypt Review Bilateral Cooperation with Putin at New Delhi BRICS Summit",
-              "summary": "South Africa, Ethiopia and Egypt with Russian President Vladimir Putin, on the sidelines of BRICS, the Global South grouping of emerging countries, reviewed their strategic bilateral cooperation, whil",
-              "source": "Globalresearch.ca",
-              "url": "https://www.globalresearch.ca/south-africa-ethiopia-egypt-bilateral-cooperation-putin/5940267",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump Downplays Push to Slow AI",
-              "summary": "Standing near the 18th hole at the Irish Open, President Trump made clear he has no interest in tapping the brakes on artificial intelligence, the Washington Post reports. \"Whoever wins AI wins,\" he s",
-              "source": "Newser",
-              "url": "https://www.newser.com/story/396362/trump-downplays-push-to-slow-ai.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is EasyGrow Worth It",
-              "summary": "EasyGrow is a high-ticket client-acquisition program created by Charlie Morgan and Imperium Acquisition. It is designed for marketing-agency owners, coaches, consultants, and course sellers who want t",
-              "source": "Themattwalshblog.com",
-              "url": "https://themattwalshblog.com/is-easygrow-worth-it/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Keys to Trusting Your Gut: Story at-a-glance Editor’s Note: This article is a reprint. It was or",
-          "summary": ""
-        },
-        {
-          "topic": "Ross Gerber Trashes Trump's $5,000 Dividend Plan, Justin Wolfers Says 'You Accidentally Started Anot",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter: My AI chats were spli",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-15T13:32:34.898795+08:00",
+  "last_updated": "2026-10-16T13:25:44.012271+08:00",
   "total_days": 30
 }
