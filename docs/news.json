@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "6b3726d5",
+      "date": "2026-10-17",
+      "generated_at": "2026-10-17T13:18:37.593985+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "No new takeaway for O’Connell Street and Ireland’s 1%",
+              "summary": "Business Today: The best news, analysis, and comment from The Irish Times business desk",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/10/16/no-new-takeaway-for-oconnell-street-and-irelands-1/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Greece and France forge cultural alliance",
+              "summary": "Lina Mendoni and French Ambassador Nicolas Kassianides agree to cooperate on cultural heritage protection, museums, cinema and audiovisual media\nThe post Greece and France forge cultural alliance appe",
+              "source": "Protothema.gr",
+              "url": "https://en.protothema.gr/2026/10/16/greece-and-france-forge-cultural-alliance/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "CCC Intelligent Solutions Agrees to $6.1B Take-Private Deal with GTCR, Elliott",
+              "summary": "CCC Intelligent Solutions said on Thursday it agreed to be acquired by a consortium of private investment firms led by GTCR and including Elliott Investment Management in a $6.1 billion take-private d",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/10/16/889163.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global hedge funds suffer steep losses as AI trade unwinds, Asia funds hit hardest",
+              "summary": "Global hedge funds suffered steep losses as investors unwound artificial intelligence-related trades amid inflation concerns and expectations of higher interest rates. Asia-focused stock pickers were ",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-hedge-funds-suffer-steep-losses-as-ai-trade-unwinds-asia-funds-hit-hardest/articleshow/134982825.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "‘Cupertino’ Creators Robert & Michelle King On Episode 2’s Shocking AGI Twist & Predicting The Future Again With AI Guardrails Storyline",
+              "summary": "SPOILER ALERT: The story includes details about Episode 102 of CBS’ Cupertino, ‘Vik & Bo.’ The Good Wife creators Robert and Michelle King are back at CBS this fall with a new legal drama, anchored by",
+              "source": "Deadline",
+              "url": "http://deadline.com/2026/10/cupertino-creators-episode-102-bo-agi-storyline-interview-1237158656/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Greek consumers with complex and often conflicting priorities",
+              "summary": "Greek consumers are concerned about their financial future, seeking greater value from their purchases, demanding environmental responsibility and expecting products and experiences tailored to their ",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2175716/greek-consumers-with-complex-and-often-conflicting-priorities/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is apple sauce good for sugar gliders?",
+              "summary": "Is Apple Sauce Good for Sugar Gliders? A Nutritional Deep Dive The question Is apple sauce good for sugar gliders? has a nuanced answer: While apple sauce can be given to sugar gliders in very small q",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-apple-sauce-good-for-sugar-gliders/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Funding of universities set to be overhauled, says Minister",
+              "summary": "Operating environment for third-level institutions has ‘changed considerably’",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/10/16/funding-of-universities-set-to-be-overhauled-says-minister/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
+          "summary": ""
+        },
+        {
+          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
+          "summary": ""
+        },
+        {
+          "topic": "Bybit Revamps App to Reflect New Financial Platform Positioning, Unifying Crypto, Stocks, Macro Asse",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ffc0eef4",
       "date": "2026-10-16",
       "generated_at": "2026-10-16T13:25:44.012271+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "8f4bfc50",
-      "date": "2026-09-16",
-      "generated_at": "2026-09-16T13:37:37.665382+08:00",
-      "headline": "今日 AI 新闻速览（46 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "How do birds know which direction they are going?",
-              "summary": "How Do Birds Know Which Direction They Are Going? Navigating the Avian World Birds navigate using a complex interplay of innate abilities and learned behaviors. They employ multiple cues, including Ea",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-birds-know-which-direction-they-are-going/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Thai official points to surging investment as stability returns",
-              "summary": "Thailand has relatively low inflation, strong external finances and accommodative monetary policy.  Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/thai-official-points-to-surging-investment-as-stability-returns",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI camera targeting U-turns at crash hotspot",
-              "summary": "A camera that uses artificial intelligence technology to detect dangerous U-turns has been installed at a crash hotspot.\nVision Zero South West, a road safety partnership involving 17 different organi",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/b777c7bcaf546265",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump Dismisses AI Safety Alarm, Says US Already Has Tools to Police Industry",
-              "summary": "President Donald Trump said on Sept. 14 that the U.S. already has guardrails in place to regulate and prosecute AI companies, appearing to play down concerns expressed by industry leaders over the wee",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/09/15/885066.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Government documents reveal AI could train on data without paying creators",
-              "summary": "Leaked government documents reveal AI companies would be allowed to train their models on online content without paying its creators as long as they struck deals with enough rights holders.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access",
-              "summary": "Bill Gates is warning technology companies and world leaders that they must act now to ensure artificial intelligence combats social inequities.",
-              "source": "WJXT News4JAX",
-              "url": "https://www.news4jax.com/business/2026/09/15/gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-1b-to-expand-access/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "UK and Indian industry join forces to combat digital fraud",
-              "summary": "Telecommunications industry leaders in the UK and India will harness the power of Artificial Intelligence (AI) to tackle online fraud, scams and harms.",
-              "source": "Www.gov.uk",
-              "url": "https://www.gov.uk/government/news/uk-and-indian-industry-join-forces-to-combat-digital-fraud",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff",
-              "summary": "Japan’s Nikkei recovered from early losses to rise around 1%, driven by a 9.13% rebound in SoftBank as investors reassessed concerns over slowing AI investment. Technology and semiconductor shares adv",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-1-as-softbank-rebounds-from-ai-selloff/articleshow/134252512.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation: SAN",
-          "summary": ""
-        },
-        {
-          "topic": "Steam Frame review: The king of convenience.",
-          "summary": ""
-        },
-        {
-          "topic": "Marjorie Taylor Greene Says 'Everything We Buy Is Delivered by Diesel' as Fuel Crosses $6 Mark: 'End",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-16T13:25:44.012271+08:00",
+  "last_updated": "2026-10-17T13:18:37.593985+08:00",
   "total_days": 30
 }
