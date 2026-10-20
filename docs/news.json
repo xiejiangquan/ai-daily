@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "9954059f",
+      "date": "2026-10-20",
+      "generated_at": "2026-10-20T13:39:21.182793+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Can you keep crappie as pets?",
+              "summary": "Can You Keep Crappie as Pets? A Deep Dive Keeping crappie as pets is generally not recommended due to their size, specific environmental needs, and the potential legal ramifications in some regions. T",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-keep-crappie-as-pets/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic commits 5% of its stock to new 'public benefit' fund",
+              "summary": "It gave labour market impacts as an example, saying that while it has already committed $200 million to study the effects of artificial intelligence, “given the pace of AI progress, bolder approaches ",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/anthropic-commits-5-of-its-stock-to-new-public-benefit-fund/article71602058.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "10 Non-Marvel Superheroes With Iconic Tech-Powered Suits",
+              "summary": "Explore powerful non-Marvel superheroes and their iconic tech-powered suits, showcasing advanced engineering and unique abilities.",
+              "source": "Screen Rant",
+              "url": "https://screenrant.com/best-non-marvel-superheroes-tech-suits/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming",
+              "summary": "Finance Minister Nirmala Sitharaman says easy liquidity is allowing investors to exit Indian equities as the Nifty and Sensex struggle to deliver positive returns. Foreign investors have pulled out ne",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/easy-exits-hurting-indian-stocks-nirmala-sitharaman-explains-why-equities-are-underperforming/articleshow/135040491.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ASX 200 Rises 0.4% to 8,843 as Banks and Defensive Stocks Lift Market While Challenger Jumps on Takeover Bid",
+              "summary": "The ASX 200 rose 0.42% as banks, utilities and other defensive stocks outweighed technology losses, while Challenger rallied on Dai-ichi Life's takeover proposal.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/asx-200-rises-banks-defensive-stocks-tech-selloff-1876971",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+              "summary": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the potential risks of th",
+              "source": "Insurance Journal",
+              "url": "https://www.insurancejournal.com/news/national/2026/10/19/889292.htm",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k",
+              "summary": "A sharp 1-2 day market rally that an LTCG cut would trigger may actually be used to offload positions, Bernstein said in an October 19 note.",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/news/ltcg-tax-cut-alone-won-t-lure-fpis-says-bernstein-nifty-target-cut-to-25k-126101900230_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s economy grew 4.5% last quarter, yet its export boom risks being ‘a drag on world growth’",
+              "summary": "\"It is untenable and unsustainable\" for China to rely on foreign demand, Cornell's Eswar Prasad said.",
+              "source": "Fortune",
+              "url": "https://fortune.com/2026/10/19/china-gdp-growth-export-boom/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
+          "summary": ""
+        },
+        {
+          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
+          "summary": ""
+        },
+        {
+          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7002eee9",
       "date": "2026-10-19",
       "generated_at": "2026-10-19T13:42:32.908445+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "c1087346",
-      "date": "2026-09-19",
-      "generated_at": "2026-09-19T13:28:47.492592+08:00",
-      "headline": "今日 AI 新闻速览（59 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "White House Weighs Incubator for Cyber Research, Startups",
-              "summary": "The Trump administration is weighing a plan to establish a government-led incubator aimed at investing in cybersecurity research and spinning out startups focused on developing tools for the governmen",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/09/18/885557.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Shapoorji Group chairman welcomes RBI decision, backs listing of Tata Sons",
-              "summary": "SP Group chairman says public listing can strengthen transparency, governance and philanthropy, and calls for closer engagement with Tata Sons and Tata Trusts",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/companies/news/shapoorji-pallonji-mistry-tata-sons-listing-rbi-decision-126091800296_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "21 Fall Window Box Ideas: A Guide to Plants, Timing, and Care",
-              "summary": "Your window boxes may still hold summer petunias, even as cooler mornings arrive. Fall planting isn’t just about looks; timing and frost tolerance matter, too. These fall window box ideas are organize",
-              "source": "Ahouseinthehills.com",
-              "url": "https://ahouseinthehills.com/fall-window-boxes/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Early voting begins in US midterms that could flip control of Congress",
-              "summary": "In-person voting for this year's midterm elections begins Friday, ushering in the final six weeks for Americans to decide who they trust to lead Congress through a cost-of-living crisis, a prolonged w",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/early-voting-begins-in-us-midterms-that-could-flip-control-of-congress-126091800201_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic's Claude is building its own next version, company says",
-              "summary": "Anthropic has announced that its AI model, Claude, is significantly aiding in the development of building its successor",
-              "source": "Wdbo.com",
-              "url": "https://www.wdbo.com/news/business/anthropic-says-its/N5UDZKAFNY5WDADBTR5ZLJR25Y/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI is now building AI: Anthropic says Claude leads 26% of its R&D work",
-              "summary": "Anthropic's R&D Work: More than 90 per cent of Anthropic's AI R&D work is now performed at a level where AI either collaborates with humans or leads the work, the company said",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/technology/artificial-intelligence/ai-is-now-building-ai-anthropic-says-claude-leads-26-of-its-r-d-work-126091800275_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Nikkei gains 1% as AI, chip stocks rally; BOJ hikes rates",
-              "summary": "The Bank of Japan raised its policy rate to a 31-year high of 1.25% to contain inflation risks. Japanese technology stocks rallied as easing crude prices supported sentiment, with SoftBank, Advantest ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-gains-1-as-ai-chip-stocks-rally-boj-hikes-rates/articleshow/134326556.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What food has calcium for hermit crabs?",
-              "summary": "What Food Has Calcium For Hermit Crabs? A Comprehensive Guide Hermit crabs require calcium in their diet for shell growth and overall health. Here’s a breakdown of calcium-rich food sources ideal for ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-food-has-calcium-for-hermit-crabs/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Elon Musk Predicts Solar Will Crush All Other Energy Sources to Below 0.1% Amid Texas Boom: ‘So Obvi",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Pompliano Says AI Doomers Are the Same People Who Were Once Crypto Doomers: 'Don’t Listen to",
-          "summary": ""
-        },
-        {
-          "topic": "Y Combinator’s Paul Graham Says AI Companies Are Measuring Inference the Wrong Way — ‘You Get More P",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-19T13:42:32.908445+08:00",
+  "last_updated": "2026-10-20T13:39:21.182793+08:00",
   "total_days": 30
 }
