@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "0a6ef05f",
+      "date": "2026-10-21",
+      "generated_at": "2026-10-21T13:42:18.517560+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Oracle, AstraZeneca team up on AI innovation",
+              "summary": "AstraZeneca plc and Oracle Corporation entered into a non-binding agreement to explore the possibility of combining artificial intelligence and real-world data in clinical trials, including the identi",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/30716ac8fb314bcf",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Human-AI Indian Music Label Raagverse Launches With ‘Janaa Hai Toh Jao’ (EXCLUSIVE)",
+              "summary": "Raagverse, a new Indian music label that pairs human songwriting with AI production tools, will release its first album, “Janaa Hai Toh Jao,” on Oct. 20. The label is the latest venture from Amita Mad",
+              "source": "Variety",
+              "url": "https://variety.com/2026/music/news/human-ai-music-label-raagverse-launches-janaa-hai-toh-jao-1236916309/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Samsung secures its profits for the next 5 years amid AI boom",
+              "summary": "Due to the ongoing artificial intelligence (AI) boom, there has been a severe shortage of memory chips globally. This has caused memory chip prices to rise exponentially, allowing Samsung, the world's",
+              "source": "SamMobile",
+              "url": "https://www.sammobile.com/news/samsung-secures-5-year-revenue-dram-memory-chips-supply/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How much does a hedgehog need to weigh to survive hibernation?",
+              "summary": "How Much Does a Hedgehog Need to Weigh to Survive Hibernation? To successfully navigate the winter months, a hedgehog must reach a critical mass of fat reserves. Generally speaking, a hedgehog needs t",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-much-does-a-hedgehog-need-to-weigh-to-survive-hibernation/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AP Top Extended Financial Headlines at 12:37 a.m. EDT",
+              "summary": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/d877c723681a479a",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can you turn a fish tank into a terrarium?",
+              "summary": "From Fins to Foliage: Transforming a Fish Tank into a Thriving Terrarium Yes, you can turn a fish tank into a terrarium! With the right preparation and materials, an old aquarium can become a stunning",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-you-turn-a-fish-tank-into-a-terrarium/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do squirrels like almonds?",
+              "summary": "Do Squirrels Like Almonds? The Nutty Truth Yes, squirrels generally love almonds, finding their rich, nutty flavor and high-fat content particularly appealing. However, while almonds can be a healthy ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-squirrels-like-almonds/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the most expensive coral bead?",
+              "summary": "What is the Most Expensive Coral Bead? The title of the most expensive coral bead is typically bestowed upon beads crafted from exceptionally rare, high-quality Sardinian coral, particularly those wit",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-most-expensive-coral-bead/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "agent-wire-cli added to PyPI: High-speed, privacy-first, token-compressed live web and multi-platfor",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
+          "summary": ""
+        },
+        {
+          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9954059f",
       "date": "2026-10-20",
       "generated_at": "2026-10-20T13:39:21.182793+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "0dec151f",
-      "date": "2026-09-20",
-      "generated_at": "2026-09-20T13:41:49.354246+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "AI could double US GDP growth to 4% next year amid capital hurdles, says Elon Musk",
-              "summary": "The projection comes at a time when the broader artificial intelligence investment landscape encounters its first major macroeconomic test, according to a recent report by brokerage firm Dolat Capital",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/tech-bytes/ai-could-double-us-gdp-growth-to-4-next-year-amid-capital-hurdles-says-elon-musk/articleshow/134348534.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Kim Jong-un Inspects Defense Production Line",
-              "summary": "Kim Jong-un has inspected major munitions industrial enterprises in North Korea from September 16 to 18, according to KCNA.",
-              "source": "Sputnikglobe.com",
-              "url": "https://sputnikglobe.com/20260919/kim-jong-un-inspects-defense-production-line-1124761185.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What glows on the beach at night?",
-              "summary": "What Glows on the Beach at Night? The mesmerizing phenomenon of bioluminescence on beaches is primarily caused by dinoflagellates, tiny marine plankton, that emit light when disturbed, creating a magi",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-glows-on-the-beach-at-night/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Govt fully committed to letter and spirit of Constitution: Prime Minister Balen Shah",
-              "summary": "KATHMANDU: Prime Minister (PM) Balendra Shah (Balen) has said that the government is fully committed to both the letter and spirit of the Constitution. Speaking at a programme organized here today on ",
-              "source": "Khabarhub.com",
-              "url": "https://english.khabarhub.com/2026/19/568349/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI could ‘kill all humans’: How safe are Nigerians?",
-              "summary": "Behind the excitement is an increasingly uncomfortable question: Are humans building machines that could eventually replace them or even become too powerful to control?\nThe post AI could ‘kill all hum",
-              "source": "Vanguard",
-              "url": "https://www.vanguardngr.com/2026/09/ai-could-kill-all-humans-how-safe-are-nigerians/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "A new arms race is unfolding on the ocean floor",
-              "summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside airlines' panic as FAA pushed new AI tool",
-              "summary": "Airline industry officials have finally stopped panicking about the Federal Aviation Administration's soon-to-launch artificial intelligence tool for managing flights and easing congestion in air trav",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/4ac32b8530ddcdd4",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gemini hacked three companies in first known breakout by Google's AI",
-              "summary": "The hacks occurred during a cybersecurity test conducted by an independent evaluation company.",
-              "source": "ABC News (AU)",
-              "url": "https://www.abc.net.au/news/2026-09-19/gemini-google-ai-hacks-three-companies/107172128",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "‘Big Short’ Investor Michael Burry Blasts Economic ‘Bubbles’ Enriching the Few at ‘Obscene Rates’: “",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From KB Home Stock Ahead Of Q3 Earnings: KB Home will release earnings for ",
-          "summary": ""
-        },
-        {
-          "topic": "Elon Musk Predicts Solar Will Crush All Other Energy Sources to Below 0.1% Amid Texas Boom: ‘So Obvi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-20T13:39:21.182793+08:00",
+  "last_updated": "2026-10-21T13:42:18.517560+08:00",
   "total_days": 30
 }
