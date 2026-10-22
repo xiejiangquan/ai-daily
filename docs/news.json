@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "daa1f499",
+      "date": "2026-10-22",
+      "generated_at": "2026-10-22T13:44:30.781186+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+              "summary": "The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
+              "summary": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver more than 50% in a be",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is it normal to see bats flying at night?",
+              "summary": "Is It Normal to See Bats Flying at Night? Seeing bats flying at night is, in fact, completely normal. These fascinating creatures are primarily nocturnal, meaning they are most active during the night",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-it-normal-to-see-bats-flying-at-night/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
+              "summary": "When U.S. President Donald Trump and Chinese leader Xi Jinping met last month, they failed to make headway on one of the most contentious issues in the bilateral relationship: Beijing’s sweeping criti",
+              "source": "Radio Free Europe/ Radio Liberty",
+              "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI is propping up Southeast Asia’s digital economy as prices rise and demand cools",
+              "summary": "AI's role in Southeast Asia's digital economy highlights its potential to sustain growth amid economic challenges, reshaping regional markets.\nThe post AI is propping up Southeast Asia’s digital econo",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/ai-drives-southeast-asia-digital-economy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI acquires Orchestra Bio, expands life sciences push",
+              "summary": "OpenAI has acquired Orchestra Bio, a platform that helps biopharmaceutical companies coordinate drug development, as it looks to combine its artificial intelligence (AI) models with tools that manage ",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/openai-acquires-orchestra-bio-expands-life-sciences-push/article71606284.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Times: China's financial regulators roll out targeted policies at key financial forum, reaffirm opening-up",
+              "summary": "BEIJING, Oct. 21, 2026 /PRNewswire/ -- The Annual Conference of Financial Street Forum (FSF) 2026 kicked off in Beijing on Monday, convening a heavyweight roster of top financial regulators who rolled",
+              "source": "PRNewswire",
+              "url": "https://www.prnewswire.com/news-releases/global-times-chinas-financial-regulators-roll-out-targeted-policies-at-key-financial-forum-reaffirm-opening-up-302914988.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Malaysia PM Anwar warns against Israeli navigation app Waze over data security concerns",
+              "summary": "Given concerns about the app being used to monitor Malaysian citizens' data, Anwar suggested they switch to using Tuju, an app developed by the Malaysian Highway Authority.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-waze-data-security-6477761",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
+          "summary": ""
+        },
+        {
+          "topic": "agent-wire-cli added to PyPI: High-speed, privacy-first, token-compressed live web and multi-platfor",
+          "summary": ""
+        },
+        {
+          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "0a6ef05f",
       "date": "2026-10-21",
       "generated_at": "2026-10-21T13:42:18.517560+08:00",
@@ -2870,107 +2969,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "6fd2517e",
-      "date": "2026-09-21",
-      "generated_at": "2026-09-21T13:53:29.683585+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "3 Indian-origin researchers used Claude to breach OpenAI systems in 72 hours",
-              "summary": "Three Indian-origin cybersecurity researchers at Hacktron AI used Anthropic’s Claude models while investigating vulnerabilities that ultimately gave them access to OpenAI employee accounts and a priva",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/3-indian-origin-researchers-used-claude-to-breach-openai-systems-in-72-hours/articleshow/134363938.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do marshmallows harm alligators?",
-              "summary": "Do Marshmallows Harm Alligators? The Surprising Truth The short answer: No, marshmallows are unlikely to directly harm alligators. However, the practice of feeding alligators, including with marshmall",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-marshmallows-harm-alligators/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Introducing the DeepMind Institute — DeepMind Institute",
-              "summary": "The DeepMind Institute advances bold thinking about artificial general intelligence (AGI) and its profound implications for society.",
-              "source": "Deepmind.com",
-              "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What Policymakers and the Public Need to Know About the Cult of AI | TechPolicy.Press",
-              "summary": "Nathalie Maréchal asks, why are we betting the economy and the future of democracy on cult-like beliefs?",
-              "source": "Techpolicy.press",
-              "url": "https://techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump once slammed China. Why is he now rolling out the red carpet for Xi?",
-              "summary": "When President Donald Trump first ran for office, he called out China as a menace to the US economy, saying it had gutted America's factories and eroded the middle class.\nThat tough talk helped Trump ",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/trump-once-slammed-china-why-is-he-now-rolling-out-the-red-carpet-for-xi-126092000138_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Where do deer get salt naturally?",
-              "summary": "Where Do Deer Get Salt Naturally? Deer primarily obtain salt, or sodium, from natural salt licks, mineral springs, and through the consumption of certain plants and soils that contain sodium. These so",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/where-do-deer-get-salt-naturally/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián",
-              "summary": "One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformati",
-              "source": "Variety",
-              "url": "https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is AI really stealing from artists? The uncomfortable truth about originality in art",
-              "summary": "The feature explores how AI is reshaping ideas of art, originality and authorship, arguing that artists have always borrowed, adapted and collaborated. Indian contemporary artists such as Pushpamala N",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/is-ai-really-stealing-from-artists-the-uncomfortable-truth-about-originality-in-art/articleshow/134363638.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Kevin O’Leary Warns Investors About the ‘Biggest Killer’ of Investment Value: 'Your Equity Can get W",
-          "summary": ""
-        },
-        {
-          "topic": "‘Big Short’ Investor Michael Burry Blasts Economic ‘Bubbles’ Enriching the Few at ‘Obscene Rates’: “",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From KB Home Stock Ahead Of Q3 Earnings: KB Home will release earnings for ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-21T13:42:18.517560+08:00",
+  "last_updated": "2026-10-22T13:44:30.781186+08:00",
   "total_days": 30
 }
