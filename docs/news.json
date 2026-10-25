@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "f1110c62",
+      "date": "2026-10-25",
+      "generated_at": "2026-10-25T13:39:58.346539+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "A leap from the sea’s edge",
+              "summary": "Ancy Sojan, a long jumper from Nattika, has gained national attention after breaking a 22-year-old record. She won a silver medal at the recent Asian Games held in Japan. Along with her athletic accom",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/toi-blogs/roots-identity/a-leap-from-the-seas-edge/articleshow/135163189.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Gurdwara Sahib becomes a landmark of Sikh identity in Switzerland",
+              "summary": "Over the past twenty years, a vibrant Sikh community in Switzerland has blossomed, culminating in the formation of Gurdwara Sahib Switzerland in 2006. This remarkable establishment functions not only ",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/city/chandigarh/gurdwara-sahib-becomes-a-landmark-of-sikh-identity-in-switzerland/articleshow/135163105.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SSC JE 2026 exam city intimation slip released for Paper 1 at ssc.gov.in: Direct link to download here",
+              "summary": "The Staff Selection Commission has released examination details for the Junior Engineer Examination scheduled for November 2026. Candidates can check their exam city details by logging into the offici",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/education/news/ssc-je-2026-exam-city-intimation-slip-released-for-paper-1-at-ssc-gov-in-direct-link-to-download-here/articleshow/135162881.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mizoram to recruit 100 regular primary teachers in 2026; MTET changes under consideration",
+              "summary": "Mizoram plans to recruit 100 regular primary teachers in 2026 to strengthen elementary education and improve student learning outcomes. Education Minister Vanlalthlana also outlined proposed changes t",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/education/news/mizoram-to-recruit-100-regular-primary-teachers-in-2026-mtet-changes-under-consideration/articleshow/135162805.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TMC suspends fire chief over immersion ghats lapses",
+              "summary": "Thane municipal corporation has suspended acting chief fire officer Jhalke due to alleged negligence in safety measures. The negligence was observed at Datta Mandir Ghat and Ahilyadevi Ghat during ido",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/city/thane/tmc-suspends-fire-chief-over-immersion-ghats-lapses/articleshow/135163005.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A little-known painting from a family's old English manor collection went to auction with an £8,000 estimate; specialists attributed it to Dutch artist Hendrik Gerritsz Pot and bidders pushed its final price to £70,000",
+              "summary": "A charming oil painting, thought to be created by Hendrik Gerritsz Pot, surfaced during an October auction after being held within a family collection for years. This artwork, illustrating a woman wit",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/uk/a-little-known-painting-from-a-familys-old-english-manor-collection-went-to-auction-with-an-8000-estimate-specialists-attributed-it-to-dutch-artist-hendrik-gerritsz-pot-and-bidders-pushed-its-final-price-to-70000/articleshow/135162865.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why did wolves befriend humans?",
+              "summary": "Why Did Wolves Befriend Humans? Exploring the Evolutionary Bonds The remarkable bond between wolves and humans, resulting in the domesticated dog, likely arose from a complex interplay of factors: Why",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-did-wolves-befriend-humans/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Pakistan link under probe as Mumbai man booked over inflammatory Masood Azhar clips on phone",
+              "summary": "Mumbai Police's anti-terrorism squad (ATS) on Saturday arrested Mohammad Hasan Abu Sarmad Akhtar for allegedly having links to Jaish-e-Mohammed.",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/india/pakistan-link-under-probe-as-mumbai-man-booked-over-inflammatory-masood-azhar-clips-on-phone/articleshow/135162871.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
+          "summary": ""
+        },
+        {
+          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
+          "summary": ""
+        },
+        {
+          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "74b8b27a",
       "date": "2026-10-24",
       "generated_at": "2026-10-24T13:22:06.976693+08:00",
@@ -2971,6 +3070,6 @@
       ]
     }
   ],
-  "last_updated": "2026-10-24T13:22:06.976693+08:00",
-  "total_days": 30
+  "last_updated": "2026-10-25T13:39:58.346539+08:00",
+  "total_days": 31
 }
