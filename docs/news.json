@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "cfdadca0",
+      "date": "2026-10-26",
+      "generated_at": "2026-10-26T13:45:30.469908+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+              "summary": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Govt plans advanced weather monitoring and early warning systems",
+              "summary": "KATHMANDU: The government has released two white papers aimed at strengthening the water resources and meteorological sectors. The Center of Hydrology and Water Resources Research under the Ministry o",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/25/573064/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the personality of a lion?",
+              "summary": "What is the Personality of a Lion? The personality of a lion is complex, driven by social structure and individual temperament, generally characterized by boldness, cooperation, and dominance within t",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-personality-of-a-lion/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is soda bad for ferrets?",
+              "summary": "Is Soda Bad for Ferrets? A Deep Dive into Ferret Nutrition Is soda bad for ferrets? Absolutely. Soda is exceptionally harmful for ferrets, offering no nutritional value and posing significant health r",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-soda-bad-for-ferrets/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inside Oilstainlab's quest to build a supercar on its own terms",
+              "summary": "Modern supercars often follow a similar script: outrageous power, expansive screens, aero components, and a price tag that could buy you a rather nice house. The formula works, of course, but it can a",
+              "source": "New Atlas",
+              "url": "https://newatlas.com/automotive/interview-oilstainlab-nikita-bridan/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "As AI Labs Burn Cash, the Real Question Is Which Suppliers Get Paid",
+              "summary": "Microsoft confirmed this week that it was pulling out of a planned artificial intelligence (AI) data center project in the United Kingdom. The facility, being developed by Nscale, was supposed to prov",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/a3a87355876d2673",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How long can dove eggs go unattended?",
+              "summary": "How Long Can Dove Eggs Go Unattended: A Comprehensive Guide Dove eggs can typically tolerate being unattended for short periods, but extended neglect, generally exceeding a few hours at most, can dras",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-long-can-dove-eggs-go-unattended/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Operation Sindoor proved no target beyond IAF' s reach; air power remains India's primary responder, says Air Chief Marshal AP Singh",
+              "summary": "Air Chief Marshal AP Singh detailed the Indian Air Force's Operation Sindoor in a recent interview. The operation involved precision strikes responding to a terror attack, showcasing effective capabil",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-proved-no-target-beyond-iaf-s-reach-air-power-remains-indias-primary-responder-says-air-chief-marshal-ap-singh/articleshow/135183033.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
+          "summary": ""
+        },
+        {
+          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
+          "summary": ""
+        },
+        {
+          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "f1110c62",
       "date": "2026-10-25",
       "generated_at": "2026-10-25T13:39:58.346539+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "535434e9",
-      "date": "2026-09-25",
-      "generated_at": "2026-09-25T13:47:32.104820+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "How do you keep hermit crabs from smelling?",
-              "summary": "How Do You Keep Hermit Crabs From Smelling? Keeping hermit crabs from smelling requires consistent and thorough cleaning practices. The key to a odorless hermit crab environment is proactive maintenan",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-do-you-keep-hermit-crabs-from-smelling/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The tables have turned and small films are edging big titles out of theatres",
-              "summary": "Small films like Hanuman Ansh and Mirzapur are outpacing star-driven titles such as Haiwaan, as exhibitors shift shows based on occupancy and demand. With screens and audiences limited, every film is ",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/industry/media/india-cinema-screen-shortage-film-show-allocation-small-budget-hits-hanuman-ansh-mirzapur-haiwaan-11790148940329.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Europe’s dangerous dependence puts it on Xi and Trump’s menu",
-              "summary": "Mark Carney's warning emphasizes the need for middle powers like the European Union to assert themselves. Europe faces significant challenges in technology dependence and military capabilities compare",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/europes-dangerous-dependence-puts-it-on-xi-and-trumps-menu/articleshow/134451943.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can a bird be saved after hitting a window?",
-              "summary": "Can a Bird Be Saved After Hitting a Window? Saving Avian Strike Victims Yes, a bird can sometimes be saved after hitting a window, but the chances depend heavily on the severity of the injury and the ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-a-bird-be-saved-after-hitting-a-window/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI agent hacked into government website, says Australian PM",
-              "summary": "OpenAI's AI agent hacked Australia's Medicare portal, raising concerns about AI risks, says Prime Minister Albanese.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/news/world/openai-agent-hacked-into-government-website-says-australian-pm/article71502748.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Japan's Nikkei rises as CPU stocks surge on Meta gadget launch",
-              "summary": "Japan's Nikkei share average jumped 1.33% on Thursday as CPU-related tech stocks rallied following Meta's unveiling of its new Meta Charm device. Gains in semiconductor suppliers like Ibiden offset pr",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-as-cpu-stocks-surge-on-meta-gadget-launch/articleshow/134452430.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
-              "summary": "OpenAI's artificial intelligence \"went rogue this year in at least four additional incidents,\" the New York Times reported Wednesday, \"hacking and trying to break into government and university websit",
-              "source": "Slashdot.org",
-              "url": "https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Intergenerational Report says we need more vocational skills – but federal funding for them is set to drop",
-              "summary": "The federal government is unambiguous about the need for more nurses, builders and electricians. But the plan to find and fund these workers is less clear.",
-              "source": "The Conversation Africa",
-              "url": "https://theconversation.com/the-intergenerational-report-says-we-need-more-vocational-skills-but-federal-funding-for-them-is-set-to-drop-292694",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        },
-        {
-          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
-          "summary": ""
-        },
-        {
-          "topic": "How To Earn $500 A Month From General Mills Stock Ahead Of Q1 Earnings: General Mills, Inc. will rel",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-25T13:39:58.346539+08:00",
+  "last_updated": "2026-10-26T13:45:30.469908+08:00",
   "total_days": 31
 }
