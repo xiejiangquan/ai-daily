@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "5c0b7394",
+      "date": "2026-10-27",
+      "generated_at": "2026-10-27T13:58:54.699931+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Supply chain firm Bristlecone’s topline grows 24%, targets billion-dollar valuation: CEO",
+              "summary": "Bristlecone has invested significantly in creating assets, frameworks, and IP that will help accelerate implementation times for SAP or any of the supply chain products that it works on.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/economy/logistics/supply-chain-firm-bristlecones-topline-grows-24-targets-billion-dollar-valuation-ceo/article71625700.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Happened at the Peptide Party: “I felt like I was in a Gaspar Noé movie about the Cambrian explosion”",
+              "summary": "Sex, drugs, and melanocortin receptor agonists",
+              "source": "Mamathemagazine.com",
+              "url": "https://mamathemagazine.com/what-happened-at-the-peptide-party/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How AB InBev built a culture of creative effectiveness that drives growth | Marketing Dive",
+              "summary": "While AB InBev operates a global portfolio of more than 500 brands, not all beverages are created or treated equally. The company developed a process that assigns brands a different role in each marke",
+              "source": "Marketing Dive",
+              "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+              "summary": "A wave of American wealth created by artificial intelligence companies could produce some of the largest charitable sums since the era of Andrew Carnegie and John D. Rockefeller, raising questions abo",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy/articleshow/135203704.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China hosts global governance forum to pool wisdom for better future",
+              "summary": "XIONGAN, Oct. 24 (Xinhua) — China is hosting a three-day inaugural global governance forum to pool wisdom for better global governance, one year after the country proposed the Global Governance Initia",
+              "source": "Peoplesreview.com.np",
+              "url": "https://peoplesreview.com.np/2026/10/26/china-hosts-global-governance-forum-to-pool-wisdom-for-better-future/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "With EU presidency, Ireland has chance to implement digital identity wallet by end of year",
+              "summary": "Citizens should not be repeatedly asked by governments or multiple agencies for information already available",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/business/2026/10/26/with-eu-presidency-ireland-has-chance-to-implement-digital-identity-wallet-by-end-of-year/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Big Tech Earnings Week: Will AI spending pay off?",
+              "summary": "Alphabet, Microsoft and Amazon are set to report quarterly results in a crucial week for the artificial intelligence trade. Investors will assess whether surging AI demand can justify the enormous inv",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-week-will-ai-spending-pay-off/big-tech-faces-its-biggest-earnings-test/slideshow/135204181.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "No new software developed: EC cites 'trade secrets', withholds SIR details",
+              "summary": "SIR Software Details: ECI has cited trade secrets and intellectual property to deny disclosure of the software used in the voter roll revision, saying registration officers decide inclusion or exclusi",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/india-news/no-new-software-developed-ec-cites-trade-secrets-withholds-sir-details-126102600263_1.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
+          "summary": ""
+        },
+        {
+          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
+          "summary": ""
+        },
+        {
+          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "cfdadca0",
       "date": "2026-10-26",
       "generated_at": "2026-10-26T13:45:30.469908+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "78354caa",
-      "date": "2026-09-26",
-      "generated_at": "2026-09-26T13:50:22.608667+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Roma target Kvernadze, Inter eye Beltrán , McTominay back ☀️",
-              "summary": "Only a few hours remain until Roberto Mancini’s new Italy makes its debut tonight against Belgium. While we wait to see the Azzurri on the pitch, let’s take a look at how Serie A’s big clubs are...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/roma-target-kvernadze-inter-eye-beltran-mctominay-back-43516865",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Meta shares soar after launch of Muse AI",
-              "summary": "Meta shares bounced back to their summer 2025 highs this week, riding a wave of investor excitement about Muse, the social media giant's AI agent which presents an opportunity to generate revenue beyo",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How scientific publishers are fighting back against fraudulent papermills | Physics World",
-              "summary": "The growth of AI and papermills has caused scientific publishers countless headaches, but they are beginning to fight back. Dr. Ferric C. Fang, a professor of laboratory medicine and pathology at the ",
-              "source": "physicsworld.com",
-              "url": "https://physicsworld.com/a/how-scientific-publishers-are-fighting-back-against-fraudulent-papermills/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The ACToRS in AI Framework – Hedgehog Librarian",
-              "summary": "About a year ago I was invited to give a lecture designed to spark critical thinking in graduate students when considering using generative AI and other tools that had started applying the “a…",
-              "source": "Hedgehoglibrarian.com",
-              "url": "https://hedgehoglibrarian.com/2026/09/22/the-actors-in-ai-framework/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Outrage as mistress reads chilling texts to court from American Idol singer who allegedly asked her to abandon her kids before killing his wife",
-              "summary": "Caleb Flynn's mistress told jurors she warned the married father that being with her could mean losing half his time with his two young daughters.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16159265/caleb-flynn-american-idol-wife-murder-trial.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside Trump's glitzy state dinner with China's Xi attended by tech titans and DC's elite as details emerge about talks between two world leaders",
-              "summary": "The two world powers remain divided on the war in Iran and are still grappling to find common ground on trade and how to best navigate the jarring advances of artificial intelligence.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16159331/Inside-Donald-Trump-state-dinner-Xi-China.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI complements radiologists to help improve brain aneurysm detection",
-              "summary": "In a real-world study, an AI algorithm increased aneurysm detection on CT scans. Notably, the AI and radiologists had different strengths, suggesting that combining AI with physician interpretation co",
-              "source": "Medical News Today",
-              "url": "https://www.medicalnewstoday.com/articles/ai-complements-radiologists-improve-brain-aneurysm-detection",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Iran says it's up to U.S. to end war as China presses for de-escalation",
-              "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
-              "source": "CNBC",
-              "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        },
-        {
-          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-26T13:45:30.469908+08:00",
+  "last_updated": "2026-10-27T13:58:54.699931+08:00",
   "total_days": 31
 }
