@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "eddb7da8",
+      "date": "2026-10-28",
+      "generated_at": "2026-10-28T14:37:05.759716+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct",
+              "summary": "Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.",
+              "source": "The Diplomat",
+              "url": "https://thediplomat.com/2026/10/laos-expected-to-scuttle-aseans-south-china-sea-code-of-conduct/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The AI trade is driving global markets more than oil, Goldman Sachs says",
+              "summary": "Semiconductor exposure explained 54% of differences in cross-asset returns over three weeks, compared with just 2% for oil prices.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/kospi-stock-index-ai-trade-chip-stocks-oil-goldman-sachs-2026-10#article",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sundar Pichai Is Giving Up Google's Cloud Revenue for AI, but What's the Bigger Plan?",
+              "summary": "Google CEO Sundar Pichai says the company is sacrificing short-term Cloud revenue to give AI researchers more computing power and develop advanced artificial intelligence models.",
+              "source": "Mashable",
+              "url": "https://in.mashable.com/tech/115397/sundar-pichai-is-giving-up-googles-cloud-revenue-for-ai-but-whats-the-bigger-plan",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can birds drink Pedialyte?",
+              "summary": "Can Birds Drink Pedialyte? A Guide to Avian Hydration The simple answer is yes, in many cases, birds can drink Pedialyte, and it can be a helpful tool in rehydrating and replenishing electrolytes in s",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/can-birds-drink-pedialyte/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors",
+              "summary": "By now, you're probably well aware that Nvidia (NVDA +2.39%) is one of the biggest winners of the artificial intelligence (AI) revolution. Its graphics processing units (GPUs) are essential infrastruc",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/b0b452b55f823bbf",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
+              "summary": "China and Hong Kong stocks edged lower as weakness in technology and AI-related shares outweighed faster industrial-profit growth and fresh liquidity support from China’s central bank.",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sarvam to build AI framework for Army, Navy and Air Force under HQ IDS",
+              "summary": "The framework will cover the Army, Navy and Air Force, with Sarvam developing AI applications for operational, training and decision-support requirements on sovereign infrastructure",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hq-ids-ai-projects-indian-armed-forces-defence-126102700495_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "“There are agents everywhere, Neo.” And here’s what to do about them.",
+              "summary": "Before our very eyes, technological progress has once again bolted ahead at full gallop – it’s all we can do to keep shutting them (or opening them wide) in astonishment! In literally just a few years",
+              "source": "Kaspersky.com",
+              "url": "https://eugene.kaspersky.com/2026/10/27/there-are-agents-everywhere-neo-and-heres-what-to-do-about-them/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More: ",
+          "summary": ""
+        },
+        {
+          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
+          "summary": ""
+        },
+        {
+          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "5c0b7394",
       "date": "2026-10-27",
       "generated_at": "2026-10-27T13:58:54.699931+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "272cf954",
-      "date": "2026-09-27",
-      "generated_at": "2026-09-27T14:11:42.634682+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": " That's just unfair! The world's best team get a new cheat code",
-              "summary": "Spain are without any doubt THE dominant football nation of recent years. The Iberians are European champions at U19 level, as well as European and world champions at senior level. After a dry spell b",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/thats-just-unfair-the-worlds-best-team-get-a-new-cheat-code-43521897",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can a lake be man-made?",
-              "summary": "Can a Lake Be Man-Made? Yes, lakes can absolutely be man-made. These engineered bodies of water, often referred to as reservoirs or artificial lakes, serve a variety of critical purposes, impacting ev",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-a-lake-be-man-made/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI is shopping for you now. What does that mean for ecommerce in India?",
-              "summary": "AI agents could soon handle shopping decisions and transactions for consumers, forcing ecommerce, travel, and insurance platforms to rethink pricing, customer engagement, and security",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/industry/news/ai-is-shopping-for-you-now-what-does-that-mean-for-ecommerce-in-india-126092600312_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mumbai bids adieu to iconic Ganpatis after marathon immersion processions",
-              "summary": "Thousands of devotees gathered at Girgaon Chowpatty to witness the immersion of iconic Ganesh idols. Crowds accompanied the processions, which lasted over 21 hours and spanned through the night. The i",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/mumbai-bids-adieu-to-iconic-ganpatis-after-marathon-immersion-processions/articleshow/134498504.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "BYD Dolphin G DM-i review: Is Britain's first plug-in hybrid supermini worth the £24,000 price tag?",
-              "summary": "Is Briain's first plug-in hybrid supermini a good buy? Freda Lewis-Stempel reviews the £24k BYD Dolphin G DM-i B-segment car to see if it good value for money.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/money/cars/article-16147727/BYD-Dolphin-G-DM-plug-hybrid-supermini-review.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
-              "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council (UNSC) on Sept. 23, according to CNBC and Reuters. The session, convened by France, examined artificial",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Wright Says U.S. Power Grid Needs More Generation as Electricity Demand Rises",
-              "summary": "Energy Secretary Chris Wright said the U.S. must expand electricity generation and transmission capacity to meet rising demand, according to remarks reported by The Associated Press. Wright pointed to",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-26-wright-says-us-power-grid-needs-generation.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US, China to set up 'communication channel' for AI incidents",
-              "summary": "The two countries established a \"US-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits\" of AI, the White House said in a fact sheet.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/world/united-states-china-ai-communication-channel-6412426",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        },
-        {
-          "topic": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-27T13:58:54.699931+08:00",
+  "last_updated": "2026-10-28T14:37:05.759716+08:00",
   "total_days": 31
 }
