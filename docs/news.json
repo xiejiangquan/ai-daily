@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "55470070",
+      "date": "2026-10-29",
+      "generated_at": "2026-10-29T14:44:23.046368+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "What nuts are bad for squirrels?",
+              "summary": "What Nuts Are Bad for Squirrels? While squirrels are often depicted enjoying any and all nuts, some nuts are actually detrimental to their health. Specifically, processed nuts, nuts high in sodium, an",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-nuts-are-bad-for-squirrels/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Power equipment makers race to expand US capacity amid AI boom - The Korea Times",
+              "summary": "Power equipment makers are expanding U.S. production and securing major supply contracts as the artificial intelligence (AI) data center boom drive...",
+              "source": "코리아타임스",
+              "url": "https://www.koreatimes.co.kr/business/tech-science/20261028/power-equipment-makers-race-to-expand-us-capacity-amid-ai-boom",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Medical AI Competition in China Highlights Potential for ASEAN Health Care Cooperation",
+              "summary": "Guangxi Zhuang Autonomous Region Healthcare Security Administration NANNING, China, Oct. 28, 2026 (GLOBE NEWSWIRE) — A national medical imaging artificial intelligence competition was held on Oct. 22-",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/globe-newswire/medical-ai-competition-in-china-highlights-potential-for-asean-health-care-cooperation",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can the AI boom sustain SK Hynix's record earnings?",
+              "summary": "South Korean chipmaker SK Hynix reported record quarterly earnings as booming demand for artificial intelligence memory chips boosted revenue and profitability. The results underscore the company's gr",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/sk-hynix-q3-profit-jumps-seven-fold/slideshow/135255297.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why can’t foxes eat cat food?",
+              "summary": "Why Can’t Foxes Eat Cat Food? The Risks and Nutritional Differences Why can’t foxes eat cat food? The simple answer: While a small amount of cat food won’t immediately kill a fox, it’s not nutritional",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/why-cant-foxes-eat-cat-food/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sebi exploring India-specific AI model for securities market oversight",
+              "summary": "Sebi Chairman Tuhin Kanta Pandey said the regulator is exploring a domestically governed AI model while strengthening cybersecurity and oversight of technology risks",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/specials/bs-events/sebi-technology-ai-frameworks-india-markets-tuhin-kanta-pandey-bfsi-summit-126102800528_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Could Be 39% Undervalued Following Its AI Funding Push",
+              "summary": "Meta's fresh capital raise and AI alliances put Muse at the center of the story\nMeta Platforms (META) has just completed a US$25b follow on offering of Class A stock and a US$12.5b convertible preferr",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/bb1ba691a603f98f",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Oracle's Larry Ellison dismisses 'SaaS apocalypse' fears, says AI will make software better",
+              "summary": "Oracle's Ellison rebuts SaaS apocalypse, argues AI will finish industry-specific software, boosting productivity and enabling turnkey, no-training applications.",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/info-tech/oracles-larry-ellison-dismisses-saas-apocalypse-fears-says-ai-will-make-software-better/article71634332.ece",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Kylian Mbappé apologises after Mao Zedong remark sparks outrage in China, sponsorship losses and TV ",
+          "summary": ""
+        },
+        {
+          "topic": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans: 'My comment was ill-judged an",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More: ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "eddb7da8",
       "date": "2026-10-28",
       "generated_at": "2026-10-28T14:37:05.759716+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "15109f21",
-      "date": "2026-09-28",
-      "generated_at": "2026-09-28T14:18:09.982480+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "China consumer stocks near decade lows as investors pile into AI",
-              "summary": "Investing.com -- Chinese consumer stocks have fallen toward decade lows as weak domestic spending and a growing concentration of investor capital in artificial intelligence companies widen the gap bet",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/87283adee11806ff",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #39",
-              "summary": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, September 20, 2026 thru Sat, September 26, 2026.\nStories we promoted this week, by ",
-              "source": "Skepticalscience.com",
-              "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_39.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What cat food is the best for hedgehogs?",
-              "summary": "What Cat Food is Best for Hedgehogs? The best cat food for hedgehogs is high-quality, grain-free, and insect-based dry cat food with a high protein content (at least 30%) and low fat content (under 15",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-cat-food-is-the-best-for-hedgehogs/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Dropped in 2. Bundesliga, now in the CL! This scorer took Undav's path",
-              "summary": "If you look at the current top scorers in Europe’s top leagues, right behind superstars like Raphinha or Lamine Yamal, one name appears that Jürgen Klopp and his DFB team should also have on their ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/dropped-in-2-bundesliga-now-in-the-cl-this-scorer-took-undavs-path-43526253",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic CEO Amodei: Poorly Managed AI Could Pose “Risk to Humanity”",
-              "summary": "Anthropic CEO Dario Amodei told the United Nations Security Council on Wednesday, Sept. 23, that artificial intelligence (AI) could “be a risk to humanity as a whole” if the technology is not properly",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-27-amodei-poorly-managed-ai-pose-risk-humanity.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI Discloses Rogue AI Incidents Targeting Government, Education Websites",
-              "summary": "OpenAI said this week that its artificial intelligence agents attempted to hack government and university websites earlier this year without human instructions, confirming four previously unknown inci",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-27-openai-discloses-rogue-ai-incidents-targeting-government.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Australian PM: OpenAI Agent Accessed Country’s Medicare Portal",
-              "summary": "Australian Prime Minister Anthony Albanese told the United Nations General Assembly on Wednesday, Sept. 23, that an OpenAI agent infiltrated an Australian government website and gained unauthorized ac",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-27-albanese-openai-agent-accessed-australia-medicare-portal.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Cutting Sweet Foods Doesn’t Curb Cravings or Improve Health, Trial Finds",
-              "summary": "A six-month randomized controlled trial found no significant differences in sweet taste preference or health markers among participants assigned to high-, low-, or average-sweetness diets, according t",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-09-27-cutting-sweet-foods-doesnt-curb-cravings-improve-health.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
-          "summary": ""
-        },
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-28T14:37:05.759716+08:00",
+  "last_updated": "2026-10-29T14:44:23.046368+08:00",
   "total_days": 31
 }
