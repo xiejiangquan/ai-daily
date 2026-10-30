@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "cfa11ae0",
+      "date": "2026-10-30",
+      "generated_at": "2026-10-30T14:47:02.558813+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
+              "summary": "Samsung Electronics has reported a record operating profit of $80.5 billion, driven by high demand for computer memory chips used in AI systems",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NATO's drone-predicting AI gives Ukrainian commanders a glimpse into Russia's next moves on the front line",
+              "summary": "Dubbed Initiative 13 or Model 13, it covers areas up to 31 miles behind the line of contact and shows where and how Russia will likely strike next.",
+              "source": "Business Insider",
+              "url": "https://www.businessinsider.com/nato-drone-predicting-ai-give-ukraine-commanders-glimpse-russia-strikes-2026-10#article",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "From Atoms to Universes: The Architecture of Everything in the Age of AI",
+              "summary": "AI has become a consumer product faster than it has become a discipline. Each week brings new models and more information than anyone can absorb, and the easy response is uncritical consumption. Archi",
+              "source": "ArchDaily",
+              "url": "https://www.archdaily.com/1187149/from-atoms-to-universes-the-architecture-of-everything-in-the-age-of-ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Takeda Announces FY2026 First-Half Results Highlighting Launch Momentum and Pipeline Milestones",
+              "summary": "ORZEYFULTM approved in the U.S., Japan and China for narcolepsy type 1 (NT1), MIMRYLOTM launched in the U.S. for erythrocytosis in polycythemia vera (PV) Zasocitinib advances to U.S. Food & Drug Admin",
+              "source": "Financial Post",
+              "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/takeda-announces-fy2026-first-half-results-highlighting-launch-momentum-and-pipeline-milestones",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Russia-Africa Summit Day Two: Putin welcomes African delegations at Kremlin",
+              "summary": "African leaders are gathering at the Kremlin for the Russia-Africa Summit’s final day, with plenary sessions, agreement signings, and bilateral meetings on the program",
+              "source": "Rt-english.com",
+              "url": "https://rt-english.com/africa/647989-putin-meets-african-delegations-russia-africa-summit/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Group to deploy over 4,000 observers, technology for 2027 elections",
+              "summary": "A consortium of CSOs, Nigeria Election Data Observatory, says it will deploy over 4,000 observers and technology to monitor the 2027 general elections.\n\nRead More: https://punchng.com/group-to-deploy-",
+              "source": "The Punch",
+              "url": "https://punchng.com/group-to-deploy-over-4000-observers-technology-for-2027-elections/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Zomato to roll out price-masking ‘Mehmaan Mode’ for group orders after LinkedIn user’s suggestion",
+              "summary": "LinkedIn member Ayushmaan Agarwalla, a marketing manager, posted on the networking platform proposing a ‘Mehmaan Mode’ toggle that would remove prices from the app so a host could hand the phone aroun",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Online MCA in India: Which University and Specialization Fits a Tech Career Switch?",
+              "summary": "Not starting early in computer engineering does not mean you can never enter this field. Many latecomers have successfully switched into this sector and are making steady career growth. If you’re inte",
+              "source": "The-digital-reader.com",
+              "url": "https://the-digital-reader.com/online-mca-in-india-which-university-and-specialization-fits-a-tech-career-switch/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How to use social media audience segmentation to drive smarter business decisions: For brands, socia",
+          "summary": ""
+        },
+        {
+          "topic": "Kylian Mbappé apologises after Mao Zedong remark sparks outrage in China, sponsorship losses and TV ",
+          "summary": ""
+        },
+        {
+          "topic": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans: 'My comment was ill-judged an",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "55470070",
       "date": "2026-10-29",
       "generated_at": "2026-10-29T14:44:23.046368+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "4c67d8c0",
-      "date": "2026-09-29",
-      "generated_at": "2026-09-29T14:34:01.633387+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "SRIT India IPO: GMP at 25%; check review, subscription & other details",
-              "summary": "SRIT India IPO GMP today is ₹33. At the prevailing premium, the shares could list at ₹163 apiece, up 25.38 per cent over the upper end of the issue price.",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/ipo/srit-india-ipo-gmp-at-25-percent-check-review-subscription-other-details-126092800337_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic and OpenAI seek to shape how AI’s controlled",
-              "summary": "As tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?",
-              "source": "Hurriyet Daily News",
-              "url": "https://www.hurriyetdailynews.com/anthropic-and-openai-seek-to-shape-how-ais-controlled-227440",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
-              "summary": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "He dropped out of Stanford at 19; 21 years later, Sam Altman returned and told students they could graduate into a world with AGI",
-              "summary": "OpenAI CEO Sam Altman returned to Stanford University 21 years after dropping out at 19 and delivered a striking prediction about the future of artificial intelligence. Speaking at TreeHacks in Februa",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/education/news/he-dropped-out-of-stanford-at-19-21-years-later-sam-altman-returned-and-told-students-they-could-graduate-into-a-world-with-agi/articleshow/134534035.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Hypersoft forays into AI domain with proprietary platform",
-              "summary": "Hypersoft Technologies announced its strategic entry into the domain of Artificial Intelligence (AI), through the development of a proprietary, one-of its-kind AI platform designed to enable and eleva",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/capital-market-news/hypersoft-forays-into-ai-domain-with-proprietary-platform-126092800336_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Market under pressure; PSU Bank shares drop",
-              "summary": "Investors remained focused on movements in crude oil prices, developments in the primary market and upcoming initial public offerings (IPOs). A series of domestic and global economic data releases are",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/capital-market-news/market-under-pressure-psu-bank-shares-drop-126092800331_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes",
-              "summary": "Most Australian government entities are running outdated technology – and AI systems may reveal their weaknesses, intentionally or not.",
-              "source": "The Conversation Africa",
-              "url": "https://theconversation.com/australias-legacy-systems-were-already-a-cyber-risk-ai-agents-are-raising-the-stakes-292981",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Top French literary prize drops novel over AI allegations",
-              "summary": "Organizers of France’s top literary prize, the Prix Goncourt, have removed a best-selling debut novel by Canadian-Haitian writer Thelyson Orelien from its longlist following online allegations that it",
-              "source": "Hurriyet Daily News",
-              "url": "https://www.hurriyetdailynews.com/top-french-literary-prize-drops-novel-over-ai-allegations-227404",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
-          "summary": ""
-        },
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-29T14:44:23.046368+08:00",
+  "last_updated": "2026-10-30T14:47:02.558813+08:00",
   "total_days": 31
 }
