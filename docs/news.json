@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "ceef78db",
+      "date": "2026-10-31",
+      "generated_at": "2026-10-31T14:36:26.241858+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Global Market: Bank of Japan achieves 2% inflation target after 13 years",
+              "summary": "The Bank of Japan declared its long-standing 2% inflation target achieved after more than 13 years, but kept its benchmark interest rate unchanged at 1.25%. Persistent inflation, rising oil and semico",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-achieves-2-inflation-target-after-13-years/articleshow/135347955.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Asian trading is mixed as worries about AI-related issues grow",
+              "summary": "Asian trading is mixed as worries about the future of artificial intelligence grow after Alphabet’s stock drop dragged on U.S. markets",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/Business/wireStory/asian-trading-mixed-worries-ai-related-issues-grow-137693961",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon's cloud business grows 39%, but $42 billion in cash flows out: Is AI spending becoming too expensive?",
+              "summary": "Amazon Web Services revenue rose 39.3% to $46 billion in the third quarter, its fastest growth in nearly five years. But AI-driven capital spending is weighing on cash flow: free cash flow turned nega",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/news/amazons-cloud-business-grows-39-but-42-billion-in-cash-flows-out-is-ai-spending-becoming-too-expensive-11793339012581.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon shares sink 7% as AI spending fuels cash-burn concerns, overshadow cloud growth",
+              "summary": "Amazon's shares dropped significantly in after-hours trading following disappointing earnings and substantial investments in artificial intelligence. The company reported a net income decline and lowe",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/amazon-shares-sink-7-as-ai-spending-fuels-cash-burn-concerns-overshadow-cloud-growth/articleshow/135347356.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Finland launches criminal probe into Google data centre land clearance",
+              "summary": "Google's subsidiary cleared more than 500 hectares of forest at two sites before mandatory environmental assessments were completed.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-10-30/google-data-centre-land-clearance-ai-finland-criminal-probe/107327336",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesia supports sustainable vegetable oils at China conference",
+              "summary": "The Consulate General of the Republic of Indonesia (KJRI) in Shanghai has expressed support for promoting sustainable vegetable oils under the framework of ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/438867/indonesia-supports-sustainable-vegetable-oils-at-china-conference",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
+              "summary": "Nvidia's $3 billion investment in Meta's share sale, announced on Oct. 30, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describ",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk-228791",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Justine McCarthy: A soldier explains his rationale for participating in genocide. ‘It’s so insanely fun’",
+              "summary": "NAZA documentary shows how modern warfare is pushing man’s inhumanity to man to terrifying new frontiers",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/opinion/2026/10/30/justine-mccarthy-naza-documentary-gaza-hamas-israel-idf-binyamin-netanyahu-war-genocide/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Newsletter Is Dead. Here’s How To Survive AI Agents | 152: What happens to your newsletter when ",
+          "summary": ""
+        },
+        {
+          "topic": "Kyro launches AI-powered investing platform for retail investors: Kyro connects more than 250 broker",
+          "summary": ""
+        },
+        {
+          "topic": "How to use social media audience segmentation to drive smarter business decisions: For brands, socia",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "cfa11ae0",
       "date": "2026-10-30",
       "generated_at": "2026-10-30T14:47:02.558813+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "5f17ac89",
-      "date": "2026-09-30",
-      "generated_at": "2026-09-30T14:16:52.277142+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Can you hang 2 hummingbird feeders together?",
-              "summary": "Can You Hang 2 Hummingbird Feeders Together? Optimizing Your Hummingbird Oasis The answer is yes, you can hang 2 hummingbird feeders together, but strategic placement is crucial to prevent territorial",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-hang-2-hummingbird-feeders-together/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Uncensored and Offensive Security AI Models Benchmark",
-              "summary": "Uncensored AI models or those fine-tuned for cybersecurity tasks. - JoasASantos/Offensive-Security-AI-Models",
-              "source": "Github.com",
-              "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI scraps release of next-generation ChatGPT model amid safety fears",
-              "summary": "The decision to hold back the model, called GPT-6.1 Astra, is likely to raise alarm bells on Wall Street.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16168455/OpenAI-scraps-release-generation-ChatGPT-model-amid-safety-fears.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Scammers now don't want your money or password, they just want...: Financial advisor warns of new fraud that can drain your finances in 30 minutes",
-              "summary": "A viral social media warning claims scammers are approaching people in public places for help with their phones and using the interaction to steal biometric information. The post alleges that AI-gener",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/scammers-now-dont-want-your-money-or-password-they-just-want-financial-advisor-warns-of-new-fraud-that-can-drain-your-finances-in-30-minutes/articleshow/134557884.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI cancels release of newest model due to safety concerns",
-              "summary": "OpenAI has cancelled the release of its newest AI model, Astra 6.1, after internal testing revealed it did not meet the company’s safety standards.\n\nRead More: https://punchng.com/openai-cancels-relea",
-              "source": "The Punch",
-              "url": "https://punchng.com/openai-cancels-release-of-newest-model-due-to-safety-concerns/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " Luis de la Fuente and the spirit of 2010, Lamine and more ️",
-              "summary": "Spain play Croatia tonight at the Sánchez-Pizjuán. The double-starred side make their home debut and dominate the front pages of almost the entire press.Marca leads with a patriotic De la Fuente, Sp..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/luis-de-la-fuente-and-the-spirit-of-2010-lamine-and-more-43534754",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google fights EU attempt to prise open Android to rival AI bots",
-              "summary": "Google will appeal the EU move under the Digital Markets Act because it would hamper users’ security",
-              "source": "Bloomberg",
-              "url": "https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Construction begins for Singapore’s long-delayed fourth egg farm",
-              "summary": "When fully built, the farm is expected to produce more than 500 million eggs yearly, which is almost a quarter of Singapore's current annual egg consumption.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/singapore-fourth-egg-farm-begins-construction-6416146",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
-          "summary": ""
-        },
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        },
-        {
-          "topic": "Anthony Scaramucci Defends COIN CEO Brian Armstrong After CLARITY Act Stalls: ‘No One Worked Harder’",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-30T14:47:02.558813+08:00",
+  "last_updated": "2026-10-31T14:36:26.241858+08:00",
   "total_days": 31
 }
