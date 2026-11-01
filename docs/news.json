@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "fa770c65",
+      "date": "2026-11-01",
+      "generated_at": "2026-11-01T15:07:05.989903+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "What is a good water source for hummingbirds?",
+              "summary": "What Is A Good Water Source For Hummingbirds? The best water source for hummingbirds is fresh, clean water offered in a shallow dish, bird bath, or misting system, designed to mimic natural sources li",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-a-good-water-source-for-hummingbirds/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is a summer flounder a fluke?",
+              "summary": "Is a Summer Flounder a Fluke? Unraveling the Identity The answer is simple: Yes, a summer flounder is a type of fluke. It’s one of several flatfish species commonly referred to as “fluke,” particularl",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-a-summer-flounder-a-fluke/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Lodha Developers rides housing boom in Q2, but keeps one eye on a bigger threat",
+              "summary": "Lodha Developers experienced a 10% rise in sales bookings, reaching Rs 5,037 crore in the second quarter. The company's pre-sales for the first half of the fiscal grew by 7% to Rs 9,670 crore. Lodha h",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/lodha-developers-rides-housing-boom-in-q2-but-keeps-one-eye-on-a-bigger-threat/articleshow/135390434.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Netflix's Problem Isn't Profits. It's Viewing Time",
+              "summary": "The stock market is near an all-time high, driven by a technology boom in artificial intelligence (AI). A prior leader of the technology boom -- Netflix (NASDAQ: NFLX) -- keeps slipping into one of it",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/30824f6b19dc225f",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+              "summary": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth E",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is a rainbow trout a predator?",
+              "summary": "Is a Rainbow Trout a Predator? Yes, rainbow trout are definitively predators. They actively hunt and consume a variety of aquatic life, playing a vital role in the ecosystem’s food web. Understanding ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-a-rainbow-trout-a-predator/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Are chickens afraid of flashlight?",
+              "summary": "Are Chickens Afraid of Flashlights? The Science Behind Their Reactions Are chickens afraid of flashlight? The simple answer is potentially, but it’s not a straightforward fear of the flashlight itself",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/are-chickens-afraid-of-flashlight/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Retired Penn professor arrested for blocking Uber delivery robots",
+              "summary": "Carolyn Marvin, Professor Emeritus at the Annenberg School of Communication, wrote to the DP that impeding the delivery robots is an exercise of her First Amendment rights.",
+              "source": "The Daily Pennsylvanian",
+              "url": "https://www.thedp.com/article/2026/10/penn-uber-eats-robots-artificial-intelligence-arrest",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Senator Patty Murray Accuses Trump of 'Health Care Sabotage' as Americans Face Higher Premiums, Medi",
+          "summary": ""
+        },
+        {
+          "topic": "The Newsletter Is Dead. Here’s How To Survive AI Agents | 152: What happens to your newsletter when ",
+          "summary": ""
+        },
+        {
+          "topic": "Kyro launches AI-powered investing platform for retail investors: Kyro connects more than 250 broker",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "ceef78db",
       "date": "2026-10-31",
       "generated_at": "2026-10-31T14:36:26.241858+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2bd0333c",
-      "date": "2026-10-01",
-      "generated_at": "2026-10-01T14:48:48.703922+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Tom Cruise, Alejandro G. Iñárritu Talk Digger at Academy Museum",
-              "summary": "“I was very successful since I was a kid,” Cruise told a packed Academy Museum screening. With his latest film, the actor, and Oscar-winning director Alejandro G. Iñárritu, are putting that star power",
-              "source": "Hollywood Reporter",
-              "url": "http://www.hollywoodreporter.com/movies/movie-news/digger-tom-cruise-academy-museum-alejandro-g-inarritu-1236716822/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China factory activity returns to growth in September",
-              "summary": "China’s factory activity returned to growth in September after two months of contraction, official data showed on Sept. 30, offering a modest sign of improvement as Beijing steps up support for the wo",
-              "source": "Hurriyet Daily News",
-              "url": "https://www.hurriyetdailynews.com/china-factory-activity-returns-to-growth-in-september-227538",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The Ergonomic Office Chair in the Age of AI",
-              "summary": "The office chair has evolved alongside changing workplaces over time. In each office era, the chair has reflected the way people work. Early office seating was built for clerical work: fixed wooden ch",
-              "source": "ArchDaily",
-              "url": "https://www.archdaily.com/1185014/the-ergonomic-office-chair-in-the-age-of-ai",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tech leaders sign AI self-regulation pledge",
-              "summary": "U.S. President Donald Trump said on Sept. 29 that technology executives had signed a voluntary agreement on artificial intelligence safeguards, describing their commitment to self-regulation as “moral",
-              "source": "Hurriyet Daily News",
-              "url": "https://www.hurriyetdailynews.com/tech-leaders-sign-ai-self-regulation-pledge-227536",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "☕️ What's going on with Raphinha?, fire in the Premier and today's 5️⃣ stories",
-              "summary": "Today international football gives us a breather, but the news cycle never stops and the spotlight is on England. The extremely harsh punishment looming over Manchester City for breaking every financi",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/whats-going-on-with-raphinha-fire-in-the-premier-and-todays-5-stories-43539609",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Fragmented road data may slow ADAS adoption in India: Here Technologies",
-              "summary": "The company said wider access to speed limits, road restrictions, lane information and road-sign data held by government agencies would help scale advanced driving applications",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/industry/auto/india-fragmented-road-data-adas-autonomous-driving-here-technologies-126093000409_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ASCI issues guidelines for labelling synthetically generated content in ads",
-              "summary": "ASCI's Guidelines for Synthetically Generated Content: The new ASCI guidelines specify when advertisers must disclose synthetically generated content, which uses are prohibited and when labels are not",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/industry/news/asci-issues-guidelines-for-labelling-synthetically-generated-content-in-ads-126093000414_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
-              "summary": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported the rebound, though",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "What is audience intelligence? A guide for marketing teams: What is audience intelligence, and why s",
-          "summary": ""
-        },
-        {
-          "topic": "Chess.com Down? Players Report Outage as #ChessComDown Trends Early Saturday Morning on Social Media",
-          "summary": ""
-        },
-        {
-          "topic": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close: Made On",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-31T14:36:26.241858+08:00",
+  "last_updated": "2026-11-01T15:07:05.989903+08:00",
   "total_days": 31
 }
