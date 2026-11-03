@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "90a14e72",
+      "date": "2026-11-03",
+      "generated_at": "2026-11-03T15:32:07.264735+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "AI is said to influence the results of the next election in Sri Lanka.",
+              "summary": "Election observers have issued warnings that Sri Lanka's election process is facing severe risks due to modern technological challenges created by social media and artificial intelligence (AI). Mr. Ro",
+              "source": "Gossiplankanews.com",
+              "url": "https://english.gossiplankanews.com/2026/11/ai-is-said-to-influence-results-of-next.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
+              "summary": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler s",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+              "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\nComments URL: https://news.ycombinator.com/item?id=50334038\nPoints: 3\n# Comme",
+              "source": "Cloudsecurityalliance.org",
+              "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "DryDel: Investment drives competitiveness",
+              "summary": "DryDel Shipping’s strategy for renewing its fleet and strengthening its competitiveness was outlined by the company’s chief executive, Costas Delaportas, at the TradeWinds Shipowners Forum Japan 2026 ",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2183088/drydel-investment-drives-competitiveness/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OTE announces improved figures despite competition",
+              "summary": "OTE Chairman and Chief Executive Kostas Nebis acknowledged pressure on retail prices from PPC’s entry into the fibre-to-the-home (FTTH) market and Starlink’s satellite broadband services, speaking to ",
+              "source": "Naftemporiki.gr",
+              "url": "https://www.naftemporiki.gr/english/2183086/ote-announces-improved-figures-despite-competition/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Inter, Icardi 5th? Milan-Inacio, Spalletti  at fans: AM news☀️",
+              "summary": "Serie A has a new outright leader: Lazio. The weekend brought us Inter's first defeat, as they fell to a disappointing loss against Milan in Saturday night's derby. It was Chivu's third defeat in thre",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/inter-icardi-5th-milan-inacio-spalletti-at-fans-am-news-43711590",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China’s graduate jobs crisis deepens as millions chase fewer opportunities",
+              "summary": "China’s annual graduation season has become a source of mounting anxiety for millions of young people entering the workforce. University campuses send record numbers of graduates into the job market, ",
+              "source": "Khabarhub.com",
+              "url": "https://english.khabarhub.com/2026/02/574052/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI, ADNOC, G42 sign deal on AI capabilities",
+              "summary": "OpenAI signed on Monday an agreement with Abu Dhabi National Oil Company (ADNOC) and Abu Dhabi-based artificial intelligence company G42 on the integration of AI capabilities.The deal was signed amid ",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/a4890f9a6a5905b0",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        },
+        {
+          "topic": "Senator Patty Murray Accuses Trump of 'Health Care Sabotage' as Americans Face Higher Premiums, Medi",
+          "summary": ""
+        },
+        {
+          "topic": "The Newsletter Is Dead. Here’s How To Survive AI Agents | 152: What happens to your newsletter when ",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "61dfd4cf",
       "date": "2026-11-02",
       "generated_at": "2026-11-02T15:11:58.487280+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "4703253c",
-      "date": "2026-10-03",
-      "generated_at": "2026-10-03T14:01:26.946173+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Scientist warns that AI could “spiral out of control” without global safeguards",
-              "summary": "Karen Hallberg, head of the Nobel Peace Prize-winning Pugwash Conferences, warned that self-improving AI may already be advancing beyond human control and urged governments and corporations to establi",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-10-02-scientist-ai-spiral-uncontrollably-without-global-safeguards.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google’s Gemini 4 “Argon” Faces Internal Doubts Over Real-World Coding Performance",
-              "summary": "Google parent company Alphabet on Wednesday unveiled Gemini 4 “Argon,” its flagship artificial intelligence model, according to the company. Alphabet shares traded about 2% higher after hours followin",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-10-02-google-gemini-argon-faces-internal-doubts.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic IPO Prospectus Reveals Company Bleeding Cash, Striving for $2T Valuation",
-              "summary": "Anthropic disclosed a net loss of $42 billion for 2025 and $518 billion in planned cloud, computing and infrastructure obligations in a draft initial public offering (IPO) prospectus reviewed by Reute",
-              "source": "Naturalnews.com",
-              "url": "https://www.naturalnews.com/2026-10-02-anthropic-ipo-prospectus-reveals-company-bleeding-cash.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "California tech exec arrested in US$300M Nvidia AI server smuggling case",
-              "summary": "US federal prosecutors on October 1 arrested a 38-year-old California man accused of violating US export controls by smuggling computer servers containing US$300 million worth of Nvidia artificial int",
-              "source": "Digitimes",
-              "url": "https://www.digitimes.com/news/a20261002PD225/california-nvidia-chips-technology-2023.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "So You Think You Could Be An Electrician?—Asterisk",
-              "summary": "Funny how the people telling kids to get jobs in the trades tend to be white-collar.",
-              "source": "Asteriskmag.com",
-              "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "nvidia/Nemotron-3-Diarization · Hugging Face",
-              "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
-              "source": "Huggingface.co",
-              "url": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why would a hummingbird hang upside down on a feeder?",
-              "summary": "Why Would a Hummingbird Hang Upside Down on a Feeder? Understanding This Odd Behavior Why would a hummingbird hang upside down on a feeder? Hummingbirds hanging upside down are usually signaling stres",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-would-a-hummingbird-hang-upside-down-on-a-feeder/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "FTC Probing OpenAI, Anthropic Over Product Safety Concerns",
-              "summary": "The Federal Trade Commission is scrutinizing OpenAI, Anthropic PBC and other artificial intelligence companies about the safety of their products amid high-profile cybersecurity incidents, according t",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/10/02/887673.htm",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The latest ploy to get you to spend more money: Bizarre cross-brand collabs: It's harder than ever t",
-          "summary": ""
-        },
-        {
-          "topic": "Creatorverse: Creators Are on the Forefront of AI – Whether They Like It Or Not: TheWrap and What's ",
-          "summary": ""
-        },
-        {
-          "topic": "Trump posts 'super intelligence' document with U.S. spelled as 'Unites States': U.S. President Donal",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-02T15:11:58.487280+08:00",
+  "last_updated": "2026-11-03T15:32:07.264735+08:00",
   "total_days": 31
 }
