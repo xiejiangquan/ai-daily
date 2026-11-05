@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "816b268a",
+      "date": "2026-11-05",
+      "generated_at": "2026-11-05T15:41:47.171923+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "US AI data centres turn to retired jet engines to meet power demand",
+              "summary": "With AI infrastructure driving electricity demand, US data centre operators are turning to retired aircraft engines converted into generators to secure power faster",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/us-ai-data-centres-turn-to-retired-jet-engines-to-meet-power-demand-126110400768_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How do deer get water in the winter?",
+              "summary": "How Deer Get Water in the Winter: A Survival Guide Deer survive the winter months by accessing water from a variety of sources, including melting snow and ice, open streams and rivers, and even the mo",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-do-deer-get-water-in-the-winter/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "️ Jesús de Miguel remembered, Champions League Wednesday's front pages",
+              "summary": "Football is in shock. The death of Jesús de Miguel has stunned the entire sporting world on a Tuesday to forget.On days like this, there is little point in talking about the Champions League or the s.",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/jesus-de-miguel-remembered-champions-league-wednesdays-front-pages-43722678",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tokyo Shares Tumble Wednesday Despite Strong Corporate Earnings",
+              "summary": "Japan's Nikkei 225 Stock Average closed at 62,188.63 on Wednesday, November 4, 2026, falling 893.23 points, or 1.42%, from the previous trading session as heavy selling in semiconductor and artificial",
+              "source": "Newsonjapan.com",
+              "url": "https://newsonjapan.com/article/151246.php",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "We have the most powerful technology in history, and we’re using it to stop hiring young people",
+              "summary": "We hold the most powerful technology in human history, and so far corporate America is mostly using it to write marketing copy and cut headcount.\nThrough September, U.S. employers announced 573,195 jo",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/a49fea7cf2973b42",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nurses Given Two Hours of Training Used AI Guidance to Capture Usable Heart Scans for 4,597 Rural Adults",
+              "summary": "In a preliminary study, rural nurses and CT technicians used AI guidance to capture heart ultrasound images, with experts rating more than 99% adequate for measurements.",
+              "source": "Medical Daily",
+              "url": "https://www.medicaldaily.com/ai-guided-heart-ultrasounds-rural-health-workers-480778",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple 27.3 developer beta brings Siri AI, Health app and Audio Intelligence",
+              "summary": "Apple's latest software updates in beta expand AI capabilities across its ecosystem, bringing new Siri features, a redesigned Health app, Apple Watch upgrades, fitness tools, and more",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/technology/tech-news/apple-27-3-developer-beta-brings-siri-ai-health-app-and-audio-intelligence-126110400719_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Democrats win Congress: How they did it, and what it means",
+              "summary": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
+              "source": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        },
+        {
+          "topic": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets: BTC price prediction tu",
+          "summary": ""
+        },
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "a464a76c",
       "date": "2026-11-04",
       "generated_at": "2026-11-04T15:14:02.477600+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "1e356f10",
-      "date": "2026-10-05",
-      "generated_at": "2026-10-05T14:32:20.639616+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "What is possum bait?",
-              "summary": "What is Possum Bait? Possum bait is a specially formulated substance designed to attract and eliminate possums, primarily to protect native flora and fauna. It typically consists of a palatable food s",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-possum-bait/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Trump names Jay Clayton AI czar to lead new Super Intelligence Force",
-              "summary": "Clayton's leadership could shape US AI policy, influencing global tech dynamics and ensuring national security in the evolving AI landscape.\nThe post Trump names Jay Clayton AI czar to lead new Super ",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/trump-appoints-jay-clayton-ai-czar/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why dig a fox hole?",
-              "summary": "Why Dig a Fox Hole? The Ultimate Survival Defense The answer to why dig a fox hole? is simple: to increase your chances of survival in a combat zone by providing crucial protection from enemy fire and",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-dig-a-fox-hole/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "$1.99 | How Not to Be Wrong: The Power of Mathematical Thinking (eBook) by Jordan Ellenberg",
-              "summary": "*Available Retailers:*[list][*]Amazon [amazon.com] (Kindle eBook)[*]iBooks [apple.com][*]Barnes & Noble [barnesandnoble.com] (NOOK eBook)[*]Google Play Store [google.com][*]Kobo [kobo.com][*]Bookshop.",
-              "source": "Slickdeals.net",
-              "url": "https://slickdeals.net/f/20094732-1-99-how-not-to-be-wrong-the-power-of-mathematical-thinking-ebook-by-jordan-ellenberg",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "South Korean president orders probe into data leaks across financial industry",
-              "summary": "SOUTHKOREA-HACK:South Korean president orders probe into data leaks across financial industry",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/companies/south-korean-president-orders-probe-into-data-leaks-across-financial-industry-11791094811850.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Jio Platforms IPO likely by Oct end at enterprise valuation of $143-146 billion",
-              "summary": "Jio Platforms eyes India's largest IPO by Oct end, valuing the enterprise at $143-146 billion (~₹12 lakh crore) with about $3.8 billion offering.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/markets/jio-platforms-ipo-likely-by-oct-end-at-enterprise-valuation-of-143-146-billion/article71543036.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Provocation timed to perfection: did he spark Germany into life?",
-              "summary": "Jürgen Klopp’s first matches in charge of the Germany team have sparked mixed feelings across football-loving Germany. The almost unanimous verdict: the debut against the Netherlands was still quit...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/provocation-timed-to-perfection-did-he-spark-germany-into-life-43558365",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
-              "summary": "Jio Platforms IPO is touted as India's largest public offer at an estimated size of $3.8 billion",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/ipo/jio-ipo-likely-by-oct-end-at-enterprise-valuation-of-above-12-trillion-126100400146_1.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
-          "summary": ""
-        },
-        {
-          "topic": "Latest Trends in Digital Marketing: AI SEO and Social Media: Discover how AI SEO and social media ar",
-          "summary": ""
-        },
-        {
-          "topic": "How to post on social media from Claude (with Hootsuite’s connector): Claude can do more than write ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-04T15:14:02.477600+08:00",
+  "last_updated": "2026-11-05T15:41:47.171923+08:00",
   "total_days": 31
 }
