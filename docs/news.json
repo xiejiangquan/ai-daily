@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "66ae741a",
+      "date": "2026-11-06",
+      "generated_at": "2026-11-06T15:38:30.497020+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Psychic Charlatans Are Angry AI Is Stealing Even Their Mystical Livelihoods",
+              "summary": "Not even psychic readers divining the future are safe from the ever-encroaching threat of AI stealing every possible job.",
+              "source": "Jezebel",
+              "url": "https://www.jezebel.com/psychics-angry-at-ai-stealing-customers-psychic-reading-apps-urban-mystic-your-ai-psychic",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Piero Cipollone: Shaping the future of money",
+              "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purch",
+              "source": "Europa.eu",
+              "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "24-hour arrest deadline starts from detention, not formal arrest: SC",
+              "summary": "The Supreme Court ruled that the 24-hour period for producing an accused before a magistrate begins from the time of detention, not when the investigating agency formally records the arrest",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/india-news/24-hour-arrest-deadline-starts-from-detention-not-formal-arrest-sc-126110500813_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SC rules 24-hour arrest deadline begins from detention, not formal arrest",
+              "summary": "The Supreme Court on Thursday ruled that the 24-hour constitutional deadline for producing an arrested person before a magistrate begins from the moment he is detained, and not from the time the polic",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/india-news/sc-rules-24-hour-arrest-deadline-begins-from-detention-not-formal-arrest-126110500753_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OIEquestra: Bringing Young AI Innovators and Enterprise Technology Together",
+              "summary": "Newgen Software's nationwide hackathon attracted 1,800 teams from over 30 institutions, encouraging students to address real-world challenges through NewgenONE platform. India's emerging technology ta",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/content/specials/oiequestra-bringing-young-ai-innovators-and-enterprise-technology-together-126110301914_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Google to Disable Search for Schools That Refuse AI Tools",
+              "summary": "Google has sparked criticism after announcing that schools refusing to allow students to use artificial intelligence will also lose access to Google Search, effectively forcing educators to choose bet",
+              "source": "Sankakucomplex.com",
+              "url": "https://news.sankakucomplex.com/n/-Xc4czQ_p4DQZ0zpIGU3lw",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Younger 0.1.1",
+              "summary": "A Younger Project for Artificial Intelligence: Datasets, Benchmarks, and Applications.",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/younger/0.1.1/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Rs 40,000 crore in 13 days! Is the great FII reversal finally here to save Nifty bulls?",
+              "summary": "Foreign institutional investors have pumped nearly Rs 40,000 crore into Indian equities in 13 trading sessions, raising hopes of a sustained reversal after months of heavy selling. Falling crude oil p",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-40000-crore-in-13-days-is-the-great-fii-reversal-finally-here-to-save-nifty-bulls/articleshow/135563005.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        },
+        {
+          "topic": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets: BTC price prediction tu",
+          "summary": ""
+        },
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "816b268a",
       "date": "2026-11-05",
       "generated_at": "2026-11-05T15:41:47.171923+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "51b4d90e",
-      "date": "2026-10-06",
-      "generated_at": "2026-10-06T15:10:08.803706+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Is AI coming for audiobooks? [Marketplace]",
-              "summary": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. It remains to be seen if consumers will buy in.",
-              "source": "Marketplace.org",
-              "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Nepali Congress CWC approves Gagan Thapa’s political report",
-              "summary": "KATHMANDU: The Central Working Committee of the Nepali Congress has approved the political report that party President Gagan Thapa will present during the closed session of the 15th General Convention",
-              "source": "Khabarhub.com",
-              "url": "https://english.khabarhub.com/2026/05/570756/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Technology Officers Navigating ‘Age of Perpetual Change’",
-              "summary": "Technology Officers Navigating ‘Age of Perpetual Change’\n\n \n\n\n \nkathryn.palmer…\n\nMon, 10/05/2026 - 03:00 AM\n\nDetermining where artificial intelligence adds value to colleges and future-proofing studen",
-              "source": "Inside Higher Ed",
-              "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/10/05/higher-ed-tech-officers-navigating-age",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What will next leader of UN need to get job done in more complex world?",
-              "summary": "On January 1, the next United Nations secretary-general will take over an aging organisation still controlled by World War II powers. What will the world need from that person?\nOnce a major player in ",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/what-will-next-leader-of-un-need-to-get-job-done-in-more-complex-world-126100500292_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘No more AI’: Elon Musk to rebrand SpaceXAI as SpaceXSI — What is the Trump connection behind the move?",
-              "summary": "Musk's decision is a direct nod to a recent executive order signed by Trump, which mandates the US executive branch to replace the term “Artificial Intelligence” with “Super Intelligence”.",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/companies/news/no-more-ai-elon-musk-to-rebrand-spacexai-as-spacexsi-what-is-the-trump-connection-behind-the-move-11791179606806.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "GI cancers could nearly double by 2050: Doctors flag rising cases, late detection and new cancer risks at World Congress of Gastroenterology (WCOG) 2026",
-              "summary": "Endoscopy taking at least seven minutes enhances the detection of gastric cancer and dysplasia significantly. Gastrointestinal cancers remain a serious global health issue, causing a high number of fa",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/health/gi-cancers-could-nearly-double-by-2050-doctors-flag-rising-cases-late-detection-and-new-cancer-risks-at-world-congress-of-gastroenterology-wcog-2026/articleshow/134688707.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ISSUE 95 | The twelve-minute test answers your fitness",
-              "summary": "Wrist estimates of VO2 max miss fit athletes by six to eight points. A 1968 running test and a 1992 cycling test still read you better, and they measure the thing that actually matters.",
-              "source": "Substack.com",
-              "url": "https://endurancecapitalhq.substack.com/p/issue-95-the-twelve-minute-test-answers",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the word for a snake enclosure?",
-              "summary": "What is the word for a snake enclosure? The most common word for a snake enclosure is a vivarium, although terms like terrarium, reptarium, and snake tank are also frequently used, each with subtle di",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-word-for-a-snake-enclosure/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
-          "summary": ""
-        },
-        {
-          "topic": "Latest Trends in Digital Marketing: AI SEO and Social Media: Discover how AI SEO and social media ar",
-          "summary": ""
-        },
-        {
-          "topic": "How to post on social media from Claude (with Hootsuite’s connector): Claude can do more than write ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-05T15:41:47.171923+08:00",
+  "last_updated": "2026-11-06T15:38:30.497020+08:00",
   "total_days": 31
 }
