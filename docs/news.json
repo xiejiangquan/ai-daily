@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "aa29da17",
+      "date": "2026-11-07",
+      "generated_at": "2026-11-07T14:48:59.630290+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "UK partnership opens more opportunities for Pakistanis to study in Britain",
+              "summary": "The UK Government’s Chevening programme and Allied Bank Limited (ABL) have launched a new partnership that will enable talented Pakistanis to pursue fully funded master’s degrees at leading UK univers",
+              "source": "Www.gov.uk",
+              "url": "https://www.gov.uk/government/news/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "NextDC Shares Extend Rally Above A$10 as Takeover Bets Defy Global AI Rout Following Goodman Share Raid",
+              "summary": "NextDC shares rose 5.6% to A$10.40, extending a record rebound after Goodman Group and Digital Realty Trust bought stakes of up to 9.9% in the company.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/nextdc-shares-rise-goodman-digital-realty-stakes-1878005",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What hummingbird feeder attracts the most hummingbirds?",
+              "summary": "What Hummingbird Feeder Attracts the Most Hummingbirds? The hummingbird feeder that attracts the most hummingbirds is one that offers a readily available, high-quality nectar source in a visually appe",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-hummingbird-feeder-attracts-the-most-hummingbirds/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "TPG Telecom Shares Rise as Defensive Telco Draws Buyers in Market Selloff as Investors Eye Cash Flow Recovery",
+              "summary": "TPG Telecom shares gained 2.2% to A$4.10 as investors favoured defensive sectors during a market sell-off, despite the company releasing no price-sensitive news.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/tpg-telecom-shares-rise-defensive-stocks-tech-selloff-1877997",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "New sporting director wanted! Ex-international linked with Hannover?",
+              "summary": "There is still no calm at Hannover 96 under head coach Sandro Wagner, despite their recent morale-boosting 2–1 win over Dynamo Dresden. Sitting 12th, the second-division club are falling short of th..",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/new-sporting-director-wanted-ex-international-linked-with-hannover-43733938",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Why Democrats' win in US midterms could spell trouble for the AI boom",
+              "summary": "Impact of Democrats' Win on AI Stocks: The Democrats' win in the US midterms has raised fears of tighter restrictions on data centre construction and AI development, leading to a fall in global techno",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/us-midterms-elections-2026-trump-democrats-republicans-data-centres-stocks-126110600691_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Klopp leaves out Adeyemi: Weidenfeller has a theory",
+              "summary": "No place in Germany’s squad: Weidenfeller suspects defensive weaknesses are behind Adeyemi’s omission. Karim Adeyemi’s exclusion from the squad for the upcoming internationals against Serbia and...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/klopp-leaves-out-adeyemi-weidenfeller-has-a-theory-43733906",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tencent launches Hy4 model to boost visual reasoning, AI safety",
+              "summary": "Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse i",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20261106PD206/tencent-training-cybersecurity-testing-data.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        },
+        {
+          "topic": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets: BTC price prediction tu",
+          "summary": ""
+        },
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "66ae741a",
       "date": "2026-11-06",
       "generated_at": "2026-11-06T15:38:30.497020+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "50033112",
-      "date": "2026-10-07",
-      "generated_at": "2026-10-07T14:50:03.880548+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Renewables: International investment interest in Greek offshore wind farms",
-              "summary": "Greece participated with a national pavilion at WindEnergy Hamburg 2026, the leading international exhibition for wind energy, held in Hamburg.\nAccording to Enterprise Greece, which organised the Gree",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2171200/renewables-international-investment-interest-in-greek-offshore-wind-farms/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "World Bank raises India FY27 growth forecast to 7.1%, flags oil, El Niño risks",
-              "summary": "The World Bank has upgraded India's economic growth forecast to 7.1% for fiscal 2026-27. This change reflects strong domestic consumption, despite ongoing inflationary pressures. Other major forecaste",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/economy/indicators/world-bank-raises-india-fy27-growth-forecast-to-7-1-flags-oil-el-nio-risks/articleshow/134725867.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "☕️ Messi says goodbye, Mbappe distrusts the doctor and today's 5️⃣ stories",
-              "summary": "Today we’ll wrap up the international break by enjoying Spain in action once again, as they look to secure their place in the Nations League quarter-finals in Croatia. Then, in the early hours, we ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/messi-says-goodbye-mbappe-distrusts-the-doctor-and-todays-5-stories-43567250",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What animal is closest to our intelligence?",
-              "summary": "What Animal Is Closest to Our Intelligence? The animal kingdom boasts a diverse array of cognitive abilities, but chimpanzees, along with other great apes, are widely considered the closest animals to",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-animal-is-closest-to-our-intelligence/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Germany is turning abandoned coal mines into 23 lakes and a wetland landscape",
-              "summary": "In eastern Germany, enormous pits carved into the landscape by decades of lignite mining are being transformed into a vast network of lakes, wetlands and",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "EU vows AI rules will protect Europeans. Will they?",
-              "summary": "The EU says its AI Act is strong enough to address risks from advanced AI systems, including loss-of-control incidents, but lawmakers and experts warn of gaps around liability, enforcement capacity an",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/international/business/eu-vows-ai-rules-will-protect-europeans-will-they/articleshow/134725459.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ASX 200 Rises for Third Day as Property Stocks Rebound Despite Consumer Sentiment Plunge After RBA Hike",
-              "summary": "Australian shares extended their recovery, with the S&P/ASX 200 rising 0.57% as property stocks and miners advanced despite sharply weaker consumer confidence following the RBA's rate hike.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/australian-shares-rise-consumer-confidence-collapse-1876308",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Piyush Goyal takes India investment pitch to AIA, MetLife, IBM and General Atlantic",
-              "summary": "Commerce Minister Piyush Goyal promoted India as an investment destination during meetings with leading global firms. He highlighted the country's regulatory reforms and demand for services, especiall",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/india/piyush-goyal-takes-india-investment-pitch-to-aia-metlife-ibm-and-general-atlantic/articleshow/134724830.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The End of Social Media: Algorithms and short-form video drove engagement. They also made it easier ",
-          "summary": ""
-        },
-        {
-          "topic": "The Keys to Trusting Your Gut: Editor's Note: This article is a reprint. It was originally published",
-          "summary": ""
-        },
-        {
-          "topic": "Latest Trends in Digital Marketing: AI SEO and Social Media: Discover how AI SEO and social media ar",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-06T15:38:30.497020+08:00",
+  "last_updated": "2026-11-07T14:48:59.630290+08:00",
   "total_days": 31
 }
