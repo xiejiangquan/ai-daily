@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "121e5638",
+      "date": "2026-11-08",
+      "generated_at": "2026-11-08T14:54:58.726539+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Mother of kids thrown off parking garage by father says her husband was 'a wonderful dad'",
+              "summary": "Patrick Lynch, 42, was found dead with his eight-year-old son and six-year-old daughter at the bottom of a Pennsylvania parking garage, in what investigators believe was a double murder-suicide.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/news/article-16273211/Mother-kids-thrown-pennsylvania-parking-garage-father-murder-suicide.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Cosa sappiamo su Mistral Large 4?",
+              "summary": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among op",
+              "source": "Il Sole 24 Ore",
+              "url": "https://www.infodata.ilsole24ore.com/2026/11/07/cosa-sappiamo-su-mistral-large-4/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the range of a hummingbird?",
+              "summary": "Hummingbird Range: A Deep Dive into Their Distribution The range of a hummingbird is incredibly diverse, spanning from Alaska to Tierra del Fuego; in essence, hummingbird range is limited only by the ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-range-of-a-hummingbird/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Environmental groups adopt AI, warn of data center impacts in Ohio",
+              "summary": "The integration of AI by environmental groups may drive regulatory changes in Ohio, balancing tech benefits with sustainability concerns.\nThe post Environmental groups adopt AI, warn of data center im",
+              "source": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/environmental-groups-adopt-ai-warn-of-data-center-impacts-in-ohio/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+              "summary": "WASHINGTON, Nov 7 : Environmental groups worldwide are using artificial intelligence to analyze climate data, track forest fires and count endangered wildlife – embracing a technology they also warn i",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-6532841",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI investment fears drive global stock sell-off",
+              "summary": "Wall Street recovered some ground on Nov. 6 after fears that Democratic election gains could slow the U.S. artificial intelligence investment boom triggered a sell-off that spread to Asian and Europea",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/ai-investment-fears-drive-global-stock-sell-off-229124",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+              "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure in",
+              "source": "The Times of India",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Ella McSweeney: If we build it, the lesser horseshoe bats will come",
+              "summary": "Native to the west of Ireland, the species is struggling to survive amid intensified agriculture and light pollution. But small ‘bat towers’ are helping to turn the tide",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/life-style/2026/11/07/if-we-build-it-the-lesser-horseshoe-bats-will-come/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        },
+        {
+          "topic": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets: BTC price prediction tu",
+          "summary": ""
+        },
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "aa29da17",
       "date": "2026-11-07",
       "generated_at": "2026-11-07T14:48:59.630290+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "6a6a88c7",
-      "date": "2026-10-08",
-      "generated_at": "2026-10-08T14:58:58.095668+08:00",
-      "headline": "今日 AI 新闻速览（48 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "️ Another Merinazo in Croatia: Wednesday's front pages",
-              "summary": "The sports front pages celebrate La Roja's victory in Croatia, inspired by the midfielder from Navarre, and review the transfer market and the latest club news.The Spanish sports press is unanimous th",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/another-merinazo-in-croatia-wednesdays-front-pages-43572062",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "RBI Flags Elevated AI Asset Valuations, Geopolitical Tensions & High Debt As Major Risks To Global Economic Outlook",
-              "summary": "The RBI has flagged elevated AI-related asset valuations, geopolitical tensions, tighter global financial conditions and high public debt as risks to the global economy. It raised India’s 2026-27 grow",
-              "source": "Free Press Journal",
-              "url": "https://www.freepressjournal.in/business/rbi-flags-elevated-ai-asset-valuations-geopolitical-tensions-high-debt-as-major-risks-to-global-economic-outlook",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "World faces risk cocktail from AI, oil and debt: IMF's Kristalina Georgieva",
-              "summary": "The rush to develop artificial intelligence is delivering a growth spurt that's so far confined to a handful of countries, Managing Director Kristalina Georgieva said",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/world-faces-risk-cocktail-from-ai-oil-and-debt-imf-s-kristalina-georgieva-126100700433_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "IMF chief urges countries to do more to curb debt and regulate AI",
-              "summary": "The head of the International Monetary Fund says countries both rich and poor must take faster action to cut debt and counter growing inequality as their economies weather a triple whammy from the AI ",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/Business/wireStory/imf-chief-urges-countries-curb-debt-regulate-ai-137056818",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AMD plans to invest tens of billions in its global supply chain as AI demand outruns output",
-              "summary": "AMD's massive investment in its supply chain highlights the critical need for robust infrastructure to meet surging AI-driven demand.\nThe post AMD plans to invest tens of billions in its global supply",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/amd-invest-tens-of-billions-supply-chain/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Juve eye Doumbia, Kovacic-Inter and 4️⃣ Napoli returns: morning news ☀️",
-              "summary": "Three days to go and the league will be back in 'on' mode. The international break is already a distant memory, and Serie A clubs are preparing for the restart.Watch every Serie BKT match live with La",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/juve-eye-doumbia-kovacic-inter-and-4-napoli-returns-morning-news-43572041",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What's fueling the surge in Penguin Solutions shares?",
-              "summary": "Penguin Solutions shares jumped after the company reported record fiscal fourth-quarter results and issued a stronger outlook for fiscal 2027. Revenue rose 68% year-on-year to $566.7 million, while ad",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/markets/us-stocks/news/whats-fueling-the-surge-in-penguin-solutions-shares/penguin-solutions-stock-surges-after-q4-beat/slideshow/134759471.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "City council meeting erupts into chaos after planned data center vote postponed",
-              "summary": "Chaos erupted at the end of a Tennessee city council hearing when officials postponed a vote on Elon Musk's data centers, sparking a fistfight and protesters taking over the meeting hall.",
-              "source": "New York Post",
-              "url": "https://nypost.com/2026/10/07/us-news/memphis-city-council-meeting-erupts-into-chaos-over-vote-on-musk-data-centers/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Treg (OpenRouter for Tools): OpenRouter for agent tools. Join community here: https://discord.gg/6mQ",
-          "summary": ""
-        },
-        {
-          "topic": "55 October Prime Day fitness deals I’m pumped to find as a wellness writer: Ready to invest in your ",
-          "summary": ""
-        },
-        {
-          "topic": "The End of Social Media: Algorithms and short-form video drove engagement. They also made it easier ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-07T14:48:59.630290+08:00",
+  "last_updated": "2026-11-08T14:54:58.726539+08:00",
   "total_days": 31
 }
