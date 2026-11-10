@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3fc94568",
+      "date": "2026-11-10",
+      "generated_at": "2026-11-10T15:59:05.231864+08:00",
+      "headline": "今日 AI 新闻速览（47 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+              "summary": "Secretary of State Marco Rubio will meet his counterparts from the Group of 7 industrialized democracies this week",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stand collapses mid-match: fans fall through the floor",
+              "summary": "A frightening moment in Norway’s Eliteserien! A stand collapsed during a top-flight match, forcing away fans to be evacuated. It happened yesterday in the 40th minute of the match between Tromsø IL...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/stand-collapses-mid-match-fans-fall-through-the-floor-43749852",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☀️ Juve, 3 back soon! Inter, 4 new deals  Allegri: morning news",
+              "summary": "The international break brings major developments at Serie A's biggest clubs. Juventus are looking to welcome back several injured players, Milan have given their squad a week off, and Inter are prepa",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/juve-3-back-soon-inter-4-new-deals-allegri-morning-news-43749790",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do hedgehogs eat maggots?",
+              "summary": "Do Hedgehogs Eat Maggots? A Grubby Gastronomic Guide Yes, hedgehogs do eat maggots, often readily consuming them as part of their insectivorous diet, especially in the wild. Maggots represent a valuab",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-hedgehogs-eat-maggots/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "370 Books in 20 months: South African author defends her use of AI",
+              "summary": "South African writer Coral Hart has published more than 370 books since February 2025 using artificial intelligence, a process she passionately defends despite criticism and threats.",
+              "source": "eNCA",
+              "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What time do squirrels wake up?",
+              "summary": "What Time Do Squirrels Wake Up?: A Deep Dive Squirrels are generally early risers, typically waking up around sunrise, though the precise time can vary depending on the season, location, and specific ",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-time-do-squirrels-wake-up/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
+              "summary": "DeepSeek’s Harness artificial intelligence agent framework has reached 1.54 million daily active users less than three months after launch, the Chinese AI champion said on Sunday, marking rapid growth",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/bcf282e2c85e52dc",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "KFF Health News: Democrats’ election rout is poised to dramatically reorder federal health policy",
+              "summary": "Democrats’ decisive sweep of the U.S. House and Senate in Tuesday’s elections will reshape the direction of federal health policy — setting the stage for oversight investigations, a legislative push",
+              "source": "Magnoliareporter",
+              "url": "https://www.magnoliareporter.com/news_and_business/regional_news/article_1f8c5230-ccde-4a68-8550-2ce2917a5376.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        },
+        {
+          "topic": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets: BTC price prediction tu",
+          "summary": ""
+        },
+        {
+          "topic": "Netanyahu’s Victory Sets Off Warnings of Global Catastrophe: Today,…. Netanyahu emerges as leader of",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "34752c33",
       "date": "2026-11-09",
       "generated_at": "2026-11-09T15:38:31.119664+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f54a636c",
-      "date": "2026-10-10",
-      "generated_at": "2026-10-10T14:40:20.925219+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "U.N. Rights Chief: Legacy of Slavery and Colonialism Still Fuels Racism",
-              "summary": "Source: United Nations News\r\nOver 30 million people were violently uprooted from Africa and condemned to a life of slavery, yet no country involved in the slave trade or colonialism has fully confront",
-              "source": "UN News",
-              "url": "https://news.un.org/en/story/2026/10/1168554",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The auditor is no longer alone. There’s another intelligence in the room",
-              "summary": "Auditors are increasingly adopting artificial intelligence to enhance the efficiency and accuracy of audits in India. These technological advancements allow auditors to analyze vast amounts of data an",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/ai-is-reshaping-the-future-of-auditing-creating-new-opportunities-and-changing-audit-jobs-deloitte-ey-kpmg-pwc-and-bdo/articleshow/134814978.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mind games: AI behaves more like a brain than a database - Asia Times",
-              "summary": "When people think about what ChatGPT or other large language models are doing behind the scenes, it’s common to reach for the language of computing. You",
-              "source": "Asia Times",
-              "url": "https://asiatimes.com/2026/10/mind-games-ai-behaves-more-like-a-brain-than-a-database/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the rarest bat species in the world?",
-              "summary": "What is the Rarest Bat Species in the World? The Critically Endangered Bulmer’s Fruit Bat (Aproteles bulmerae) of Papua New Guinea is widely considered the rarest bat species in the world, with extrem",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-rarest-bat-species-in-the-world/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Today in Germany: A roundup of the latest news on Friday",
-              "summary": "Two officials killed in shooting during routine weapons check, Left Party ready to move forward with coalition talks in Berlin, the British Prime Minister meets Merz in Germany to strengthen ties and ",
-              "source": "The Local Germany",
-              "url": "https://www.thelocal.de/20261009/today-in-germany-a-roundup-of-the-latest-news-on-friday-143",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Digital Culture Review: welcome to the age of verification",
-              "summary": "It’s common to wake up in the morning to receive a host of videos from your friends and family, sharing the most outrageous things that happened over the last few hours. But, when everything is turned",
-              "source": "Wearesocial.com",
-              "url": "https://wearesocial.com/us/blog/2026/10/digital-culture-review-welcome-to-the-age-of-verification/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "☕️ The league and Ronaldinho are finally back, plus Friday's 5️⃣ stories",
-              "summary": "It's Friday, and the elite football we've missed so much returns to our lives in Europe's top leagues. Here are our five top stories to get you ready for a day packed with great football.  Which ...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/the-league-and-ronaldinho-are-finally-back-plus-fridays-5-stories-43582091",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "3 Reasons To Add Kim Young Kwang And Chae Soo Bin’s Rom-Com “Take Charge Of My Heart” To Your Watchlist",
-              "summary": "Netflix’s new series “Take Charge of My Heart” is premiering today! Based on a web novel, “Take Charge of My Heart” is an electrifying romantic comedy about a man whose artificial heart is running out",
-              "source": "soompi",
-              "url": "http://www.soompi.com/article/1876580wpp/3-reasons-to-add-kim-young-kwang-and-chae-soo-bins-rom-com-take-charge-of-my-heart-to-your-watchlist",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "MrBeast, Alex Cooper and Khaby Lame Lead ESHAP and What’s Trending 2nd Annual Creator Map | Exclusiv",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: I gave my Pi agent eyes on X: pi-x is a pi extension that lets Pi coding agent to interact ",
-          "summary": ""
-        },
-        {
-          "topic": "Grok Bot gains native X search, analyzing more than 100 posts per prompt: Grok Bot's enhanced capabi",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-09T15:38:31.119664+08:00",
+  "last_updated": "2026-11-10T15:59:05.231864+08:00",
   "total_days": 31
 }
