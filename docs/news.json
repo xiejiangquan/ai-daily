@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "fb7da7ca",
+      "date": "2026-11-13",
+      "generated_at": "2026-11-13T15:35:31.415856+08:00",
+      "headline": "今日 AI 新闻速览（46 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Chinese university bought advanced Nvidia chips despite US curbs",
+              "summary": "BEIJING: A Chinese university with close ties to the country's defence bodies recently bought advanced AI chips made by tech giant Nvidia, procurement notices show, despite stringent US controls.China",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/east-asia/china-northwestern-polytechnical-university-bought-nvidia-chips-6541951",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Today in Germany: A roundup of the latest news on Thursday",
+              "summary": "Tax plans for 2027 changed ahead of budget talks, Social Democrats call for stronger residence rights for working refugees, Allianz and Siemens post record profits and more news on Thursday, October 1",
+              "source": "The Local Germany",
+              "url": "https://www.thelocal.de/20261112/today-in-germany-a-roundup-of-the-latest-news-on-thursday-144",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "UK economy grows 0.7% in third quarter - ONS data shows",
+              "summary": "The UK economy grew 0.7% in the third quarter of 2026, faster than its 0.5% growth in the second quarter of the year, official figures showed today.",
+              "source": "RTE",
+              "url": "https://www.rte.ie/news/business/2026/1112/1598912-uk-economy-grows-0-7-in-third-quarter-ons-data-shows/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Data centre industry butts up against community challenges",
+              "summary": "The peak body for the data centre industry says community consultation remains a sticking point, as Quantum DC halts its Tungkillo project.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-11-12/data-centre-industry-butts-up-against-community-challenges/107379250",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+              "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "National Security engages stakeholders to review strategy",
+              "summary": "The National Security Council Secretariat (NSCS) has held a stakeholders’ forum at Damongo as part of efforts to review the 2020 National Security Strategy (NSS) in response to emerging security threa",
+              "source": "Thechronicle.com.gh",
+              "url": "https://thechronicle.com.gh/national-security-engages-stakeholders-to-review-strategy/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal",
+              "summary": "Nvidia's investigation into the affair between CEO Jensen Huang and an alleged Chinese spy is highlighting the risk of espionage to Silicon Valley firms that are developing cutting-edge technology, pa",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/b9c66d9ed37cdd9b",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is ASEAN and why does the bloc matter?",
+              "summary": "ASEAN grapples with Myanmar turmoil, regional rivalries, and shared challenges as nations prepare for Manila’s summit and a possible US-ASEAN outreach amid China tensions",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/what-is-asean-and-why-does-the-bloc-matter/article71692602.ece",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "I Accidentally Became a Millionaire: Article URL: https://lyra.horse/blog/2026/11/disinformation-mac",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More: A syste",
+          "summary": ""
+        },
+        {
+          "topic": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Searc",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "aa6b9a5d",
       "date": "2026-11-12",
       "generated_at": "2026-11-12T15:56:45.464107+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "123af442",
-      "date": "2026-10-13",
-      "generated_at": "2026-10-13T15:20:25.330139+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "☕️ Breakfast FC : Kvara sends IShowSpeed wild , Seedorf in Brazil ",
-              "summary": "Kvara makes IShowSpeed lose it A big moment on the internet this Sunday evening: Khvicha Kvaratskhelia joined the famous American content creator IShowSpeed on a livestream.The pair played EA FC 2...",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/breakfast-fc-kvara-sends-ishowspeed-wild-seedorf-in-brazil-43598537",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Jio IPO may be valued at Rs 11 lakh crore: What it means for RIL, Bharti Airtel and telecom stocks",
-              "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO could become India’s biggest-ever share sale, valuing Mukesh Ambani’s digital business at up to Rs 11 lakh crore. With global and domestic investors showing",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": " I hope if they touch a hair on my head…: Cucurella on Vinicius' red card",
-              "summary": "The controversial sending-off of Vinicius Júnior following an incident with Nathan Saliba continues to have repercussions, with key moments unfolding away from the main action. The tension on the pit.",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/i-hope-if-they-touch-a-hair-on-my-head-cucurella-on-vinicius-red-card-43598506",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ukraine says Putin is ignoring Trump's 'energy ceasefire' claim, with power plants already hit",
-              "summary": "Ukraine has accused Russia of striking a power plant in Kyiv after Donald Trump announced an 'energy ceasefire' between the warring countries.",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16201679/Ukraine-says-Putin-ignoring-Trumps-energy-ceasefire-claim-power-plants-hit.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TCS to hire 80% of workforce with digital, AI skills; expects margin gains",
-              "summary": "As much as 80 per cent of TCS' new hires will be talent with digital and Artificial Intelligence (AI) skills going forward, a top company official has said.\nWith the share of AI-led work in overall re",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/companies/news/tcs-to-hire-80-of-workforce-with-digital-ai-skills-expects-margin-gains-126101200249_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Tech company Tines to create 100 jobs in Ireland over two years and open new facility",
-              "summary": "More than half will be entry-level positions",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/10/12/tech-company-tines-to-create-100-jobs-in-ireland-over-two-years-and-open-new-facility/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Employers use AI to monitor staff who also don’t benefit from the tech, conference hears",
-              "summary": "Moves are also afoot in some sectors, such as the legal profession, to ‘completely eliminate’ a lot of  entry levels roles and work",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/work/2026/10/12/employers-use-ai-to-monitor-staff-who-also-dont-benefit-from-the-tech-conference-hears/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do tropical fish spawn in lush caves?",
-              "summary": "Do Tropical Fish Spawn in Lush Caves? Unveiling the Underwater Nursery Do tropical fish spawn in lush caves? The answer is a nuanced no. While lush caves provide excellent habitat, tropical fish do no",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-tropical-fish-spawn-in-lush-caves/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "TESLA only met 13% of cyberstruck goal...: Elon Musk had ambitious goals for the Cybertruck, the ele",
-          "summary": ""
-        },
-        {
-          "topic": "Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot: Nectar puts soci",
-          "summary": ""
-        },
-        {
-          "topic": "MrBeast, Alex Cooper and Khaby Lame Lead ESHAP and What’s Trending 2nd Annual Creator Map | Exclusiv",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-12T15:56:45.464107+08:00",
+  "last_updated": "2026-11-13T15:35:31.415856+08:00",
   "total_days": 31
 }
