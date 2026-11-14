@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "98acfe2f",
+      "date": "2026-11-14",
+      "generated_at": "2026-11-14T15:19:53.432109+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Who is Santosh Janardhan? What's ahead for Meta after departure of long-time infrastructure head in 2027?",
+              "summary": "Santosh Janardhan, Meta Platform's long-time head of infrastructure and co-head of engineering, will leave the tech giant in early 2027. Current vice president of infrastructure Dave Brown will suceed",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/people/meta-long-time-head-infrastructure-engineering-santosh-janardhan-departure-2027-whats-ahead-tech-ai-data-mark-zuckerberg-11794548893409.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☀️ Conceiçao's gesture, talent for Napoli, Inter renewals: morning news",
+              "summary": "With the national team's first fixture out of the way, it is another day packed with news and talking points for Serie A's big clubs as they navigate the international break, contract renewals and the",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/conceicaos-gesture-talent-for-napoli-inter-renewals-morning-news-43769760",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Five things to know about APEC as Trump, Putin and Xi set to attend summit",
+              "summary": "Founded as an informal 12-member dialogue effort in 1989 in the Australian capital Canberra, it has become the region's premier economic forum to foster ties on advancing growth, trade and investment",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/world-news/five-things-to-know-about-apec-as-trump-putin-and-xi-set-to-attend-summit-126111300624_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "From Nvidia’s plunge to a life policy record: 5 figures investors are watching",
+              "summary": "After US and Asian stocks across the artificial intelligence supply chain tumbled in the wake of last week’s US midterm elections, this week’s headlines zoomed in on US chip giant Nvidia and the event",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/0215e30db3bc7e7d",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Disney and Adobe team up to build a new AI",
+              "summary": "Disney and Adobe have entered into a multi-year agreement to co-develop new artificial intelligence (AI) models. The primary goal of this partnership is to deploy these AI technological tools across D",
+              "source": "Gossiplankanews.com",
+              "url": "https://english.gossiplankanews.com/2026/11/disney-and-adobe-team-up-to-build-new-ai.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A Black Friday bargain is no saving if you’re still paying for it in January",
+              "summary": "Between convincing online scams and the temptation to spread payments, shoppers need to look beyond the advertised discount.",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/readme/black-friday-2026-7223674-Nov2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tesla-SpaceX Merger: Musk eyes December deal announcement",
+              "summary": "Elon Musk's Tesla and SpaceX are reportedly making progress on merger discussions, with an announcement possible as early as December. The proposed combination could become one of the largest corporat",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/tesla-spacex-merger-could-be-announced-in-december/slideshow/135793745.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Show HN: Zero-axiom Lean 4 proof of Yang–Mills R^4 defect via Peano arithmetic",
+              "summary": "Zero-axiom Lean 4 formal proof (RoundSquare.lean, 74 print axioms checks) of the Yang–Mills Mass Gap Incompatibility Theorem on pure non-compact R^4 &amp; automatic spectral gap on the compact cons...",
+              "source": "Github.com",
+              "url": "https://github.com/Dr-Logvinovich/round-square",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What Are the Odds? Thomas Massie’s Far-Left Buddy Reportedly Sold His Nvidia Stock at the Perfect Ti",
+          "summary": ""
+        },
+        {
+          "topic": "I Accidentally Became a Millionaire: Article URL: https://lyra.horse/blog/2026/11/disinformation-mac",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More: A syste",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "fb7da7ca",
       "date": "2026-11-13",
       "generated_at": "2026-11-13T15:35:31.415856+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "ba3f498d",
-      "date": "2026-10-14",
-      "generated_at": "2026-10-14T13:47:37.177182+08:00",
-      "headline": "今日 AI 新闻速览（46 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Drones Hit Yandex Data Center in Vladimir, Russia, Disrupting Over 80 Services",
-              "summary": "The third strike on Yandex servers in four days idled a 50-MW hub, disabling cloud systems, YandexGPT, and retail apps.",
-              "source": "Kyiv Post",
-              "url": "https://www.kyivpost.com/post/86708",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is a food plot considered baiting?",
-              "summary": "Is a Food Plot Considered Baiting? Understanding the Nuances The legality of food plots in hunting varies significantly; therefore, the simple answer is it depends. Understanding the laws in your spec",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-a-food-plot-considered-baiting/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can snails live with moss?",
-              "summary": "Can Snails Live with Moss? A Symbiotic Exploration Yes, snails can absolutely live with moss! In fact, the synergistic relationship between snails and moss often creates a thriving miniature ecosystem",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-snails-live-with-moss/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Fortnite-maker Epic Games makes 'huge pivot' with AI, CEO says",
-              "summary": "Fortnite-maker Epic Games is making a \"huge pivot\" towards using artificial intelligence (AI) to boost video game development, CEO Tim Sweeney said on Monday.  It also lands about six months after Epi",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/technology/fortnite-maker-epic-games-makes-huge-pivot-with-ai-ceo-says/articleshow/134909206.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI euphoria turning toxic but that’s good news for India: Is the global tech trade finally shifting in its favour?",
-              "summary": "Global AI stock enthusiasm hit a roadblock as South Korea's Kospi plunged 7.4% on chip competition concerns and Broadcom's warning on AI spending. Conversely, Indian IT stocks surged, adding Rs 26,000",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-euphoria-turning-toxic-but-thats-good-news-for-india-is-the-global-tech-trade-finally-shifting-in-its-favour/articleshow/134909132.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CCTV+: Forum on Swift Response to Public Complaints opens in Chinese capital",
-              "summary": "BEIJING, Oct. 13, 2026 /PRNewswire/ -- The 2026 Beijing Forum on Swift Response to Public Complaints opened on Monday, with the release of a number of research findings, reports on city hotline servic",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/cctv-forum-on-swift-response-to-public-complaints-opens-in-chinese-capital-302906590.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Know thy enemy: Bayern Munich vs. Viking FK",
-              "summary": "Here we go! FC Bayern visits Viking FK.",
-              "source": "Bavarian Football Works",
-              "url": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/267426/know-thy-enemy-bayern-munich-vs-viking-fk",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "As technology and AI reshape the workplace, which skills will define future leaders?",
-              "summary": "In today's evolving job landscape, the importance of interpersonal skills and leadership has surged. Research indicates that qualities like self-awareness and the ability to learn quickly are crucial ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/industry/services/education/as-technology-and-ai-reshape-the-workplace-which-skills-will-define-future-leaders/articleshow/134909031.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More: Some",
-          "summary": ""
-        },
-        {
-          "topic": "TESLA only met 13% of cyberstruck goal...: Elon Musk had ambitious goals for the Cybertruck, the ele",
-          "summary": ""
-        },
-        {
-          "topic": "Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot: Nectar puts soci",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-13T15:35:31.415856+08:00",
+  "last_updated": "2026-11-14T15:19:53.432109+08:00",
   "total_days": 31
 }
