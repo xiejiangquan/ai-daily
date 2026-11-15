@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "7e98ca85",
+      "date": "2026-11-15",
+      "generated_at": "2026-11-15T15:31:43.050513+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Asador Etxebarri claims culinary crown",
+              "summary": "Asador Etxebarri’s rise to the top of The World’s 50 Best Restaurants is a powerful reminder of the value of quiet mastery. The rankings announced in Lima, together with the discussions at 50 Best Tal",
+              "source": "Hurriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/asador-etxebarri-claims-culinary-crown-229393",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Grounds for concern are growing in the jumps game. Patience is required... and Mullins' comments helped absolutely nobody",
+              "summary": "You know when a co-commentator says about a striker connecting with a ridiculous volley in football so cleanly that the ball goes straight at the goalkeeper",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/sport/racing/article-16290863/Grounds-concern-growing-jumps-game-Patience-required-Mullins-comments-helped-absolutely-nobody.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do monkeys nod their head?",
+              "summary": "Do Monkeys Nod Their Head? Unveiling Primate Communication The answer is a nuanced yes. While not universally observed across all monkey species, some monkeys do exhibit head nodding behavior, often a",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-monkeys-nod-their-head/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How many eggs do you feed a fox?",
+              "summary": "How Many Eggs Do You Feed A Fox? Feeding a fox exclusively on eggs is not recommended as a sole diet, but as an occasional treat or supplement, 1-2 eggs per week for an adult fox would be an appropria",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-many-eggs-do-you-feed-a-fox/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "perforatedai 4.0.2",
+              "summary": "Official package for the artificial dendrite library for PyTorch, Perforated AI",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/perforatedai/4.0.2/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How long can fish eggs live out of water?",
+              "summary": "How Long Can Fish Eggs Live Out of Water? Fish eggs have a surprisingly limited lifespan out of water; the time they can survive depends heavily on species and environmental conditions, but most can o",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/how-long-can-fish-eggs-live-out-of-water/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Companies love a ‘rockstar’ CEO. Until they depend on one",
+              "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+              "source": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Dr Samuel Farohunbi: The Nigerian AI Educator Building Technology for Jobs, Creators and the Next Generation of Innovators",
+              "summary": "Dr Samuel Farohunbi, a Nigerian AI educator, is building technology platforms like Freebyz and Payhankey to create jobs and opportunities for creators.\n\nRead More: https://punchng.com/dr-samuel-farohu",
+              "source": "The Punch",
+              "url": "https://punchng.com/dr-samuel-farohunbi-the-nigerian-ai-educator-building-technology-for-jobs-creators-and-the-next-generation-of-innovators/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Popular Idol's Dating Confirmation With Another Male Star Becomes A Hot Topic: The relationship \"con",
+          "summary": ""
+        },
+        {
+          "topic": "Social media discoverability: How to get found on every platform: Your posts deserve an audience. He",
+          "summary": ""
+        },
+        {
+          "topic": "What Are the Odds? Thomas Massie’s Far-Left Buddy Reportedly Sold His Nvidia Stock at the Perfect Ti",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "98acfe2f",
       "date": "2026-11-14",
       "generated_at": "2026-11-14T15:19:53.432109+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "2a3138d0",
-      "date": "2026-10-15",
-      "generated_at": "2026-10-15T13:32:34.898795+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "☀️ Juve eye Balogun-Sorloth, Milan-Inacio, Roma-Endrick: morning news",
-              "summary": "The three days of European cup action for Italian teams begin with two defeats. Inter and Napoli fall to Bruges and Villarreal respectively. Tonight, it is Roma and Como’s turn to try to turn things..",
-              "source": "Onefootball.com",
-              "url": "https://onefootball.com/en/news/juve-eye-balogun-sorloth-milan-inacio-roma-endrick-morning-news-43608843",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bangladesh’s First Dollar Bond Can Wait",
-              "summary": "The BNP government plans to issue sovereign bonds in December amid slow economic growth, fiscal strain, rising dollar bills, and a global downturn in the bond market.",
-              "source": "The Diplomat",
-              "url": "https://thediplomat.com/2026/10/bangladeshs-first-dollar-bond-can-wait/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Exclusive | Countdown begins for the mother of all IPOs: Jio likely to file RHP today for record Rs 30,000 crore issue",
-              "summary": "Jio Platforms is set to file its RHP for a potential Rs 30,000-crore IPO, which could become India’s largest-ever share sale. The Reliance Industries subsidiary is expected to open the issue for subsc",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-countdown-begins-for-the-mother-of-all-ipos-jio-likely-to-file-rhp-today-for-record-rs-30000-crore-issue/articleshow/134932999.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research",
-              "summary": "New model priced at $2 per million input tokens; ranks first on Vals Index and boosts coding productivity",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Venture Head Says Goldman and JPMorgan Are Becoming AI Stocks",
-              "summary": "Momei Qu, head of venture at PSP Growth, says Goldman Sachs and JPMorgan are becoming artificial intelligence (AI) stocks. Financing and deal work tie them to the buildout, though earnings do not show",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/5f1c81998d88abdc",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Ukraine wants to use AI to predict where Russian drones will hit the battlefield with 'high probability'",
-              "summary": "Dubbed Model No. 13, it's trained to forecast the time, location, and intensity of the strike, as well as which Russia might use, per officials.",
-              "source": "Business Insider",
-              "url": "https://www.businessinsider.com/ukraine-nato-artificial-intelligence-model-13-russian-drones-where-when-2026-10#article",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Bizarre AI ad warns of Australia without migrant workers as parties pledge migration cuts",
-              "summary": "The ad begins with a man standing in front of a giant red button beneath a sign reading: 'Press button to run Australia without migrant workers.'",
-              "source": "Dailymail.com",
-              "url": "https://www.dailymail.com/news/article-16207397/AI-migration-ad-australia-hotel-association.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why can’t deer eat hay?",
-              "summary": "Why Can’t Deer Eat Hay?: Understanding Deer Digestion Deer cannot effectively digest hay due to the unique nature of their rumen microbiome and nutritional needs; Hay’s low digestibility provides mini",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-cant-deer-eat-hay/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More: Some",
-          "summary": ""
-        },
-        {
-          "topic": "TESLA only met 13% of cyberstruck goal...: Elon Musk had ambitious goals for the Cybertruck, the ele",
-          "summary": ""
-        },
-        {
-          "topic": "Nectar MCP Brings Consumer and Creator Data to ChatGPT, Claude, Gemini and Copilot: Nectar puts soci",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-14T15:19:53.432109+08:00",
+  "last_updated": "2026-11-15T15:31:43.050513+08:00",
   "total_days": 31
 }
