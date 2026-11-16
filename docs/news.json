@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "3972ba67",
+      "date": "2026-11-16",
+      "generated_at": "2026-11-16T15:38:32.333270+08:00",
+      "headline": "今日 AI 新闻速览（48 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "What are birds afraid of?",
+              "summary": "What Are Birds Afraid Of? Unraveling Avian Fears Birds, despite their seemingly carefree existence, experience fear just like any other living creature. Their fears are primarily driven by survival in",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-are-birds-afraid-of/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How SpaceX Succeeded With Reusable Starship adn More SpaceX Starship 42 Catch Photos",
+              "summary": "SpaceX’s core challenge has always been making orbital launch cheap, reliable, and routine through reusability—first with Falcon 9’s first stage, and now with fully reusable Starship. This has driven ",
+              "source": "Next Big Future",
+              "url": "https://www.nextbigfuture.com/2026/11/more-spacex-starship-42-catch-photos.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Czech national team member Rozálie Veselá won the first round of the Slovak Cup in drytooling",
+              "summary": "Czech national team member Rozálie Veselá dominated the women’s division in the first round of the Slovak Ice Climbing and Drytooling Cup. The competition took place a week ago, on November 7, 2026, i",
+              "source": "Lezec.cz",
+              "url": "https://lezec.cz/en/clanek.php?key=20670&utm_source=rss&utm_medium=link",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sebi to issue detailed AI guidelines focusing on investor protection and accountability",
+              "summary": "The Sebi chief said proposed guidelines would focus on establishing appropriate guardrails for AI use, including disclosures, accountability of regulated entities and a 'human-in-the-loop' approach.",
+              "source": "Reporterworldnews.com",
+              "url": "https://reporterworldnews.com/news/business/2026/11/15/sebi-ai-guidelines-tuhin-kanta-pandey-ai-capital-market-india",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Do my hermit crabs like each other?",
+              "summary": "Do My Hermit Crabs Like Each Other?: Understanding Hermit Crab Social Dynamics Do my hermit crabs like each other? No, hermit crabs do not experience affection or friendship in the way humans do. Thei",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/do-my-hermit-crabs-like-each-other/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Bitcoin tumbles to four-month low as liquidations accelerate",
+              "summary": "The largest digital asset sank 5.7% in the US on Saturday and dropped further in Asia on Sunday to as low as $62,022, down another 3.7% to its weakest since July 14",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-liquidations-accelerate/article71704128.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Meet Hussain Sajwani, the Dubai investor who made more money from Anthropic in 2 years than his 30 years of investments",
+              "summary": "Hussain Sajwani, founder of Damac Properties, says his Anthropic investment has delivered extraordinary returns and expects billions in profit from stakes in Anthropic, OpenAI and SpaceX. Damac Group ",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/people/meet-hussain-sajwani-the-dubai-investor-who-made-more-money-from-anthropic-in-2-years-than-his-30-years-of-investments-11794726343697.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Kano private varsity produces 30 first-class graduates, 13 PhD holders",
+              "summary": "Skyline University Nigeria, a private varsity in Kano, has graduated 237 students, including 30 with first-class degrees and its first set of 13 PhD holder\n\nRead More: https://punchng.com/kano-private",
+              "source": "The Punch",
+              "url": "https://punchng.com/kano-private-varsity-produces-30-first-class-graduates-13-phd-holders/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Popular Idol's Dating Confirmation With Another Male Star Becomes A Hot Topic: The relationship \"con",
+          "summary": ""
+        },
+        {
+          "topic": "Social media discoverability: How to get found on every platform: Your posts deserve an audience. He",
+          "summary": ""
+        },
+        {
+          "topic": "What Are the Odds? Thomas Massie’s Far-Left Buddy Reportedly Sold His Nvidia Stock at the Perfect Ti",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "7e98ca85",
       "date": "2026-11-15",
       "generated_at": "2026-11-15T15:31:43.050513+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "ffc0eef4",
-      "date": "2026-10-16",
-      "generated_at": "2026-10-16T13:25:44.012271+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Skeptical Science New Research for Week #42 2026",
-              "summary": "Open access notables\n\nFingerprint Evidence for Human Effects on Climate: Advances After the 2009 Endangerment Finding, Santer et al., Earth s Future\n\nHere we briefly review key advances in the field o",
-              "source": "Skepticalscience.com",
-              "url": "https://skepticalscience.com/new_research_2026_42.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Eight States Sue OpenAI, Claiming ChatGPT Harms Children",
-              "summary": "A bipartisan group of eight states said on Wednesday they had sued OpenAI in courts across the country over harms they say ChatGPT has caused to their residents, alleging the chatbot has coached its u",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/10/15/888955.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "5 Years on, the UK and ASEAN must keep advancing together: op-ed by Helen Fazey",
-              "summary": "As the UK-ASEAN Dialogue Partnership marks its fifth year, Helen Fazey highlights progress and future opportunities for collaboration.",
-              "source": "Www.gov.uk",
-              "url": "https://www.gov.uk/government/news/5-years-on-the-uk-and-asean-must-keep-advancing-together-op-ed-by-helen-fazey",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI flags AI adoption gap in Europe despite 8-fold surge in agent use among small businesses",
-              "summary": "Report urges European firms to move beyond experimentation as SMB agent use rises more than eightfold since May",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/openai-flags-ai-adoption-gap-in-europe-despite-8-fold-surge-in-agent-use-among-small-businesses/article71586516.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
-              "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, while investors await",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Which part of human body has no blood?",
-              "summary": "Which Part of the Human Body Has No Blood? The cornea, the clear front part of the eye, is the only part of the human body that naturally has no blood supply. This unique characteristic allows for cle",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/which-part-of-human-body-has-no-blood/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook",
-              "summary": "The IMF warned that Asia’s economic growth may slow to 4.4% in 2027 amid energy price shocks, Middle East conflict, AI market correction risks and rising bond yields. It urged central banks to priorit",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-imf-warns-of-energy-shock-ai-correction-risks-to-asias-growth-outlook/articleshow/134957808.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "YouTube to label AI-Generated songs across its platforms to increase transparency",
-              "summary": "The markers will apply to songs on YouTube, through its own detection tools and those made by its music partners",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/youtube-to-label-ai-generated-songs-across-its-platforms-to-increase-transparency/article71586504.ece",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
-          "summary": ""
-        },
-        {
-          "topic": "Bybit Revamps App to Reflect New Financial Platform Positioning, Unifying Crypto, Stocks, Macro Asse",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-15T15:31:43.050513+08:00",
+  "last_updated": "2026-11-16T15:38:32.333270+08:00",
   "total_days": 31
 }
