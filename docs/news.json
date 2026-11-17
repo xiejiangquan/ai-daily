@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "c07b5376",
+      "date": "2026-11-17",
+      "generated_at": "2026-11-17T16:47:39.816850+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "The 9 at 9: Monday",
+              "summary": "Weather warnings for seven counties, Parnell Square attacker to be sentenced, and a new AI flood warning system.",
+              "source": "TheJournal.ie",
+              "url": "https://www.thejournal.ie/the-9-at-9-monday-114-7227428-Nov2026/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Jio vs Airtel vs Vi - which telecom operator had the fewest spam call complaints? What TRAI data says",
+              "summary": "TRAI reported that telecom operators’ AI systems flagged 19.9 billion calls and SMSes as suspected spam in July–September 2026. The regulator received 1.529 million complaints, took enforcement action",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/news/jio-vs-airtel-vs-vi-which-telecom-operator-had-the-fewest-spam-call-complaints-what-trai-data-says-11794817731741.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple Health AI Study: How OpenEvidence Supports Medical Research - Techgenyz",
+              "summary": "Apple Health AI Study with OpenEvidence examines medical AI trust, health data privacy and reliability, with enrolment open to US users.",
+              "source": "Techgenyz.com",
+              "url": "https://techgenyz.com/apple-health-ai-study-privacy-us-india/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A lesson from l'affaire Huang: Family firms must consider private conduct as business risk",
+              "summary": "For Indian business families, the takeaway from the Nvidia crisis is clear. Keeping private lives out of the boardroom is not prudishness but risk management. Without clear guardrails governing person",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/opinion/online-views/a-lesson-from-laffaire-huang-family-firms-private-conduct-is-business-risk-11794732518725.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The S&P 500 Looks Cheaper Than It Has in Over 3 Years, but There’s a Catch",
+              "summary": "Despite some bumps in the road, the last three years have been fantastic for stock investors. The S&P 500 (SNPINDEX:^GSPC) index is up about 80% since the start of November 2023, fueled by the big tec",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/44b85a5553511cc5",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+              "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purch",
+              "source": "Europa.eu",
+              "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "IBM invests $3 bn yearly in India, plans $10 bn global quantum push: CEO",
+              "summary": "IBM spends about USD 3 billion annually in India and plans to invest USD 10 billion globally in quantum computing over the next five years, Chairman and Chief Executive Arvind Krishna said, underlinin",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/ibm-invests-3-bn-yearly-in-india-plans-10-bn-global-quantum-push-ceo-126111601056_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Stocks decline in Asia as concerns over the Nvidia fallout persist",
+              "summary": "Asian shares have mostly declined as investors’ worries over the future of the artificial intelligence trade extend into another week following Nvidia’s fallout.",
+              "source": "KSAT San Antonio",
+              "url": "https://www.ksat.com/business/2026/11/16/stocks-decline-in-asia-as-concerns-over-the-nvidia-fallout-persist/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Corporate reputation management: A guide for modern teams: Your company's reputation is being shaped",
+          "summary": ""
+        },
+        {
+          "topic": "Popular Idol's Dating Confirmation With Another Male Star Becomes A Hot Topic: The relationship \"con",
+          "summary": ""
+        },
+        {
+          "topic": "Social media discoverability: How to get found on every platform: Your posts deserve an audience. He",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "3972ba67",
       "date": "2026-11-16",
       "generated_at": "2026-11-16T15:38:32.333270+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "6b3726d5",
-      "date": "2026-10-17",
-      "generated_at": "2026-10-17T13:18:37.593985+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "No new takeaway for O’Connell Street and Ireland’s 1%",
-              "summary": "Business Today: The best news, analysis, and comment from The Irish Times business desk",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/10/16/no-new-takeaway-for-oconnell-street-and-irelands-1/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Greece and France forge cultural alliance",
-              "summary": "Lina Mendoni and French Ambassador Nicolas Kassianides agree to cooperate on cultural heritage protection, museums, cinema and audiovisual media\nThe post Greece and France forge cultural alliance appe",
-              "source": "Protothema.gr",
-              "url": "https://en.protothema.gr/2026/10/16/greece-and-france-forge-cultural-alliance/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "CCC Intelligent Solutions Agrees to $6.1B Take-Private Deal with GTCR, Elliott",
-              "summary": "CCC Intelligent Solutions said on Thursday it agreed to be acquired by a consortium of private investment firms led by GTCR and including Elliott Investment Management in a $6.1 billion take-private d",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/10/16/889163.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global hedge funds suffer steep losses as AI trade unwinds, Asia funds hit hardest",
-              "summary": "Global hedge funds suffered steep losses as investors unwound artificial intelligence-related trades amid inflation concerns and expectations of higher interest rates. Asia-focused stock pickers were ",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-hedge-funds-suffer-steep-losses-as-ai-trade-unwinds-asia-funds-hit-hardest/articleshow/134982825.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "‘Cupertino’ Creators Robert & Michelle King On Episode 2’s Shocking AGI Twist & Predicting The Future Again With AI Guardrails Storyline",
-              "summary": "SPOILER ALERT: The story includes details about Episode 102 of CBS’ Cupertino, ‘Vik & Bo.’ The Good Wife creators Robert and Michelle King are back at CBS this fall with a new legal drama, anchored by",
-              "source": "Deadline",
-              "url": "http://deadline.com/2026/10/cupertino-creators-episode-102-bo-agi-storyline-interview-1237158656/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Greek consumers with complex and often conflicting priorities",
-              "summary": "Greek consumers are concerned about their financial future, seeking greater value from their purchases, demanding environmental responsibility and expecting products and experiences tailored to their ",
-              "source": "Naftemporiki.gr",
-              "url": "https://www.naftemporiki.gr/english/2175716/greek-consumers-with-complex-and-often-conflicting-priorities/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is apple sauce good for sugar gliders?",
-              "summary": "Is Apple Sauce Good for Sugar Gliders? A Nutritional Deep Dive The question Is apple sauce good for sugar gliders? has a nuanced answer: While apple sauce can be given to sugar gliders in very small q",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-apple-sauce-good-for-sugar-gliders/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Funding of universities set to be overhauled, says Minister",
-              "summary": "Operating environment for third-level institutions has ‘changed considerably’",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/politics/2026/10/16/funding-of-universities-set-to-be-overhauled-says-minister/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
-          "summary": ""
-        },
-        {
-          "topic": "Bybit Revamps App to Reflect New Financial Platform Positioning, Unifying Crypto, Stocks, Macro Asse",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-16T15:38:32.333270+08:00",
+  "last_updated": "2026-11-17T16:47:39.816850+08:00",
   "total_days": 31
 }
