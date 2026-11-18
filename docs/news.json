@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "b8f80306",
+      "date": "2026-11-18",
+      "generated_at": "2026-11-18T16:11:43.113489+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " German celebrations, UEFA has a contender: 5️⃣ stories for Tuesday",
+              "summary": "Football news this Tuesday, November 17, 2026, opens with political demands for Spain to host the 2030 World Cup final, the end of Luis Rubiales’ ban, a dazzling display by Jürgen Klopp’s Germany...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/german-celebrations-uefa-has-a-contender-5-stories-for-tuesday-43788593",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Instagram steps up AI checks to curb violent, suggestive content in India",
+              "summary": "The changes apply to posts suggested from accounts users do not follow; Meta said user reports on recommended content have fallen by half over the past year",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/technology/tech-news/instagram-meta-india-ai-updates-sexual-sensitive-violent-content-updates-126111700517_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Know Nvidia: How ‘Next Version’ became Jensen Huang’s AI giant and what does green colour of chipmaker’s logo signify",
+              "summary": "Nvidia’s name combines the founders’ file label NV, meaning next version, with invidia, Latin for envy. The company nearly went bankrupt after its first chip failed, but a $5 million payment from Sega",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/know-nvidia-how-next-version-became-jensen-huang-s-ai-giant-and-what-does-green-colour-of-chipmaker-s-logo-signify-11794902356944.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EY India opens registrations for sixth Board Effectiveness programme with focus on AI, cybersecurity",
+              "summary": "EY India will commence its Executive Program on Board Effectiveness for directors and senior executives on November 19, 2026. The program is designed to enhance governance capabilities and strategic c",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/ey-india-opens-registrations-for-sixth-board-effectiveness-programme-with-focus-on-ai-cybersecurity/articleshow/135916802.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "5 Common human foods that are also great for your pet labrador",
+              "summary": "Labradors can thrive on common human foods like chicken, carrots, and Greek yogurt. These nutritious options promote muscular strength and facilitate digestion while enhancing nutrient absorption. Add",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/etimes/animals/5-common-human-foods-that-are-also-great-for-your-pet-labrador/articleshow/135916529.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tata Steel seeks UK market support, Dutch green funds amid Chinese excessive supply: Narendran",
+              "summary": "Tata Steel is seeking UK government intervention to address excess steel inventories and negotiating Dutch state funding for its green transition as Chinese oversupply, geopolitical conflicts and trad",
+              "source": "Economictimes.com",
+              "url": "https://m.economictimes.com/industry/indl-goods/svs/steel/tata-steel-seeks-uk-market-support-dutch-green-funds-amid-chinese-excessive-supply-narendran/articleshow/135916299.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "With $5M in funding, Pretxt launches runtime oversight layer to supervise AI agents in real time",
+              "summary": "Artificial intelligence supervision pioneer Pretxt AI is launching with $5 million in seed funding today as it tries to contain the very real risk of unleashing autonomous agents in production environ",
+              "source": "SiliconANGLE News",
+              "url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI investments must deliver profits to avoid Bubble, Baidu CEO warns",
+              "summary": "Robin Li, the chairperson of Baidu, expressed his worries about a potential bubble forming in the AI sector. He pointed out that substantial investments have not yet translated into notable profit gro",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/china/ai-investments-must-deliver-profits-to-avoid-bubble-baidu-ceo-warns/articleshow/135914636.cms",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "5 Brokerage Features We’re Excited for in 2027 (And 2 Things We Could Do Without): Brokerages are vy",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days: A de",
+          "summary": ""
+        },
+        {
+          "topic": "Corporate reputation management: A guide for modern teams: Your company's reputation is being shaped",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "c07b5376",
       "date": "2026-11-17",
       "generated_at": "2026-11-17T16:47:39.816850+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "92b08072",
-      "date": "2026-10-18",
-      "generated_at": "2026-10-18T13:24:50.502374+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Jude Law’s next role is a Liverpool legend: Actor to play Bill Shankly in new series. Here's what we know",
-              "summary": "Jude Law is set to portray Liverpool FC legend Bill Shankly in an upcoming series written by Adolescence creator Jack Thorne. Backed by A24 and Box To Box Films, the drama will explore how Shankly tra",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/magazines/panache/jude-laws-next-role-is-a-liverpool-legend-actor-to-play-bill-shankly-in-new-series-heres-what-we-know/articleshow/135007315.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can hedgehogs eat chicken?",
-              "summary": "Can Hedgehogs Eat Chicken? A Nutritional Guide Can hedgehogs eat chicken? Yes, cooked, unseasoned chicken can be a nutritious and beneficial part of a hedgehog’s diet, providing essential protein; how",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-hedgehogs-eat-chicken/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "North Korea claims successful test of AI-powered 'Zam-2.0' torpedo system",
-              "summary": "North Korea said Saturday it had successfully tested a new torpedo system that uses artificial intelligence for target detection and guidance.\nThe Korean Central News Agency said the weapon tested Thu",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/world-news/north-korea-claims-successful-test-of-ai-powered-zam-2-0-torpedo-system-126101700148_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "mindupload 1.15.14",
-              "summary": "Official server-side SDK for the Mind Upload partner API — the world's first API for artificial consciousness. Integrate living, evolving AI consciousnesses into your platform: lasting memory, one-on-",
-              "source": "Pypi.org",
-              "url": "https://pypi.org/project/mindupload/1.15.14/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "North Korea says it tested new torpedo system with AI capabilities",
-              "summary": "North Korea says it has tested a new torpedo system that uses artificial intelligence for target detection and guidance",
-              "source": "Abcnews.com",
-              "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-torpedo-system-ai-capabilities-137341062",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US markets are weighed down by an extended sell-off in the tech sector",
-              "summary": "A broad sell-off in technology companies pulled stocks lower on Wall Street Friday, capping off the market’s worst week since late June.",
-              "source": "The Manila Times",
-              "url": "https://beta.manilatimes.net/2026/10/17/business/foreign-business/us-markets-are-weighed-down-by-an-extended-sell-off-in-the-tech-sector/2447853",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "News Summary-Intelligence Report 10/16/2026*Newsdump Friday*Tanker Hit Hormuz*Trump Waives Russia Sanctions*US Army Chief Missile Shortage Warning*NASDAQ,Oil Spikes*Yemen War*EU Ukraine Support*...",
-              "summary": "The \"Dutch Cloud Community\" asking police in the Netherlands to explain...server seized at the request of US authorities... In the Strait of Hormuz an oil tanker hit... Tonight President Trump waiving",
-              "source": "Freerepublic.com",
-              "url": "https://freerepublic.com/focus/f-bloggers/4399479/posts",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Public sector strikers cannot expect a raise without working for it",
-              "summary": "Agreeing to pay increases for obsolete workflows makes no sense",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/ireland/2026/10/17/public-sector-strikers-cannot-expect-a-raise-without-working-for-it/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
-          "summary": ""
-        },
-        {
-          "topic": "Bybit Revamps App to Reflect New Financial Platform Positioning, Unifying Crypto, Stocks, Macro Asse",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-17T16:47:39.816850+08:00",
+  "last_updated": "2026-11-18T16:11:43.113489+08:00",
   "total_days": 31
 }
