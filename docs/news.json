@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "20f0a715",
+      "date": "2026-11-20",
+      "generated_at": "2026-11-20T16:03:19.247220+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "‘The Altruists’ Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried",
+              "summary": "The collapse of cryptocurrency exchange FTX in 2022 — a spectacular implosion that saw the company evaporate and sent founder Sam Bankman-Fried to prison, along with much of his inner circle — felt ep",
+              "source": "Variety",
+              "url": "https://variety.com/2026/tv/reviews/the-altruists-review-netflix-sam-bankman-fried-1236952311/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "The Altruists Review",
+              "summary": "The Altruists, created by Oscar-winning Graham Moore, traces the rise and fall of the crypto exchange FTX and the hedge fund Alameda Research by a close-read of the relationship between Sam Bankman-Fr",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/the-altruists-review-netflix",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "13 years of waiting for GTA VI: what the hype says about how we consume",
+              "summary": "Beyond the hype around GTA VI lies a broader insight into modern consumer behaviour: consumption does not necessarily begin when we buy a product; it begins the moment we start waiting for it.",
+              "source": "The Conversation Africa",
+              "url": "https://theconversation.com/13-years-of-waiting-for-gta-vi-what-the-hype-says-about-how-we-consume-296878",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Maritime Domain Awareness Market and Capability Assessments for the Department of Homeland Security",
+              "summary": "To help the U.S. Department of Homeland Security (DHS) improve maritime domain awareness (MDA), the authors assess commercial technologies and DHS components’ capabilities, and they provide recommenda",
+              "source": "Rand.org",
+              "url": "https://www.rand.org/pubs/research_reports/RRA4854-1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Announcing Data as a Service for AWS Marketplace",
+              "summary": "Today, AWS Marketplace announces the general availability of Data as a Service, a new product type that lets customers buy third-party datasets and licensed content. Customers often have the models an",
+              "source": "Amazon.com",
+              "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-data-as-a-service/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Publisher retracts editorial by education journal’s editors for fake references",
+              "summary": "Taylor & Francis has retracted an article in one of its journals after its editors were unable to explain how multiple fake references and citation errors ended up in an editorial.   In May, the Journ",
+              "source": "Retractionwatch.com",
+              "url": "https://retractionwatch.com/2026/11/19/journal-further-higher-education-taylor-francis-retraction-editors-fake-references/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "US AI curbs disrupt Southeast Asia shipments; MSI sees worst-case impact of one month",
+              "summary": "The recent US expansion of export controls on artificial intelligence (AI) products is rippling through the Southeast Asian operations of Taiwanese system integrators, as well as motherboard and graph",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20261119PD223/msi-asia-shipments-nvidia-jensen-huang.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nifty IT tanks for 3rd day, down 6.5% in Nov so far: What's behind fall?",
+              "summary": "During the three days, Nifty IT has lost 4.5 per cent and remains 6.45 per cent lower in November so far.",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/markets/news/nifty-it-tanks-for-3rd-day-down-6-5-in-nov-so-far-what-s-behind-fall-126111900522_1.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "5 Brokerage Features We’re Excited for in 2027 (And 2 Things We Could Do Without): Brokerages are vy",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days: A de",
+          "summary": ""
+        },
+        {
+          "topic": "Corporate reputation management: A guide for modern teams: Your company's reputation is being shaped",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "9d052791",
       "date": "2026-11-19",
       "generated_at": "2026-11-19T16:22:33.522075+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "9954059f",
-      "date": "2026-10-20",
-      "generated_at": "2026-10-20T13:39:21.182793+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Can you keep crappie as pets?",
-              "summary": "Can You Keep Crappie as Pets? A Deep Dive Keeping crappie as pets is generally not recommended due to their size, specific environmental needs, and the potential legal ramifications in some regions. T",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-keep-crappie-as-pets/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic commits 5% of its stock to new 'public benefit' fund",
-              "summary": "It gave labour market impacts as an example, saying that while it has already committed $200 million to study the effects of artificial intelligence, “given the pace of AI progress, bolder approaches ",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/anthropic-commits-5-of-its-stock-to-new-public-benefit-fund/article71602058.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "10 Non-Marvel Superheroes With Iconic Tech-Powered Suits",
-              "summary": "Explore powerful non-Marvel superheroes and their iconic tech-powered suits, showcasing advanced engineering and unique abilities.",
-              "source": "Screen Rant",
-              "url": "https://screenrant.com/best-non-marvel-superheroes-tech-suits/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming",
-              "summary": "Finance Minister Nirmala Sitharaman says easy liquidity is allowing investors to exit Indian equities as the Nifty and Sensex struggle to deliver positive returns. Foreign investors have pulled out ne",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/easy-exits-hurting-indian-stocks-nirmala-sitharaman-explains-why-equities-are-underperforming/articleshow/135040491.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "ASX 200 Rises 0.4% to 8,843 as Banks and Defensive Stocks Lift Market While Challenger Jumps on Takeover Bid",
-              "summary": "The ASX 200 rose 0.42% as banks, utilities and other defensive stocks outweighed technology losses, while Challenger rallied on Dai-ichi Life's takeover proposal.",
-              "source": "Ibtimes.com.au",
-              "url": "https://www.ibtimes.com.au/asx-200-rises-banks-defensive-stocks-tech-selloff-1876971",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
-              "summary": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the potential risks of th",
-              "source": "Insurance Journal",
-              "url": "https://www.insurancejournal.com/news/national/2026/10/19/889292.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k",
-              "summary": "A sharp 1-2 day market rally that an LTCG cut would trigger may actually be used to offload positions, Bernstein said in an October 19 note.",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/markets/news/ltcg-tax-cut-alone-won-t-lure-fpis-says-bernstein-nifty-target-cut-to-25k-126101900230_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China’s economy grew 4.5% last quarter, yet its export boom risks being ‘a drag on world growth’",
-              "summary": "\"It is untenable and unsustainable\" for China to rely on foreign demand, Cornell's Eswar Prasad said.",
-              "source": "Fortune",
-              "url": "https://fortune.com/2026/10/19/china-gdp-growth-export-boom/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
-          "summary": ""
-        },
-        {
-          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
-          "summary": ""
-        },
-        {
-          "topic": "HTX Publishes Its Q3 2026 Scorecard: Cumulative TradFi Trading Volume Approaches $6B Amid 13th Anniv",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-19T16:22:33.522075+08:00",
+  "last_updated": "2026-11-20T16:03:19.247220+08:00",
   "total_days": 31
 }
