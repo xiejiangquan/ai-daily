@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "a1e1678b",
+      "date": "2026-11-21",
+      "generated_at": "2026-11-21T15:58:11.797369+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": " Friday draws, rumours: the 5️⃣ stories set to shape the day",
+              "summary": "Today, November 20, 2026, Spanish football faces a pivotal day in the boardrooms and on the injury front: Spain will learn their Nations League quarter-final opponents, Real Madrid await approval for ",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/friday-draws-rumours-the-5-stories-set-to-shape-the-day-43805185",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Staff list shows the scope of Prometheus' push to create an 'artificial general engineer'",
+              "summary": "Details have emerged about the personnel employed at Prometheus, a physical AI company co-run by Amazon founder Jeff Bezos that seeks to create a tool with the capabilities of an \"artificial general e",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20261120VL217/personnel-manufacturing-startup-amazon-design.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+              "summary": "Former Secret Service cyberfraud investigator Jason Brown warns AI voice cloning scams could trick families into losing thousands of dollars this holiday season.",
+              "source": "Fox News",
+              "url": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Is Green water good for fish?",
+              "summary": "Is Green Water Good for Fish? Unveiling the Truth Behind Algal Blooms Is green water good for fish? Sometimes, yes, and sometimes, no. Whether or not green water is beneficial for fish depends entirel",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/is-green-water-good-for-fish/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
+              "summary": "China’s President Xi Jinping has emerged from the Asia-Pacific Economic Cooperation summit with a diplomatic win, reinforcing his global standing despite limited substantive progress",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
+              "summary": "Anthropic has made a superlative-filled debut on Wall Street, breaking past the record for money raised as it became the first major artificial intelligence lab to reach an initial public offering",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/US/wireStory/anthropic-pulled-off-biggest-ipo-means-numbers-138302471",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Everyone is a friend: Trump's meetings in Asia show his varied approaches to shifting world order",
+              "summary": "President Donald Trump has engaged in two significant geopolitical meetings during his Asia trip",
+              "source": "Abcnews.com",
+              "url": "https://abcnews.com/US/wireStory/friend-trumps-meetings-asia-show-varied-approaches-shifting-138302578",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SatSure targets ₹200 cr in Series B to expand satellite and AI capabilities",
+              "summary": "The investment marks the IN-SPACe-backed fund's first deployment into downstream space-data analytics and AI, extending its focus beyond launch and satellite hardware",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/companies/start-ups/antariksh-venture-capital-fund-invests-rs-60-crore-satsure-series-b-126112000483_1.html",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Motive Unknown founder talks music marketing, retail and ‘the age of ideas’: Music (and music-tech) ",
+          "summary": ""
+        },
+        {
+          "topic": "5 Brokerage Features We’re Excited for in 2027 (And 2 Things We Could Do Without): Brokerages are vy",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days: A de",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "20f0a715",
       "date": "2026-11-20",
       "generated_at": "2026-11-20T16:03:19.247220+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "0a6ef05f",
-      "date": "2026-10-21",
-      "generated_at": "2026-10-21T13:42:18.517560+08:00",
-      "headline": "今日 AI 新闻速览（49 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Oracle, AstraZeneca team up on AI innovation",
-              "summary": "AstraZeneca plc and Oracle Corporation entered into a non-binding agreement to explore the possibility of combining artificial intelligence and real-world data in clinical trials, including the identi",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/30716ac8fb314bcf",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Human-AI Indian Music Label Raagverse Launches With ‘Janaa Hai Toh Jao’ (EXCLUSIVE)",
-              "summary": "Raagverse, a new Indian music label that pairs human songwriting with AI production tools, will release its first album, “Janaa Hai Toh Jao,” on Oct. 20. The label is the latest venture from Amita Mad",
-              "source": "Variety",
-              "url": "https://variety.com/2026/music/news/human-ai-music-label-raagverse-launches-janaa-hai-toh-jao-1236916309/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Samsung secures its profits for the next 5 years amid AI boom",
-              "summary": "Due to the ongoing artificial intelligence (AI) boom, there has been a severe shortage of memory chips globally. This has caused memory chip prices to rise exponentially, allowing Samsung, the world's",
-              "source": "SamMobile",
-              "url": "https://www.sammobile.com/news/samsung-secures-5-year-revenue-dram-memory-chips-supply/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How much does a hedgehog need to weigh to survive hibernation?",
-              "summary": "How Much Does a Hedgehog Need to Weigh to Survive Hibernation? To successfully navigate the winter months, a hedgehog must reach a critical mass of fat reserves. Generally speaking, a hedgehog needs t",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-much-does-a-hedgehog-need-to-weigh-to-survive-hibernation/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AP Top Extended Financial Headlines at 12:37 a.m. EDT",
-              "summary": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/d877c723681a479a",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can you turn a fish tank into a terrarium?",
-              "summary": "From Fins to Foliage: Transforming a Fish Tank into a Thriving Terrarium Yes, you can turn a fish tank into a terrarium! With the right preparation and materials, an old aquarium can become a stunning",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-you-turn-a-fish-tank-into-a-terrarium/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Do squirrels like almonds?",
-              "summary": "Do Squirrels Like Almonds? The Nutty Truth Yes, squirrels generally love almonds, finding their rich, nutty flavor and high-fat content particularly appealing. However, while almonds can be a healthy ",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/do-squirrels-like-almonds/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the most expensive coral bead?",
-              "summary": "What is the Most Expensive Coral Bead? The title of the most expensive coral bead is typically bestowed upon beads crafted from exceptionally rare, high-quality Sardinian coral, particularly those wit",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-most-expensive-coral-bead/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "agent-wire-cli added to PyPI: High-speed, privacy-first, token-compressed live web and multi-platfor",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
-          "summary": ""
-        },
-        {
-          "topic": "Creatorverse: Fede Goldenberg’s Move From YouTube to Sony Continues a Theatrical Trend: The biggest ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-20T16:03:19.247220+08:00",
+  "last_updated": "2026-11-21T15:58:11.797369+08:00",
   "total_days": 31
 }
