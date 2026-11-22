@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "81fee064",
+      "date": "2026-11-22",
+      "generated_at": "2026-11-22T15:44:53.213818+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Indian markets nearing end of consolidation phase, financials and consumption look attractive: HSBC",
+              "summary": "Recent foreign investor inflows and improving global sentiment have supported the recovery, though elevated bond yields and crude prices remain concerns",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/markets/indian-markets-nearing-end-of-consolidation-phase-financials-and-consumption-look-attractive-hsbc/article71727634.ece",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "☕️ The craziest own goal ever, Kane and the 5️⃣ stories of the day",
+              "summary": "After the international break, club football returns to our lives at its very best, with the spotlight on the Bernabéu and Seville.And here are five stories we’ve picked out to help you start your ...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/the-craziest-own-goal-ever-kane-and-the-5-stories-of-the-day-43811080",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What is the position of the lateral line?",
+              "summary": "Understanding the Lateral Line: Its Role and Position in Aquatic Life The position of the lateral line is crucial for aquatic animals, serving as a sensory system that detects water movements and pres",
+              "source": "Lifesciencesworld.com",
+              "url": "https://www.lifesciencesworld.com/what-is-the-position-of-the-lateral-line/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion",
+              "summary": "Amazon, Alphabet, Microsoft, Meta and Oracle are leading an unprecedented AI investment surge, with combined capital spending expected to exceed $720 billion in 2026 amid investor concerns.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/big-tech-ai-spending-2026-amazon-google-microsoft-meta-oracle-1879059",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "How Many US Programmer Jobs Has AI Replaced in 2026? The Real Numbers Behind the Layoff Fears May Surprise You",
+              "summary": "Employers cited AI in 121,401 US job cuts through October, but no official data tracks programmer losses. Younger developers face pressure as hiring slowly recovers for experienced workers.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/ai-linked-us-job-cuts-programmer-losses-unclear-1879061",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "What Jobs Will AI Replace the Most in 2027? Data Entry, Customer Service and Entry-Level Office Roles Top List",
+              "summary": "Economists and researchers identify data entry, customer service, clerical work and junior programming as among the roles most exposed to AI-driven task automation by 2027.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/ai-exposure-routine-jobs-2027-1879057",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Elon Musk Floats Amazon Rival After Grok Bots Get Blocked, and Fans Are Already Pitching Names Like Grokazon",
+              "summary": "Elon Musk has suggested creating an Amazon competitor after a dispute over Grok shopping bots, prompting name ideas online despite no formal retail plan being announced.",
+              "source": "Ibtimes.com.au",
+              "url": "https://www.ibtimes.com.au/elon-musk-amazon-rival-ai-shopping-bots-1879054",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Anthropic's post-IPO slide shows hype not enough to ease AI investor fears | The National",
+              "summary": "Anthropic's post-IPO slide shows hype not enough to ease AI investor fears | The Nationalthenationalnews.com",
+              "source": "Thenationalnews.com",
+              "url": "https://www.thenationalnews.com/business/markets/2026/11/21/anthropics-post-ipo-slide-shows-hype-not-enough-to-ease-ai-investor-fears/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Motive Unknown founder talks music marketing, retail and ‘the age of ideas’: Music (and music-tech) ",
+          "summary": ""
+        },
+        {
+          "topic": "5 Brokerage Features We’re Excited for in 2027 (And 2 Things We Could Do Without): Brokerages are vy",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days: A de",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "a1e1678b",
       "date": "2026-11-21",
       "generated_at": "2026-11-21T15:58:11.797369+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "daa1f499",
-      "date": "2026-10-22",
-      "generated_at": "2026-10-22T13:44:30.781186+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
-              "summary": "The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
-              "summary": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver more than 50% in a be",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is it normal to see bats flying at night?",
-              "summary": "Is It Normal to See Bats Flying at Night? Seeing bats flying at night is, in fact, completely normal. These fascinating creatures are primarily nocturnal, meaning they are most active during the night",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-it-normal-to-see-bats-flying-at-night/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "US Grapples With China-Linked Critical Minerals Shortfall Left Unresolved By Trump-Xi Summit",
-              "summary": "When U.S. President Donald Trump and Chinese leader Xi Jinping met last month, they failed to make headway on one of the most contentious issues in the bilateral relationship: Beijing’s sweeping criti",
-              "source": "Radio Free Europe/ Radio Liberty",
-              "url": "https://www.rferl.org/a/us-china-critical-minerals-shortfall-trump-xi-summit/33879296.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI is propping up Southeast Asia’s digital economy as prices rise and demand cools",
-              "summary": "AI's role in Southeast Asia's digital economy highlights its potential to sustain growth amid economic challenges, reshaping regional markets.\nThe post AI is propping up Southeast Asia’s digital econo",
-              "source": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/ai-drives-southeast-asia-digital-economy/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "OpenAI acquires Orchestra Bio, expands life sciences push",
-              "summary": "OpenAI has acquired Orchestra Bio, a platform that helps biopharmaceutical companies coordinate drug development, as it looks to combine its artificial intelligence (AI) models with tools that manage ",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/info-tech/openai-acquires-orchestra-bio-expands-life-sciences-push/article71606284.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Times: China's financial regulators roll out targeted policies at key financial forum, reaffirm opening-up",
-              "summary": "BEIJING, Oct. 21, 2026 /PRNewswire/ -- The Annual Conference of Financial Street Forum (FSF) 2026 kicked off in Beijing on Monday, convening a heavyweight roster of top financial regulators who rolled",
-              "source": "PRNewswire",
-              "url": "https://www.prnewswire.com/news-releases/global-times-chinas-financial-regulators-roll-out-targeted-policies-at-key-financial-forum-reaffirm-opening-up-302914988.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Malaysia PM Anwar warns against Israeli navigation app Waze over data security concerns",
-              "summary": "Given concerns about the app being used to monitor Malaysian citizens' data, Anwar suggested they switch to using Tuju, an app developed by the Malaysian Highway Authority.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-waze-data-security-6477761",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
-          "summary": ""
-        },
-        {
-          "topic": "agent-wire-cli added to PyPI: High-speed, privacy-first, token-compressed live web and multi-platfor",
-          "summary": ""
-        },
-        {
-          "topic": "Show HN: An open-source curation of most useful ChatGPT Plugins: Article URL: https://github.com/Asd",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-21T15:58:11.797369+08:00",
+  "last_updated": "2026-11-22T15:44:53.213818+08:00",
   "total_days": 31
 }
