@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "bbe64019",
+      "date": "2026-11-24",
+      "generated_at": "2026-11-24T18:39:51.494731+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "CrowdStrike snaps up Zscaler in $44 billion deal as cyber threats mount",
+              "summary": "Nov 23 : CrowdStrike will acquire Zscaler in a $43.9 billion all-stock deal, the biggest cybersecurity acquisition on record, uniting two major players as advances in artificial intelligence fuel incr",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/business/crowdstrike-snaps-up-zscaler-in-44-billion-deal-cyber-threats-mount-6574651",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "India’s Visakhapatnam looks to Singapore for ideas to tackle water shortages amid data centre expansion",
+              "summary": "A Singapore-inspired water management approach could offer a way forward as billions of dollars in data centre investments raise concerns over the city’s strained water supplies.",
+              "source": "CNA",
+              "url": "https://www.channelnewsasia.com/asia/india-visakhapatnam-singapore-ideas-water-shortages-6574501",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Salesforce CEO Marc Benioff admits there is no one pricing model, explains 6 ways how AI is changing software sales",
+              "summary": "Salesforce's CEO, Marc Benioff, has unveiled a dynamic pricing strategy tailored to meet diverse client needs in the AI-driven marketplace. The company plans to introduce six unique pricing models tha",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-admits-there-is-no-one-pricing-model-explains-6-ways-how-ai-is-changing-software-sales/articleshow/136098688.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Penny Wong sounds alarm over US-China rivalry and the risk of conflict",
+              "summary": "Foreign Minister Penny Wong says growing competition between the US and China is making the world more dangerous, and Australia must join forces with other nations to protect its interests.",
+              "source": "ABC News (AU)",
+              "url": "https://www.abc.net.au/news/2026-11-23/wong-sounds-alarm-over-us-china-rivalry/107418278",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia needs to think like a bank—here's why",
+              "summary": "Banks must know who is on the other side of a transaction. Nvidia needs to know who controls the buyer, who will use the chips and where they will be installed.",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/opinion/online-views/nvidia-needs-to-think-like-a-bank-heres-why-11795366843932.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "OpenAI chief scientist reveals one metric that could predict AI's next big leap; says 2027 could be crucial",
+              "summary": "OpenAI Chief Scientist Jakub Pachocki emphasizes the importance of perplexity as a measure of AI advancements. He anticipates significant breakthroughs in artificial intelligence by the year 2027. Pro",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-chief-scientist-reveals-one-metric-that-could-predict-ais-next-big-leap-says-2027-could-be-crucial/articleshow/136098449.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Expert.ai introduces its new identity to the market: Vertical AI at the heart of competitiveness in regulated industries",
+              "summary": "The Group is consolidating its position in Vertical AI and strengthening its organization to support the transformation, growth and competitiveness of businesses, public administrations and healthcare",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/55573c89dd76dc99",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Indonesian Stocks Rally 1.35% as Prabowo Holds Talks With MSCI CEO",
+              "summary": "Indonesian stocks rose 1.35% as Prabowo held direct talks with MSCI's CEO to discuss the country's market classification.",
+              "source": "Jakartaglobe.id",
+              "url": "https://jakartaglobe.id/business/indonesian-stocks-rally-135-as-prabowo-holds-talks-with-msci-ceo",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "Motive Unknown founder talks music marketing, retail and ‘the age of ideas’: Music (and music-tech) ",
+          "summary": ""
+        },
+        {
+          "topic": "5 Brokerage Features We’re Excited for in 2027 (And 2 Things We Could Do Without): Brokerages are vy",
+          "summary": ""
+        },
+        {
+          "topic": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days: A de",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8163f451",
       "date": "2026-11-23",
       "generated_at": "2026-11-23T16:34:27.160196+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "74b8b27a",
-      "date": "2026-10-24",
-      "generated_at": "2026-10-24T13:22:06.976693+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Tesla stocks fall despite Q3 earnings beat: What spooked investors?",
-              "summary": "Tesla shares declined after the electric vehicle maker reported better-than-expected adjusted earnings and positive free cash flow. However, a cut in its 2026 capital expenditure forecast raised conce",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/markets/us-stocks/news/tesla-stocks-fall-despite-q3-earnings-beat-what-spooked-investors/the-big-picture/slideshow/135136546.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What are things foxes can’t eat?",
-              "summary": "What Can’t Foxes Eat? A Comprehensive Guide to Fox Diets and Food Dangers What are things foxes can’t eat? The fox diet is incredibly adaptable, but there are certain foods that are toxic, difficult t",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-are-things-foxes-cant-eat/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: Japan’s core inflation accelerates, putting BOJ rate hikes in focus",
-              "summary": "Japan’s core inflation rises to 2.1% in September, exceeding the Bank of Japan’s 2% target for the first time in nine months. Higher energy costs, yen weakness and AI-related demand could strengthen t",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japans-core-inflation-accelerates-putting-boj-rate-hikes-in-focus/articleshow/135135200.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "AI Agents’ Access to Personal Information Raises Privacy Concerns",
-              "summary": "Matt Robb wanted to sell his computer keyboard. So he made a listing on Facebook Marketplace — and, as an experiment late last month, he put Meta’s new artificial intelligence agent Muse in the driver",
-              "source": "Carriermanagement.com",
-              "url": "https://www.carriermanagement.com/news/2026/10/22/292871.htm",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Beyond resilience: lessons for India from the IMF-World Bank meetings",
-              "summary": "India’s next phase of growth must go beyond strong GDP numbers to create quality jobs, harness AI responsibly and build resilience against global shocks.",
-              "source": "Livemint",
-              "url": "https://www.livemint.com/opinion/imf-world-bank-annual-meetings-global-economic-resilience-india-gdp-growth-job-creation-msmes-artificial-intelligence-11792687003295.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Singapore’s core inflation eases to 2% in September on lower services, retail prices",
-              "summary": "A “sharp and sustained surge” in global energy or food prices could lift Singapore’s import costs by more than projected, say MAS and METI.",
-              "source": "CNA",
-              "url": "https://www.channelnewsasia.com/singapore/singapore-inflation-september-2026-mas-mti-6485326",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Racing has feel-good story with Billy Lee a deserving champion jockey",
-              "summary": "Oldest first-time champion in almost 50 years is professional’s professional",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/sport/racing/2026/10/23/racing-has-feel-good-story-with-billy-lee-a-deserving-champion-jockey/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SK Hynix puts Solidigm IPO on hold over concerns",
-              "summary": "SK Hynix puts Solidigm US IPO on hold amid market volatility and South Korean concerns over shareholder interests. Read more at straitstimes.com.",
-              "source": "The Straits Times",
-              "url": "https://www.straitstimes.com/business/sk-hynix-puts-us-ipo-of-chip-unit-solidigm-on-hold-after-seoul-authorities-raise-concerns",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
-          "summary": ""
-        },
-        {
-          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
-          "summary": ""
-        },
-        {
-          "topic": "agent-wire-cli added to PyPI: High-speed, privacy-first, token-compressed live web and multi-platfor",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-23T16:34:27.160196+08:00",
+  "last_updated": "2026-11-24T18:39:51.494731+08:00",
   "total_days": 31
 }
