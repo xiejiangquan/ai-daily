@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "13df55c7",
+      "date": "2026-11-25",
+      "generated_at": "2026-11-25T17:30:54.624510+08:00",
+      "headline": "今日 AI 新闻速览（50 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports",
+              "summary": "Moving GenAI into high-stakes production requires treating non-determinism as an engineering problem. This architectural blueprint shows engineering leaders and architects how to build trustworthy age",
+              "source": "InfoQ.com",
+              "url": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "jt-coding-agent added to PyPI",
+              "summary": "Autonomous Multi-File Coding Agent powered by jt-memory (Episodic Scars) and jt-continual (Artificial Homeostasis & Pain-Driven Learning)",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/jt-coding-agent/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "jt-coding-agent 0.1.0",
+              "summary": "Autonomous Multi-File Coding Agent powered by jt-memory (Episodic Scars) and jt-continual (Artificial Homeostasis & Pain-Driven Learning)",
+              "source": "Pypi.org",
+              "url": "https://pypi.org/project/jt-coding-agent/0.1.0/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "20,000 fake accounts, campaign cash: How China is 'targeting' Taiwan elections",
+              "summary": "Chinese interference in Taiwan's electoral process is evolving, with Beijing allegedly using campaign funding, fake social media accounts, artificial",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/20000-fake-accounts-campaign-cash-how-china-is-targeting-taiwan-elections/articleshow/136125325.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Harry Potter and the lookalike TV show: HBO series director reveals he copied the films and says similarities are intentional amid fan criticism",
+              "summary": "Harry Potter director Mark Mylod has revealed the similarities between his new series and the original films are 'no accident' as he addressed fan criticism.",
+              "source": "Dailymail.com",
+              "url": "https://www.dailymail.com/tvshowbiz/article-16317433/Harry-Potter-lookalike-TV-HBO-series-director-reveals-copied-films-says-similarities-intentional-amid-fan-criticism.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Sánchez settles the debate: 2030 World Cup final will be held in Spain",
+              "summary": "Speaking to Mundo Deportivo, the prime minister champions Spain’s stadiums as hosts for the decisive match and takes a political swipe following the controversy over the Barça star’s shirt.The de...",
+              "source": "Onefootball.com",
+              "url": "https://onefootball.com/en/news/sanchez-settles-the-debate-2030-world-cup-final-will-be-held-in-spain-43829418",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Expect a barrage of questions on why HSE boss was sacked",
+              "summary": "Inside Politics: No one has said precisely why the sacking of Anne O’Connor happened",
+              "source": "The Irish Times",
+              "url": "https://www.irishtimes.com/politics/2026/11/24/expect-an-absolute-barrage-of-questions-on-why-hse-boss-was-sacked/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "AI Agents Turn Customer Control Into New Advantage",
+              "summary": "The more money a company processes, the more data it collects, the more leverage it gains and the harder it becomes to displace. That, at least, was the pre-AI assumption. As artificial intelligence a",
+              "source": "pymnts.com",
+              "url": "https://www.pymnts.com/news/payments-innovation/2026/ai-agents-turn-customer-control-into-new-advantage/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia: From commen",
+          "summary": ""
+        },
+        {
+          "topic": "Every free TradingView alternative on the internet (127) · hft.md: 127 free alternatives to TradingV",
+          "summary": ""
+        },
+        {
+          "topic": "2027: INEC warns against violent election slogans, fake PVC claims: The Independent National Elector",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "bbe64019",
       "date": "2026-11-24",
       "generated_at": "2026-11-24T18:39:51.494731+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "f1110c62",
-      "date": "2026-10-25",
-      "generated_at": "2026-10-25T13:39:58.346539+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "A leap from the sea’s edge",
-              "summary": "Ancy Sojan, a long jumper from Nattika, has gained national attention after breaking a 22-year-old record. She won a silver medal at the recent Asian Games held in Japan. Along with her athletic accom",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/toi-blogs/roots-identity/a-leap-from-the-seas-edge/articleshow/135163189.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Gurdwara Sahib becomes a landmark of Sikh identity in Switzerland",
-              "summary": "Over the past twenty years, a vibrant Sikh community in Switzerland has blossomed, culminating in the formation of Gurdwara Sahib Switzerland in 2006. This remarkable establishment functions not only ",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/city/chandigarh/gurdwara-sahib-becomes-a-landmark-of-sikh-identity-in-switzerland/articleshow/135163105.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "SSC JE 2026 exam city intimation slip released for Paper 1 at ssc.gov.in: Direct link to download here",
-              "summary": "The Staff Selection Commission has released examination details for the Junior Engineer Examination scheduled for November 2026. Candidates can check their exam city details by logging into the offici",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/education/news/ssc-je-2026-exam-city-intimation-slip-released-for-paper-1-at-ssc-gov-in-direct-link-to-download-here/articleshow/135162881.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Mizoram to recruit 100 regular primary teachers in 2026; MTET changes under consideration",
-              "summary": "Mizoram plans to recruit 100 regular primary teachers in 2026 to strengthen elementary education and improve student learning outcomes. Education Minister Vanlalthlana also outlined proposed changes t",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/education/news/mizoram-to-recruit-100-regular-primary-teachers-in-2026-mtet-changes-under-consideration/articleshow/135162805.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "TMC suspends fire chief over immersion ghats lapses",
-              "summary": "Thane municipal corporation has suspended acting chief fire officer Jhalke due to alleged negligence in safety measures. The negligence was observed at Datta Mandir Ghat and Ahilyadevi Ghat during ido",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/city/thane/tmc-suspends-fire-chief-over-immersion-ghats-lapses/articleshow/135163005.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "A little-known painting from a family's old English manor collection went to auction with an £8,000 estimate; specialists attributed it to Dutch artist Hendrik Gerritsz Pot and bidders pushed its final price to £70,000",
-              "summary": "A charming oil painting, thought to be created by Hendrik Gerritsz Pot, surfaced during an October auction after being held within a family collection for years. This artwork, illustrating a woman wit",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/world/uk/a-little-known-painting-from-a-familys-old-english-manor-collection-went-to-auction-with-an-8000-estimate-specialists-attributed-it-to-dutch-artist-hendrik-gerritsz-pot-and-bidders-pushed-its-final-price-to-70000/articleshow/135162865.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Why did wolves befriend humans?",
-              "summary": "Why Did Wolves Befriend Humans? Exploring the Evolutionary Bonds The remarkable bond between wolves and humans, resulting in the domesticated dog, likely arose from a complex interplay of factors: Why",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/why-did-wolves-befriend-humans/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Pakistan link under probe as Mumbai man booked over inflammatory Masood Azhar clips on phone",
-              "summary": "Mumbai Police's anti-terrorism squad (ATS) on Saturday arrested Mohammad Hasan Abu Sarmad Akhtar for allegedly having links to Jaish-e-Mohammed.",
-              "source": "The Times of India",
-              "url": "https://timesofindia.indiatimes.com/india/pakistan-link-under-probe-as-mumbai-man-booked-over-inflammatory-masood-azhar-clips-on-phone/articleshow/135162871.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
-          "summary": ""
-        },
-        {
-          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
-          "summary": ""
-        },
-        {
-          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-24T18:39:51.494731+08:00",
+  "last_updated": "2026-11-25T17:30:54.624510+08:00",
   "total_days": 31
 }
