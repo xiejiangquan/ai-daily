@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "1ba31db5",
+      "date": "2026-11-26",
+      "generated_at": "2026-11-26T17:09:15.823494+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "The Slopnami is an accessibility problem",
+              "summary": "Automation that saves the sender time usually spends someone else’s. Disabled people have the least margin to absorb it.",
+              "source": "Soren.work",
+              "url": "https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Tidal bans AI-generated music and removes 29 million songs",
+              "summary": "Music streaming service Tidal is significantly tightening its policy on artificial intelligence. Starting December 9, it will no longer accept fully AI-generated tracks. Around 29 million existing tra",
+              "source": "Notebookcheck.net",
+              "url": "https://www.notebookcheck.net/Tidal-bans-AI-generated-music-and-removes-29-million-songs.1459690.0.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Black Friday shoppers face a surprising AI pricing twist",
+              "summary": "Black Friday shoppers have spent years hunting for the biggest discounts. But retailers are finding a new way to make customers pay more without necessarily losing their business.\nArtificial intellige",
+              "source": "Biztoc.com",
+              "url": "https://biztoc.com/x/fd7a7b57a12048bf",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "When Every Payments Company Has AI, What Separates the Winners?",
+              "summary": "Watch more: What’s Next in Payments With Carlos Carreido of WEX The payments industry’s artificial intelligence race is running into a differentiation problem. If every provider can deploy cutting-edg",
+              "source": "pymnts.com",
+              "url": "https://www.pymnts.com/news/payments-innovation/2026/when-every-payments-company-has-ai-what-separates-the-winners/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "EC Proposes to Boost Advanced Materials",
+              "summary": "The European Commission proposed an Advanced Materials for Europe agenda to make the EU the world's leader in inventing, producing, and using safer and more sustainable advanced materials by 2035.",
+              "source": "Ictbusiness.biz",
+              "url": "https://www.ictbusiness.biz/business/ec-proposes-to-boost-advanced-materials",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Puerto Rico beauty queen Jennifer Barreto becomes first mom to win Miss Universe but she’s slammed over response to AI question",
+              "summary": "“Congratulations to Miss Artificial Intelligence,” some Miss Universe viewers scoffed in response to Jennifer Barreto's win.",
+              "source": "New York Post",
+              "url": "https://nypost.com/2026/11/25/us-news/puerto-rico-beauty-queen-jennifer-barreto-becomes-first-mom-to-win-miss-universe-but-shes-slammed-over-response-to-ai-question/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "1/1/27: SF Union Square’s Great Holiday Tree’s Final Night (2026) - FREE",
+              "summary": "SF’s 2026 Union Square’s Great Holiday Tree (Nov. 27 – Jan. 1)\nMacy's\nFor generations, Union Square’s iconic Christmas tree has been a centerpiece of San Francisco’s holiday season, drawing visitors d",
+              "source": "Funcheap.com",
+              "url": "https://sf.funcheap.com/union-square-great-christmas-tree-final-night/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Parenting In The Digital Age: Are Parents Keeping Up With Their Children?",
+              "summary": "A child sits with a smartphone. Parents assume the child is watching an educational video, but the screen may expose them to strangers, cyberbullying or inappropriate content. Elsewhere, a parent stru",
+              "source": "Thechronicle.com.gh",
+              "url": "https://thechronicle.com.gh/parenting-in-the-digital-age-are-parents-keeping-up-with-their-children/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd: An analysis of 8",
+          "summary": ""
+        },
+        {
+          "topic": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia: From commen",
+          "summary": ""
+        },
+        {
+          "topic": "Every free TradingView alternative on the internet (127) · hft.md: 127 free alternatives to TradingV",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "13df55c7",
       "date": "2026-11-25",
       "generated_at": "2026-11-25T17:30:54.624510+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "cfdadca0",
-      "date": "2026-10-26",
-      "generated_at": "2026-10-26T13:45:30.469908+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-              "summary": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
-              "source": "Al Jazeera English",
-              "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Govt plans advanced weather monitoring and early warning systems",
-              "summary": "KATHMANDU: The government has released two white papers aimed at strengthening the water resources and meteorological sectors. The Center of Hydrology and Water Resources Research under the Ministry o",
-              "source": "Khabarhub.com",
-              "url": "https://english.khabarhub.com/2026/25/573064/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What is the personality of a lion?",
-              "summary": "What is the Personality of a Lion? The personality of a lion is complex, driven by social structure and individual temperament, generally characterized by boldness, cooperation, and dominance within t",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/what-is-the-personality-of-a-lion/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Is soda bad for ferrets?",
-              "summary": "Is Soda Bad for Ferrets? A Deep Dive into Ferret Nutrition Is soda bad for ferrets? Absolutely. Soda is exceptionally harmful for ferrets, offering no nutritional value and posing significant health r",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/is-soda-bad-for-ferrets/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Inside Oilstainlab's quest to build a supercar on its own terms",
-              "summary": "Modern supercars often follow a similar script: outrageous power, expansive screens, aero components, and a price tag that could buy you a rather nice house. The formula works, of course, but it can a",
-              "source": "New Atlas",
-              "url": "https://newatlas.com/automotive/interview-oilstainlab-nikita-bridan/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "As AI Labs Burn Cash, the Real Question Is Which Suppliers Get Paid",
-              "summary": "Microsoft confirmed this week that it was pulling out of a planned artificial intelligence (AI) data center project in the United Kingdom. The facility, being developed by Nscale, was supposed to prov",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/a3a87355876d2673",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How long can dove eggs go unattended?",
-              "summary": "How Long Can Dove Eggs Go Unattended: A Comprehensive Guide Dove eggs can typically tolerate being unattended for short periods, but extended neglect, generally exceeding a few hours at most, can dras",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/how-long-can-dove-eggs-go-unattended/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Operation Sindoor proved no target beyond IAF' s reach; air power remains India's primary responder, says Air Chief Marshal AP Singh",
-              "summary": "Air Chief Marshal AP Singh detailed the Indian Air Force's Operation Sindoor in a recent interview. The operation involved precision strikes responding to a terror attack, showcasing effective capabil",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/news/defence/operation-sindoor-proved-no-target-beyond-iaf-s-reach-air-power-remains-indias-primary-responder-says-air-chief-marshal-ap-singh/articleshow/135183033.cms",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
-          "summary": ""
-        },
-        {
-          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
-          "summary": ""
-        },
-        {
-          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-25T17:30:54.624510+08:00",
+  "last_updated": "2026-11-26T17:09:15.823494+08:00",
   "total_days": 31
 }
