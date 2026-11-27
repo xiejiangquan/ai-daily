@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8dd1dd02",
+      "date": "2026-11-27",
+      "generated_at": "2026-11-27T17:25:09.943853+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Xpeng targets 2026 year-end mass production for Iron humanoid robot",
+              "summary": "Chinese electric vehicle (EV) maker Xpeng held its AI Day 2026 in Guangzhou, China, on November 25, sharing its latest developments in physical artificial intelligence (AI), with its Iron humanoid rob",
+              "source": "Digitimes",
+              "url": "https://www.digitimes.com/news/a20261126PD200/xpeng-humanoid-robot-production-2026.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Mint Explainer | AI, global headwinds test campus hiring for the class of 2027",
+              "summary": "Placement cells are widening recruiter outreach while firms rely on pre-placement offers across engineering and MBA campuses.",
+              "source": "Livemint",
+              "url": "https://www.livemint.com/companies/iit-placements-2027-hiring-trends-salaries-ai-jobs-11795668053761.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Apple removes app developed by one of 'China’s AI Tigers’ Minimax; investigators say its chatbots sent inappropriate messages to …",
+              "summary": "Apple has removed the Talkie app from its App Store following concerns about inappropriate content involving children. MiniMax, the app's developer, has faced ongoing scrutiny regarding the applicatio",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-removes-app-developed-by-one-of-chinas-ai-tigers-minimax-investigators-say-its-chatbots-sent-inappropriate-messages-to-/articleshow/136185467.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Hexagons for nutrients: Supreme court asks FSSAI to tighten front packet labelling",
+              "summary": "The Supreme Court has instructed the Food Safety and Standards Authority of India to change nutrient labeling practices. It mandated the use of total sugars and saturated fat in front-of-package label",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/india/hexagons-for-nutrients-supreme-court-asks-fssai-to-tighten-front-packet-labelling/articleshow/136185385.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Nvidia halts server shipments to 4 Southeast Asian countries amid chip scandal; China not on list: Report",
+              "summary": "Nvidia has instructed its manufacturing partners to stop shipping servers containing its advanced chips to Malaysia, Singapore, Thailand and Indonesia,",
+              "source": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-amid-chip-scandal-china-not-on-list-report/articleshow/136185184.cms",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "A Thanksgiving thank you from your local sportswriter | Richards",
+              "summary": "The stories are great. The people behind them are better. A Thanksgiving thank you to the Lenawee County sports community.",
+              "source": "Lenconnect.com",
+              "url": "https://www.lenconnect.com/story/sports/2026/11/26/quinn-richards-a-local-sportswriters-thanksgiving-thank-you/92884658007/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "78% of Firms With Multiple Payment Capabilities See Improved Conversion",
+              "summary": "A shopper who hands a purchase to an artificial intelligence (AI) assistant also hands the merchant a new job at checkout: recognizing the customer behind the software. That’s the third key finding in",
+              "source": "pymnts.com",
+              "url": "https://www.pymnts.com/news/payments-innovation/2026/78-percent-of-firms-with-multiple-payment-capabilities-see-improved-conversion/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Top 8 cities need 260 mn sq ft additional office space to meet ideal per employee density norm: Report",
+              "summary": "About 260 million sq ft of additional office space will be required in the top eight cities to achieve a density benchmark of 100 sq ft per employee, according to Cushman & Wakefield",
+              "source": "BusinessLine",
+              "url": "https://www.thehindubusinessline.com/news/real-estate/top-8-cities-need-260-mn-sq-ft-additional-office-space-to-meet-ideal-per-employee-density-norm-report/article71745315.ece",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd: An analysis of 8",
+          "summary": ""
+        },
+        {
+          "topic": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia: From commen",
+          "summary": ""
+        },
+        {
+          "topic": "Every free TradingView alternative on the internet (127) · hft.md: 127 free alternatives to TradingV",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "1ba31db5",
       "date": "2026-11-26",
       "generated_at": "2026-11-26T17:09:15.823494+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "5c0b7394",
-      "date": "2026-10-27",
-      "generated_at": "2026-10-27T13:58:54.699931+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Supply chain firm Bristlecone’s topline grows 24%, targets billion-dollar valuation: CEO",
-              "summary": "Bristlecone has invested significantly in creating assets, frameworks, and IP that will help accelerate implementation times for SAP or any of the supply chain products that it works on.",
-              "source": "BusinessLine",
-              "url": "https://www.thehindubusinessline.com/economy/logistics/supply-chain-firm-bristlecones-topline-grows-24-targets-billion-dollar-valuation-ceo/article71625700.ece",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "What Happened at the Peptide Party: “I felt like I was in a Gaspar Noé movie about the Cambrian explosion”",
-              "summary": "Sex, drugs, and melanocortin receptor agonists",
-              "source": "Mamathemagazine.com",
-              "url": "https://mamathemagazine.com/what-happened-at-the-peptide-party/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "How AB InBev built a culture of creative effectiveness that drives growth | Marketing Dive",
-              "summary": "While AB InBev operates a global portfolio of more than 500 brands, not all beverages are created or treated equally. The company developed a process that assigns brands a different role in each marke",
-              "source": "Marketing Dive",
-              "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
-              "summary": "A wave of American wealth created by artificial intelligence companies could produce some of the largest charitable sums since the era of Andrew Carnegie and John D. Rockefeller, raising questions abo",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy/articleshow/135203704.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "China hosts global governance forum to pool wisdom for better future",
-              "summary": "XIONGAN, Oct. 24 (Xinhua) — China is hosting a three-day inaugural global governance forum to pool wisdom for better global governance, one year after the country proposed the Global Governance Initia",
-              "source": "Peoplesreview.com.np",
-              "url": "https://peoplesreview.com.np/2026/10/26/china-hosts-global-governance-forum-to-pool-wisdom-for-better-future/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "With EU presidency, Ireland has chance to implement digital identity wallet by end of year",
-              "summary": "Citizens should not be repeatedly asked by governments or multiple agencies for information already available",
-              "source": "The Irish Times",
-              "url": "https://www.irishtimes.com/business/2026/10/26/with-eu-presidency-ireland-has-chance-to-implement-digital-identity-wallet-by-end-of-year/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Big Tech Earnings Week: Will AI spending pay off?",
-              "summary": "Alphabet, Microsoft and Amazon are set to report quarterly results in a crucial week for the artificial intelligence trade. Investors will assess whether surging AI demand can justify the enormous inv",
-              "source": "Economictimes.com",
-              "url": "https://m.economictimes.com/markets/us-stocks/news/big-tech-earnings-week-will-ai-spending-pay-off/big-tech-faces-its-biggest-earnings-test/slideshow/135204181.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "No new software developed: EC cites 'trade secrets', withholds SIR details",
-              "summary": "SIR Software Details: ECI has cited trade secrets and intellectual property to deny disclosure of the software used in the voter roll revision, saying registration officers decide inclusion or exclusi",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/india-news/no-new-software-developed-ec-cites-trade-secrets-withholds-sir-details-126102600263_1.html",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
-          "summary": ""
-        },
-        {
-          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
-          "summary": ""
-        },
-        {
-          "topic": "Bluesky strategy: A complete guide for brands in 2026: Curious about Bluesky? Learn how the platform",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-26T17:09:15.823494+08:00",
+  "last_updated": "2026-11-27T17:25:09.943853+08:00",
   "total_days": 31
 }
