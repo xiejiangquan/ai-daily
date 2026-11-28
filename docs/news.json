@@ -1,6 +1,105 @@
 {
   "days": [
     {
+      "id": "8fb5b513",
+      "date": "2026-11-28",
+      "generated_at": "2026-11-28T16:39:51.434493+08:00",
+      "headline": "今日 AI 新闻速览（49 条）",
+      "sections": [
+        {
+          "title": "今日要闻",
+          "items": [
+            {
+              "title": "Lowe's Black Friday Doorbuster Deals: Up to 55% off + free shipping w/ $25",
+              "summary": "A new selection of Black Friday Doorbusters has just dropped at Lowe's, with big discounts on appliances, outdoor power equipment, holiday decor, and smart home gear. One of  the biggest markdowns is ",
+              "source": "Dealnews.com",
+              "url": "https://www.dealnews.com/Lowes-Black-Friday-Doorbuster-Deals-Up-to-55-off-free-shipping-w-25/22436791.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Zcash Developers Race to Secure Crypto. Can Quantum Computing Break Bitcoin?",
+              "summary": "Key takeaways Zcash development team Zakura (November 26) called for accelerated retirement of the older Sapling privacy pool, which it estimated held about 400,000 ZEC. A November 27 dashboard snapsh",
+              "source": "newsBTC",
+              "url": "https://www.newsbtc.com/crypto-news/quantum-computing-crypto/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "SAP’s AI strategy leads to Massive Layoffs of over 10,000 Employees",
+              "summary": "SAP is set to cut over 10,000 jobs as it shifts its focus towards artificial intelligence integration in its products.\nThe post SAP’s AI strategy leads to Massive Layoffs of over 10,000 Employees appe",
+              "source": "Nextbigwhat.com",
+              "url": "https://nextbigwhat.com/saps-ai-strategy-leads-to-massive-layoffs-of-over-10000-employees/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "interpack China 2026 Grandly Opens in Shanghai Today, Bringing the Global Packaging Industry Chain Together",
+              "summary": "interpack China 2026 opened on 16 November 2026 at the Shanghai New International Expo Centre (SNIEC). The show is jointly organised by Messe Düsseldorf ...",
+              "source": "Antaranews.com",
+              "url": "https://en.antaranews.com/news/445787/interpack-china-2026-grandly-opens-in-shanghai-today-bringing-the-global-packaging-industry-chain-together",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Only 20-30% of eligible Indian exports use FTA benefits: RBI Governor",
+              "summary": "Sanjay Malhotra urged MSMEs to look beyond domestic markets, saying better use of trade agreements, higher productivity and formalisation could support the sector's next phase of growth",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/economy/news/india-exports-fta-benefits-msmes-sanjay-malhotra-rbi-126112700520_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Swiggy cuts 340 Instamart roles as quick-commerce unit restructures",
+              "summary": "Restructuring comes as quarterly order value rises 16.7% and contribution margin narrows to -1.0%, sources say",
+              "source": "Business Standard",
+              "url": "https://www.business-standard.com/companies/news/swiggy-instamart-cuts-340-jobs-restructuring-gen-ai-profitability-126112700516_1.html",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Developing AI to Detect Pain in Horses",
+              "summary": "From Equine Science Update, Posted by Mark Andrews: https://equinescienceupdate.blogspot.com/2026/09/developing-ai-to-detect-pain-in-horses.html Recognising pain in horses is one of the greatest chall",
+              "source": "Equinechronicle.com",
+              "url": "http://www.equinechronicle.com/developing-ai-to-detect-pain-in-horses/",
+              "tags": [
+                "AI"
+              ]
+            },
+            {
+              "title": "Black Friday will put AI shopping agents to the test. Consumers aren’t buying it yet",
+              "summary": "Retailers have spent the year wiring their sites for AI agents, but the holiday season is shaping up as more dress rehearsal than debut.",
+              "source": "Fortune",
+              "url": "https://fortune.com/2026/11/27/black-friday-ai-agentic-shopping-consumer-trust/",
+              "tags": [
+                "AI"
+              ]
+            }
+          ]
+        }
+      ],
+      "x_highlights": [
+        {
+          "topic": "The 151 Best Black Friday Tech Deals From Apple, Asus, Lenovo, Samsung, and More: Black Friday is ju",
+          "summary": ""
+        },
+        {
+          "topic": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd: An analysis of 8",
+          "summary": ""
+        },
+        {
+          "topic": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia: From commen",
+          "summary": ""
+        }
+      ]
+    },
+    {
       "id": "8dd1dd02",
       "date": "2026-11-27",
       "generated_at": "2026-11-27T17:25:09.943853+08:00",
@@ -2969,107 +3068,8 @@
           "summary": ""
         }
       ]
-    },
-    {
-      "id": "eddb7da8",
-      "date": "2026-10-28",
-      "generated_at": "2026-10-28T14:37:05.759716+08:00",
-      "headline": "今日 AI 新闻速览（50 条）",
-      "sections": [
-        {
-          "title": "今日要闻",
-          "items": [
-            {
-              "title": "Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct",
-              "summary": "Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.",
-              "source": "The Diplomat",
-              "url": "https://thediplomat.com/2026/10/laos-expected-to-scuttle-aseans-south-china-sea-code-of-conduct/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "The AI trade is driving global markets more than oil, Goldman Sachs says",
-              "summary": "Semiconductor exposure explained 54% of differences in cross-asset returns over three weeks, compared with just 2% for oil prices.",
-              "source": "Business Insider",
-              "url": "https://www.businessinsider.com/kospi-stock-index-ai-trade-chip-stocks-oil-goldman-sachs-2026-10#article",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sundar Pichai Is Giving Up Google's Cloud Revenue for AI, but What's the Bigger Plan?",
-              "summary": "Google CEO Sundar Pichai says the company is sacrificing short-term Cloud revenue to give AI researchers more computing power and develop advanced artificial intelligence models.",
-              "source": "Mashable",
-              "url": "https://in.mashable.com/tech/115397/sundar-pichai-is-giving-up-googles-cloud-revenue-for-ai-but-whats-the-bigger-plan",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Can birds drink Pedialyte?",
-              "summary": "Can Birds Drink Pedialyte? A Guide to Avian Hydration The simple answer is yes, in many cases, birds can drink Pedialyte, and it can be a helpful tool in rehydrating and replenishing electrolytes in s",
-              "source": "Lifesciencesworld.com",
-              "url": "https://www.lifesciencesworld.com/can-birds-drink-pedialyte/",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Elon Musk Just Delivered a Sweeping Blow to Nvidia Investors",
-              "summary": "By now, you're probably well aware that Nvidia (NVDA +2.39%) is one of the biggest winners of the artificial intelligence (AI) revolution. Its graphics processing units (GPUs) are essential infrastruc",
-              "source": "Biztoc.com",
-              "url": "https://biztoc.com/x/b0b452b55f823bbf",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
-              "summary": "China and Hong Kong stocks edged lower as weakness in technology and AI-related shares outweighed faster industrial-profit growth and fresh liquidity support from China’s central bank.",
-              "source": "The Times of India",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "Sarvam to build AI framework for Army, Navy and Air Force under HQ IDS",
-              "summary": "The framework will cover the Army, Navy and Air Force, with Sarvam developing AI applications for operational, training and decision-support requirements on sovereign infrastructure",
-              "source": "Business Standard",
-              "url": "https://www.business-standard.com/technology/artificial-intelligence/sarvam-hq-ids-ai-projects-indian-armed-forces-defence-126102700495_1.html",
-              "tags": [
-                "AI"
-              ]
-            },
-            {
-              "title": "“There are agents everywhere, Neo.” And here’s what to do about them.",
-              "summary": "Before our very eyes, technological progress has once again bolted ahead at full gallop – it’s all we can do to keep shutting them (or opening them wide) in astonishment! In literally just a few years",
-              "source": "Kaspersky.com",
-              "url": "https://eugene.kaspersky.com/2026/10/27/there-are-agents-everywhere-neo-and-heres-what-to-do-about-them/",
-              "tags": [
-                "AI"
-              ]
-            }
-          ]
-        }
-      ],
-      "x_highlights": [
-        {
-          "topic": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More: ",
-          "summary": ""
-        },
-        {
-          "topic": "The Only Instagram Marketing Tools List You Need: Discover 14 Instagram marketing tools organized by",
-          "summary": ""
-        },
-        {
-          "topic": "Will Voters Care About Max Miller’s Alleged Abuse?: Ohio representative Max Miller has been accused ",
-          "summary": ""
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-27T17:25:09.943853+08:00",
+  "last_updated": "2026-11-28T16:39:51.434493+08:00",
   "total_days": 31
 }
